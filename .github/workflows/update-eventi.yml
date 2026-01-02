@@ -1,0 +1,42 @@
+name: Update Eventi Live 
+
+on:
+  # Esegui ogni ora
+  schedule:
+    - cron: '0 * * * *'
+  
+  # Permetti esecuzione manuale
+  workflow_dispatch:
+  
+  # Esegui al push
+  push:
+    branches:
+      - main
+
+jobs:
+  update-eventi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests
+      
+      - name: Generate eventi JSON (singolo file)
+        run: |
+          python genera_eventi_singolo.py
+      
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'actions@github.com'
+          git add EVENTI_LIVE.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🔄 Auto-update eventi [$(date '+%Y-%m-%d %H:%M')]" && git push)
