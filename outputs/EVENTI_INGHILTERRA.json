@@ -2,34 +2,6 @@
   "SetViewMode": "55",
   "items": [
     {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Latvia U20 vs Sweden U20[/COLOR] - TSN1 (CA)",
-      "myresolve": "sansat@@10",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "02-Jan 19:30 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Latvia U20 vs Sweden U20[/COLOR] - SVT1 (SE)",
-      "myresolve": "sansat@@65",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "02-Jan 19:30 - World Junior Championship"
-    },
-    {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Luke Littler vs Ryan Searle[/COLOR] - Sport 1 (DE)",
-      "myresolve": "sansat@@20",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "02-Jan 19:30 - World Darts Championship"
-    },
-    {
-      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Luke Littler vs Ryan Searle[/COLOR] - Viaplay Sport (SE)",
-      "myresolve": "sansat@@64",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "02-Jan 19:30 - World Darts Championship"
-    },
-    {
       "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Switzerland U20 vs Czech Republic U20[/COLOR] - TSN3 (CA)",
       "myresolve": "sansat@@10",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
@@ -44,28 +16,28 @@
       "info": "02-Jan 21:30 - World Darts Championship"
     },
     {
-      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - Magenta Sport (DE)",
+      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]USA U-20 vs Finland U-20[/COLOR] - Magenta Sport (DE)",
       "myresolve": "sansat@@14",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Jan 23:00 - World Junior Championship"
     },
     {
-      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - TSN1 (CA)",
+      "title": "[COLOR cyan][23:00][/COLOR] [COLOR gold]USA U-20 vs Finland U-20[/COLOR] - TSN1 (CA)",
       "myresolve": "sansat@@31",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "02-Jan 23:00 - World Junior Championship"
     },
     {
-      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - Magenta Sport (DE)",
+      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]Canada U-20 vs Slovakia U-20[/COLOR] - Magenta Sport (DE)",
       "myresolve": "sansat@@14",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "03-Jan 01:30 - World Junior Championship"
     },
     {
-      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - TSN1 (CA)",
+      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]Canada U-20 vs Slovakia U-20[/COLOR] - TSN1 (CA)",
       "myresolve": "sansat@@31",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",

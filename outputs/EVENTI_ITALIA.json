@@ -2,34 +2,6 @@
   "SetViewMode": "55",
   "items": [
     {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - DAZN1 (DE)",
-      "myresolve": "sansat@@17",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "02-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - Sky Sport Calcio (IT)",
-      "myresolve": "sansat@@47",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "02-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - TV4 Fotball (SE)",
-      "myresolve": "sansat@@69",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "02-Jan 19:45 - Italy Serie A"
-    },
-    {
-      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Cagliari vs Milan[/COLOR] - Fox Deportes (ES)",
-      "myresolve": "sansat@@87",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "02-Jan 19:45 - Italy Serie A"
-    },
-    {
       "title": "[COLOR cyan][11:30][/COLOR] [COLOR gold]Como vs Udinese[/COLOR] - DAZN Zona (IT)",
       "myresolve": "sansat@@47",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
