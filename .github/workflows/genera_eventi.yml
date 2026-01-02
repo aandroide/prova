@@ -1,4 +1,4 @@
-name: Genera Eventi Live
+name: Generatore
 
 on:
   schedule:
