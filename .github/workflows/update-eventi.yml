@@ -32,7 +32,7 @@ jobs:
       
       - name: Generate eventi JSON (singolo file)
         run: |
-          python genera_eventi_singolo.py
+          python genera_eventi.py
       
       - name: Commit and push if changed
         run: |
