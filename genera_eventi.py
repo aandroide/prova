@@ -69,19 +69,19 @@ LEAGUE_TO_COUNTRY = {
     'turkey': 'Turchia',
 }
 
-# Emoji bandiere
+
 COUNTRY_FLAGS = {
-    'Italia': '🇮🇹',
-    'Inghilterra': 'Eng',
-    'Spagna': '🇪🇸',
-    'Germania': '🇩🇪',
-    'Francia': '🇫🇷',
-    'Europa': '🇪🇺',
-    'USA': '🇺🇸',
-    'Portogallo': '🇵🇹',
-    'Olanda': '🇳🇱',
-    'Belgio': '🇧🇪',
-    'Turchia': '🇹🇷',
+    'Italia',
+    'Inghilterra',
+    'Spagna',
+    'Germania',
+    'Francia',
+    'Europa',
+    'USA',
+    'Portogallo',
+    'Olanda',
+    'Belgio',
+    'Turchia',
 }
 
 
