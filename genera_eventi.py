@@ -52,11 +52,11 @@ COUNTRY_NAMES = {
 
 # Emoji bandiere
 COUNTRY_FLAGS = {
-    'Italia': '🇮🇹', 'Inghilterra': '🏴󠁧󠁢󠁥', 'Spagna': '🇪🇸', 'Germania': '🇩🇪',
+    'Italia': '🇮🇹', 'Inghilterra': 'eng', 'Spagna': '🇪🇸', 'Germania': '🇩🇪',
     'Francia': '🇫🇷', 'Europa': '🇪🇺', 'USA': '🇺🇸', 'Canada': '🇨🇦',
     'Portogallo': '🇵🇹', 'Olanda': '🇳🇱', 'Belgio': '🇧🇪', 'Turchia': '🇹🇷',
     'Svezia': '🇸🇪', 'Grecia': '🇬🇷', 'Repubblica Ceca': '🇨🇿',
-    'Finlandia': '🇫🇮', 'Internazionale': '🌍',
+    'Finlandia': '🇫🇮', 'Internazionale': '',
 }
 
 
