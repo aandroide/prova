@@ -1,12 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-GENERATORE EVENTI LIVE PER MANDRAKODI - RAGGRUPPATO PER NAZIONE
-================================================================
-VERSIONE FINALE PER ENZO:
-- UN SOLO JSON
-- Raggruppato per NAZIONE (Italia prima)
-- Ordinato per orario dentro ogni nazione
-- Orario nelle info
+GENERATORE EVENTI LIVE RAGGRUPPATO PER NAZIONE
+
+Author: Androide
+
 """
 
 import requests
@@ -75,7 +72,7 @@ LEAGUE_TO_COUNTRY = {
 # Emoji bandiere
 COUNTRY_FLAGS = {
     'Italia': '🇮🇹',
-    'Inghilterra': '🏴󠁧󠁢󠁥󠁮󠁧󠁿',
+    'Inghilterra': 'Eng',
     'Spagna': '🇪🇸',
     'Germania': '🇩🇪',
     'Francia': '🇫🇷',
