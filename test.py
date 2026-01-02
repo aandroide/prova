@@ -21,9 +21,9 @@ import os
 # CAMBIA QUESTO CON IL TUO USERNAME GITHUB!
 GITHUB_USERNAME = 'aandroide'  # <-- MODIFICA QUI
 
-MANDRAKODI_CANALI_URL = 'https://raw.githubusercontent.com/{}/prova/main/canali/canali.json'.format(GITHUB_USERNAME)
+MANDRAKODI_CANALI_URL = 'https://raw.githubusercontent.com/{}/prova/main/canali/canali.json'.format(GITHUB_USERNAME)'
 SUPERLEAGUE_URL = 'https://super.league.do'
-GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/{}/prova/main/outputs'.format(GITHUB_USERNAME)
+GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/{}/prova/main/outputs'.format(GITHUB_USERNAME)'
 
 
 # Mapping campionati -> codici paese
