@@ -1,0 +1,37 @@
+name: Test
+
+on:
+  schedule:
+    # Esegui ogni ora
+    - cron: '0 * * * *'
+  
+  workflow_dispatch:  # Permette esecuzione manuale
+
+jobs:
+  genera-eventi:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      
+      - name: Installa dipendenze
+        run: |
+          pip install requests
+      
+      - name: Esegui script
+        run: |
+          python genera_eventi_sansat.py
+      
+      - name: Commit e push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add outputs/*.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Aggiornamento automatico eventi live"
+          git push
