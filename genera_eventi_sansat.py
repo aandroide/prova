@@ -51,7 +51,7 @@ COUNTRY_NAMES = {
 
 # Emoji bandiere
 COUNTRY_FLAGS = {
-    'Italia': '🇮🇹', 'Inghilterra': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'Spagna': '🇪🇸', 'Germania': '🇩🇪',
+    'Italia': '🇮🇹', 'Inghilterra': 'eng', 'Spagna': '🇪🇸', 'Germania': '🇩🇪',
     'Francia': '🇫🇷', 'Europa': '🇪🇺', 'USA': '🇺🇸', 'Canada': '🇨🇦',
     'Portogallo': '🇵🇹', 'Olanda': '🇳🇱', 'Belgio': '🇧🇪', 'Turchia': '🇹🇷',
     'Svezia': '🇸🇪', 'Grecia': '🇬🇷', 'Repubblica Ceca': '🇨🇿',
@@ -60,7 +60,7 @@ COUNTRY_FLAGS = {
 
 # Emoji bandiere per codice lingua ISO
 LANGUAGE_FLAG_EMOJI = {
-    'it': '🇮🇹', 'gb': '🏴󠁧󠁢󠁥󠁮󠁧󠁿', 'es': '🇪🇸', 'de': '🇩🇪', 'fr': '🇫🇷',
+    'it': '🇮🇹', 'gb': 'eng', 'es': '🇪🇸', 'de': '🇩🇪', 'fr': '🇫🇷',
     'us': '🇺🇸', 'ca': '🇨🇦', 'pt': '🇵🇹', 'nl': '🇳🇱', 'be': '🇧🇪',
     'tr': '🇹🇷', 'se': '🇸🇪', 'gr': '🇬🇷', 'cz': '🇨🇿', 'fi': '🇫🇮',
 }
