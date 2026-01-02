@@ -23,7 +23,7 @@ GITHUB_USERNAME = 'aandroide'  # <-- MODIFICA QUI
 
 MANDRAKODI_CANALI_URL = 'https://raw.githubusercontent.com/aandroide/prova/refs/heads/main/canali/canali.json'
 SUPERLEAGUE_URL = 'https://super.league.do'
-GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/{}/prova/main/outputs'.format(GITHUB_USERNAME)'
+GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/{}/prova/main/outputs'.format(GITHUB_USERNAME)
 
 
 # Mapping campionati -> codici paese
