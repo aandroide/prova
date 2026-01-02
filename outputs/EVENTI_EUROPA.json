@@ -1,0 +1,47 @@
+{
+  "SetViewMode": "55",
+  "items": [
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Virtus Bologna vs Olimpia Milano[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:30][/COLOR] [COLOR gold]Virtus Bologna vs Olimpia Milano[/COLOR] - M+ Deportes 4 (ES)",
+      "myresolve": "sansat@@30",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:30 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Real Madrid vs Dubai[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@15",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][19:45][/COLOR] [COLOR gold]Real Madrid vs Dubai[/COLOR] - M+ Deportes (ES)",
+      "myresolve": "sansat@@27",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 19:45 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Maccabi Tel Aviv[/COLOR] - Magenta Sport (DE)",
+      "myresolve": "sansat@@16",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - Euroleague"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Maccabi Tel Aviv[/COLOR] - M+ Deportes 5 (ES)",
+      "myresolve": "sansat@@40",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - Euroleague"
+    }
+  ]
+}

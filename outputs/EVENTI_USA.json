@@ -1,0 +1,537 @@
+{
+  "SetViewMode": "55",
+  "items": [
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Vegas Golden Knights vs St. Louis Blues[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Vegas Golden Knights vs St. Louis Blues[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]San Antonio Spurs vs Indiana Pacers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Brooklyn Nets vs Washington Wizards[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Denver Nuggets vs Cleveland Cavaliers[/COLOR] - Altitude (US)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Atlanta Hawks vs New York Knicks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Orlando Magic vs Chicago Bulls[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Charlotte Hornets vs Milwaukee Bucks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Portland Trail Blazers vs New Orleans Pelicans[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@7",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]New York Rangers vs Florida Panthers[/COLOR] - Sportsnet Ontario (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]New York Rangers vs Florida Panthers[/COLOR] - Viaplay Sport (SE)",
+      "myresolve": "sansat@@80",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 01:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][02:00][/COLOR] [COLOR gold]Sacramento Kings vs Phoenix Suns[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 02:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Oklahoma City Thunder vs Golden State Warriors[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Memphis Grizzlies vs Los Angeles Lakers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Seattle Kraken vs Vancouver Canucks[/COLOR] - Sportsnet Pacific (CA)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Seattle Kraken vs Vancouver Canucks[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Minnesota Wild vs Anaheim Ducks[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 03:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Detroit Red Wings[/COLOR] - Sportsnet Ontario (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][17:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Detroit Red Wings[/COLOR] - Viaplay Sport (SE)",
+      "myresolve": "sansat@@80",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 17:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Buffalo Sabres vs Columbus Blue Jackets[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Utah Mammoth vs New Jersey Devils[/COLOR] - V Sport Extra (SE)",
+      "myresolve": "sansat@@79",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Philadelphia Flyers vs Edmonton Oilers[/COLOR] - Sportsnet Ontario (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Philadelphia Flyers vs Edmonton Oilers[/COLOR] - V Sport 1 (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 20:30 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - TSN2 (CA)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "03-Jan 21:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - V Sport Live 1 (SE)",
+      "myresolve": "sansat@@77",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:00][/COLOR] [COLOR gold]Tampa Bay Lightning vs San Jose Sharks[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Carolina Panthers vs Tampa Bay Buccaneers[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:30 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:30][/COLOR] [COLOR gold]Carolina Panthers vs Tampa Bay Buccaneers[/COLOR] - ESPN (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 21:30 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][22:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Miami Heat[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 22:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][22:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Miami Heat[/COLOR] - Sky Sport Top Event (DE)",
+      "myresolve": "sansat@@11",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 22:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - Sky Sport Mix (DE)",
+      "myresolve": "sansat@@14",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - Monumental Sports Network (US)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Chicago Blackhawks vs Washington Capitals[/COLOR] - V Sport LIve 1 (SE)",
+      "myresolve": "sansat@@71",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Winnipeg Jets vs Ottawa Senators[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Winnipeg Jets vs Ottawa Senators[/COLOR] - V Sport Live 2 (SE)",
+      "myresolve": "sansat@@72",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs New York Islanders[/COLOR] - Sportsnet Pacific (CA)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs New York Islanders[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Colorado Avalanche vs Carolina Hurricanes[/COLOR] - Altitude (US)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Colorado Avalanche vs Carolina Hurricanes[/COLOR] - V Sport Premium (SE)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Nashville Predators vs Calgary Flames[/COLOR] - Sportsnet West (CA)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:00][/COLOR] [COLOR gold]Nashville Predators vs Calgary Flames[/COLOR] - V Sport Extra (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Philadelphia 76ers vs New York Knicks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][00:30][/COLOR] [COLOR gold]Atlanta Hawks vs Toronto Raptors[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 00:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]San Francisco vs Seattle[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@1",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]San Francisco vs Seattle[/COLOR] - ESPN (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Charlotte Hornets vs Chicago Bulls[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@6",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:00][/COLOR] [COLOR gold]Portland Trail Blazers vs San Antonio Spurs[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@7",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][01:30][/COLOR] [COLOR gold]Houston Rockets vs Dallas Mavericks[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@8",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 01:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][02:00][/COLOR] [COLOR gold]Minnesota Wild vs Los Angeles Kings[/COLOR] - V Sport 1 (SE)",
+      "myresolve": "sansat@@70",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 02:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Utah Jazz vs Golden State Warriors[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Boston Bruins vs Vancouver Canucks[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:00][/COLOR] [COLOR gold]Boston Bruins vs Vancouver Canucks[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][03:30][/COLOR] [COLOR gold]Boston Celtics vs Los Angeles Clippers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@10",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 03:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - RTL (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]The RedZone[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@31",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Atlanta vs New Orleans[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Cincinnati vs Cleveland[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Houston vs Indianapolis[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]Minnesota vs Green Bay[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@36",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][18:00][/COLOR] [COLOR gold]New York Giants vs Dallas[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@37",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 18:00 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Detroit Pistons vs Cleveland Cavaliers[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@2",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - TSN2 (CA)",
+      "myresolve": "sansat@@5",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "04-Jan 19:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][19:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - V Sport Vinter (SE)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 19:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Indiana Pacers vs Orlando Magic[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@3",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Columbus Blue Jackets[/COLOR] - Sportsnet One (CA)",
+      "myresolve": "sansat@@9",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Columbus Blue Jackets[/COLOR] - V Sport Extra (SE)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:00 - NHL"
+    },
+    {
+      "title": "[COLOR cyan][20:30][/COLOR] [COLOR gold]Denver Nuggets vs Brooklyn Nets[/COLOR] - NBA League Pass (US)",
+      "myresolve": "sansat@@4",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 20:30 - NBA"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Denver vs Los Angeles Chargers[/COLOR] - RTL (DE)",
+      "myresolve": "sansat@@12",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Denver vs Los Angeles Chargers[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@34",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Buffalo vs New York Jets[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@32",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Chicago vs Detroit[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@33",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Las Vegas vs Kansas[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@35",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Los Angeles vs Arizona[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@36",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]New England Patriots vs Miami[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@37",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    },
+    {
+      "title": "[COLOR cyan][21:25][/COLOR] [COLOR gold]Philadelphia vs Washington[/COLOR] - NFL+ (US)",
+      "myresolve": "sansat@@38",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Jan 21:25 - NFL"
+    }
+  ]
+}
