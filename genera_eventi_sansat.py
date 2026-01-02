@@ -21,7 +21,7 @@ from datetime import datetime
 SUPERLEAGUE_URL = 'https://super.league.do'
 
 
-# Mapping campionati → codici paese
+# Mapping campionati -> codici paese
 LEAGUE_TO_COUNTRY = {
     'italy': 'it', 'serie a': 'it', 'serie b': 'it', 'coppa italia': 'it',
     'england': 'gb', 'premier league': 'gb', 'championship': 'gb', 'fa cup': 'gb', 'efl cup': 'gb',
@@ -86,11 +86,11 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
     headers = {'User-Agent': 'Mozilla/5.0'}
     
     try:
-        print(f"Download eventi sportivi...")
+        print("Download eventi sportivi...")
         response = requests.get(url, headers=headers, timeout=15)
         
         if response.status_code != 200:
-            print(f"Errore HTTP: {response.status_code}")
+            print("Errore HTTP: {}".format(response.status_code))
             return []
         
         data = response.text
@@ -104,7 +104,7 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
             new_matches = re.findall(new_pattern, script, re.DOTALL)
             if new_matches:
                 matches = json.loads(new_matches[0])
-                print(f"Trovati {len(matches)} eventi")
+                print("Trovati {} eventi".format(len(matches)))
                 break
         
         # Pattern VECCHIO (fallback)
@@ -114,13 +114,13 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
                 old_matches = re.findall(old_pattern, script.replace(',false', ''), re.DOTALL)
                 if old_matches:
                     matches = json.loads(old_matches[0])
-                    print(f"Trovati {len(matches)} eventi")
+                    print("Trovati {} eventi".format(len(matches)))
                     break
         
         return matches
     
     except Exception as e:
-        print(f"Errore: {e}")
+        print("Errore: {}".format(e))
         return []
 
 
@@ -158,7 +158,7 @@ def generate_grouped_json(events):
             full_datetime = 'Orario da definire'
             sort_timestamp = 9999999999999
         
-        event_title = f'{team1} vs {team2}' if team1 and team2 else (team1 or 'Live Event')
+        event_title = '{} vs {}'.format(team1, team2) if team1 and team2 else (team1 or 'Live Event')
         event_channels = match.get('channels', [])
         
         channels_found = []
@@ -172,20 +172,20 @@ def generate_grouped_json(events):
             if sansat_id:
                 # Aggiungi language al nome se disponibile
                 if channel_language:
-                    channel_display = f"{channel_name} ({channel_language})"
+                    channel_display = "{} ({})".format(channel_name, channel_language)
                 else:
                     channel_display = channel_name
                 
                 # Titolo
-                title = f"[COLOR cyan][{time_str}][/COLOR] "
-                title += f"[COLOR gold]{event_title}[/COLOR] - "
-                title += f"{channel_display}"
+                title = "[COLOR cyan][{}][/COLOR] ".format(time_str)
+                title += "[COLOR gold]{}[/COLOR] - ".format(event_title)
+                title += channel_display
                 
-                info = f"{full_datetime} - {league}"
+                info = "{} - {}".format(full_datetime, league)
                 
                 channel_item = {
                     "title": title,
-                    "myresolve": f"sansat@@{sansat_id}",
+                    "myresolve": "sansat@@{}".format(sansat_id),
                     "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
                     "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
                     "info": info,
@@ -221,11 +221,11 @@ def generate_grouped_json(events):
     for country in sorted_countries:
         # Separatore nazione
         separator = {
-            "title": f"[B][COLOR yellow]=== {country.upper()} ===[/COLOR][/B]",
+            "title": "[B][COLOR yellow]=== {} ===[/COLOR][/B]".format(country.upper()),
             "link": "ignoreme",
             "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
             "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-            "info": f"Eventi {country}"
+            "info": "Eventi {}".format(country)
         }
         final_json['items'].append(separator)
         
@@ -234,10 +234,10 @@ def generate_grouped_json(events):
             del item['_timestamp']
             final_json['items'].append(item)
     
-    print(f"\nSTATISTICHE:")
-    print(f"  Eventi processati: {events_processed}")
-    print(f"  Canali totali: {total_channels}")
-    print(f"  Nazioni: {len(countries_dict)}")
+    print("\nSTATISTICHE:")
+    print("  Eventi processati: {}".format(events_processed))
+    print("  Canali totali: {}".format(total_channels))
+    print("  Nazioni: {}".format(len(countries_dict)))
     
     return final_json
 
@@ -250,7 +250,7 @@ def save_json(json_data, filename='outputs/EVENTI_LIVE.json'):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, indent=2, ensure_ascii=False)
     
-    print(f"\nFile salvato: {filename}")
+    print("\nFile salvato: {}".format(filename))
 
 
 # ============================================================================
