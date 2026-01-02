@@ -26,7 +26,7 @@ jobs:
       
       - name: Esegui script
         run: |
-          python genera_eventi_sansat.py
+          python test.py
       
       - name: Commit e push
         run: |
