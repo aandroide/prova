@@ -1,4 +1,4 @@
-name: Generatore
+name: Genera Eventi Live
 
 on:
   schedule:
@@ -32,6 +32,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add outputs/EVENTI.json
+          git add outputs/EVENTI_LIVE.json
           git diff --quiet && git diff --staged --quiet || git commit -m "Aggiornamento automatico eventi live"
           git push
