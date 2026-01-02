@@ -49,22 +49,6 @@ COUNTRY_NAMES = {
     'fi': 'Finlandia', 'int': 'Internazionale',
 }
 
-# Emoji bandiere
-COUNTRY_FLAGS = {
-    'Italia': '🇮🇹', 'Inghilterra': 'eng', 'Spagna': '🇪🇸', 'Germania': '🇩🇪',
-    'Francia': '🇫🇷', 'Europa': '🇪🇺', 'USA': '🇺🇸', 'Canada': '🇨🇦',
-    'Portogallo': '🇵🇹', 'Olanda': '🇳🇱', 'Belgio': '🇧🇪', 'Turchia': '🇹🇷',
-    'Svezia': '🇸🇪', 'Grecia': '🇬🇷', 'Repubblica Ceca': '🇨🇿',
-    'Finlandia': '🇫🇮', 'Internazionale': '🌍',
-}
-
-# Emoji bandiere per codice lingua ISO
-LANGUAGE_FLAG_EMOJI = {
-    'it': '🇮🇹', 'gb': 'eng', 'es': '🇪🇸', 'de': '🇩🇪', 'fr': '🇫🇷',
-    'us': '🇺🇸', 'ca': '🇨🇦', 'pt': '🇵🇹', 'nl': '🇳🇱', 'be': '🇧🇪',
-    'tr': '🇹🇷', 'se': '🇸🇪', 'gr': '🇬🇷', 'cz': '🇨🇿', 'fi': '🇫🇮',
-}
-
 
 def get_country_code_from_league(league):
     """Estrae codice paese dal campionato"""
@@ -102,11 +86,11 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
     headers = {'User-Agent': 'Mozilla/5.0'}
     
     try:
-        print(f"📡 Download eventi sportivi...")
+        print(f"Download eventi sportivi...")
         response = requests.get(url, headers=headers, timeout=15)
         
         if response.status_code != 200:
-            print(f"❌ Errore HTTP: {response.status_code}")
+            print(f"Errore HTTP: {response.status_code}")
             return []
         
         data = response.text
@@ -120,7 +104,7 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
             new_matches = re.findall(new_pattern, script, re.DOTALL)
             if new_matches:
                 matches = json.loads(new_matches[0])
-                print(f"✓ Trovati {len(matches)} eventi")
+                print(f"Trovati {len(matches)} eventi")
                 break
         
         # Pattern VECCHIO (fallback)
@@ -130,13 +114,13 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
                 old_matches = re.findall(old_pattern, script.replace(',false', ''), re.DOTALL)
                 if old_matches:
                     matches = json.loads(old_matches[0])
-                    print(f"✓ Trovati {len(matches)} eventi")
+                    print(f"Trovati {len(matches)} eventi")
                     break
         
         return matches
     
     except Exception as e:
-        print(f"❌ Errore: {e}")
+        print(f"Errore: {e}")
         return []
 
 
@@ -182,17 +166,20 @@ def generate_grouped_json(events):
         for ch in event_channels:
             # Estrai info canale
             channel_name = ch.get('name', '')
-            channel_language = ch.get('language', '').lower()
+            channel_language = ch.get('language', '').upper()
             sansat_id = extract_sansat_id(ch)
             
             if sansat_id:
-                # Emoji bandiera per lingua
-                flag = LANGUAGE_FLAG_EMOJI.get(channel_language, '📡')
+                # Aggiungi language al nome se disponibile
+                if channel_language:
+                    channel_display = f"{channel_name} ({channel_language})"
+                else:
+                    channel_display = channel_name
                 
-                # Titolo con bandiera
+                # Titolo
                 title = f"[COLOR cyan][{time_str}][/COLOR] "
                 title += f"[COLOR gold]{event_title}[/COLOR] - "
-                title += f"{flag} {channel_name}"
+                title += f"{channel_display}"
                 
                 info = f"{full_datetime} - {league}"
                 
@@ -233,9 +220,8 @@ def generate_grouped_json(events):
     
     for country in sorted_countries:
         # Separatore nazione
-        flag = COUNTRY_FLAGS.get(country, '🌍')
         separator = {
-            "title": f"[B][COLOR yellow]═══ {flag} {country.upper()} ═══[/COLOR][/B]",
+            "title": f"[B][COLOR yellow]=== {country.upper()} ===[/COLOR][/B]",
             "link": "ignoreme",
             "thumbnail": "https://cdn-icons-png.flaticon.com/512/814/814346.png",
             "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -248,10 +234,10 @@ def generate_grouped_json(events):
             del item['_timestamp']
             final_json['items'].append(item)
     
-    print(f"\n📊 STATISTICHE:")
-    print(f"  ✓ Eventi processati: {events_processed}")
-    print(f"  ✓ Canali totali: {total_channels}")
-    print(f"  ✓ Nazioni: {len(countries_dict)}")
+    print(f"\nSTATISTICHE:")
+    print(f"  Eventi processati: {events_processed}")
+    print(f"  Canali totali: {total_channels}")
+    print(f"  Nazioni: {len(countries_dict)}")
     
     return final_json
 
@@ -264,7 +250,7 @@ def save_json(json_data, filename='outputs/EVENTI_LIVE.json'):
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(json_data, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ File salvato: {filename}")
+    print(f"\nFile salvato: {filename}")
 
 
 # ============================================================================
@@ -272,9 +258,10 @@ def save_json(json_data, filename='outputs/EVENTI_LIVE.json'):
 # ============================================================================
 
 if __name__ == '__main__':
-    print("╔" + "="*78 + "╗")
-    print("║" + " "*15 + "GENERATORE EVENTI LIVE - VERSIONE SANSAT" + " "*24 + "║")
-    print("╚" + "="*78 + "╝\n")
+    print("=" * 80)
+    print("GENERATORE EVENTI LIVE - VERSIONE SANSAT")
+    print("=" * 80)
+    print()
     
     # 1. Eventi
     print("STEP 1: Download eventi sportivi")
@@ -282,7 +269,7 @@ if __name__ == '__main__':
     events = fetch_sports_events()
     
     if not events:
-        print("\n❌ Nessun evento trovato!")
+        print("\nNessun evento trovato!")
         exit(1)
     
     # 2. Genera JSON con link sansat
@@ -291,7 +278,7 @@ if __name__ == '__main__':
     json_data = generate_grouped_json(events)
     
     if not json_data['items']:
-        print("\n⚠ Nessun canale disponibile!")
+        print("\nNessun canale disponibile!")
         exit(1)
     
     # 3. Salva
@@ -299,13 +286,12 @@ if __name__ == '__main__':
     print("-" * 80)
     save_json(json_data)
     
-    print("\n" + "="*80)
-    print("✅ COMPLETATO!")
-    print("="*80)
-    print("\n💡 FEATURES:")
-    print("  ✓ Usa direttamente link sansat@@ da super.league.do")
-    print("  ✓ NO matching necessario!")
-    print("  ✓ TUTTI i canali disponibili automaticamente")
-    print("  ✓ Raggruppamento per nazione (Italia prima)")
-    print("  ✓ Ordinamento cronologico")
-    print("  ✓ Bandiere per ogni canale (IT/GB/ES/DE...)")
+    print("\n" + "=" * 80)
+    print("COMPLETATO!")
+    print("=" * 80)
+    print("\nFEATURES:")
+    print("  - Usa direttamente link sansat@@ da super.league.do")
+    print("  - NO matching necessario")
+    print("  - TUTTI i canali disponibili automaticamente")
+    print("  - Raggruppamento per nazione (Italia prima)")
+    print("  - Ordinamento cronologico")
