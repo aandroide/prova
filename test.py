@@ -160,23 +160,42 @@ def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
         
         data = json.loads(response.text)
         
-        # Estrai info nazioni (bandiere + nomi)
-        countries_info = {}
-        for group in data.get('channels', []):
-            name_raw = group.get('name', '')
-            # Rimuovi tag COLOR
-            name_clean = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]', '', name_raw).strip()
-            
-            countries_info[name_clean.upper()] = {
-                'name': name_clean,
-                'thumbnail': group.get('thumbnail', ''),
-                'fanart': group.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg')
-            }
+        # Supporta due formati:
+        # Formato 1 (nested): {"channels": [{"name": "ITALY", "items": [...]}]}
+        # Formato 2 (piatto): {"items": [{...}]}
         
-        # Estrai canali
         channels = []
-        for group in data.get('channels', []):
-            for item in group.get('items', []):
+        countries_info = {}
+        
+        # Formato NESTED (con gruppi per nazione)
+        if 'channels' in data:
+            # Estrai info nazioni (bandiere + nomi)
+            for group in data.get('channels', []):
+                name_raw = group.get('name', '')
+                # Rimuovi tag COLOR
+                name_clean = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]', '', name_raw).strip()
+                
+                countries_info[name_clean.upper()] = {
+                    'name': name_clean,
+                    'thumbnail': group.get('thumbnail', ''),
+                    'fanart': group.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg')
+                }
+            
+            # Estrai canali
+            for group in data.get('channels', []):
+                for item in group.get('items', []):
+                    title = item.get('title', '')
+                    clean_name = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]|\(ITA\)|\(ENG\)|\(ESP\)|\(FRA\)|\(UK\)|\(US\)|\(DE\)|\(CA\)|\(AR\)|\(BR\)|\(PT\)|\(GR\)|\(PL\)|\(RS\)|\(CZ\)|\(HU\)|\(LT\)|\(NL\)|\(SWE\)|\(FRA\)|\(GER\)|\(AT\)|\(BE\)|\(UA\)|\(ENG\)', '', title).strip()
+                    
+                    channels.append({
+                        'name': clean_name,
+                        'thumbnail': item.get('thumbnail', ''),
+                        'fanart': item.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg'),
+                    })
+        
+        # Formato PIATTO (lista diretta di canali)
+        elif 'items' in data:
+            for item in data.get('items', []):
                 title = item.get('title', '')
                 clean_name = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]|\(ITA\)|\(ENG\)|\(ESP\)|\(FRA\)|\(UK\)|\(US\)|\(DE\)|\(CA\)|\(AR\)|\(BR\)|\(PT\)|\(GR\)|\(PL\)|\(RS\)|\(CZ\)|\(HU\)|\(LT\)|\(NL\)|\(SWE\)|\(FRA\)|\(GER\)|\(AT\)|\(BE\)|\(UA\)|\(ENG\)', '', title).strip()
                 
@@ -185,6 +204,7 @@ def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
                     'thumbnail': item.get('thumbnail', ''),
                     'fanart': item.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg'),
                 })
+        
         
         print("Caricati {} canali per matching thumbnail".format(len(channels)))
         print("Caricati {} paesi con bandiere".format(len(countries_info)))
@@ -400,6 +420,7 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
         
         country_json = {
             "SetViewMode": "55",
+            "last_update": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
             "items": countries_dict[country]
         }
         
@@ -411,6 +432,7 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
     # 2. Crea JSON principale con cartelle
     main_json = {
         "SetViewMode": "55",
+        "last_update": datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
         "items": []
     }
     
