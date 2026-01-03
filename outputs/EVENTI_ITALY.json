@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-03 18:24:56",
+  "last_update": "2026-01-03 19:13:29",
   "items": [
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][DAZN1 de][/COLOR] Link 1",
-      "myresolve": "sansat@@17@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][DAZN1 de][/COLOR] Link 2",
-      "myresolve": "sansat@@17@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][CBS Sports Golazo es][/COLOR] Link 1",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][CBS Sports Golazo es][/COLOR] Link 2",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 1",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 2",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][Eleven Sports 1 pl][/COLOR] Link 1",
-      "myresolve": "sansat@@61@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][Eleven Sports 1 pl][/COLOR] Link 2",
-      "myresolve": "sansat@@61@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][TV4 Sportkanalen se][/COLOR] Link 1",
-      "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Juventus vs Lecce[/COLOR] - [COLOR cyan][TV4 Sportkanalen se][/COLOR] Link 2",
-      "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:00 | Italy Serie A | Football | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Sky Sport Calcio it][/COLOR] Link 1",
       "myresolve": "sansat@@47@@IT",
