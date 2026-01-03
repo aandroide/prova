@@ -148,6 +148,7 @@ def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
     """Scarica canali MandraKodi da GitHub + info nazioni"""
     try:
         print("Download canali MandraKodi...")
+        print("URL: {}".format(url))
         
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers, timeout=15)
@@ -155,7 +156,7 @@ def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
         if response.status_code != 200:
             print("Errore HTTP: {}".format(response.status_code))
             print("Continuo senza thumbnail personalizzate")
-            return {}, {}
+            return [], {}  # Lista vuota + dizionario vuoto
         
         data = json.loads(response.text)
         
@@ -192,7 +193,7 @@ def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
     except Exception as e:
         print("Errore download canali: {}".format(e))
         print("Continuo senza thumbnail personalizzate")
-        return {}, {}
+        return [], {}  # Lista vuota + dizionario vuoto
 
 
 def extract_sansat_id(channel_info):
@@ -225,7 +226,12 @@ def find_thumbnail(channel_name, mandrakodi_channels):
     
     # SOLO match ESATTO
     for mk_ch in mandrakodi_channels:
-        if normalize_name(mk_ch['name']) == search_norm:
+        # Verifica che sia un dizionario
+        if not isinstance(mk_ch, dict):
+            continue
+        
+        mk_name = mk_ch.get('name', '')
+        if normalize_name(mk_name) == search_norm:
             return mk_ch
     
     return None
@@ -450,7 +456,7 @@ if __name__ == '__main__':
     # 1. Canali
     print("STEP 1: Download canali MandraKodi (per thumbnail)")
     print("-" * 80)
-    mandrakodi_channels = download_mandrakodi_channels()
+    mandrakodi_channels, countries_info = download_mandrakodi_channels()
     
     # 2. Eventi
     print("\nSTEP 2: Download eventi sportivi")
