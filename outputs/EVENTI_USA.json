@@ -1,5 +1,6 @@
 {
   "SetViewMode": "55",
+  "last_update": "2026-01-03 11:48:10",
   "items": [
     {
       "title": "[COLOR cyan][03/01 18:00][/COLOR] [COLOR gold]Pittsburgh Penguins vs Detroit Red Wings[/COLOR] - Sportsnet Ontario (CA)",
@@ -46,8 +47,8 @@
     {
       "title": "[COLOR cyan][03/01 22:00][/COLOR] [COLOR gold]Montreal Canadiens vs St. Louis Blues[/COLOR] - TSN2 (CA)",
       "myresolve": "sansat@@3",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "03-Jan 22:00 - NHL"
     },
     {
@@ -74,8 +75,8 @@
     {
       "title": "[COLOR cyan][03/01 22:30][/COLOR] [COLOR gold]Carolina Panthers vs Tampa Bay Buccaneers[/COLOR] - ESPN (US)",
       "myresolve": "sansat@@2",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "03-Jan 22:30 - NFL"
     },
     {
@@ -88,8 +89,8 @@
     {
       "title": "[COLOR cyan][03/01 23:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Miami Heat[/COLOR] - Sky Sport Top Event (DE)",
       "myresolve": "sansat@@11",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "info": "03-Jan 23:00 - NBA"
     },
     {
@@ -193,8 +194,8 @@
     {
       "title": "[COLOR cyan][04/01 02:00][/COLOR] [COLOR gold]San Francisco vs Seattle[/COLOR] - ESPN (US)",
       "myresolve": "sansat@@2",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "04-Jan 02:00 - NFL"
     },
     {
@@ -319,8 +320,8 @@
     {
       "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - TSN2 (CA)",
       "myresolve": "sansat@@5",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "04-Jan 20:00 - NHL"
     },
     {
@@ -473,8 +474,8 @@
     {
       "title": "[COLOR cyan][05/01 02:20][/COLOR] [COLOR gold]Baltimore Ravens vs Pittsburgh Steelers[/COLOR] - TSN3 (CA)",
       "myresolve": "sansat@@3",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "05-Jan 02:20 - NFL"
     },
     {
