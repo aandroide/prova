@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-03 17:23:18",
+  "last_update": "2026-01-03 18:24:56",
   "items": [
     {
       "title": "ITALY (38)",
@@ -31,11 +31,11 @@
       "info": "14 canali GERMANY"
     },
     {
-      "title": "FRANCE (42)",
+      "title": "FRANCE (38)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "42 canali FRANCE"
+      "info": "38 canali FRANCE"
     },
     {
       "title": "USA (142)",
@@ -45,11 +45,11 @@
       "info": "142 canali USA"
     },
     {
-      "title": "PORTUGAL (22)",
+      "title": "PORTUGAL (20)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22 canali PORTUGAL"
+      "info": "20 canali PORTUGAL"
     },
     {
       "title": "SWEDEN (24)",
@@ -59,11 +59,11 @@
       "info": "24 canali SWEDEN"
     },
     {
-      "title": "FINLAND (24)",
+      "title": "FINLAND (6)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali FINLAND"
+      "info": "6 canali FINLAND"
     },
     {
       "title": "CECHIA (16)",
@@ -87,11 +87,11 @@
       "info": "10 canali INTERNAZIONALE"
     },
     {
-      "title": "AFRICA (32)",
+      "title": "AFRICA (28)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AFRICA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/africa-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "32 canali AFRICA"
+      "info": "28 canali AFRICA"
     }
   ]
 }
