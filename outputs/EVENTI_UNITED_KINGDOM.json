@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-03 19:13:29",
+  "last_update": "2026-01-03 20:19:15",
   "items": [
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][Now Premier League 1 gb][/COLOR] Link 1",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][Now Premier League 1 gb][/COLOR] Link 2",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][Sky Sport Top Event de][/COLOR] Link 1",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][Sky Sport Top Event de][/COLOR] Link 2",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][Canal+ Foot fr][/COLOR] Link 1",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][Canal+ Foot fr][/COLOR] Link 2",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][V Sport Premium se][/COLOR] Link 1",
-      "myresolve": "sansat@@65@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Arsenal[/COLOR] - [COLOR cyan][V Sport Premium se][/COLOR] Link 2",
-      "myresolve": "sansat@@65@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 18:30 | England Premier League | Football | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][04/01 13:00][/COLOR] [COLOR gold]Queens Park Rangers vs Sheffield Wednesday[/COLOR] - [COLOR cyan][Sky Sports+ gb][/COLOR] Link 1",
       "myresolve": "sansat@@31@@GB",
