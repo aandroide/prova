@@ -170,15 +170,60 @@ def estrai_eventi(html_content):
     return eventi
 
 def match_canale(channel_name, canali_list):
-    """Trova corrispondenza tra nome canale e lista canali"""
-    channel_clean = clean_text(channel_name).lower()
+    """Trova corrispondenza tra nome canale e lista canali con fuzzy matching aggressivo"""
     
+    # Pulisci il nome del canale da super.league.do
+    # Rimuovi suffissi tipo " - IT", " - UK", " - ES", ecc.
+    channel_clean = channel_name
+    channel_clean = re.sub(r'\s*-\s*[A-Z]{2}$', '', channel_clean)  # Rimuove " - IT"
+    channel_clean = clean_text(channel_clean).lower().strip()
+    
+    # Prova match esatto
     for canale in canali_list:
-        canale_name = canale.get('name', '')
-        canale_clean = clean_text(canale_name).lower()
+        # canali.json può avere vari formati di nome
+        canale_names = []
         
-        if channel_clean == canale_clean or channel_clean in canale_clean:
-            return canale
+        # Aggiungi tutti i possibili nomi
+        if isinstance(canale, dict):
+            if 'name' in canale:
+                canale_names.append(canale['name'])
+            if 'title' in canale:
+                canale_names.append(canale['title'])
+            if 'channelName' in canale:
+                canale_names.append(canale['channelName'])
+        
+        for canale_name in canale_names:
+            canale_clean = clean_text(canale_name).lower().strip()
+            
+            # Match esatto
+            if channel_clean == canale_clean:
+                return canale
+    
+    # Prova match parziale (uno contiene l'altro)
+    for canale in canali_list:
+        canale_names = []
+        if isinstance(canale, dict):
+            if 'name' in canale:
+                canale_names.append(canale['name'])
+            if 'title' in canale:
+                canale_names.append(canale['title'])
+            if 'channelName' in canale:
+                canale_names.append(canale['channelName'])
+        
+        for canale_name in canale_names:
+            canale_clean = clean_text(canale_name).lower().strip()
+            
+            # Match parziale (uno contiene l'altro)
+            if channel_clean in canale_clean or canale_clean in channel_clean:
+                return canale
+            
+            # Match per parole (almeno 2 parole in comune)
+            channel_words = set(channel_clean.split())
+            canale_words = set(canale_clean.split())
+            if len(channel_words) >= 2 and len(canale_words) >= 2:
+                common = channel_words & canale_words
+                if len(common) >= 2:
+                    return canale
     
     return None
 
@@ -242,8 +287,21 @@ def genera_eventi_cartelle(eventi, canali):
         canale_match = match_canale(evento['channel'], canali)
         
         if canale_match:
-            # Country è il codice (es: 'it', 'gb', 'us')
-            country_code = canale_match.get('country', 'other').lower()
+            # Prova vari campi per il country code
+            country_code = None
+            if 'country' in canale_match:
+                country_code = canale_match['country']
+            elif 'language' in canale_match:
+                country_code = canale_match['language']
+            elif 'lang' in canale_match:
+                country_code = canale_match['lang']
+            elif 'nation' in canale_match:
+                country_code = canale_match['nation']
+            
+            if not country_code:
+                country_code = 'other'
+            
+            country_code = country_code.lower()
             
             # Nome nazione uppercase (es: 'ITALY', 'UNITED KINDOM')
             nazione = COUNTRY_NAMES.get(country_code, 'OTHER')
@@ -254,11 +312,20 @@ def genera_eventi_cartelle(eventi, canali):
             # Titolo con DATA e ORA
             title_display = f"{evento['display_time']} - {evento['title']}"
             
+            # ID canale
+            canale_id = canale_match.get('id') or canale_match.get('_id') or canale_match.get('channelId') or ''
+            
+            # Logo canale
+            canale_logo = canale_match.get('logo') or canale_match.get('thumbnail') or canale_match.get('icon') or ''
+            
+            # Nome canale
+            canale_nome = canale_match.get('name') or canale_match.get('title') or canale_match.get('channelName') or ''
+            
             evento_item = {
                 "title": title_display,
-                "link": f"sansat@@{canale_match.get('id', '')}",
-                "thumbnail": canale_match.get('logo', ''),
-                "info": f"Data: {evento['display_time']}\n{evento['title']}\nCanale: {canale_match.get('name', '')}",
+                "link": f"sansat@@{canale_id}",
+                "thumbnail": canale_logo,
+                "info": f"Data: {evento['display_time']}\n{evento['title']}\nCanale: {canale_nome}",
                 "datetime": evento['datetime']
             }
             
@@ -304,6 +371,15 @@ def main():
     # 4. Genera struttura cartelle
     print("4. Generazione JSON cartelle...")
     eventi_live, eventi_per_nazione = genera_eventi_cartelle(eventi, canali)
+    
+    # Debug info
+    total_match = sum(len(evts) for evts in eventi_per_nazione.values())
+    match_rate = (total_match / len(eventi) * 100) if len(eventi) > 0 else 0
+    print(f"   Match rate: {total_match}/{len(eventi)} ({match_rate:.1f}%)")
+    if len(eventi_per_nazione) > 0:
+        print(f"   Top 5 nazioni:")
+        for nazione in sorted(eventi_per_nazione.keys(), key=lambda x: len(eventi_per_nazione[x]), reverse=True)[:5]:
+            print(f"     - {nazione}: {len(eventi_per_nazione[nazione])} eventi")
     
     # 5. Salva file
     print("5. Salvataggio file JSON...")
