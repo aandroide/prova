@@ -1,10 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-GENERATORE EVENTI LIVE MANDRAKODI - TUTTI I CANALI INSIEME
-===========================================================
-- Ogni evento va nella nazione del suo campionato
-- Mostra TUTTI i canali disponibili (italiani + stranieri)
-- Un JSON per ogni nazione
+GENERATORE EVENTI
+=================
 """
 
 import requests
@@ -13,11 +10,7 @@ import re
 from datetime import datetime, timedelta
 import os
 
-# ============================================================================
-# CONFIGURAZIONE
-# ============================================================================
-
-GITHUB_USERNAME = 'aandroide'  # <-- MODIFICA QUESTO!
+GITHUB_USERNAME = 'aandroide'  
 MANDRAKODI_CANALI_URL = f'https://raw.githubusercontent.com/{GITHUB_USERNAME}/prova/main/canali/canali.json'
 SUPERLEAGUE_URL = 'https://super.league.do'
 GITHUB_RAW_BASE = f'https://raw.githubusercontent.com/{GITHUB_USERNAME}/prova/main/outputs'
@@ -415,11 +408,3 @@ if __name__ == '__main__':
     
     print("\n" + "=" * 80)
     print("COMPLETATO!")
-    print("=" * 80)
-    print("\nESEMPIO ITALY:")
-    print("  - Juventus vs Milan")
-    print("    • DAZN 1 [IT]")
-    print("    • Sky Sport DE [DE]")
-    print("    • ESPN Deportes [ES]")
-    print("    • beIN Sports [FR]")
-    print("    • V Sport Football [SE]")
