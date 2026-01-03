@@ -28,41 +28,110 @@ GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/{}/prova/main/outputs'.form
 
 # Mapping campionati -> codici paese
 LEAGUE_TO_COUNTRY = {
+    # Italia
     'italy': 'it', 'serie a': 'it', 'serie b': 'it', 'coppa italia': 'it',
-    'england': 'gb', 'premier league': 'gb', 'championship': 'gb', 'fa cup': 'gb', 'efl cup': 'gb',
+    # Inghilterra
+    'england': 'gb', 'premier league': 'gb', 'championship': 'gb', 
+    'fa cup': 'gb', 'efl cup': 'gb', 'united kingdom': 'gb',
+    # Spagna
     'spain': 'es', 'laliga': 'es', 'la liga': 'es', 'copa del rey': 'es',
+    # Germania
     'germany': 'de', 'bundesliga': 'de',
+    # Francia
     'france': 'fr', 'ligue 1': 'fr', 'ligue 2': 'fr',
+    # Portogallo
     'portugal': 'pt', 'primeira liga': 'pt',
-    'netherlands': 'nl', 'eredivisie': 'nl',
+    # Olanda
+    'netherlands': 'nl', 'eredivisie': 'nl', 'nederland': 'nl',
+    # Belgio
     'belgium': 'be',
+    # Brasile
+    'brazil': 'br', 'brasil': 'br', 'brasileirao': 'br',
+    # Argentina
+    'argentina': 'ar',
+    # Australia
+    'australia': 'au',
+    # Austria
+    'austria': 'at',
+    # Canada
+    'canada': 'ca',
+    # Cechia
+    'czech': 'cz', 'cechia': 'cz', 'czech republic': 'cz',
+    # Grecia
+    'greece': 'gr',
+    # Ungheria
+    'hungary': 'hu',
+    # Lituania
+    'lithuania': 'lt', 'lituania': 'lt',
+    # Nuova Zelanda
+    'new zealand': 'nz',
+    # Polonia
+    'poland': 'pl',
+    # Serbia
+    'serbia': 'rs',
+    # Svezia
+    'sweden': 'se', 'allsvenskan': 'se', 'shl': 'se',
+    # Svizzera
+    'switzerland': 'ch', 'swiss': 'ch',
+    # Corea
+    'south korea': 'kr', 'korea': 'kr', 'corea': 'kr',
+    # Ucraina
+    'ukraine': 'ua', 'ukraina': 'ua',
+    # Emirati Arabi
+    'uae': 'ae', 'emirates': 'ae',
+    # Turchia
+    'turkey': 'tr',
+    # Europa e Internazionale
     'champions league': 'eu', 'europa league': 'eu', 'conference league': 'eu', 
     'uefa': 'eu', 'euroleague': 'eu', 'eurocup': 'eu',
-    'nba': 'us', 'nfl': 'us', 'mlb': 'us', 'nhl': 'us', 'mls': 'us',
-    'cfl': 'ca',
-    'sweden': 'se', 'allsvenskan': 'se', 'shl': 'se',
-    'turkey': 'tr', 'greece': 'gr', 'scotland': 'gb', 
-    'czech republic': 'cz', 'finland': 'fi', 'world': 'int',
+    # USA
+    'nba': 'us', 'nfl': 'us', 'mlb': 'us', 'nhl': 'us', 'mls': 'us', 'usa': 'us',
+    'finland': 'fi', 'scotland': 'gb', 'world': 'int',
 }
 
-# Nomi completi nazioni
+# Nomi nazioni (da canali.json)
 COUNTRY_NAMES = {
-    'it': 'Italia', 'gb': 'Inghilterra', 'es': 'Spagna', 'de': 'Germania',
-    'fr': 'Francia', 'eu': 'Europa', 'us': 'USA', 'ca': 'Canada',
-    'pt': 'Portogallo', 'nl': 'Olanda', 'be': 'Belgio', 'tr': 'Turchia',
-    'se': 'Svezia', 'gr': 'Grecia', 'cz': 'Repubblica Ceca', 
-    'fi': 'Finlandia', 'int': 'Internazionale',
+    'it': 'ITALY', 'ar': 'ARGENTINA', 'au': 'AUSTRALIA', 'at': 'AUSTRIA',
+    'be': 'BELGIUM', 'br': 'BRASIL', 'ca': 'CANADA', 'cz': 'CECHIA',
+    'fr': 'FRANCE', 'de': 'GERMANY', 'gr': 'GREECE', 'hu': 'HUNGARY',
+    'lt': 'LITUANIA', 'nl': 'NEDERLAND', 'nz': 'NEW ZELAND', 'pl': 'POLAND',
+    'pt': 'PORTUGAL', 'rs': 'SERBIA', 'es': 'SPAIN', 'se': 'SWEDEN',
+    'ch': 'SWISS', 'kr': 'SOUTH COREA', 'ua': 'UKRAINA',
+    'ae': 'UNITED ARAB EMIRATE', 'gb': 'UNITED KINDOM', 'us': 'USA',
+    'other': 'OTHER', 'eu': 'EUROPA', 'int': 'INTERNAZIONALE',
 }
 
-# Icone per nazione
-COUNTRY_ICONS = {
-    'Italia': 'https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png'
-    #'Inghilterra': 'https://cdn-icons-png.flaticon.com/512/3909/3909370.png',
-    #'Spagna': 'https://cdn-icons-png.flaticon.com/512/3909/3909935.png',
-    #'Germania': 'https://cdn-icons-png.flaticon.com/512/3909/3909386.png',
-    #'Francia': 'https://cdn-icons-png.flaticon.com/512/3909/3909370.png',
-    #'Europa': 'https://cdn-icons-png.flaticon.com/512/3909/3909285.png',
-    #'USA': 'https://cdn-icons-png.flaticon.com/512/3909/3909957.png',
+# Bandiere nazioni (da canali.json)
+COUNTRY_FLAGS = {
+    'it': 'https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png',
+    'ar': 'https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png',
+    'au': 'https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png',
+    'at': 'https://vectorflags.s3.amazonaws.com/flags/at-circle-01.png',
+    'be': 'https://vectorflags.s3.amazonaws.com/flags/be-circle-01.png',
+    'br': 'https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png',
+    'ca': 'https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png',
+    'cz': 'https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png',
+    'fr': 'https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png',
+    'de': 'https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png',
+    'gr': 'https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png',
+    'hu': 'https://vectorflags.s3.amazonaws.com/flags/hu-circle-01.png',
+    'lt': 'https://vectorflags.s3.amazonaws.com/flags/lt-circle-01.png',
+    'nl': 'https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png',
+    'nz': 'https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png',
+    'pl': 'https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png',
+    'pt': 'https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png',
+    'rs': 'https://vectorflags.s3.amazonaws.com/flags/rs-circle-01.png',
+    'es': 'https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png',
+    'se': 'https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png',
+    'ch': 'https://vectorflags.s3.amazonaws.com/flags/ch-circle-01.png',
+    'kr': 'https://vectorflags.s3.amazonaws.com/flags/kr-circle-01.png',
+    'ua': 'https://vectorflags.s3.amazonaws.com/flags/ua-sphere-01.png',
+    'ae': 'https://vectorflags.s3.amazonaws.com/flags/ae-circle-01.png',
+    'gb': 'https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png',
+    'us': 'https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png',
+    'other': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
+    'eu': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
+    'int': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
 }
 
 
@@ -76,7 +145,7 @@ def get_country_code_from_league(league):
 
 
 def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
-    """Scarica canali MandraKodi da GitHub"""
+    """Scarica canali MandraKodi da GitHub + info nazioni"""
     try:
         print("Download canali MandraKodi...")
         
@@ -86,28 +155,44 @@ def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
         if response.status_code != 200:
             print("Errore HTTP: {}".format(response.status_code))
             print("Continuo senza thumbnail personalizzate")
-            return []
+            return {}, {}
         
         data = json.loads(response.text)
         
-        channels = []
-        for item in data.get('items', []):
-            title = item.get('title', '')
-            clean_name = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]|\(ITA\)|\(ENG\)|\(ESP\)|\(FRA\)|\(UK\)|\(US\)|\(DE\)|\(CA\)', '', title).strip()
+        # Estrai info nazioni (bandiere + nomi)
+        countries_info = {}
+        for group in data.get('channels', []):
+            name_raw = group.get('name', '')
+            # Rimuovi tag COLOR
+            name_clean = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]', '', name_raw).strip()
             
-            channels.append({
-                'name': clean_name,
-                'thumbnail': item.get('thumbnail', ''),
-                'fanart': item.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg'),
-            })
+            countries_info[name_clean.upper()] = {
+                'name': name_clean,
+                'thumbnail': group.get('thumbnail', ''),
+                'fanart': group.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg')
+            }
+        
+        # Estrai canali
+        channels = []
+        for group in data.get('channels', []):
+            for item in group.get('items', []):
+                title = item.get('title', '')
+                clean_name = re.sub(r'\[COLOR [^\]]+\]|\[/COLOR\]|\(ITA\)|\(ENG\)|\(ESP\)|\(FRA\)|\(UK\)|\(US\)|\(DE\)|\(CA\)|\(AR\)|\(BR\)|\(PT\)|\(GR\)|\(PL\)|\(RS\)|\(CZ\)|\(HU\)|\(LT\)|\(NL\)|\(SWE\)|\(FRA\)|\(GER\)|\(AT\)|\(BE\)|\(UA\)|\(ENG\)', '', title).strip()
+                
+                channels.append({
+                    'name': clean_name,
+                    'thumbnail': item.get('thumbnail', ''),
+                    'fanart': item.get('fanart', 'https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg'),
+                })
         
         print("Caricati {} canali per matching thumbnail".format(len(channels)))
-        return channels
+        print("Caricati {} paesi con bandiere".format(len(countries_info)))
+        return channels, countries_info
     
     except Exception as e:
         print("Errore download canali: {}".format(e))
         print("Continuo senza thumbnail personalizzate")
-        return []
+        return {}, {}
 
 
 def extract_sansat_id(channel_info):
@@ -327,10 +412,17 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
         country_file = "EVENTI_{}.json".format(country.upper().replace(' ', '_'))
         country_url = "{}/{}".format(GITHUB_RAW_BASE, country_file)
         
+        # Trova codice paese per ottenere la bandiera
+        country_code = None
+        for code, name in COUNTRY_NAMES.items():
+            if name == country:
+                country_code = code
+                break
+        
         folder_item = {
             "title": country,
             "externallink": country_url,
-            "thumbnail": COUNTRY_ICONS.get(country, "https://cdn-icons-png.flaticon.com/512/814/814346.png"),
+            "thumbnail": COUNTRY_FLAGS.get(country_code, "https://cdn-icons-png.flaticon.com/512/814/814346.png"),
             "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
             "info": "Eventi {}".format(country)
         }
