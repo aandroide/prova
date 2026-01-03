@@ -2,32 +2,74 @@
   "SetViewMode": "55",
   "items": [
     {
-      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - TNT Sports 1 (GB)",
-      "myresolve": "sansat@@1",
+      "title": "[COLOR cyan][13:00][/COLOR] [COLOR gold]Kiekko-Espoo vs Tappara[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@80",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 06:00 - Australia A-League"
+      "info": "03-Jan 13:00 - Finland Liiga"
     },
     {
-      "title": "[COLOR cyan][06:00][/COLOR] [COLOR gold]Brisbane Roar vs Wellington Phoenix[/COLOR] - Sky Sport 1 (NZ)",
-      "myresolve": "sansat@@2",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "03-Jan 06:00 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - Sky Sport 4 (NZ)",
-      "myresolve": "sansat@@4",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "03-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - Sportdigital FUSSBALL (DE)",
-      "myresolve": "sansat@@19",
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]RoKi vs Pyry[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@59",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 08:35 - Australia A-League"
+      "info": "03-Jan 15:00 - Finland Mestis"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]TuTo vs K-Vantaa[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@66",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Mestis"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]JoKP vs Jokerit[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@67",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Mestis"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]SaiPa vs Kookoo[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@68",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Karpat vs Sport[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@69",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]KalPa vs Pelicans[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@75",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]Ilves vs TPS[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@76",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]HPK vs Jukurit[/COLOR] - MTV Urheilu (FI)",
+      "myresolve": "sansat@@78",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
+    },
+    {
+      "title": "[COLOR cyan][15:00][/COLOR] [COLOR gold]HIFK vs JYP[/COLOR] - MTV Urheilu 3 (FI)",
+      "myresolve": "sansat@@79",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Jan 15:00 - Finland Liiga"
     },
     {
       "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Senegal vs Sudan[/COLOR] - Sportdigital FUSSBALL (DE)",
@@ -63,13 +105,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "03-Jan 19:00 - Africa Africa Cup of Nations"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - TNT Sports 2 (GB)",
-      "myresolve": "sansat@@2",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 08:35 - Australia A-League"
     },
     {
       "title": "[COLOR cyan][16:00][/COLOR] [COLOR gold]Morocco vs Tanzania[/COLOR] - Sportdigital FUSSBALL (DE)",
