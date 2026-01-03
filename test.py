@@ -309,13 +309,13 @@ def main():
     print("5. Salvataggio file JSON...")
     
     # File principale
-    with open('/home/claude/EVENTI_LIVE.json', 'w', encoding='utf-8') as f:
+    with open('EVENTI_LIVE.json', 'w', encoding='utf-8') as f:
         json.dump(eventi_live, f, ensure_ascii=True, indent=2)
     print("   - EVENTI_LIVE.json salvato")
     
     # File per nazione
     for nazione, eventi_naz in eventi_per_nazione.items():
-        filename = f"/home/claude/{nazione}.json"
+        filename = f"{nazione}.json"
         nazione_json = {"items": eventi_naz}
         with open(filename, 'w', encoding='utf-8') as f:
             json.dump(nazione_json, f, ensure_ascii=True, indent=2)
