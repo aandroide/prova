@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-GENERATORE EVENTI
-
-Author: Androide
-=================
+GENERATORE EVENTI LIVE MANDRAKODI - CON TAG LANG E LINK1+LINK2
+===============================================================
+- Estrae tag "lang" dai parametri URL
+- Supporta sia link1 che link2
+- Crea canali separati per ogni link disponibile
 """
 
 import requests
@@ -11,8 +12,13 @@ import json
 import re
 from datetime import datetime, timedelta
 import os
+from urllib.parse import urlparse, parse_qs
 
-GITHUB_USERNAME = 'aandroide'  
+# ============================================================================
+# CONFIGURAZIONE
+# ============================================================================
+
+GITHUB_USERNAME = 'aandroide'  # <-- MODIFICA QUESTO!
 MANDRAKODI_CANALI_URL = f'https://raw.githubusercontent.com/{GITHUB_USERNAME}/prova/main/canali/canali.json'
 SUPERLEAGUE_URL = 'https://super.league.do'
 GITHUB_RAW_BASE = f'https://raw.githubusercontent.com/{GITHUB_USERNAME}/prova/main/outputs'
@@ -95,6 +101,79 @@ def get_country_from_language(lang):
     }
     return lang_map.get(lang_upper, None)
 
+def extract_link_info(url):
+    """
+    Estrae ID e LANG dal link
+    Supporta formati:
+    - ?id=123&lang=it
+    - ?id=123
+    Ritorna: (id, lang) o (None, None)
+    """
+    if not url:
+        return None, None
+    
+    try:
+        # Parsing URL
+        parsed = urlparse(url)
+        params = parse_qs(parsed.query)
+        
+        # Estrai ID
+        link_id = None
+        if 'id' in params:
+            link_id = params['id'][0]
+        else:
+            # Prova con regex fallback
+            match = re.search(r'[?&]id=(\d+)', url)
+            if match:
+                link_id = match.group(1)
+        
+        # Estrai LANG
+        link_lang = None
+        if 'lang' in params:
+            link_lang = params['lang'][0].upper()
+        else:
+            # Prova con regex fallback
+            match = re.search(r'[?&]lang=([a-zA-Z]+)', url)
+            if match:
+                link_lang = match.group(1).upper()
+        
+        return link_id, link_lang
+    
+    except:
+        return None, None
+
+def extract_all_links(channel_info):
+    """
+    Estrae TUTTI i link disponibili da un canale
+    Ritorna: [(id, lang, link_number), ...]
+    """
+    links_data = []
+    
+    if not isinstance(channel_info, dict):
+        return links_data
+    
+    # Metodo 1: array 'links'
+    links_array = channel_info.get('links', [])
+    for idx, link in enumerate(links_array, 1):
+        link_id, link_lang = extract_link_info(link)
+        if link_id:
+            links_data.append((link_id, link_lang, idx))
+    
+    # Metodo 2: campi separati link1, link2, ecc.
+    link_num = 1
+    while True:
+        link_key = f'link{link_num}'
+        if link_key in channel_info:
+            link_url = channel_info[link_key]
+            link_id, link_lang = extract_link_info(link_url)
+            if link_id:
+                links_data.append((link_id, link_lang, link_num))
+            link_num += 1
+        else:
+            break
+    
+    return links_data
+
 def download_mandrakodi_channels():
     """Scarica canali per thumbnail"""
     try:
@@ -109,6 +188,7 @@ def download_mandrakodi_channels():
         data = json.loads(response.text)
         channels = []
         
+        # Supporta entrambi i formati
         if 'channels' in data:
             for group in data.get('channels', []):
                 for item in group.get('items', []):
@@ -135,16 +215,6 @@ def download_mandrakodi_channels():
     except Exception as e:
         print("Errore:", e)
         return [], {}
-
-def extract_sansat_id(channel_info):
-    """ID sansat dal link"""
-    if isinstance(channel_info, dict):
-        links = channel_info.get('links', [])
-        if links:
-            match = re.search(r'[?&]id=(\d+)', links[0])
-            if match:
-                return match.group(1)
-    return None
 
 def normalize_name(name):
     """Per matching thumbnail"""
@@ -193,11 +263,16 @@ def fetch_sports_events():
         return []
 
 def generate_country_jsons(events, mandrakodi_channels):
-    """Crea JSON per ogni nazione con tutti i canali"""
+    """
+    Crea JSON per ogni nazione
+    NOVITA: Estrae TUTTI i link (link1, link2, ecc.) e aggiunge tag lang
+    """
     
     countries_dict = {}
     total_channels = 0
+    total_links = 0
     thumbnails_matched = 0
+    lang_found = 0
     
     for match in events:
         team1 = match.get('team1', '')
@@ -231,13 +306,28 @@ def generate_country_jsons(events, mandrakodi_channels):
         
         # Per ogni canale
         for ch in event_channels:
+            total_channels += 1
             channel_name = ch.get('name', '')
             channel_language = ch.get('language', '').upper()
-            sansat_id = extract_sansat_id(ch)
             
-            if sansat_id:
+            # Estrai TUTTI i link disponibili
+            all_links = extract_all_links(ch)
+            
+            if not all_links:
+                # Nessun link valido, salta
+                continue
+            
+            # Crea un item per OGNI link
+            for link_id, link_lang, link_number in all_links:
+                total_links += 1
+                
+                # Usa lang dal link se disponibile, altrimenti dal canale
+                final_lang = link_lang if link_lang else channel_language
+                if link_lang:
+                    lang_found += 1
+                
                 # Paese del canale (per etichetta)
-                channel_country_code = get_country_from_language(channel_language)
+                channel_country_code = get_country_from_language(final_lang)
                 channel_country_flag = f'[{channel_country_code}]' if channel_country_code else ''
                 
                 # Thumbnail
@@ -250,21 +340,33 @@ def generate_country_jsons(events, mandrakodi_channels):
                     thumbnail = "https://cdn-icons-png.flaticon.com/512/3524/3524659.png"
                     fanart = "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg"
                 
-                # Titolo
-                if channel_language:
-                    channel_display = f"{channel_name} {channel_country_flag}"
+                # Titolo con indicatore link
+                link_suffix = '' if len(all_links) == 1 else f' #{link_number}'
+                
+                if final_lang:
+                    channel_display = f"{channel_name}{link_suffix} {channel_country_flag}"
                 else:
-                    channel_display = channel_name
+                    channel_display = f"{channel_name}{link_suffix}"
                 
                 title = f"[COLOR cyan][{time_str}][/COLOR] "
                 title += f"[COLOR gold]{event_title}[/COLOR] - "
                 title += channel_display
                 
-                info = f"{full_datetime} | {league} | {sport}"
+                # Info con tag lang se disponibile
+                info_parts = [full_datetime, league, sport]
+                if final_lang:
+                    info_parts.append(f"Lang: {final_lang}")
+                info = " | ".join(info_parts)
+                
+                # MyResolve con tag lang se disponibile
+                if final_lang:
+                    myresolve = f"sansat@@{link_id}@@{final_lang}"
+                else:
+                    myresolve = f"sansat@@{link_id}"
                 
                 channel_item = {
                     "title": title,
-                    "myresolve": f"sansat@@{sansat_id}",
+                    "myresolve": myresolve,
                     "thumbnail": thumbnail,
                     "fanart": fanart,
                     "info": info,
@@ -276,7 +378,6 @@ def generate_country_jsons(events, mandrakodi_channels):
                     countries_dict[event_country_name] = []
                 
                 countries_dict[event_country_name].append(channel_item)
-                total_channels += 1
     
     # Ordina per data
     for country in countries_dict:
@@ -285,9 +386,12 @@ def generate_country_jsons(events, mandrakodi_channels):
             del item['_timestamp']
     
     print(f"\nSTATISTICHE:")
+    print(f"  Eventi processati: {len(events)}")
     print(f"  Canali totali: {total_channels}")
+    print(f"  Link totali estratti: {total_links}")
+    print(f"  Tag lang trovati: {lang_found}/{total_links}")
     print(f"  Nazioni: {len(countries_dict)}")
-    print(f"  Thumbnail trovate: {thumbnails_matched}/{total_channels}")
+    print(f"  Thumbnail trovate: {thumbnails_matched}/{total_links}")
     
     print("\nDISTRIBUZIONE:")
     for country in sorted(countries_dict.keys()):
@@ -374,10 +478,11 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
 
 if __name__ == '__main__':
     print("=" * 80)
-    print("GENERATORE EVENTI LIVE - TUTTI I CANALI INSIEME")
+    print("GENERATORE EVENTI LIVE - CON TAG LANG E LINK1+LINK2")
     print("=" * 80)
-    print("✓ Ogni evento nella nazione del suo campionato")
-    print("✓ Mostra TUTTI i canali (italiani + stranieri)")
+    print("[OK] Estrae tag lang dai parametri URL")
+    print("[OK] Supporta link1, link2, link3, ecc.")
+    print("[OK] Crea canali separati per ogni link")
     print()
     
     # 1. Canali
@@ -410,3 +515,11 @@ if __name__ == '__main__':
     
     print("\n" + "=" * 80)
     print("COMPLETATO!")
+    print("=" * 80)
+    print("\nESEMPIO OUTPUT:")
+    print("  myresolve: 'sansat@@12345@@IT'")
+    print("  myresolve: 'sansat@@67890@@EN'")
+    print("  myresolve: 'sansat@@11111'  (senza lang)")
+    print("\nSE UN CANALE HA 2 LINK:")
+    print("  - DAZN 1 #1 [IT]")
+    print("  - DAZN 1 #2 [EN]")
