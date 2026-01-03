@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 GENERATORE EVENTI
+
+Author: Androide
 =================
 """
 
