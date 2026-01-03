@@ -63,8 +63,24 @@ def scarica_canali():
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         data = response.json()
-        # Il file canali.json contiene direttamente l'array di canali
-        return data if isinstance(data, list) else data.get('canali', [])
+        
+        # Gestisci vari formati possibili
+        if isinstance(data, list):
+            # Formato: [{...}, {...}]
+            return data
+        elif isinstance(data, dict):
+            # Formato: {"canali": [{...}]} o {"channels": [{...}]}
+            if 'canali' in data:
+                return data['canali']
+            elif 'channels' in data:
+                return data['channels']
+            elif 'items' in data:
+                return data['items']
+            else:
+                # Potrebbe essere un singolo oggetto
+                return [data]
+        else:
+            return []
     except Exception as e:
         print(f"Errore scaricamento canali da GitHub: {e}")
         return []
@@ -125,6 +141,15 @@ def estrai_eventi(html_content):
             
             # Per ogni canale crea un evento
             for channel in channels:
+                # Channel può essere stringa O oggetto {"name": "...", "language": "..."}
+                if isinstance(channel, dict):
+                    channel_name = channel.get('name', '')
+                else:
+                    channel_name = str(channel)
+                
+                if not channel_name:
+                    continue
+                
                 iso_datetime = parse_datetime(date_str, time_str)
                 if iso_datetime:
                     display_time = format_display_datetime(iso_datetime)
@@ -136,7 +161,7 @@ def estrai_eventi(html_content):
                         'time': time_str,
                         'datetime': iso_datetime,
                         'display_time': display_time,
-                        'channel': channel
+                        'channel': channel_name
                     })
     
     except Exception as e:
