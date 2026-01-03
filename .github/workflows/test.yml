@@ -33,5 +33,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add outputs/*.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Aggiornamento automatico eventi live"
+          git commit -m "Aggiornamento automatico eventi live $(date +'%Y-%m-%d %H:%M')" --allow-empty
           git push
