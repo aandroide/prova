@@ -2,32 +2,18 @@
   "SetViewMode": "55",
   "items": [
     {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - Sky Sport 4 (NZ)",
-      "myresolve": "sansat@@4",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Melbourne City vs Sydney FC[/COLOR] - Sportdigital FUSSBALL (DE)",
-      "myresolve": "sansat@@19",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 08:35 - Australia A-League"
-    },
-    {
-      "title": "[COLOR cyan][08:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - TNT Sports 2 (GB)",
+      "title": "[COLOR cyan][04/01 09:35][/COLOR] [COLOR gold]Adelaide United vs Central Coast Mariners[/COLOR] - TNT Sports 2 (GB)",
       "myresolve": "sansat@@2",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 08:35 - Australia A-League"
+      "info": "04-Jan 09:35 - Australia A-League"
     },
     {
-      "title": "[COLOR cyan][08:00][/COLOR] [COLOR gold]Macarthur vs Auckland[/COLOR] - TNT Sports 1 (GB)",
+      "title": "[COLOR cyan][05/01 09:00][/COLOR] [COLOR gold]Macarthur vs Auckland[/COLOR] - TNT Sports 1 (GB)",
       "myresolve": "sansat@@1",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Jan 08:00 - Australia A-League"
+      "info": "05-Jan 09:00 - Australia A-League"
     }
   ]
 }
