@@ -340,26 +340,30 @@ def generate_country_jsons(events, mandrakodi_channels):
                     thumbnail = "https://cdn-icons-png.flaticon.com/512/3524/3524659.png"
                     fanart = "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg"
                 
-                # Titolo: [CANALE lang] in CYAN + Link X
-                # Se un solo link: [CANALE lang] (senza Link 1)
+                # Titolo OPZIONE 5: Canale LIME + [lang] ORANGE + Link YELLOW
+                # Orario CYAN + Evento GOLD
                 
-                # Costruisci parte canale [NOME lang] in CYAN
+                # Costruisci parte canale in LIME
+                channel_part = f"[COLOR lime]{channel_name}[/COLOR]"
+                
+                # Aggiungi lang in ORANGE se disponibile
                 if final_lang:
-                    channel_part = f"[COLOR cyan][{channel_name} {final_lang.lower()}][/COLOR]"
+                    lang_part = f" [COLOR orange][{final_lang.lower()}][/COLOR]"
                 else:
-                    channel_part = channel_name
+                    lang_part = ""
                 
-                # Aggiungi "Link X" se necessario
+                # Aggiungi "Link X" in YELLOW se multipli link
                 if len(all_links) == 1:
                     # Un solo link - no indicatore
-                    channel_display = channel_part
+                    link_part = ""
                 else:
-                    # Multipli link
-                    channel_display = f"{channel_part} Link {link_number}"
+                    # Multipli link in YELLOW
+                    link_part = f" [COLOR yellow]Link {link_number}[/COLOR]"
                 
+                # Assembla il titolo completo
                 title = f"[COLOR cyan][{time_str}][/COLOR] "
                 title += f"[COLOR gold]{event_title}[/COLOR] - "
-                title += channel_display
+                title += channel_part + lang_part + link_part
                 
                 # Info con tag lang se disponibile
                 info_parts = [full_datetime, league, sport]
@@ -529,6 +533,8 @@ if __name__ == '__main__':
     print("  myresolve: 'sansat@@12345@@IT'")
     print("  myresolve: 'sansat@@67890@@EN'")
     print("  myresolve: 'sansat@@11111'  (senza lang)")
-    print("\nSE UN CANALE HA 2 LINK:")
-    print('  - [COLOR cyan][DAZN1 it][/COLOR] Link 1')
-    print('  - [COLOR cyan][DAZN1 en][/COLOR] Link 2')
+    print("\nOPZIONE 5 - TUTTI I COLORI:")
+    print('  - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]')
+    print('  - [COLOR lime]DAZN1[/COLOR] [COLOR orange][en][/COLOR] [COLOR yellow]Link 2[/COLOR]')
+    print("\nCOLORI:")
+    print("  Orario: CYAN | Evento: GOLD | Canale: LIME | Lang: ORANGE | Link: YELLOW")
