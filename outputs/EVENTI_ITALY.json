@@ -1,198 +1,142 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-03 21:15:55",
+  "last_update": "2026-01-03 22:05:13",
   "items": [
     {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Sky Sport Calcio it][/COLOR] Link 1",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Sky Sport Calcio it][/COLOR] Link 2",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Eleven Sports 1 pl][/COLOR] Link 1",
-      "myresolve": "sansat@@61@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Eleven Sports 1 pl][/COLOR] Link 2",
-      "myresolve": "sansat@@61@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][TV4 Sport Live 1 se][/COLOR] Link 1",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][TV4 Sport Live 1 se][/COLOR] Link 2",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Fox Deportes es][/COLOR] Link 1",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][03/01 20:45][/COLOR] [COLOR gold]Atalanta vs Roma[/COLOR] - [COLOR cyan][Fox Deportes es][/COLOR] Link 2",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Jan 20:45 | Italy Serie A | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR cyan][CBS Sports Network us][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 12:30 | Italy Serie A | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR cyan][CBS Sports Network us][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 12:30 | Italy Serie A | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 12:30 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 12:30 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR cyan][TV4 Fotball se][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@77@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 12:30 | Italy Serie A | Football | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR cyan][TV4 Fotball se][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 12:30][/COLOR] [COLOR gold]Lazio vs Napoli[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@77@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 12:30 | Italy Serie A | Football | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 15:00 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 15:00 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR cyan][TV4 Sport Live 1 se][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@71@@SE",
       "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "info": "04-Jan 15:00 | Italy Serie A | Football | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR cyan][TV4 Sport Live 1 se][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 15:00][/COLOR] [COLOR gold]Fiorentina vs Cremonese[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@71@@SE",
       "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "info": "04-Jan 15:00 | Italy Serie A | Football | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR cyan][CBS Sports Golazo es][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@29@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 18:00 | Italy Serie A | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR cyan][CBS Sports Golazo es][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@29@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 18:00 | Italy Serie A | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR cyan][Sky Sport Calcio it][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 18:00 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR cyan][Sky Sport Calcio it][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 18:00][/COLOR] [COLOR gold]Verona vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 18:00 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR cyan][TNT Sports 1 gb][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 20:45 | Italy Serie A | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR cyan][TNT Sports 1 gb][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 20:45 | Italy Serie A | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR cyan][CBS Sports Golazo es][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@29@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 20:45 | Italy Serie A | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR cyan][CBS Sports Golazo es][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@29@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 20:45 | Italy Serie A | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 1",
+      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Jan 20:45 | Italy Serie A | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR cyan][DAZN Zona it][/COLOR] Link 2",
+      "title": "[COLOR cyan][04/01 20:45][/COLOR] [COLOR gold]Internazionale vs Bologna[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
