@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-GENERATORE EVENTI LIVE MANDRAKODI - VERSIONE CARTELLE
-======================================================
-- Crea cartelle per nazione invece di separatori
+GENERATORE EVENTI LIVE MANDRAKODI - VERSIONE CARTELLE REALI
+============================================================
+- Crea cartelle per le 14 nazioni reali usate in super.league.do
 - Un JSON principale + JSON per ogni nazione
 - Matching esatto per thumbnail
 """
@@ -26,122 +26,120 @@ SUPERLEAGUE_URL = 'https://super.league.do'
 GITHUB_RAW_BASE = 'https://raw.githubusercontent.com/{}/prova/main/outputs'.format(GITHUB_USERNAME)
 
 
-# Mapping campionati -> codici paese
+# MAPPING NAZIONI REALI da super.league.do (basato sui codici lingua)
+# Queste sono le 14 nazioni effettivamente presenti nel tuo HTML
+COUNTRIES_REAL = {
+    'AU': {'name': 'AUSTRALIA', 'code': 'au'},
+    'CA': {'name': 'CANADA', 'code': 'ca'},
+    'CZ': {'name': 'CECHIA', 'code': 'cz'},
+    'DE': {'name': 'GERMANY', 'code': 'de'},
+    'ES': {'name': 'SPAIN', 'code': 'es'},
+    'FI': {'name': 'FINLAND', 'code': 'fi'},
+    'FR': {'name': 'FRANCE', 'code': 'fr'},
+    'GB': {'name': 'UNITED KINGDOM', 'code': 'gb'},
+    'IT': {'name': 'ITALY', 'code': 'it'},
+    'NO': {'name': 'NORWAY', 'code': 'no'},
+    'PL': {'name': 'POLAND', 'code': 'pl'},
+    'PT': {'name': 'PORTUGAL', 'code': 'pt'},
+    'SE': {'name': 'SWEDEN', 'code': 'se'},
+    'US': {'name': 'USA', 'code': 'us'}
+}
+
+# Mapping campionati -> codici paese (basato sulle nazioni reali)
 LEAGUE_TO_COUNTRY = {
     # Italia
-    'italy': 'it', 'serie a': 'it', 'serie b': 'it', 'coppa italia': 'it',
-    # Inghilterra
-    'england': 'gb', 'premier league': 'gb', 'championship': 'gb', 
-    'fa cup': 'gb', 'efl cup': 'gb', 'united kingdom': 'gb',
+    'italy': 'IT', 'serie a': 'IT', 'serie b': 'IT', 'coppa italia': 'IT',
+    # Inghilterra/UK
+    'england': 'GB', 'premier league': 'GB', 'championship': 'GB', 
+    'fa cup': 'GB', 'efl cup': 'GB', 'united kingdom': 'GB', 'scotland': 'GB',
     # Spagna
-    'spain': 'es', 'laliga': 'es', 'la liga': 'es', 'copa del rey': 'es',
+    'spain': 'ES', 'laliga': 'ES', 'la liga': 'ES', 'copa del rey': 'ES',
     # Germania
-    'germany': 'de', 'bundesliga': 'de',
+    'germany': 'DE', 'bundesliga': 'DE',
     # Francia
-    'france': 'fr', 'ligue 1': 'fr', 'ligue 2': 'fr',
+    'france': 'FR', 'ligue 1': 'FR', 'ligue 2': 'FR',
     # Portogallo
-    'portugal': 'pt', 'primeira liga': 'pt',
-    # Olanda
-    'netherlands': 'nl', 'eredivisie': 'nl', 'nederland': 'nl',
-    # Belgio
-    'belgium': 'be',
-    # Brasile
-    'brazil': 'br', 'brasil': 'br', 'brasileirao': 'br',
-    # Argentina
-    'argentina': 'ar',
-    # Australia
-    'australia': 'au',
-    # Austria
-    'austria': 'at',
-    # Canada
-    'canada': 'ca',
-    # Cechia
-    'czech': 'cz', 'cechia': 'cz', 'czech republic': 'cz',
-    # Grecia
-    'greece': 'gr',
-    # Ungheria
-    'hungary': 'hu',
-    # Lituania
-    'lithuania': 'lt', 'lituania': 'lt',
-    # Nuova Zelanda
-    'new zealand': 'nz',
+    'portugal': 'PT', 'primeira liga': 'PT',
     # Polonia
-    'poland': 'pl',
-    # Serbia
-    'serbia': 'rs',
+    'poland': 'PL',
     # Svezia
-    'sweden': 'se', 'allsvenskan': 'se', 'shl': 'se',
-    # Svizzera
-    'switzerland': 'ch', 'swiss': 'ch',
-    # Corea
-    'south korea': 'kr', 'korea': 'kr', 'corea': 'kr',
-    # Ucraina
-    'ukraine': 'ua', 'ukraina': 'ua',
-    # Emirati Arabi
-    'uae': 'ae', 'emirates': 'ae',
-    # Turchia
-    'turkey': 'tr',
-    # Europa e Internazionale
-    'champions league': 'eu', 'europa league': 'eu', 'conference league': 'eu', 
-    'uefa': 'eu', 'euroleague': 'eu', 'eurocup': 'eu',
+    'sweden': 'SE', 'allsvenskan': 'SE', 'shl': 'SE',
+    # Finlandia
+    'finland': 'FI', 'liiga': 'FI', 'mestis': 'FI',
+    # Canada
+    'canada': 'CA',
     # USA
-    'nba': 'us', 'nfl': 'us', 'mlb': 'us', 'nhl': 'us', 'mls': 'us', 'usa': 'us',
-    'finland': 'fi', 'scotland': 'gb', 'world': 'int',
+    'usa': 'US', 'nba': 'US', 'nfl': 'US', 'nhl': 'US', 'mlb': 'US', 'mls': 'US',
+    # Cechia
+    'czech': 'CZ', 'cechia': 'CZ', 'czech republic': 'CZ',
+    # Norvegia
+    'norway': 'NO',
+    # Australia
+    'australia': 'AU',
+    # Europa e Internazionale
+    'champions league': 'EU', 'europa league': 'EU', 'conference league': 'EU', 
+    'uefa': 'EU', 'euroleague': 'EU', 'eurocup': 'EU', 'world': 'INT', 'international': 'INT'
 }
 
-# Nomi nazioni (da canali.json)
-COUNTRY_NAMES = {
-    'it': 'ITALY', 'ar': 'ARGENTINA', 'au': 'AUSTRALIA', 'at': 'AUSTRIA',
-    'be': 'BELGIUM', 'br': 'BRASIL', 'ca': 'CANADA', 'cz': 'CECHIA',
-    'fr': 'FRANCE', 'de': 'GERMANY', 'gr': 'GREECE', 'hu': 'HUNGARY',
-    'lt': 'LITUANIA', 'nl': 'NEDERLAND', 'nz': 'NEW ZELAND', 'pl': 'POLAND',
-    'pt': 'PORTUGAL', 'rs': 'SERBIA', 'es': 'SPAIN', 'se': 'SWEDEN',
-    'ch': 'SWISS', 'kr': 'SOUTH COREA', 'ua': 'UKRAINA',
-    'ae': 'UNITED ARAB EMIRATE', 'gb': 'UNITED KINDOM', 'us': 'USA',
-    'other': 'OTHER', 'eu': 'EUROPA', 'int': 'INTERNAZIONALE',
-}
-
-# Bandiere nazioni (da canali.json)
+# Bandiere nazioni (URL delle bandiere circolari)
 COUNTRY_FLAGS = {
-    'it': 'https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png',
-    'ar': 'https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png',
-    'au': 'https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png',
-    'at': 'https://vectorflags.s3.amazonaws.com/flags/at-circle-01.png',
-    'be': 'https://vectorflags.s3.amazonaws.com/flags/be-circle-01.png',
-    'br': 'https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png',
-    'ca': 'https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png',
-    'cz': 'https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png',
-    'fr': 'https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png',
-    'de': 'https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png',
-    'gr': 'https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png',
-    'hu': 'https://vectorflags.s3.amazonaws.com/flags/hu-circle-01.png',
-    'lt': 'https://vectorflags.s3.amazonaws.com/flags/lt-circle-01.png',
-    'nl': 'https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png',
-    'nz': 'https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png',
-    'pl': 'https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png',
-    'pt': 'https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png',
-    'rs': 'https://vectorflags.s3.amazonaws.com/flags/rs-circle-01.png',
-    'es': 'https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png',
-    'se': 'https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png',
-    'ch': 'https://vectorflags.s3.amazonaws.com/flags/ch-circle-01.png',
-    'kr': 'https://vectorflags.s3.amazonaws.com/flags/kr-circle-01.png',
-    'ua': 'https://vectorflags.s3.amazonaws.com/flags/ua-sphere-01.png',
-    'ae': 'https://vectorflags.s3.amazonaws.com/flags/ae-circle-01.png',
-    'gb': 'https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png',
-    'us': 'https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png',
-    'other': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
-    'eu': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
-    'int': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
+    'IT': 'https://vectorflags.s3.amazonaws.com/flags/it-circle-01.png',
+    'ES': 'https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png',
+    'GB': 'https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png',
+    'DE': 'https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png',
+    'FR': 'https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png',
+    'PT': 'https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png',
+    'US': 'https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png',
+    'CA': 'https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png',
+    'SE': 'https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png',
+    'FI': 'https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png',
+    'PL': 'https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png',
+    'CZ': 'https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png',
+    'NO': 'https://vectorflags.s3.amazonaws.com/flags/no-circle-01.png',
+    'AU': 'https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png',
+    'EU': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png',
+    'INT': 'https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png'
 }
 
 
 def get_country_code_from_league(league):
     """Estrae codice paese dal campionato"""
+    if not league:
+        return None
+    
     league_lower = league.lower()
     for key, code in LEAGUE_TO_COUNTRY.items():
         if key in league_lower:
             return code
     return None
+
+
+def get_country_from_channel_language(language_code):
+    """Ottiene il paese dal codice lingua del canale"""
+    if not language_code:
+        return None
+    
+    lang_upper = language_code.upper()
+    if lang_upper in COUNTRIES_REAL:
+        return lang_upper
+    
+    # Fallback: mappature comuni
+    lang_map = {
+        'EN': 'GB', 'ENGLISH': 'GB', 'UK': 'GB',
+        'GER': 'DE', 'GERMAN': 'DE',
+        'FRA': 'FR', 'FRENCH': 'FR',
+        'ESP': 'ES', 'SPANISH': 'ES',
+        'ITA': 'IT', 'ITALIAN': 'IT',
+        'POR': 'PT', 'PORTUGUESE': 'PT',
+        'SWE': 'SE', 'SWEDISH': 'SE',
+        'FIN': 'FI', 'FINNISH': 'FI',
+        'POL': 'PL', 'POLISH': 'PL',
+        'CZE': 'CZ', 'CZECH': 'CZ',
+        'NOR': 'NO', 'NORWEGIAN': 'NO',
+        'AUS': 'AU', 'AUSTRALIAN': 'AU'
+    }
+    
+    return lang_map.get(lang_upper, None)
 
 
 def download_mandrakodi_channels(url=MANDRAKODI_CANALI_URL):
@@ -233,7 +231,7 @@ def extract_sansat_id(channel_info):
 
 def normalize_name(name):
     """Normalizza nome per matching"""
-    return name.lower().replace(' ', '').replace('-', '').replace('_', '')
+    return name.lower().replace(' ', '').replace('-', '').replace('_', '').replace('.', '')
 
 
 def find_thumbnail(channel_name, mandrakodi_channels):
@@ -301,7 +299,7 @@ def fetch_sports_events(url=SUPERLEAGUE_URL):
 
 
 def generate_country_jsons(events, mandrakodi_channels):
-    """Genera JSON separati per ogni nazione"""
+    """Genera JSON separati per ogni nazione REALE"""
     
     countries_dict = {}
     total_channels = 0
@@ -312,10 +310,6 @@ def generate_country_jsons(events, mandrakodi_channels):
         team1 = match.get('team1', '')
         team2 = match.get('team2', '')
         league = match.get('league', '')
-        
-        # Identifica nazione
-        country_code = get_country_code_from_league(league)
-        country = COUNTRY_NAMES.get(country_code, 'Altri') if country_code else 'Altri'
         
         # Timestamp (+1 ora per timezone Italia)
         try:
@@ -343,6 +337,30 @@ def generate_country_jsons(events, mandrakodi_channels):
             sansat_id = extract_sansat_id(ch)
             
             if sansat_id:
+                # Determinare la nazione
+                country_code = None
+                
+                # 1. Prima prova dal codice lingua del canale
+                country_code = get_country_from_channel_language(channel_language)
+                
+                # 2. Fallback: dal campionato
+                if not country_code:
+                    country_code = get_country_code_from_league(league)
+                
+                # 3. Se ancora nessuno, usa 'OTHER'
+                if not country_code:
+                    country_code = 'OTHER'
+                
+                # Ottenere nome nazione per la cartella
+                if country_code in COUNTRIES_REAL:
+                    country_name = COUNTRIES_REAL[country_code]['name']
+                elif country_code == 'EU':
+                    country_name = 'EUROPA'
+                elif country_code == 'INT':
+                    country_name = 'INTERNAZIONALE'
+                else:
+                    country_name = 'OTHER'
+                
                 # Matching esatto per thumbnail
                 mk_match = find_thumbnail(channel_name, mandrakodi_channels)
                 
@@ -371,13 +389,14 @@ def generate_country_jsons(events, mandrakodi_channels):
                     "thumbnail": thumbnail,
                     "fanart": fanart,
                     "info": info,
-                    "_timestamp": sort_timestamp
+                    "_timestamp": sort_timestamp,
+                    "_country_code": country_code
                 }
                 
-                if country not in countries_dict:
-                    countries_dict[country] = []
+                if country_name not in countries_dict:
+                    countries_dict[country_name] = []
                 
-                countries_dict[country].append(channel_item)
+                countries_dict[country_name].append(channel_item)
                 total_channels += 1
         
         if event_channels:
@@ -389,6 +408,7 @@ def generate_country_jsons(events, mandrakodi_channels):
         # Rimuovi timestamp temporaneo
         for item in countries_dict[country]:
             del item['_timestamp']
+            del item['_country_code']
     
     print("\nSTATISTICHE:")
     print("  Eventi processati: {}".format(events_processed))
@@ -404,12 +424,22 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
     
     os.makedirs(output_dir, exist_ok=True)
     
-    # Ordina nazioni: Italia prima
+    # Ordina nazioni: Italia prima, poi alfabetico
     sorted_countries = []
-    if 'Italia' in countries_dict:
-        sorted_countries.append('Italia')
     
-    other_countries = sorted([c for c in countries_dict.keys() if c != 'Italia'])
+    # Aggiungi le nazioni nell'ordine desiderato
+    priority_countries = ['ITALY', 'UNITED KINGDOM', 'SPAIN', 'GERMANY', 'FRANCE', 
+                         'USA', 'CANADA', 'PORTUGAL', 'SWEDEN', 'POLAND', 
+                         'FINLAND', 'CECHIA', 'NORWAY', 'AUSTRALIA',
+                         'EUROPA', 'INTERNAZIONALE', 'OTHER']
+    
+    for country in priority_countries:
+        if country in countries_dict:
+            sorted_countries.append(country)
+    
+    # Aggiungi eventuali altre nazioni non in lista
+    other_countries = sorted([c for c in countries_dict.keys() 
+                              if c not in priority_countries])
     sorted_countries.extend(other_countries)
     
     # 1. Salva JSON per ogni nazione
@@ -442,17 +472,26 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
         
         # Trova codice paese per ottenere la bandiera
         country_code = None
-        for code, name in COUNTRY_NAMES.items():
-            if name == country:
+        for code, info in COUNTRIES_REAL.items():
+            if info['name'] == country:
                 country_code = code
                 break
+        
+        # Se non trovato, cerca nei mapping speciali
+        if not country_code:
+            if country == 'EUROPA':
+                country_code = 'EU'
+            elif country == 'INTERNAZIONALE':
+                country_code = 'INT'
+            else:
+                country_code = 'OTHER'
         
         folder_item = {
             "title": country,
             "externallink": country_url,
             "thumbnail": COUNTRY_FLAGS.get(country_code, "https://cdn-icons-png.flaticon.com/512/814/814346.png"),
             "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-            "info": "Eventi {}".format(country)
+            "info": "Eventi sportivi dalla {}".format(country)
         }
         
         main_json['items'].append(folder_item)
@@ -463,6 +502,19 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
     
     print("\nFile principale: EVENTI_LIVE.json")
     print("\nTotale file generati: {}".format(len(sorted_countries) + 1))
+    
+    # 3. Crea anche un file di riepilogo
+    summary_path = os.path.join(output_dir, 'RIEPILOGO_NAZIONI.txt')
+    with open(summary_path, 'w', encoding='utf-8') as f:
+        f.write("NAZIONI LIVE SUPER.LEAGUE.DO\n")
+        f.write("=" * 40 + "\n\n")
+        f.write("Ultimo aggiornamento: {}\n\n".format(datetime.now().strftime('%Y-%m-%d %H:%M:%S')))
+        
+        for country in sorted_countries:
+            count = len(countries_dict[country])
+            f.write("{:20s}: {} canali\n".format(country, count))
+    
+    print("\nRiepilogo: RIEPILOGO_NAZIONI.txt")
 
 
 # ============================================================================
@@ -471,8 +523,15 @@ def save_all_jsons(countries_dict, output_dir='outputs'):
 
 if __name__ == '__main__':
     print("=" * 80)
-    print("GENERATORE EVENTI LIVE - VERSIONE CARTELLE")
+    print("GENERATORE EVENTI LIVE - NAZIONI REALI SUPER.LEAGUE.DO")
     print("=" * 80)
+    print()
+    
+    # Mostra le 14 nazioni reali
+    print("NAZIONI REALI TROVATE IN SUPER.LEAGUE.DO:")
+    print("-" * 40)
+    for code, info in COUNTRIES_REAL.items():
+        print("  {} ({})".format(info['name'], code))
     print()
     
     # 1. Canali
@@ -507,7 +566,8 @@ if __name__ == '__main__':
     print("COMPLETATO!")
     print("=" * 80)
     print("\nFEATURES:")
-    print("  - Cartelle per nazione invece di separatori")
+    print("  - 14 nazioni reali da super.league.do")
+    print("  - Cartelle per nazione con bandiere")
     print("  - Un JSON per nazione")
     print("  - Matching esatto per thumbnail")
     print("  - sansat@@ID per myresolve")
