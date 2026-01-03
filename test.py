@@ -340,13 +340,21 @@ def generate_country_jsons(events, mandrakodi_channels):
                     thumbnail = "https://cdn-icons-png.flaticon.com/512/3524/3524659.png"
                     fanart = "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg"
                 
-                # Titolo con indicatore link
-                link_suffix = '' if len(all_links) == 1 else f' #{link_number}'
+                # Titolo: Nome [LANG] Link X
+                # Se un solo link: Nome [LANG] (senza Link 1)
                 
-                if final_lang:
-                    channel_display = f"{channel_name}{link_suffix} {channel_country_flag}"
+                if len(all_links) == 1:
+                    # Un solo link - no indicatore
+                    if final_lang:
+                        channel_display = f"{channel_name} {channel_country_flag}"
+                    else:
+                        channel_display = channel_name
                 else:
-                    channel_display = f"{channel_name}{link_suffix}"
+                    # Multipli link - aggiungi "Link X"
+                    if final_lang:
+                        channel_display = f"{channel_name} {channel_country_flag} Link {link_number}"
+                    else:
+                        channel_display = f"{channel_name} Link {link_number}"
                 
                 title = f"[COLOR cyan][{time_str}][/COLOR] "
                 title += f"[COLOR gold]{event_title}[/COLOR] - "
@@ -521,5 +529,5 @@ if __name__ == '__main__':
     print("  myresolve: 'sansat@@67890@@EN'")
     print("  myresolve: 'sansat@@11111'  (senza lang)")
     print("\nSE UN CANALE HA 2 LINK:")
-    print("  - DAZN 1 #1 [IT]")
-    print("  - DAZN 1 #2 [EN]")
+    print("  - DAZN 1 [IT] Link 1")
+    print("  - DAZN 1 [EN] Link 2")
