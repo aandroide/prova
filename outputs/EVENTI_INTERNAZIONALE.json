@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-04 20:20:06",
+  "last_update": "2026-01-04 21:16:04",
   "items": [
     {
       "title": "[COLOR cyan][05/01 14:00][/COLOR] [COLOR gold]Stuttgart vs Luzern[/COLOR] - [COLOR lime]Sky Sport News[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -365,6 +365,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Jan 20:15 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][06/01 20:15][/COLOR] [COLOR gold]Panathinaikos vs Olimpia Milano[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@25@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 20:15 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][06/01 20:15][/COLOR] [COLOR gold]Panathinaikos vs Olimpia Milano[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@25@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 20:15 | Euroleague | Basketball | Lang: GR"
     },
     {
       "title": "[COLOR cyan][06/01 20:15][/COLOR] [COLOR gold]Panathinaikos vs Olimpia Milano[/COLOR] - [COLOR lime]M+ Deportes 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",

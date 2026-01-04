@@ -1,119 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-04 20:20:06",
+  "last_update": "2026-01-04 21:16:04",
   "items": [
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - [COLOR lime]RTL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - [COLOR lime]RTL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@35@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Jacksonville vs Tennessee[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@35@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]The RedZone[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]The RedZone[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Atlanta vs New Orleans[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Atlanta vs New Orleans[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Cincinnati vs Cleveland[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Cincinnati vs Cleveland[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Houston vs Indianapolis[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@34@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Houston vs Indianapolis[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@34@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Minnesota vs Green Bay[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@36@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]Minnesota vs Green Bay[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@36@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]New York Giants vs Dallas[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@37@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 19:00][/COLOR] [COLOR gold]New York Giants vs Dallas[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@37@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 19:00 | NFL | American Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Detroit Pistons vs Cleveland Cavaliers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@US",
@@ -715,6 +603,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Jan 04:00 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][06/01 04:30][/COLOR] [COLOR gold]Utah Jazz vs Portland Trail Blazers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 04:30 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][06/01 04:30][/COLOR] [COLOR gold]Utah Jazz vs Portland Trail Blazers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 04:30 | NBA | Basketball | Lang: US"
     },
     {
       "title": "[COLOR cyan][06/01 04:30][/COLOR] [COLOR gold]Minnesota Wild vs Los Angeles Kings[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
