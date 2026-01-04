@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-04 21:16:04",
+  "last_update": "2026-01-04 22:17:04",
   "items": [
     {
       "title": "[COLOR cyan][05/01 14:00][/COLOR] [COLOR gold]Stuttgart vs Luzern[/COLOR] - [COLOR lime]Sky Sport News[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -171,6 +171,20 @@
       "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piräus[/COLOR] - [COLOR lime]Nova Sport 4[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piräus[/COLOR] - [COLOR lime]Nova Sport 4[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: GR"
+    },
+    {
       "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Cedevita Olimpija vs Bahcesehir Kol[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@22@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -185,18 +199,18 @@
       "info": "06-Jan 19:00 | Eurocup | Basketball | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Manresa vs Aris Midea Thessaloniki[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Jan 19:00 | Eurocup | Basketball | Lang: DE"
+      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]PAOK vs Atromitos[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "06-Jan 19:00 | Greece Greek Cup | Football | Lang: GR"
     },
     {
-      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Manresa vs Aris Midea Thessaloniki[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Jan 19:00 | Eurocup | Basketball | Lang: DE"
+      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]PAOK vs Atromitos[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "06-Jan 19:00 | Greece Greek Cup | Football | Lang: GR"
     },
     {
       "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Manresa vs Aris Midea Thessaloniki[/COLOR] - [COLOR lime]M+ Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -213,18 +227,18 @@
       "info": "06-Jan 19:00 | Eurocup | Basketball | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]PAOK vs Atromitos[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "06-Jan 19:00 | Greece Greek Cup | Football | Lang: GR"
+      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Manresa vs Aris Midea Thessaloniki[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@95@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 19:00 | Eurocup | Basketball | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]PAOK vs Atromitos[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "06-Jan 19:00 | Greece Greek Cup | Football | Lang: GR"
+      "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Manresa vs Aris Midea Thessaloniki[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@95@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 19:00 | Eurocup | Basketball | Lang: DE"
     },
     {
       "title": "[COLOR cyan][06/01 19:30][/COLOR] [COLOR gold]Monaco vs Partizan Mozzart Bet[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",

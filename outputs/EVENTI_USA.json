@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-04 21:16:04",
+  "last_update": "2026-01-04 22:17:04",
   "items": [
-    {
-      "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Detroit Pistons vs Cleveland Cavaliers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 20:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Detroit Pistons vs Cleveland Cavaliers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 20:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "04-Jan 20:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "04-Jan 20:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@75@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 20:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][04/01 20:00][/COLOR] [COLOR gold]Montreal Canadiens vs Dallas Stars[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@75@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Jan 20:00 | NHL | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][04/01 21:00][/COLOR] [COLOR gold]Indiana Pacers vs Orlando Magic[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@3@@US",
