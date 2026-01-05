@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-05 09:28:51",
+  "last_update": "2026-01-05 10:21:33",
   "items": [
     {
       "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Granada vs Rayo Vallecano[/COLOR] - [COLOR lime]M+ LALIGA TV[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -15,6 +15,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Jan 19:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/01 20:00][/COLOR] [COLOR gold]Barcelona vs Athletic Club[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: ES"
     }
   ]
 }
