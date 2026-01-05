@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-05 17:20:39",
+  "last_update": "2026-01-05 18:28:42",
   "items": [
     {
       "title": "ITALY (48)",
@@ -87,11 +87,11 @@
       "info": "98 canali INTERNAZIONALE"
     },
     {
-      "title": "AFRICA (24)",
+      "title": "AFRICA (18)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AFRICA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/africa-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali AFRICA"
+      "info": "18 canali AFRICA"
     }
   ]
 }
