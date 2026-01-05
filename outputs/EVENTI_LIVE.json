@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-05 19:18:42",
+  "last_update": "2026-01-05 20:22:02",
   "items": [
     {
       "title": "ITALY (48)",
@@ -45,25 +45,25 @@
       "info": "78 canali USA"
     },
     {
-      "title": "PORTUGAL (8)",
+      "title": "PORTUGAL (6)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "8 canali PORTUGAL"
+      "info": "6 canali PORTUGAL"
     },
     {
-      "title": "SWEDEN (38)",
+      "title": "SWEDEN (32)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "38 canali SWEDEN"
+      "info": "32 canali SWEDEN"
     },
     {
-      "title": "FINLAND (22)",
+      "title": "FINLAND (16)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22 canali FINLAND"
+      "info": "16 canali FINLAND"
     },
     {
       "title": "CECHIA (10)",
@@ -80,11 +80,11 @@
       "info": "2 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (98)",
+      "title": "INTERNAZIONALE (94)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "98 canali INTERNAZIONALE"
+      "info": "94 canali INTERNAZIONALE"
     },
     {
       "title": "AFRICA (18)",
