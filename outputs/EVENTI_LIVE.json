@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-05 16:23:54",
+  "last_update": "2026-01-05 17:20:39",
   "items": [
     {
       "title": "ITALY (48)",
@@ -52,11 +52,11 @@
       "info": "8 canali PORTUGAL"
     },
     {
-      "title": "SWEDEN (40)",
+      "title": "SWEDEN (38)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "40 canali SWEDEN"
+      "info": "38 canali SWEDEN"
     },
     {
       "title": "FINLAND (22)",
