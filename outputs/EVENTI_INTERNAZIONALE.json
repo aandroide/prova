@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-06 07:23:28",
+  "last_update": "2026-01-06 08:26:51",
   "items": [
     {
       "title": "[COLOR cyan][06/01 12:30][/COLOR] [COLOR gold]Vietnam U23 vs Jordan U23[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -115,6 +115,20 @@
       "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: DE"
     },
     {
+      "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piraus[/COLOR] - [COLOR lime]Nova Sport 4[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piraus[/COLOR] - [COLOR lime]Nova Sport 4[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: GR"
+    },
+    {
       "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piraus[/COLOR] - [COLOR lime]M+ Deportes 4[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@26@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -127,20 +141,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piräus[/COLOR] - [COLOR lime]Nova Sport 4[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][06/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Olympiakos Piräus[/COLOR] - [COLOR lime]Nova Sport 4[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Jan 18:45 | Euroleague | Basketball | Lang: GR"
     },
     {
       "title": "[COLOR cyan][06/01 19:00][/COLOR] [COLOR gold]Cedevita Olimpija vs Bahcesehir Kol[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
