@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-06 12:38:42",
+  "last_update": "2026-01-06 13:35:24",
   "items": [
     {
       "title": "ITALY (48)",
@@ -66,11 +66,11 @@
       "info": "10 canali CECHIA"
     },
     {
-      "title": "INTERNAZIONALE (94)",
+      "title": "INTERNAZIONALE (92)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "94 canali INTERNAZIONALE"
+      "info": "92 canali INTERNAZIONALE"
     },
     {
       "title": "AFRICA (12)",
