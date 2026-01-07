@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-07 20:21:39",
+  "last_update": "2026-01-07 21:17:32",
   "items": [
     {
       "title": "ITALY (30)",
@@ -17,18 +17,18 @@
       "info": "78 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (24)",
+      "title": "SPAIN (14)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali SPAIN"
+      "info": "14 canali SPAIN"
     },
     {
-      "title": "GERMANY (18)",
+      "title": "GERMANY (8)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18 canali GERMANY"
+      "info": "8 canali GERMANY"
     },
     {
       "title": "FRANCE (6)",
@@ -52,11 +52,11 @@
       "info": "2 canali PORTUGAL"
     },
     {
-      "title": "SWEDEN (42)",
+      "title": "SWEDEN (28)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "42 canali SWEDEN"
+      "info": "28 canali SWEDEN"
     },
     {
       "title": "FINLAND (22)",
@@ -80,11 +80,11 @@
       "info": "2 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (70)",
+      "title": "INTERNAZIONALE (66)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "70 canali INTERNAZIONALE"
+      "info": "66 canali INTERNAZIONALE"
     },
     {
       "title": "AFRICA (12)",
