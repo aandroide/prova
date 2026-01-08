@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-08 18:24:26",
+  "last_update": "2026-01-08 19:17:11",
   "items": [
     {
       "title": "[COLOR cyan][08/01 18:30][/COLOR] [COLOR gold]Cremonese vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,118 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Jan 20:45 | Italy Serie A | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Como vs Bologna[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Como vs Bologna[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Como vs Bologna[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Como vs Bologna[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Udinese vs Pisa[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Udinese vs Pisa[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Udinese vs Pisa[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/01 15:00][/COLOR] [COLOR gold]Udinese vs Pisa[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 15:00 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/01 18:00][/COLOR] [COLOR gold]Roma vs Sassuolo[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 18:00 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/01 18:00][/COLOR] [COLOR gold]Roma vs Sassuolo[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 18:00 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/01 18:00][/COLOR] [COLOR gold]Roma vs Sassuolo[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 18:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 18:00][/COLOR] [COLOR gold]Roma vs Sassuolo[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 18:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 20:45][/COLOR] [COLOR gold]Atalanta vs Torino[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 20:45 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/01 20:45][/COLOR] [COLOR gold]Atalanta vs Torino[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 20:45 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/01 20:45][/COLOR] [COLOR gold]Atalanta vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/01 20:45][/COLOR] [COLOR gold]Atalanta vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Jan 20:45 | Italy Serie A | Football | Lang: IT"
     }
   ]
 }
