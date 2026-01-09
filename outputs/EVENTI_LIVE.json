@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-09 20:20:59",
+  "last_update": "2026-01-09 21:18:03",
   "items": [
     {
       "title": "ITALY (46)",
@@ -52,18 +52,18 @@
       "info": "10 canali PORTUGAL"
     },
     {
-      "title": "SWEDEN (28)",
+      "title": "SWEDEN (16)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28 canali SWEDEN"
+      "info": "16 canali SWEDEN"
     },
     {
-      "title": "FINLAND (24)",
+      "title": "FINLAND (22)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali FINLAND"
+      "info": "22 canali FINLAND"
     },
     {
       "title": "AUSTRALIA (8)",
@@ -73,18 +73,18 @@
       "info": "8 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (92)",
+      "title": "INTERNAZIONALE (90)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "92 canali INTERNAZIONALE"
+      "info": "90 canali INTERNAZIONALE"
     },
     {
-      "title": "AFRICA (14)",
+      "title": "AFRICA (8)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AFRICA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/africa-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14 canali AFRICA"
+      "info": "8 canali AFRICA"
     }
   ]
 }
