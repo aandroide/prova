@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-09 19:17:52",
+  "last_update": "2026-01-09 20:20:59",
   "items": [
     {
       "title": "[COLOR cyan][09/01 20:30][/COLOR] [COLOR gold]Cadiz vs Sporting Gijon[/COLOR] - [COLOR lime]LaLiga Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -253,6 +253,132 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Jan 21:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 14:00][/COLOR] [COLOR gold]Leganes vs Real Valladolid[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 14:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 14:00][/COLOR] [COLOR gold]Leganes vs Real Valladolid[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 14:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 14:00][/COLOR] [COLOR gold]Rayo Vallecano vs Mallorca[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 14:00][/COLOR] [COLOR gold]Rayo Vallecano vs Mallorca[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 16:15][/COLOR] [COLOR gold]Malaga vs Ceuta[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 16:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 16:15][/COLOR] [COLOR gold]Malaga vs Ceuta[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 16:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 16:15][/COLOR] [COLOR gold]Granada vs CD Castellon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 16:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 16:15][/COLOR] [COLOR gold]Granada vs CD Castellon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 16:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 16:15][/COLOR] [COLOR gold]Levante vs Espanyol[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 16:15][/COLOR] [COLOR gold]Levante vs Espanyol[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]ABC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]ABC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/01 20:00][/COLOR] [COLOR gold]Barcelona vs Real Madrid[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Jan 20:00 | Spain Supercopa de Espana | Football | Lang: ES"
     }
   ]
 }
