@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-09 21:18:03",
+  "last_update": "2026-01-09 22:18:20",
   "items": [
     {
       "title": "ITALY (46)",
@@ -10,25 +10,25 @@
       "info": "46 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (50)",
+      "title": "UNITED KINGDOM (44)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "50 canali UNITED KINGDOM"
+      "info": "44 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (54)",
+      "title": "SPAIN (46)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "54 canali SPAIN"
+      "info": "46 canali SPAIN"
     },
     {
-      "title": "GERMANY (54)",
+      "title": "GERMANY (38)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "54 canali GERMANY"
+      "info": "38 canali GERMANY"
     },
     {
       "title": "FRANCE (36)",
@@ -73,11 +73,11 @@
       "info": "8 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (90)",
+      "title": "INTERNAZIONALE (72)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "90 canali INTERNAZIONALE"
+      "info": "72 canali INTERNAZIONALE"
     },
     {
       "title": "AFRICA (8)",
