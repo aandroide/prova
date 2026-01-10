@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 12:34:37",
+  "last_update": "2026-01-10 13:27:11",
   "items": [
     {
       "title": "ITALY (46)",
@@ -64,13 +64,6 @@
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22 canali FINLAND"
-    },
-    {
-      "title": "AUSTRALIA (2)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "2 canali AUSTRALIA"
     },
     {
       "title": "INTERNAZIONALE (68)",
