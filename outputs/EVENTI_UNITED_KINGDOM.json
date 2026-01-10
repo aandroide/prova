@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 14:16:35",
+  "last_update": "2026-01-10 15:16:52",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 13:15][/COLOR] [COLOR gold]Macclesfield vs Crystal Palace[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 13:15 | England FA Cup | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:15][/COLOR] [COLOR gold]Macclesfield vs Crystal Palace[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 13:15 | England FA Cup | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:15][/COLOR] [COLOR gold]Everton vs Sunderland[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "10-Jan 13:15 | England FA Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:15][/COLOR] [COLOR gold]Everton vs Sunderland[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "10-Jan 13:15 | England FA Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:15][/COLOR] [COLOR gold]Everton vs Sunderland[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "10-Jan 13:15 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:15][/COLOR] [COLOR gold]Everton vs Sunderland[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "10-Jan 13:15 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:30][/COLOR] [COLOR gold]Luton Town vs Stevenage[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 13:30 | England League One | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:30][/COLOR] [COLOR gold]Luton Town vs Stevenage[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 13:30 | England League One | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:30][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Shrewsbury Town[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 13:30 | England FA Cup | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][10/01 13:30][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Shrewsbury Town[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 13:30 | England FA Cup | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][10/01 16:00][/COLOR] [COLOR gold]Leyton Orient vs Cardiff City[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@8@@US",
