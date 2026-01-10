@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 21:15:54",
+  "last_update": "2026-01-10 22:17:08",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Charlton Athletic vs Chelsea[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 21:00 | England FA Cup | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Charlton Athletic vs Chelsea[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 21:00 | England FA Cup | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Charlton Athletic vs Chelsea[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "10-Jan 21:00 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Charlton Athletic vs Chelsea[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "10-Jan 21:00 | England FA Cup | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][11/01 13:00][/COLOR] [COLOR gold]Derby County vs Leeds United[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -197,6 +169,90 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Jan 17:30 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][12/01 02:00][/COLOR] [COLOR gold]Czech Republic U18 vs USA U18[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@35@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "12-Jan 02:00 | U18 Women's World Championship | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][12/01 02:00][/COLOR] [COLOR gold]Czech Republic U18 vs USA U18[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@35@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "12-Jan 02:00 | U18 Women's World Championship | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@73@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:45][/COLOR] [COLOR gold]Liverpool vs Barnsley[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@73@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 20:45 | England FA Cup | Football | Lang: SE"
     }
   ]
 }

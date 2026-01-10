@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 21:15:54",
+  "last_update": "2026-01-10 22:17:08",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Groningen vs NAC Breda[/COLOR] - [COLOR lime]ESPN 2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "10-Jan 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Groningen vs NAC Breda[/COLOR] - [COLOR lime]ESPN 2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "10-Jan 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][11/01 00:00][/COLOR] [COLOR gold]Guadalajara vs Pachuca[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@40@@ES",
@@ -351,6 +337,90 @@
       "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
       "info": "11-Jan 20:00 | Greece Super League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][12/01 17:30][/COLOR] [COLOR gold]Saudi Arabia U23 vs Vietnam U23[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 17:30 | Asia AFC U-23 Asian Cup | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/01 17:30][/COLOR] [COLOR gold]Saudi Arabia U23 vs Vietnam U23[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 17:30 | Asia AFC U-23 Asian Cup | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/01 17:30][/COLOR] [COLOR gold]Jordan U23 vs Kyrgyz Republic U23[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 17:30 | Asia AFC U-23 Asian Cup | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][12/01 17:30][/COLOR] [COLOR gold]Jordan U23 vs Kyrgyz Republic U23[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 17:30 | Asia AFC U-23 Asian Cup | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][12/01 18:30][/COLOR] [COLOR gold]Al Hilal vs Al Nassr[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "12-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][12/01 18:30][/COLOR] [COLOR gold]Al Hilal vs Al Nassr[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "12-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][12/01 18:30][/COLOR] [COLOR gold]Al Hilal vs Al Nassr[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@97@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][12/01 18:30][/COLOR] [COLOR gold]Al Hilal vs Al Nassr[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@97@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:00][/COLOR] [COLOR gold]PSV II vs Oss[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@88@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "12-Jan 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:00][/COLOR] [COLOR gold]PSV II vs Oss[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@88@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "12-Jan 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:00][/COLOR] [COLOR gold]AZ II vs Ajax II[/COLOR] - [COLOR lime]ESPN 2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@89@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "12-Jan 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][12/01 20:00][/COLOR] [COLOR gold]AZ II vs Ajax II[/COLOR] - [COLOR lime]ESPN 2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@89@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "12-Jan 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
     }
   ]
 }
