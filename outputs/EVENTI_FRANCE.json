@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 16:20:49",
+  "last_update": "2026-01-10 17:15:06",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Orleans vs Monaco[/COLOR] - [COLOR lime]beIN Sports MAX 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Orleans vs Monaco[/COLOR] - [COLOR lime]beIN Sports MAX 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Orleans vs Monaco[/COLOR] - [COLOR lime]FOX Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Orleans vs Monaco[/COLOR] - [COLOR lime]FOX Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Montreuil vs Amiens SC[/COLOR] - [COLOR lime]beIN Sports MAX 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@55@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Montreuil vs Amiens SC[/COLOR] - [COLOR lime]beIN Sports MAX 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@55@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Angers SCO vs Toulouse[/COLOR] - [COLOR lime]beIN Sports MAX 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@56@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Angers SCO vs Toulouse[/COLOR] - [COLOR lime]beIN Sports MAX 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@56@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Bastia vs Troyes[/COLOR] - [COLOR lime]beIN Sports MAX 7[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@57@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 15:30][/COLOR] [COLOR gold]Bastia vs Troyes[/COLOR] - [COLOR lime]beIN Sports MAX 7[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@57@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 15:30 | France Coupe de France | Football | Lang: FR"
-    },
     {
       "title": "[COLOR cyan][10/01 18:00][/COLOR] [COLOR gold]Avranches vs Strasbourg[/COLOR] - [COLOR lime]beIN Sports MAX 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@54@@FR",
