@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 20:18:54",
+  "last_update": "2026-01-10 21:15:54",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]PSV vs Excelsior[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "10-Jan 20:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]PSV vs Excelsior[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "10-Jan 20:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Groningen vs NAC Breda[/COLOR] - [COLOR lime]ESPN 2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@89@@NL",
@@ -183,20 +169,6 @@
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "11-Jan 12:15 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][11/01 12:15][/COLOR] [COLOR gold]Roda JC vs VVV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "11-Jan 12:15 | Netherlands Eerste Divisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][11/01 12:15][/COLOR] [COLOR gold]Roda JC vs VVV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "11-Jan 12:15 | Netherlands Eerste Divisie | Football | Lang: NL"
     },
     {
       "title": "[COLOR cyan][11/01 14:30][/COLOR] [COLOR gold]Go Ahead Eagles vs Fortuna Sittard[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
