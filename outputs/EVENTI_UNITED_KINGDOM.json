@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 19:13:31",
+  "last_update": "2026-01-10 20:18:54",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Tottenham Hotspur vs Aston Villa[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "10-Jan 18:45 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Tottenham Hotspur vs Aston Villa[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "10-Jan 18:45 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Tottenham Hotspur vs Aston Villa[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:45 | England FA Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Tottenham Hotspur vs Aston Villa[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:45 | England FA Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Cambridge United vs Birmingham City[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:45 | England FA Cup | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Cambridge United vs Birmingham City[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:45 | England FA Cup | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][10/01 21:00][/COLOR] [COLOR gold]Charlton Athletic vs Chelsea[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@10@@CA",

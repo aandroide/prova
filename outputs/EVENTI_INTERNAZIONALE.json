@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 19:13:31",
+  "last_update": "2026-01-10 20:18:54",
   "items": [
-    {
-      "title": "[COLOR cyan][10/01 18:30][/COLOR] [COLOR gold]Galatasaray vs Fenerbahce[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:30 | Turkey Super Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:30][/COLOR] [COLOR gold]Galatasaray vs Fenerbahce[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:30 | Turkey Super Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:30][/COLOR] [COLOR gold]Panaitolikos vs PAOK[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "10-Jan 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:30][/COLOR] [COLOR gold]Panaitolikos vs PAOK[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "10-Jan 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:30][/COLOR] [COLOR gold]Atromitos vs Olympiakos Piraeus[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:30][/COLOR] [COLOR gold]Atromitos vs Olympiakos Piraeus[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Twente vs PEC Zwolle[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@90@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "10-Jan 18:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][10/01 18:45][/COLOR] [COLOR gold]Twente vs PEC Zwolle[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@90@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "10-Jan 18:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]PSV vs Excelsior[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@88@@NL",
