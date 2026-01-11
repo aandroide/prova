@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-11 11:14:52",
+  "last_update": "2026-01-11 12:35:29",
   "items": [
-    {
-      "title": "[COLOR cyan][11/01 08:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "11-Jan 08:30 | ATP | Tennis | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/01 08:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "11-Jan 08:30 | ATP | Tennis | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/01 09:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "11-Jan 09:30 | ATP | Tennis | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/01 09:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "11-Jan 09:30 | ATP | Tennis | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/01 09:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]Sky Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Jan 09:30 | United Cup | Tennis | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/01 09:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]Sky Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Jan 09:30 | United Cup | Tennis | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/01 09:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]TSN4[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@34@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "11-Jan 09:30 | United Cup | Tennis | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][11/01 09:30][/COLOR] [COLOR gold]Hong Kong Open[/COLOR] - [COLOR lime]TSN4[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@34@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "11-Jan 09:30 | United Cup | Tennis | Lang: CA"
-    },
     {
       "title": "[COLOR cyan][11/01 12:15][/COLOR] [COLOR gold]Heerenveen vs Feyenoord[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",

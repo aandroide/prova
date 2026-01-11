@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-11 11:14:52",
+  "last_update": "2026-01-11 12:35:29",
   "items": [
     {
       "title": "ITALY (50)",
@@ -59,11 +59,18 @@
       "info": "6 canali FINLAND"
     },
     {
-      "title": "INTERNAZIONALE (94)",
+      "title": "CECHIA (8)",
+      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
+      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "8 canali CECHIA"
+    },
+    {
+      "title": "INTERNAZIONALE (86)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "94 canali INTERNAZIONALE"
+      "info": "86 canali INTERNAZIONALE"
     }
   ]
 }
