@@ -1,13 +1,13 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-11 21:16:03",
+  "last_update": "2026-01-11 22:17:19",
   "items": [
     {
-      "title": "ITALY (28)",
+      "title": "ITALY (20)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/it-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28 canali ITALY"
+      "info": "20 canali ITALY"
     },
     {
       "title": "UNITED KINGDOM (32)",
@@ -31,18 +31,18 @@
       "info": "22 canali GERMANY"
     },
     {
-      "title": "FRANCE (14)",
+      "title": "FRANCE (10)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14 canali FRANCE"
+      "info": "10 canali FRANCE"
     },
     {
-      "title": "USA (98)",
+      "title": "USA (92)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "98 canali USA"
+      "info": "92 canali USA"
     },
     {
       "title": "PORTUGAL (4)",
@@ -66,11 +66,11 @@
       "info": "8 canali CECHIA"
     },
     {
-      "title": "INTERNAZIONALE (56)",
+      "title": "INTERNAZIONALE (54)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "56 canali INTERNAZIONALE"
+      "info": "54 canali INTERNAZIONALE"
     }
   ]
 }
