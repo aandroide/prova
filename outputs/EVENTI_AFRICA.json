@@ -1,34 +1,90 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 20:18:54",
+  "last_update": "2026-01-12 20:21:26",
   "items": [
     {
-      "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]Egypt vs Cote d'Ivoire[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][14/01 18:00][/COLOR] [COLOR gold]Senegal vs Egypt[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 18:00 | Africa Africa Cup of Nations | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][14/01 18:00][/COLOR] [COLOR gold]Senegal vs Egypt[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 18:00 | Africa Africa Cup of Nations | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][14/01 18:00][/COLOR] [COLOR gold]Senegal vs Egypt[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@39@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 20:00 | Africa Africa Cup of Nations | Football | Lang: US"
+      "info": "14-Jan 18:00 | Africa Africa Cup of Nations | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]Egypt vs Cote d'Ivoire[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][14/01 18:00][/COLOR] [COLOR gold]Senegal vs Egypt[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@39@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 20:00 | Africa Africa Cup of Nations | Football | Lang: US"
+      "info": "14-Jan 18:00 | Africa Africa Cup of Nations | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]Egypt vs Cote d'Ivoire[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@52@@FR",
+      "title": "[COLOR cyan][14/01 18:00][/COLOR] [COLOR gold]Senegal vs Egypt[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 20:00 | Africa Africa Cup of Nations | Football | Lang: FR"
+      "info": "14-Jan 18:00 | Africa Africa Cup of Nations | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][10/01 20:00][/COLOR] [COLOR gold]Egypt vs Cote d'Ivoire[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@52@@FR",
+      "title": "[COLOR cyan][14/01 18:00][/COLOR] [COLOR gold]Senegal vs Egypt[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 20:00 | Africa Africa Cup of Nations | Football | Lang: FR"
+      "info": "14-Jan 18:00 | Africa Africa Cup of Nations | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Nigeria vs Morocco[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Africa Africa Cup of Nations | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Nigeria vs Morocco[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Africa Africa Cup of Nations | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Nigeria vs Morocco[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Africa Africa Cup of Nations | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Nigeria vs Morocco[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Africa Africa Cup of Nations | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Nigeria vs Morocco[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Africa Africa Cup of Nations | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Nigeria vs Morocco[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Africa Africa Cup of Nations | Football | Lang: FR"
     }
   ]
 }

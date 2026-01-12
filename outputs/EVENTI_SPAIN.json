@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-12 18:29:06",
+  "last_update": "2026-01-12 20:21:25",
   "items": [
     {
       "title": "[COLOR cyan][12/01 20:30][/COLOR] [COLOR gold]Huesca vs Cordoba[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -127,6 +127,62 @@
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
       "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: BR"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Deportivo Alaves vs Rayo Vallecano[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Deportivo Alaves vs Rayo Vallecano[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Real Betis vs Elche[/COLOR] - [COLOR lime]Prima Sport 5[/COLOR] [COLOR orange][ro][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@RO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: RO"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Real Betis vs Elche[/COLOR] - [COLOR lime]Prima Sport 5[/COLOR] [COLOR orange][ro][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@RO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: RO"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Albacete vs Real Madrid[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Albacete vs Real Madrid[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Albacete vs Real Madrid[/COLOR] - [COLOR lime]Eleven Sports 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@63@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Albacete vs Real Madrid[/COLOR] - [COLOR lime]Eleven Sports 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@63@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Jan 21:00 | Spain Copa del Rey | Football | Lang: PL"
     }
   ]
 }
