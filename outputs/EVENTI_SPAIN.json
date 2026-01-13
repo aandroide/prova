@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-13 21:18:13",
+  "last_update": "2026-01-13 22:19:00",
   "items": [
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Real Sociedad vs Osasuna[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Real Sociedad vs Osasuna[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Deportivo La Coruna vs Atletico Madrid[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@22@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Deportivo La Coruna vs Atletico Madrid[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@22@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Cultural Leonesa vs Athletic Club[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Cultural Leonesa vs Athletic Club[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Cultural Leonesa vs Athletic Club[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][br][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@27@@BR",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: BR"
-    },
-    {
-      "title": "[COLOR cyan][13/01 21:00][/COLOR] [COLOR gold]Cultural Leonesa vs Athletic Club[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][br][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@27@@BR",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "13-Jan 21:00 | Spain Copa del Rey | Football | Lang: BR"
-    },
     {
       "title": "[COLOR cyan][14/01 21:00][/COLOR] [COLOR gold]Deportivo Alaves vs Rayo Vallecano[/COLOR] - [COLOR lime]M+ LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@26@@ES",
