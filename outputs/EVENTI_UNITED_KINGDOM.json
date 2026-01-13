@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-13 19:18:41",
+  "last_update": "2026-01-13 20:21:23",
   "items": [
     {
       "title": "[COLOR cyan][13/01 20:00][/COLOR] [COLOR gold]Bolton Wanderers vs Port Vale[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -309,6 +309,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Jan 20:30 | European Championship | Handball | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][16/01 21:00][/COLOR] [COLOR gold]West Bromwich Albion vs Middlesbrough[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Jan 21:00 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/01 21:00][/COLOR] [COLOR gold]West Bromwich Albion vs Middlesbrough[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Jan 21:00 | England Championship | Football | Lang: GB"
     }
   ]
 }

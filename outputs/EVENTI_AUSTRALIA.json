@@ -1,20 +1,62 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-10 12:34:37",
+  "last_update": "2026-01-13 20:21:23",
   "items": [
     {
-      "title": "[COLOR cyan][10/01 11:45][/COLOR] [COLOR gold]Perth Glory vs Central Coast Mariners[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
+      "title": "[COLOR cyan][16/01 09:35][/COLOR] [COLOR gold]Melbourne City vs Auckland[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 11:45 | Australia A-League | Football | Lang: DE"
+      "info": "16-Jan 09:35 | Australia A-League | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][10/01 11:45][/COLOR] [COLOR gold]Perth Glory vs Central Coast Mariners[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
+      "title": "[COLOR cyan][16/01 09:35][/COLOR] [COLOR gold]Melbourne City vs Auckland[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Jan 11:45 | Australia A-League | Football | Lang: DE"
+      "info": "16-Jan 09:35 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/01 09:35][/COLOR] [COLOR gold]Melbourne City vs Auckland[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "16-Jan 09:35 | Australia A-League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][16/01 09:35][/COLOR] [COLOR gold]Melbourne City vs Auckland[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "16-Jan 09:35 | Australia A-League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][16/01 11:45][/COLOR] [COLOR gold]Perth Glory vs Brisbane Roar[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Jan 11:45 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/01 11:45][/COLOR] [COLOR gold]Perth Glory vs Brisbane Roar[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Jan 11:45 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/01 11:45][/COLOR] [COLOR gold]Perth Glory vs Brisbane Roar[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "16-Jan 11:45 | Australia A-League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][16/01 11:45][/COLOR] [COLOR gold]Perth Glory vs Brisbane Roar[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "16-Jan 11:45 | Australia A-League | Football | Lang: NZ"
     }
   ]
 }
