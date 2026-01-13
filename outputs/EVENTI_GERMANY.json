@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-13 10:20:46",
+  "last_update": "2026-01-13 11:17:51",
   "items": [
     {
       "title": "[COLOR cyan][13/01 18:30][/COLOR] [COLOR gold]Stuttgart vs Eintracht Frankfurt[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -295,6 +295,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Jan 20:30 | Germany Bundesliga | Football | Lang: AL"
+    },
+    {
+      "title": "[COLOR cyan][15/01 19:30][/COLOR] [COLOR gold]Schwenninger vs Eisbaren Berlin[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 19:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/01 19:30][/COLOR] [COLOR gold]Schwenninger vs Eisbaren Berlin[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 19:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/01 20:30][/COLOR] [COLOR gold]Augsburg vs Union Berlin[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 20:30 | Germany Bundesliga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/01 20:30][/COLOR] [COLOR gold]Augsburg vs Union Berlin[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 20:30 | Germany Bundesliga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/01 20:30][/COLOR] [COLOR gold]Augsburg vs Union Berlin[/COLOR] - [COLOR lime]Tring Sport 2[/COLOR] [COLOR orange][al][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@AL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 20:30 | Germany Bundesliga | Football | Lang: AL"
+    },
+    {
+      "title": "[COLOR cyan][15/01 20:30][/COLOR] [COLOR gold]Augsburg vs Union Berlin[/COLOR] - [COLOR lime]Tring Sport 2[/COLOR] [COLOR orange][al][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@AL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 20:30 | Germany Bundesliga | Football | Lang: AL"
+    },
+    {
+      "title": "[COLOR cyan][15/01 20:30][/COLOR] [COLOR gold]Augsburg vs Union Berlin[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@68@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 20:30 | Germany Bundesliga | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/01 20:30][/COLOR] [COLOR gold]Augsburg vs Union Berlin[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@68@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Jan 20:30 | Germany Bundesliga | Football | Lang: SE"
     }
   ]
 }
