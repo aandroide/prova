@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-14 20:18:44",
+  "last_update": "2026-01-14 21:19:32",
   "items": [
-    {
-      "title": "[COLOR cyan][14/01 19:45][/COLOR] [COLOR gold]Fafe vs Sporting Braga[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "14-Jan 19:45 | Portugal Taca de Portugal | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][14/01 19:45][/COLOR] [COLOR gold]Fafe vs Sporting Braga[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "14-Jan 19:45 | Portugal Taca de Portugal | Football | Lang: PT"
-    },
     {
       "title": "[COLOR cyan][14/01 21:45][/COLOR] [COLOR gold]Porto vs Benfica[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
@@ -57,6 +43,118 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "16-Jan 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 12:00][/COLOR] [COLOR gold]Farense vs UD Oliveirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 12:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 12:00][/COLOR] [COLOR gold]Farense vs UD Oliveirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 12:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 12:00][/COLOR] [COLOR gold]Felgueiras 1932 vs Leixoes[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 12:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 12:00][/COLOR] [COLOR gold]Felgueiras 1932 vs Leixoes[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 12:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 16:30][/COLOR] [COLOR gold]Gil Vicente vs Nacional[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 16:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 16:30][/COLOR] [COLOR gold]Gil Vicente vs Nacional[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 16:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Alverca vs Moreirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Alverca vs Moreirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]AVS vs Arouca[/COLOR] - [COLOR lime]Sport TV6[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]AVS vs Arouca[/COLOR] - [COLOR lime]Sport TV6[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Benfica II vs Chaves[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@25@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Benfica II vs Chaves[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@25@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 21:30][/COLOR] [COLOR gold]Rio Ave vs Benfica[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Jan 21:30 | Portugal Primeira Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][17/01 21:30][/COLOR] [COLOR gold]Rio Ave vs Benfica[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Jan 21:30 | Portugal Primeira Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][17/01 21:30][/COLOR] [COLOR gold]Rio Ave vs Benfica[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 21:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][17/01 21:30][/COLOR] [COLOR gold]Rio Ave vs Benfica[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 21:30 | Portugal Primeira Liga | Football | Lang: PT"
     }
   ]
 }
