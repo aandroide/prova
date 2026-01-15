@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-15 01:23:28",
+  "last_update": "2026-01-15 03:28:39",
   "items": [
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Toronto Raptors vs Indiana Pacers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Jan 01:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Toronto Raptors vs Indiana Pacers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Jan 01:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Cleveland Cavaliers vs Philadelphia 76ers[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "15-Jan 01:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Cleveland Cavaliers vs Philadelphia 76ers[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "15-Jan 01:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Cleveland Cavaliers vs Philadelphia 76ers[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Jan 01:00 | NBA | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Cleveland Cavaliers vs Philadelphia 76ers[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Jan 01:00 | NBA | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Seattle Kraken vs New Jersey Devils[/COLOR] - [COLOR lime]V Sport Extra[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@77@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Jan 01:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][15/01 01:00][/COLOR] [COLOR gold]Seattle Kraken vs New Jersey Devils[/COLOR] - [COLOR lime]V Sport Extra[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@77@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Jan 01:00 | NHL | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][15/01 01:30][/COLOR] [COLOR gold]Philadelphia Flyers vs Buffalo Sabres[/COLOR] - [COLOR lime]TVA Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@8@@US",
