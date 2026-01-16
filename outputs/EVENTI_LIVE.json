@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-16 18:28:08",
+  "last_update": "2026-01-16 19:18:22",
   "items": [
     {
       "title": "ITALY (60)",
@@ -66,11 +66,11 @@
       "info": "42 canali FINLAND"
     },
     {
-      "title": "CECHIA (30)",
+      "title": "CECHIA (28)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30 canali CECHIA"
+      "info": "28 canali CECHIA"
     },
     {
       "title": "AUSTRALIA (12)",
