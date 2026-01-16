@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-16 17:21:55",
+  "last_update": "2026-01-16 18:28:08",
   "items": [
     {
       "title": "[COLOR cyan][16/01 19:00][/COLOR] [COLOR gold]Monaco vs Lorient[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -157,6 +157,20 @@
       "info": "16-Jan 21:00 | France Ligue 1 | Football | Lang: SE"
     },
     {
+      "title": "[COLOR cyan][16/01 21:00][/COLOR] [COLOR gold]PSG vs Lille[/COLOR] - [COLOR lime]Fox One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Jan 21:00 | France Ligue 1 | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][16/01 21:00][/COLOR] [COLOR gold]PSG vs Lille[/COLOR] - [COLOR lime]Fox One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Jan 21:00 | France Ligue 1 | Football | Lang: MX"
+    },
+    {
       "title": "[COLOR cyan][17/01 14:00][/COLOR] [COLOR gold]Troyes vs Reims[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -284,14 +298,14 @@
     },
     {
       "title": "[COLOR cyan][18/01 15:00][/COLOR] [COLOR gold]Strasbourg vs Metz[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "myresolve": "sansat@@56@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Jan 15:00 | France Ligue 1 | Football | Lang: FR"
     },
     {
       "title": "[COLOR cyan][18/01 15:00][/COLOR] [COLOR gold]Strasbourg vs Metz[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "myresolve": "sansat@@56@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Jan 15:00 | France Ligue 1 | Football | Lang: FR"
@@ -353,6 +367,20 @@
       "info": "18-Jan 17:15 | France Ligue 1 | Football | Lang: FR"
     },
     {
+      "title": "[COLOR cyan][18/01 17:15][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@56@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Jan 17:15 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/01 17:15][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@56@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Jan 17:15 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Olympique Lyonnais vs Brest[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -368,14 +396,14 @@
     },
     {
       "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Olympique Lyonnais vs Brest[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "myresolve": "sansat@@56@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Jan 20:45 | France Ligue 1 | Football | Lang: FR"
     },
     {
       "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Olympique Lyonnais vs Brest[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "myresolve": "sansat@@56@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Jan 20:45 | France Ligue 1 | Football | Lang: FR"
