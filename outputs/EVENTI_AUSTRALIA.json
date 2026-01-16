@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-16 16:24:43",
+  "last_update": "2026-01-16 17:21:55",
   "items": [
     {
       "title": "[COLOR cyan][17/01 07:00][/COLOR] [COLOR gold]Western Sydney Wanderers vs Newcastle Jets[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -71,6 +71,20 @@
       "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
       "info": "17-Jan 09:35 | Australia A-League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][18/01 07:00][/COLOR] [COLOR gold]Sydney FC vs Wellington Phoenix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Jan 07:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/01 07:00][/COLOR] [COLOR gold]Sydney FC vs Wellington Phoenix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Jan 07:00 | Australia A-League | Football | Lang: GB"
     }
   ]
 }
