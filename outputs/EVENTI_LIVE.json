@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-17 16:19:57",
+  "last_update": "2026-01-17 17:15:02",
   "items": [
     {
       "title": "ITALY (46)",
@@ -10,25 +10,25 @@
       "info": "46 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (82)",
+      "title": "UNITED KINGDOM (30)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "82 canali UNITED KINGDOM"
+      "info": "30 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (44)",
+      "title": "SPAIN (46)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "44 canali SPAIN"
+      "info": "46 canali SPAIN"
     },
     {
-      "title": "GERMANY (72)",
+      "title": "GERMANY (52)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "72 canali GERMANY"
+      "info": "52 canali GERMANY"
     },
     {
       "title": "FRANCE (30)",
@@ -59,11 +59,11 @@
       "info": "18 canali SWEDEN"
     },
     {
-      "title": "FINLAND (20)",
+      "title": "FINLAND (18)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20 canali FINLAND"
+      "info": "18 canali FINLAND"
     },
     {
       "title": "CECHIA (16)",
