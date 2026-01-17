@@ -1,20 +1,20 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-17 19:13:12",
+  "last_update": "2026-01-17 20:19:16",
   "items": [
     {
-      "title": "ITALY (36)",
+      "title": "ITALY (50)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/it-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "36 canali ITALY"
+      "info": "50 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (30)",
+      "title": "UNITED KINGDOM (52)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30 canali UNITED KINGDOM"
+      "info": "52 canali UNITED KINGDOM"
     },
     {
       "title": "SPAIN (40)",
@@ -24,46 +24,39 @@
       "info": "40 canali SPAIN"
     },
     {
-      "title": "GERMANY (50)",
+      "title": "GERMANY (42)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "50 canali GERMANY"
+      "info": "42 canali GERMANY"
     },
     {
-      "title": "FRANCE (26)",
+      "title": "FRANCE (24)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "26 canali FRANCE"
+      "info": "24 canali FRANCE"
     },
     {
-      "title": "USA (78)",
+      "title": "USA (124)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "78 canali USA"
+      "info": "124 canali USA"
     },
     {
-      "title": "PORTUGAL (16)",
+      "title": "PORTUGAL (20)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16 canali PORTUGAL"
+      "info": "20 canali PORTUGAL"
     },
     {
-      "title": "SWEDEN (12)",
+      "title": "SWEDEN (4)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12 canali SWEDEN"
-    },
-    {
-      "title": "FINLAND (2)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "2 canali FINLAND"
+      "info": "4 canali SWEDEN"
     },
     {
       "title": "CECHIA (16)",
@@ -80,11 +73,11 @@
       "info": "2 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (84)",
+      "title": "INTERNAZIONALE (108)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "84 canali INTERNAZIONALE"
+      "info": "108 canali INTERNAZIONALE"
     },
     {
       "title": "AFRICA (6)",

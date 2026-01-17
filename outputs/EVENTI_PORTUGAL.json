@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-17 19:13:12",
+  "last_update": "2026-01-17 20:19:16",
   "items": [
-    {
-      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Alverca vs Moreirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Alverca vs Moreirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]AVS vs Arouca[/COLOR] - [COLOR lime]Sport TV6[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]AVS vs Arouca[/COLOR] - [COLOR lime]Sport TV6[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/1ajyjo1700902708.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "17-Jan 19:00 | Portugal Primeira Liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Benfica II vs Chaves[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@25@@PT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][17/01 19:00][/COLOR] [COLOR gold]Benfica II vs Chaves[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@25@@PT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
-    },
     {
       "title": "[COLOR cyan][17/01 21:30][/COLOR] [COLOR gold]Rio Ave vs Benfica[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
@@ -113,6 +71,76 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "18-Jan 21:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 14:30][/COLOR] [COLOR gold]Estoril U23 vs Portimonense U23[/COLOR] - [COLOR lime]Canal 11[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Jan 14:30 | Portugal Liga Revelacao | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 14:30][/COLOR] [COLOR gold]Estoril U23 vs Portimonense U23[/COLOR] - [COLOR lime]Canal 11[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Jan 14:30 | Portugal Liga Revelacao | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 16:30][/COLOR] [COLOR gold]Leixoes U23 vs Sporting Braga U23[/COLOR] - [COLOR lime]Canal 11[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Jan 16:30 | Portugal Liga Revelacao | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 16:30][/COLOR] [COLOR gold]Leixoes U23 vs Sporting Braga U23[/COLOR] - [COLOR lime]Canal 11[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Jan 16:30 | Portugal Liga Revelacao | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 19:00][/COLOR] [COLOR gold]Feirense vs Porto II[/COLOR] - [COLOR lime]Sport TV4[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "19-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 19:00][/COLOR] [COLOR gold]Feirense vs Porto II[/COLOR] - [COLOR lime]Sport TV4[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "19-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 19:00][/COLOR] [COLOR gold]Sporting CP II vs Torreense[/COLOR] - [COLOR lime]Sporting TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 19:00][/COLOR] [COLOR gold]Sporting CP II vs Torreense[/COLOR] - [COLOR lime]Sporting TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 21:15][/COLOR] [COLOR gold]Estrela vs Estoril[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "19-Jan 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][19/01 21:15][/COLOR] [COLOR gold]Estrela vs Estoril[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "19-Jan 21:15 | Portugal Primeira Liga | Football | Lang: PT"
     }
   ]
 }
