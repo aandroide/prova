@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-17 05:17:57",
+  "last_update": "2026-01-17 06:26:45",
   "items": [
     {
       "title": "[COLOR cyan][17/01 13:30][/COLOR] [COLOR gold]Manchester United vs Manchester City[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -185,6 +185,20 @@
       "info": "17-Jan 16:00 | England Premier League | Football | Lang: NZ"
     },
     {
+      "title": "[COLOR cyan][17/01 16:00][/COLOR] [COLOR gold]Chelsea vs Brentford[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@24@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 16:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][17/01 16:00][/COLOR] [COLOR gold]Chelsea vs Brentford[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@24@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 16:00 | England Premier League | Football | Lang: ES"
+    },
+    {
       "title": "[COLOR cyan][17/01 16:00][/COLOR] [COLOR gold]Chelsea vs Brentford[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@53@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -211,6 +225,20 @@
       "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
       "info": "17-Jan 16:00 | England Premier League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][17/01 16:00][/COLOR] [COLOR gold]Tottenham Hotspur vs West Ham United[/COLOR] - [COLOR lime]DAZN4[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@25@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 16:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][17/01 16:00][/COLOR] [COLOR gold]Tottenham Hotspur vs West Ham United[/COLOR] - [COLOR lime]DAZN4[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@25@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "17-Jan 16:00 | England Premier League | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][17/01 16:00][/COLOR] [COLOR gold]Tottenham Hotspur vs West Ham United[/COLOR] - [COLOR lime]Now Premier League 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
