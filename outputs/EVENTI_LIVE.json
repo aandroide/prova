@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-18 16:21:00",
+  "last_update": "2026-01-18 17:14:55",
   "items": [
     {
       "title": "ITALY (30)",
@@ -24,11 +24,11 @@
       "info": "28 canali SPAIN"
     },
     {
-      "title": "GERMANY (24)",
+      "title": "GERMANY (18)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali GERMANY"
+      "info": "18 canali GERMANY"
     },
     {
       "title": "FRANCE (16)",
@@ -66,11 +66,11 @@
       "info": "4 canali FINLAND"
     },
     {
-      "title": "CECHIA (14)",
+      "title": "CECHIA (12)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14 canali CECHIA"
+      "info": "12 canali CECHIA"
     },
     {
       "title": "AUSTRALIA (4)",
@@ -87,11 +87,11 @@
       "info": "102 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (114)",
+      "title": "INTERNAZIONALE (112)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "114 canali INTERNAZIONALE"
+      "info": "112 canali INTERNAZIONALE"
     },
     {
       "title": "AFRICA (8)",
