@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-18 21:15:40",
+  "last_update": "2026-01-18 22:17:04",
   "items": [
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@68@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][18/01 20:45][/COLOR] [COLOR gold]Milan vs Lecce[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@68@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 20:45 | Italy Serie A | Football | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][19/01 18:30][/COLOR] [COLOR gold]Cremonese vs Verona[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@18@@DE",
