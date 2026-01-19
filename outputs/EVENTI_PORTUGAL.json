@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-19 18:28:03",
+  "last_update": "2026-01-19 19:17:29",
   "items": [
     {
       "title": "[COLOR cyan][19/01 19:00][/COLOR] [COLOR gold]Feirense vs Porto II[/COLOR] - [COLOR lime]Sport TV4[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -43,6 +43,20 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "19-Jan 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 19:00][/COLOR] [COLOR gold]Uniao de Leiria vs Vizela[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "21-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 19:00][/COLOR] [COLOR gold]Uniao de Leiria vs Vizela[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "21-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
     }
   ]
 }

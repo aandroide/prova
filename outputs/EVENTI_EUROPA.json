@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-19 18:28:03",
+  "last_update": "2026-01-19 19:17:29",
   "items": [
     {
       "title": "[COLOR cyan][20/01 16:30][/COLOR] [COLOR gold]Kairat vs Club Brugge[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -715,6 +715,608 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "20-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Galatasaray vs Atletico Madrid[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]TNT Sports 9[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]TNT Sports 9[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Qarabag vs Eintracht Frankfurt[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]M. Liga de Campeones 5[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@95@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]M. Liga de Campeones 5[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@95@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]Sky Sport 257[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]Sky Sport 257[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]Canal+ Live 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@56@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]Canal+ Live 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@56@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]M. Liga de Campeones 9[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@93@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Newcastle United vs PSV[/COLOR] - [COLOR lime]M. Liga de Campeones 9[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@93@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]Sky Sport 256[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]Sky Sport 256[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]Canal+ Live 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@55@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]Canal+ Live 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@55@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]M. Liga de Campeones 8[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Chelsea vs Paphos[/COLOR] - [COLOR lime]M. Liga de Campeones 8[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]Sport TV5[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]Sport TV5[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]M. Liga de Campeones 6[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]M. Liga de Campeones 6[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Juventus vs Benfica[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]TNT Sports 6[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]TNT Sports 6[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]FOX One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Slavia Praha vs Barcelona[/COLOR] - [COLOR lime]FOX One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]TNT Sports 7[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]TNT Sports 7[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]M. Liga de Campeones 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]M. Liga de Campeones 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]Canal+ Live 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Bayern Munchen vs Union Saint-Gilloise[/COLOR] - [COLOR lime]Canal+ Live 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]TNT Sports 8[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]TNT Sports 8[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]Canal+ Live 7[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@57@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Atalanta vs Athletic Club[/COLOR] - [COLOR lime]Canal+ Live 7[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@57@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
     }
   ]
 }
