@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-19 19:17:29",
+  "last_update": "2026-01-19 20:20:48",
   "items": [
     {
       "title": "[COLOR cyan][20/01 16:30][/COLOR] [COLOR gold]Kairat vs Club Brugge[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -129,18 +129,18 @@
       "info": "20-Jan 18:45 | Europe UEFA Champions League | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][20/01 18:45][/COLOR] [COLOR gold]Bodø / Glimt vs Manchester City[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][20/01 18:45][/COLOR] [COLOR gold]Bodø / Glimt vs Manchester City[/COLOR] - [COLOR lime]Fox Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Jan 18:45 | Europe UEFA Champions League | Football | Lang: MX"
+      "info": "20-Jan 18:45 | Europe UEFA Champions League | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][20/01 18:45][/COLOR] [COLOR gold]Bodø / Glimt vs Manchester City[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][20/01 18:45][/COLOR] [COLOR gold]Bodø / Glimt vs Manchester City[/COLOR] - [COLOR lime]Fox Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Jan 18:45 | Europe UEFA Champions League | Football | Lang: MX"
+      "info": "20-Jan 18:45 | Europe UEFA Champions League | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][20/01 21:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Borussia Dortmund[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -297,18 +297,18 @@
       "info": "20-Jan 21:00 | Europe UEFA Champions League | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][20/01 21:00][/COLOR] [COLOR gold]Real Madrid vs Monaco[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][20/01 21:00][/COLOR] [COLOR gold]Real Madrid vs Monaco[/COLOR] - [COLOR lime]ESPN Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Jan 21:00 | Europe UEFA Champions League | Football | Lang: MX"
+      "info": "20-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][20/01 21:00][/COLOR] [COLOR gold]Real Madrid vs Monaco[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][20/01 21:00][/COLOR] [COLOR gold]Real Madrid vs Monaco[/COLOR] - [COLOR lime]ESPN Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Jan 21:00 | Europe UEFA Champions League | Football | Lang: MX"
+      "info": "20-Jan 21:00 | Europe UEFA Champions League | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][20/01 21:00][/COLOR] [COLOR gold]Internazionale vs Arsenal[/COLOR] - [COLOR lime]Amazon Prime Video[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -841,6 +841,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][21/01 18:45][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "21-Jan 18:45 | Europe UEFA Champions League | Football | Lang: GR"
     },
     {
       "title": "[COLOR cyan][21/01 21:00][/COLOR] [COLOR gold]Olympique Marseille vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
