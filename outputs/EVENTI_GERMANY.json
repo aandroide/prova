@@ -1,34 +1,20 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-18 20:19:30",
+  "last_update": "2026-01-20 18:31:24",
   "items": [
     {
-      "title": "[COLOR cyan][18/01 19:00][/COLOR] [COLOR gold]Bremerhaven vs Schwenninger[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@100@@DE",
+      "title": "[COLOR cyan][22/01 19:30][/COLOR] [COLOR gold]Adler Mannheim vs Grizzly Wolfsburg[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 19:00 | Germany DEL | Hockey | Lang: DE"
+      "info": "22-Jan 19:30 | Germany DEL | Basketball | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][18/01 19:00][/COLOR] [COLOR gold]Bremerhaven vs Schwenninger[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@100@@DE",
+      "title": "[COLOR cyan][22/01 19:30][/COLOR] [COLOR gold]Adler Mannheim vs Grizzly Wolfsburg[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 19:00 | Germany DEL | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][18/01 19:30][/COLOR] [COLOR gold]Havelse vs Hoffenheim II[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@95@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 19:30 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][18/01 19:30][/COLOR] [COLOR gold]Havelse vs Hoffenheim II[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@95@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Jan 19:30 | Germany 3. Liga | Football | Lang: DE"
+      "info": "22-Jan 19:30 | Germany DEL | Basketball | Lang: DE"
     }
   ]
 }
