@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-20 16:31:40",
+  "last_update": "2026-01-20 17:26:36",
   "items": [
     {
       "title": "UNITED KINGDOM (34)",
@@ -52,11 +52,11 @@
       "info": "190 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (76)",
+      "title": "INTERNAZIONALE (74)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "76 canali INTERNAZIONALE"
+      "info": "74 canali INTERNAZIONALE"
     }
   ]
 }
