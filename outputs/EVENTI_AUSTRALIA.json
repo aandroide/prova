@@ -1,20 +1,34 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-20 11:21:22",
+  "last_update": "2026-01-21 17:51:43",
   "items": [
     {
-      "title": "[COLOR cyan][20/01 09:00][/COLOR] [COLOR gold]Australian Open[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
+      "title": "[COLOR cyan][23/01 09:35][/COLOR] [COLOR gold]Newcastle Jets vs Wellington Phoenix[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Jan 09:00 | Australian Open | Tennis | Lang: ES"
+      "info": "23-Jan 09:35 | Australia A-League | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][20/01 09:00][/COLOR] [COLOR gold]Australian Open[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
+      "title": "[COLOR cyan][23/01 09:35][/COLOR] [COLOR gold]Newcastle Jets vs Wellington Phoenix[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Jan 09:00 | Australian Open | Tennis | Lang: ES"
+      "info": "23-Jan 09:35 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][23/01 09:35][/COLOR] [COLOR gold]Newcastle Jets vs Wellington Phoenix[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Jan 09:35 | Australia A-League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][23/01 09:35][/COLOR] [COLOR gold]Newcastle Jets vs Wellington Phoenix[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Jan 09:35 | Australia A-League | Football | Lang: DE"
     }
   ]
 }
