@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-23 10:21:34",
+  "last_update": "2026-01-23 11:18:14",
   "items": [
     {
       "title": "ITALY (24)",
@@ -73,11 +73,11 @@
       "info": "10 canali CECHIA"
     },
     {
-      "title": "AUSTRALIA (12)",
+      "title": "AUSTRALIA (8)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12 canali AUSTRALIA"
+      "info": "8 canali AUSTRALIA"
     },
     {
       "title": "EUROPA (6)",
