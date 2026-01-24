@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-24 16:21:02",
+  "last_update": "2026-01-24 17:15:15",
   "items": [
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Motherwell vs Kilmarnock[/COLOR] - [COLOR lime]Motherwell TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Motherwell vs Kilmarnock[/COLOR] - [COLOR lime]Motherwell TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Dundee United vs St Mirren[/COLOR] - [COLOR lime]Dundee United[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@3@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Dundee United vs St Mirren[/COLOR] - [COLOR lime]Dundee United[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@3@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Aberdeen vs Livingston[/COLOR] - [COLOR lime]Livingston TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@4@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Aberdeen vs Livingston[/COLOR] - [COLOR lime]Livingston TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@4@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Volos NFC[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "24-Jan 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Volos NFC[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "24-Jan 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Falkirk vs Hibernian[/COLOR] - [COLOR lime]Hibs TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@41@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][24/01 16:00][/COLOR] [COLOR gold]Falkirk vs Hibernian[/COLOR] - [COLOR lime]Hibs TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@41@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][24/01 16:30][/COLOR] [COLOR gold]Ajax vs Volendam[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
