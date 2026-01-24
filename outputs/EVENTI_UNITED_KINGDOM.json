@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-24 19:14:41",
+  "last_update": "2026-01-24 20:18:51",
   "items": [
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@55@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@55@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]AFC Bournemouth vs Liverpool[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | England Premier League | Football | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][24/01 20:30][/COLOR] [COLOR gold]Germany vs Norway[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@95@@SE",

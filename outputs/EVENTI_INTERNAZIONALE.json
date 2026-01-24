@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-24 19:14:41",
+  "last_update": "2026-01-24 20:18:51",
   "items": [
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]Asteras Tripolis vs AEK Athens[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]Asteras Tripolis vs AEK Athens[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]NEOM vs Al-Ahli[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]NEOM vs Al-Ahli[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]NEOM vs Al-Ahli[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:30][/COLOR] [COLOR gold]NEOM vs Al-Ahli[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:45][/COLOR] [COLOR gold]NEC vs PEC Zwolle[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@90@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "24-Jan 18:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][24/01 18:45][/COLOR] [COLOR gold]NEC vs PEC Zwolle[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@90@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "24-Jan 18:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][24/01 19:00][/COLOR] [COLOR gold]Larissa vs Panserraikos[/COLOR] - [COLOR lime]Cosmote Sport 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "24-Jan 19:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][24/01 19:00][/COLOR] [COLOR gold]Larissa vs Panserraikos[/COLOR] - [COLOR lime]Cosmote Sport 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "24-Jan 19:00 | Greece Super League | Football | Lang: GR"
-    },
     {
       "title": "[COLOR cyan][24/01 20:00][/COLOR] [COLOR gold]PSV vs NAC Breda[/COLOR] - [COLOR lime]ESPN 2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@89@@NL",
