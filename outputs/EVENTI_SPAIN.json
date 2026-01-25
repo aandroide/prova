@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-25 06:27:46",
+  "last_update": "2026-01-25 07:19:30",
   "items": [
     {
       "title": "[COLOR cyan][25/01 14:00][/COLOR] [COLOR gold]Atletico Madrid vs Mallorca[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -45,6 +45,20 @@
       "info": "25-Jan 14:00 | Spain Segunda Division | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][25/01 14:00][/COLOR] [COLOR gold]Atlético Madrid vs Mallorca[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@58@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Jan 14:00 | Spain La Liga | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][25/01 14:00][/COLOR] [COLOR gold]Atlético Madrid vs Mallorca[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@58@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Jan 14:00 | Spain La Liga | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][25/01 16:15][/COLOR] [COLOR gold]Barcelona vs Real Oviedo[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@6@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -57,6 +71,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "25-Jan 16:15 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][25/01 16:15][/COLOR] [COLOR gold]Barcelona vs Real Oviedo[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@58@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Jan 16:15 | Spain La Liga | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][25/01 16:15][/COLOR] [COLOR gold]Barcelona vs Real Oviedo[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@58@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Jan 16:15 | Spain La Liga | Football | Lang: FR"
     },
     {
       "title": "[COLOR cyan][25/01 16:15][/COLOR] [COLOR gold]Barcelona vs Real Oviedo[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",

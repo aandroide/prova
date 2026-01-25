@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-25 06:27:46",
+  "last_update": "2026-01-25 07:19:30",
   "items": [
     {
       "title": "ITALY (30)",
@@ -17,11 +17,11 @@
       "info": "54 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (30)",
+      "title": "SPAIN (34)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30 canali SPAIN"
+      "info": "34 canali SPAIN"
     },
     {
       "title": "GERMANY (36)",
