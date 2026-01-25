@@ -308,7 +308,7 @@ def generate_country_jsons(events, mandrakodi_channels):
         for ch in event_channels:
             total_channels += 1
             channel_name = ch.get('name', '')
-            channel_language = ch.get('language', '').upper()
+            channel_language = (ch.get('language') or '').upper()
             
             # Estrai TUTTI i link disponibili
             all_links = extract_all_links(ch)
