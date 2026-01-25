@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-25 03:51:25",
+  "last_update": "2026-01-25 04:49:54",
   "items": [
-    {
-      "title": "[COLOR cyan][25/01 02:00][/COLOR] [COLOR gold]Boston Celtics vs Chicago Bulls[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@3@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:00][/COLOR] [COLOR gold]Boston Celtics vs Chicago Bulls[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@3@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:00][/COLOR] [COLOR gold]Los Angeles Kings vs St. Louis Blues[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:00][/COLOR] [COLOR gold]Los Angeles Kings vs St. Louis Blues[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:30][/COLOR] [COLOR gold]Los Angeles Lakers vs Dallas Mavericks[/COLOR] - [COLOR lime]ABC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:30 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:30][/COLOR] [COLOR gold]Los Angeles Lakers vs Dallas Mavericks[/COLOR] - [COLOR lime]ABC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:30 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:30][/COLOR] [COLOR gold]Los Angeles Lakers vs Dallas Mavericks[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:30 | NBA | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/01 02:30][/COLOR] [COLOR gold]Los Angeles Lakers vs Dallas Mavericks[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Jan 02:30 | NBA | Basketball | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][25/01 03:00][/COLOR] [COLOR gold]Miami Heat vs Utah Jazz[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@4@@US",
