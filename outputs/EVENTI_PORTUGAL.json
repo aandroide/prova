@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-26 19:21:05",
+  "last_update": "2026-01-26 20:23:27",
   "items": [
-    {
-      "title": "[COLOR cyan][26/01 19:00][/COLOR] [COLOR gold]Uniao de Leiria vs Sporting CP II[/COLOR] - [COLOR lime]Sport TV4[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "26-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][26/01 19:00][/COLOR] [COLOR gold]Uniao de Leiria vs Sporting CP II[/COLOR] - [COLOR lime]Sport TV4[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/wzqgsk1700902680.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "26-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
-    },
     {
       "title": "[COLOR cyan][26/01 21:15][/COLOR] [COLOR gold]Porto vs Gil Vicente[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
@@ -43,6 +29,20 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "26-Jan 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/01 19:00][/COLOR] [COLOR gold]Benfica II vs Lusitania FC Lourosa[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/01 19:00][/COLOR] [COLOR gold]Benfica II vs Lusitania FC Lourosa[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Jan 19:00 | Portugal Segunda liga | Football | Lang: PT"
     }
   ]
 }
