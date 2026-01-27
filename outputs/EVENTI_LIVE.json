@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-27 16:26:45",
+  "last_update": "2026-01-27 17:25:34",
   "items": [
     {
       "title": "ITALY (6)",
@@ -10,11 +10,11 @@
       "info": "6 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (52)",
+      "title": "UNITED KINGDOM (48)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "52 canali UNITED KINGDOM"
+      "info": "48 canali UNITED KINGDOM"
     },
     {
       "title": "GERMANY (22)",
