@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-27 19:23:54",
+  "last_update": "2026-01-27 20:20:12",
   "items": [
     {
       "title": "[COLOR cyan][27/01 20:30][/COLOR] [COLOR gold]Sweden vs Hungary[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -110,20 +110,6 @@
     {
       "title": "[COLOR cyan][27/01 20:45][/COLOR] [COLOR gold]Wycombe Wanderers vs Wigan Athletic[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@36@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 20:45 | England League One | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][27/01 20:45][/COLOR] [COLOR gold]Port Vale vs AFC Wimbledon[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@37@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 20:45 | England League One | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][27/01 20:45][/COLOR] [COLOR gold]Port Vale vs AFC Wimbledon[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@37@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "27-Jan 20:45 | England League One | Football | Lang: GB"
@@ -309,6 +295,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Jan 20:30 | European Championship | Handball | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][30/01 18:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 18:00 | European Championship | Handball | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][30/01 18:00][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 18:00 | European Championship | Handball | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:30 | European Championship | Handball | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:30][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:30 | European Championship | Handball | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:45][/COLOR] [COLOR gold]Scarlets vs Benetton[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:45 | United Rugby Championship | Rugby | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:45][/COLOR] [COLOR gold]Scarlets vs Benetton[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:45 | United Rugby Championship | Rugby | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][30/01 21:00][/COLOR] [COLOR gold]Bristol City vs Derby County[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 21:00 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][30/01 21:00][/COLOR] [COLOR gold]Bristol City vs Derby County[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 21:00 | England Championship | Football | Lang: GB"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-27 19:23:54",
+  "last_update": "2026-01-27 20:20:12",
   "items": [
     {
       "title": "[COLOR cyan][28/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1359,6 +1359,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:00][/COLOR] [COLOR gold]Al Hilal Omdurman vs Mamelodi Sundowns[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@SA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:00 | Africa CAF Champions League | Football | Lang: SA"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:00][/COLOR] [COLOR gold]Al Hilal Omdurman vs Mamelodi Sundowns[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@SA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:00 | Africa CAF Champions League | Football | Lang: SA"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:00][/COLOR] [COLOR gold]Al Hilal Omdurman vs Mamelodi Sundowns[/COLOR] - [COLOR lime]beIN Sports 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:00 | Africa CAF Champions League | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][30/01 20:00][/COLOR] [COLOR gold]Al Hilal Omdurman vs Mamelodi Sundowns[/COLOR] - [COLOR lime]beIN Sports 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Jan 20:00 | Africa CAF Champions League | Hockey | Lang: US"
     }
   ]
 }
