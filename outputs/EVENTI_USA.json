@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-27 03:45:20",
+  "last_update": "2026-01-27 04:43:53",
   "items": [
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Portland Trail Blazers vs Boston Celtics[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@4@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Portland Trail Blazers vs Boston Celtics[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@4@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Los Angeles Lakers vs Chicago Bulls[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Los Angeles Lakers vs Chicago Bulls[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Memphis Grizzlies vs Houston Rockets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@6@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Memphis Grizzlies vs Houston Rockets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@6@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Anaheim Ducks vs Edmonton Oilers[/COLOR] - [COLOR lime]Sky Top Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NHL | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Anaheim Ducks vs Edmonton Oilers[/COLOR] - [COLOR lime]Sky Top Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NHL | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Anaheim Ducks vs Edmonton Oilers[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@76@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][27/01 02:00][/COLOR] [COLOR gold]Anaheim Ducks vs Edmonton Oilers[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@76@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Jan 02:00 | NHL | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][27/01 03:30][/COLOR] [COLOR gold]Golden State Warriors vs Minnesota Timberwolves[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@7@@US",
