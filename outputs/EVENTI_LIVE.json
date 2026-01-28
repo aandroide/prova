@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-28 04:41:36",
+  "last_update": "2026-01-28 05:25:10",
   "items": [
     {
       "title": "ITALY (6)",
@@ -38,11 +38,11 @@
       "info": "18 canali FRANCE"
     },
     {
-      "title": "USA (106)",
+      "title": "USA (102)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "106 canali USA"
+      "info": "102 canali USA"
     },
     {
       "title": "PORTUGAL (6)",
