@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-28 14:26:40",
+  "last_update": "2026-01-28 16:32:34",
   "items": [
     {
       "title": "[COLOR cyan][28/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1037,6 +1037,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Bologna[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Bologna[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: IT"
     },
     {
       "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",

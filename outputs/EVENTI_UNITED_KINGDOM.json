@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-28 14:26:40",
+  "last_update": "2026-01-28 16:32:34",
   "items": [
-    {
-      "title": "[COLOR cyan][28/01 15:30][/COLOR] [COLOR gold]Spain vs Portugal[/COLOR] - [COLOR lime]RTP1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Jan 15:30 | European Championship | Handball | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][28/01 15:30][/COLOR] [COLOR gold]Spain vs Portugal[/COLOR] - [COLOR lime]RTP1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Jan 15:30 | European Championship | Handball | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][28/01 15:30][/COLOR] [COLOR gold]Spain vs Portugal[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@80@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Jan 15:30 | European Championship | Handball | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][28/01 15:30][/COLOR] [COLOR gold]Spain vs Portugal[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@80@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Jan 15:30 | European Championship | Handball | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][28/01 15:30][/COLOR] [COLOR gold]Slovenia vs Iceland[/COLOR] - [COLOR lime]Ziggo Sport 4[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/ca0zut1728726639.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "28-Jan 15:30 | European Championship | Handball | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][28/01 15:30][/COLOR] [COLOR gold]Slovenia vs Iceland[/COLOR] - [COLOR lime]Ziggo Sport 4[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/ca0zut1728726639.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "28-Jan 15:30 | European Championship | Handball | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][28/01 18:00][/COLOR] [COLOR gold]Germany vs France[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@11@@DE",
