@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-29 15:32:39",
+  "last_update": "2026-01-29 16:39:56",
   "items": [
     {
       "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Aston Villa vs Salzburg[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -225,6 +225,20 @@
       "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-3-385.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
       "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Panathinaikos vs Roma[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Panathinaikos vs Roma[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Jan 21:00 | Europe UEFA Europa League | Football | Lang: IT"
     },
     {
       "title": "[COLOR cyan][29/01 21:00][/COLOR] [COLOR gold]Panathinaikos vs Roma[/COLOR] - [COLOR lime]Canal+ Live 8[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
