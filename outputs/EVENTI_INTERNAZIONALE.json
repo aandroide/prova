@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-29 19:28:10",
+  "last_update": "2026-01-29 20:26:41",
   "items": [
-    {
-      "title": "[COLOR cyan][29/01 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al Hilal[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "29-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al Hilal[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "29-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al Hilal[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al Hilal[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Jan 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Anadolu Efes[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Jan 18:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Anadolu Efes[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Jan 18:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Anadolu Efes[/COLOR] - [COLOR lime]M+ Deportes 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Jan 18:45 | Euroleague | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][29/01 18:45][/COLOR] [COLOR gold]Fenerbahce vs Anadolu Efes[/COLOR] - [COLOR lime]M+ Deportes 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Jan 18:45 | Euroleague | Basketball | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][29/01 20:05][/COLOR] [COLOR gold]Hapoel Tel-Aviv vs FC Bayern Munchen[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@13@@DE",
