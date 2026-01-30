@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-30 14:33:30",
+  "last_update": "2026-01-30 16:35:29",
   "items": [
     {
       "title": "[COLOR cyan][30/01 18:00][/COLOR] [COLOR gold]Karlovy Vary vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,76 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Jan 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 13:00][/COLOR] [COLOR gold]Slovacko vs Banik Ostrava[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 13:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 13:00][/COLOR] [COLOR gold]Slovacko vs Banik Ostrava[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 13:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 15:00][/COLOR] [COLOR gold]Sparta Praha vs Ceske Budejovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 15:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 15:00][/COLOR] [COLOR gold]Sparta Praha vs Ceske Budejovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 15:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 15:30][/COLOR] [COLOR gold]Karvina vs Viktoria Plzen[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 15:30 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 15:30][/COLOR] [COLOR gold]Karvina vs Viktoria Plzen[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 15:30 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 15:30][/COLOR] [COLOR gold]Slovan Liberec vs Zlin[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 15:30 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 15:30][/COLOR] [COLOR gold]Slovan Liberec vs Zlin[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 15:30 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 18:30][/COLOR] [COLOR gold]FK Pardubice vs Slavia Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 18:30 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 18:30][/COLOR] [COLOR gold]FK Pardubice vs Slavia Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 18:30 | Czech Republic 1. liga | Football | Lang: CZ"
     }
   ]
 }

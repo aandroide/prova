@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-30 14:33:30",
+  "last_update": "2026-01-30 16:35:29",
   "items": [
     {
       "title": "[COLOR cyan][31/01 07:00][/COLOR] [COLOR gold]Newcastle Jets vs Brisbane Roar[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Jan 11:45 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/02 04:30][/COLOR] [COLOR gold]Tasmania JackJumpers vs NZ Breakers[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "01-Feb 04:30 | Australia NBL | Basketball | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 04:30][/COLOR] [COLOR gold]Tasmania JackJumpers vs NZ Breakers[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "01-Feb 04:30 | Australia NBL | Basketball | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 06:30][/COLOR] [COLOR gold]Cairns Taipans vs Sydney Kings[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "01-Feb 06:30 | Australia NBL | Basketball | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 06:30][/COLOR] [COLOR gold]Cairns Taipans vs Sydney Kings[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "01-Feb 06:30 | Australia NBL | Basketball | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 07:00][/COLOR] [COLOR gold]Central Coast Mariners vs Melbourne Victory[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 07:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/02 07:00][/COLOR] [COLOR gold]Central Coast Mariners vs Melbourne Victory[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Feb 07:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/02 08:30][/COLOR] [COLOR gold]Bendigo Spirit vs Perth Lynx[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "01-Feb 08:30 | Australia Women WNBL | Basketball | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][01/02 08:30][/COLOR] [COLOR gold]Bendigo Spirit vs Perth Lynx[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "01-Feb 08:30 | Australia Women WNBL | Basketball | Lang: NZ"
     }
   ]
 }
