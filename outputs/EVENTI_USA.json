@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-30 05:43:18",
+  "last_update": "2026-01-30 06:43:34",
   "items": [
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs Seattle Kraken[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs Seattle Kraken[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs Seattle Kraken[/COLOR] - [COLOR lime]V Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Toronto Maple Leafs vs Seattle Kraken[/COLOR] - [COLOR lime]V Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Anaheim Ducks vs Vancouver Canucks[/COLOR] - [COLOR lime]Sportsnet Pacific[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@35@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Anaheim Ducks vs Vancouver Canucks[/COLOR] - [COLOR lime]Sportsnet Pacific[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@35@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Anaheim Ducks vs Vancouver Canucks[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@77@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Anaheim Ducks vs Vancouver Canucks[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@77@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Dallas Stars vs Vegas Golden Knights[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@76@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][30/01 04:00][/COLOR] [COLOR gold]Dallas Stars vs Vegas Golden Knights[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@76@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Jan 04:00 | NHL | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][31/01 01:00][/COLOR] [COLOR gold]Los Angeles Lakers vs Washington Wizards[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@US",
