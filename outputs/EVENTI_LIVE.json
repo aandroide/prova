@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-30 22:21:43",
+  "last_update": "2026-01-30 23:22:07",
   "items": [
     {
       "title": "ITALY (44)",
@@ -45,11 +45,11 @@
       "info": "92 canali USA"
     },
     {
-      "title": "PORTUGAL (22)",
+      "title": "PORTUGAL (20)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22 canali PORTUGAL"
+      "info": "20 canali PORTUGAL"
     },
     {
       "title": "SWEDEN (16)",
