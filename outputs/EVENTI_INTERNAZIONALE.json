@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-31 16:23:51",
+  "last_update": "2026-01-31 17:20:55",
   "items": [
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]St. Mirren vs Dundee[/COLOR] - [COLOR lime]Dundee TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]St. Mirren vs Dundee[/COLOR] - [COLOR lime]Dundee TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]Kilmarnock vs Aberdeen[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]Kilmarnock vs Aberdeen[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]Panaitolikos vs Aris[/COLOR] - [COLOR lime]Cosmote Sport 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "31-Jan 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]Panaitolikos vs Aris[/COLOR] - [COLOR lime]Cosmote Sport 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "31-Jan 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]Livingston vs Motherwell[/COLOR] - [COLOR lime]Motherwell TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/01 16:00][/COLOR] [COLOR gold]Livingston vs Motherwell[/COLOR] - [COLOR lime]Motherwell TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][31/01 16:30][/COLOR] [COLOR gold]AZ vs NEC[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
@@ -1095,14 +1039,14 @@
       "info": "02-Feb 21:00 | Caribbean Series | Baseball | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][02/02 21:30][/COLOR] [COLOR gold]Rosario Central vs River Plate[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][02/02 21:30][/COLOR] [COLOR gold]Gimnasia La Plata vs Aldosivi[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@27@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Feb 21:30 | Argentina Primera Division | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][02/02 21:30][/COLOR] [COLOR gold]Rosario Central vs River Plate[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][02/02 21:30][/COLOR] [COLOR gold]Gimnasia La Plata vs Aldosivi[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@27@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
