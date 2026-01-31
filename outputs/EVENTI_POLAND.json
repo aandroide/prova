@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-31 05:36:20",
+  "last_update": "2026-01-31 06:34:43",
   "items": [
     {
       "title": "[COLOR cyan][31/01 14:45][/COLOR] [COLOR gold]Gornik Zabrze vs Piast Gliwice[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Feb 17:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][02/02 19:00][/COLOR] [COLOR gold]Nieciecza vs Cracovia Krakow[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][02/02 19:00][/COLOR] [COLOR gold]Nieciecza vs Cracovia Krakow[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
     }
   ]
 }
