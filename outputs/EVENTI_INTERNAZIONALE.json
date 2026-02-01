@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-01-31 23:18:57",
+  "last_update": "2026-02-01 02:03:24",
   "items": [
-    {
-      "title": "[COLOR cyan][31/01 23:00][/COLOR] [COLOR gold]America vs Necaxa[/COLOR] - [COLOR lime]Univision[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@19@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 23:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/01 23:00][/COLOR] [COLOR gold]America vs Necaxa[/COLOR] - [COLOR lime]Univision[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@19@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 23:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/01 23:45][/COLOR] [COLOR gold]Independiente vs Velez Sarsfield[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 23:45 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/01 23:45][/COLOR] [COLOR gold]Independiente vs Velez Sarsfield[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Jan 23:45 | Argentina Primera Division | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][01/02 00:00][/COLOR] [COLOR gold]Shakur Stevenson vs Teofimo Lopez[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@8@@US",
@@ -43,34 +15,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Feb 00:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][01/02 00:00][/COLOR] [COLOR gold]Atletico San Luis vs Guadalajara[/COLOR] - [COLOR lime]ESPN Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 00:00 | Mexico Liga MX | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][01/02 00:00][/COLOR] [COLOR gold]Atletico San Luis vs Guadalajara[/COLOR] - [COLOR lime]ESPN Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 00:00 | Mexico Liga MX | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][01/02 00:10][/COLOR] [COLOR gold]Cook Out Clash at Bowman Gray Stadium[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "01-Feb 00:10 | NASCAR Cup Series | Motorsport | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][01/02 00:10][/COLOR] [COLOR gold]Cook Out Clash at Bowman Gray Stadium[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "01-Feb 00:10 | NASCAR Cup Series | Motorsport | Lang: US"
     },
     {
       "title": "[COLOR cyan][01/02 01:00][/COLOR] [COLOR gold]Oban Elliott vs Jonathan Micallef[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
