@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-01 12:42:02",
+  "last_update": "2026-02-01 13:40:37",
   "items": [
-    {
-      "title": "[COLOR cyan][01/02 12:30][/COLOR] [COLOR gold]Torino vs Lecce[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 12:30 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:30][/COLOR] [COLOR gold]Torino vs Lecce[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 12:30 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:30][/COLOR] [COLOR gold]Torino vs Lecce[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "01-Feb 12:30 | Italy Serie A | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:30][/COLOR] [COLOR gold]Torino vs Lecce[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "01-Feb 12:30 | Italy Serie A | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:30][/COLOR] [COLOR gold]Torino vs Lecce[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 12:30 | Italy Serie A | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:30][/COLOR] [COLOR gold]Torino vs Lecce[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 12:30 | Italy Serie A | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][01/02 15:00][/COLOR] [COLOR gold]Como vs Atalanta[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
@@ -239,6 +197,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Feb 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][03/02 20:45][/COLOR] [COLOR gold]Bologna vs Milan[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 20:45 | Italy Serie A | Football | Lang: IT"
     }
   ]
 }

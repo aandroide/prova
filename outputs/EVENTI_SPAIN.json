@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-01 12:42:02",
+  "last_update": "2026-02-01 13:40:37",
   "items": [
-    {
-      "title": "[COLOR cyan][01/02 12:00][/COLOR] [COLOR gold]Levante Las Planas vs Eibar[/COLOR] - [COLOR lime]DAZN3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "01-Feb 12:00 | Spain Primera Division Femenina | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:00][/COLOR] [COLOR gold]Levante Las Planas vs Eibar[/COLOR] - [COLOR lime]DAZN3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "01-Feb 12:00 | Spain Primera Division Femenina | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:00][/COLOR] [COLOR gold]Deportivo de La Coruna vs Real Madrid[/COLOR] - [COLOR lime]Ellas Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 12:00 | Spain Primera Division Femenina | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][01/02 12:00][/COLOR] [COLOR gold]Deportivo de La Coruna vs Real Madrid[/COLOR] - [COLOR lime]Ellas Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 12:00 | Spain Primera Division Femenina | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][01/02 13:00][/COLOR] [COLOR gold]UD Tenerife vs Real Sociedad[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@29@@ES",
@@ -309,6 +281,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/02 21:00][/COLOR] [COLOR gold]Albacete vs Barcelona[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 21:00 | Spain Copa del Rey | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/02 21:00][/COLOR] [COLOR gold]Albacete vs Barcelona[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 21:00 | Spain Copa del Rey | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/02 21:00][/COLOR] [COLOR gold]Albacete vs Barcelona[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Feb 21:00 | Spain Copa del Rey | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/02 21:00][/COLOR] [COLOR gold]Albacete vs Barcelona[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Feb 21:00 | Spain Copa del Rey | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/02 21:00][/COLOR] [COLOR gold]Albacete vs Barcelona[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/02 21:00][/COLOR] [COLOR gold]Albacete vs Barcelona[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Feb 21:00 | Spain Copa del Rey | Football | Lang: ES"
     }
   ]
 }
