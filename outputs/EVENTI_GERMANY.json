@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-01 18:29:57",
+  "last_update": "2026-02-01 19:22:06",
   "items": [
-    {
-      "title": "[COLOR cyan][01/02 17:30][/COLOR] [COLOR gold]Borussia Dortmund vs Heidenheim[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@17@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "01-Feb 17:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][01/02 17:30][/COLOR] [COLOR gold]Borussia Dortmund vs Heidenheim[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@17@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "01-Feb 17:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][01/02 17:30][/COLOR] [COLOR gold]Borussia Dortmund vs Heidenheim[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 17:30 | Germany Bundesliga | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][01/02 17:30][/COLOR] [COLOR gold]Borussia Dortmund vs Heidenheim[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Feb 17:30 | Germany Bundesliga | Football | Lang: MX"
-    },
     {
       "title": "[COLOR cyan][01/02 18:30][/COLOR] [COLOR gold]RB Leipzig vs Eintracht Frankfurt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@100@@DE",
