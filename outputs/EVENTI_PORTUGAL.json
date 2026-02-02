@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-02 15:35:27",
+  "last_update": "2026-02-02 16:36:16",
   "items": [
     {
       "title": "[COLOR cyan][02/02 19:45][/COLOR] [COLOR gold]AVS vs Sporting Braga[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -43,6 +43,34 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "02-Feb 21:45 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][04/02 21:15][/COLOR] [COLOR gold]Fafe vs Torreense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "04-Feb 21:15 | Portugal Taca de Portugal | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][04/02 21:15][/COLOR] [COLOR gold]Fafe vs Torreense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "04-Feb 21:15 | Portugal Taca de Portugal | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][04/02 21:15][/COLOR] [COLOR gold]Fafe vs Torreense[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Feb 21:15 | Portugal Taca de Portugal | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][04/02 21:15][/COLOR] [COLOR gold]Fafe vs Torreense[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "04-Feb 21:15 | Portugal Taca de Portugal | Football | Lang: US"
     }
   ]
 }
