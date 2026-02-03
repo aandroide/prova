@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-03 14:03:04",
+  "last_update": "2026-02-03 15:45:29",
   "items": [
-    {
-      "title": "[COLOR cyan][03/02 14:00][/COLOR] [COLOR gold]AZ U19 vs Borussia Dortmund U19[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@16@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Feb 14:00 | Europe UEFA Youth League | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][03/02 14:00][/COLOR] [COLOR gold]AZ U19 vs Borussia Dortmund U19[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@16@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Feb 14:00 | Europe UEFA Youth League | Football | Lang: AT"
-    },
     {
       "title": "[COLOR cyan][03/02 16:00][/COLOR] [COLOR gold]Real Madrid U19 vs Marseille U19[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@16@@AT",
@@ -45,18 +31,18 @@
       "info": "03-Feb 16:00 | Europe UEFA Youth League | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][03/02 16:00][/COLOR] [COLOR gold]Club Brugge U19 vs Monaco U19[/COLOR] - [COLOR lime]SYN Sport[/COLOR] [COLOR orange][ic][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@69@@IC",
+      "title": "[COLOR cyan][03/02 16:00][/COLOR] [COLOR gold]Club Brugge U19 vs Monaco U19[/COLOR] - [COLOR lime]SYN Sport[/COLOR] [COLOR orange][is][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@69@@IS",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Feb 16:00 | Europe UEFA Youth League | Football | Lang: IC"
+      "info": "03-Feb 16:00 | Europe UEFA Youth League | Football | Lang: IS"
     },
     {
-      "title": "[COLOR cyan][03/02 16:00][/COLOR] [COLOR gold]Club Brugge U19 vs Monaco U19[/COLOR] - [COLOR lime]SYN Sport[/COLOR] [COLOR orange][ic][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@69@@IC",
+      "title": "[COLOR cyan][03/02 16:00][/COLOR] [COLOR gold]Club Brugge U19 vs Monaco U19[/COLOR] - [COLOR lime]SYN Sport[/COLOR] [COLOR orange][is][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@69@@IS",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Feb 16:00 | Europe UEFA Youth League | Football | Lang: IC"
+      "info": "03-Feb 16:00 | Europe UEFA Youth League | Football | Lang: IS"
     },
     {
       "title": "[COLOR cyan][03/02 16:30][/COLOR] [COLOR gold]Zilina U19 vs Liverpool U19[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
