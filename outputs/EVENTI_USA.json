@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-03 17:50:52",
+  "last_update": "2026-02-03 18:52:54",
   "items": [
     {
       "title": "[COLOR cyan][04/02 01:00][/COLOR] [COLOR gold]Denver Nuggets vs Detroit Pistons[/COLOR] - [COLOR lime]Altitude[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -379,6 +379,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "05-Feb 01:00 | NHL | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][05/02 01:00][/COLOR] [COLOR gold]Boston Bruins vs Florida Panthers[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 01:00 | NHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][05/02 01:00][/COLOR] [COLOR gold]Boston Bruins vs Florida Panthers[/COLOR] - [COLOR lime]V Sport Vinter[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 01:00 | NHL | Hockey | Lang: SE"
     },
     {
       "title": "[COLOR cyan][05/02 01:00][/COLOR] [COLOR gold]Montreal Canadiens vs Winnipeg Jets[/COLOR] - [COLOR lime]Sportsnet Ontario[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
