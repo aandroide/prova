@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-04 15:39:29",
+  "last_update": "2026-02-04 16:42:26",
   "items": [
     {
       "title": "[COLOR cyan][04/02 21:00][/COLOR] [COLOR gold]Manchester City vs Newcastle United[/COLOR] - [COLOR lime]Sky Sports Main Event[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -43,6 +43,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Feb 21:00 | England League Cup | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][04/02 21:00][/COLOR] [COLOR gold]Manchester City vs Newcastle United[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][br][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@BR",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "04-Feb 21:00 | England League Cup | Football | Lang: BR"
+    },
+    {
+      "title": "[COLOR cyan][04/02 21:00][/COLOR] [COLOR gold]Manchester City vs Newcastle United[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][br][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@BR",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "04-Feb 21:00 | England League Cup | Football | Lang: BR"
     },
     {
       "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Accrington Stanley vs Salford City[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
