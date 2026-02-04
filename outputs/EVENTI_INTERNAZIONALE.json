@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-04 01:49:05",
+  "last_update": "2026-02-04 04:09:20",
   "items": [
-    {
-      "title": "[COLOR cyan][04/02 01:00][/COLOR] [COLOR gold]Forge vs Tigres UANL[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 01:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/02 01:00][/COLOR] [COLOR gold]Forge vs Tigres UANL[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 01:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/02 01:30][/COLOR] [COLOR gold]The Strongest vs Deportivo Tachira[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 01:30 | South America Copa Libertadores | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/02 01:30][/COLOR] [COLOR gold]The Strongest vs Deportivo Tachira[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 01:30 | South America Copa Libertadores | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/02 01:30][/COLOR] [COLOR gold]The Strongest vs Deportivo Tachira[/COLOR] - [COLOR lime]beIN Sports en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/02 01:30][/COLOR] [COLOR gold]The Strongest vs Deportivo Tachira[/COLOR] - [COLOR lime]beIN Sports en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/02 03:00][/COLOR] [COLOR gold]Olimpia vs America[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 03:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/02 03:00][/COLOR] [COLOR gold]Olimpia vs America[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 03:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][04/02 03:00][/COLOR] [COLOR gold]Olimpia vs America[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Feb 03:00 | North America CONCACAF Champions Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/02 03:00][/COLOR] [COLOR gold]Olimpia vs America[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Feb 03:00 | North America CONCACAF Champions Cup | Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][04/02 05:00][/COLOR] [COLOR gold]San Diego vs Pumas UNAM[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@30@@ES",
