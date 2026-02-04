@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-04 17:42:45",
+  "last_update": "2026-02-04 18:43:39",
   "items": [
-    {
-      "title": "[COLOR cyan][04/02 17:30][/COLOR] [COLOR gold]Asteras Tripolis vs Olympiakos Piraeus[/COLOR] - [COLOR lime]Nova Sports 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 17:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][04/02 17:30][/COLOR] [COLOR gold]Asteras Tripolis vs Olympiakos Piraeus[/COLOR] - [COLOR lime]Nova Sports 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Feb 17:30 | Greece Super League | Football | Lang: GR"
-    },
     {
       "title": "[COLOR cyan][04/02 18:00][/COLOR] [COLOR gold]Lietkabelis vs Panionios[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@99@@DE",
@@ -861,14 +847,14 @@
       "myresolve": "sansat@@87@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 02:00 | Mexico Liga MX Femenil | Hockey | Lang: ES"
+      "info": "06-Feb 02:00 | Mexico Liga MX Femenil | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][06/02 02:00][/COLOR] [COLOR gold]Tigres UANL vs Cruz Azul[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@87@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 02:00 | Mexico Liga MX Femenil | Hockey | Lang: ES"
+      "info": "06-Feb 02:00 | Mexico Liga MX Femenil | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][06/02 13:30][/COLOR] [COLOR gold]One Friday Fights[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -897,6 +883,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Feb 14:15 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][06/02 14:40][/COLOR] [COLOR gold]Czech Republic vs Switzerland[/COLOR] - [COLOR lime]Eurosport 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "06-Feb 14:40 | Women Olympic Games | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][06/02 14:40][/COLOR] [COLOR gold]Czech Republic vs Switzerland[/COLOR] - [COLOR lime]Eurosport 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "06-Feb 14:40 | Women Olympic Games | Hockey | Lang: FI"
     },
     {
       "title": "[COLOR cyan][06/02 16:45][/COLOR] [COLOR gold]CSKA Sofia vs Arda[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
