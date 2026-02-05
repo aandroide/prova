@@ -1,7 +1,63 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-05 17:43:59",
+  "last_update": "2026-02-05 18:43:30",
   "items": [
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Valencia vs Athletic Club[/COLOR] - [COLOR lime]Premier Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Valencia vs Athletic Club[/COLOR] - [COLOR lime]Premier Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Valencia vs Athletic Club[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Valencia vs Athletic Club[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Valencia vs Athletic Club[/COLOR] - [COLOR lime]LaLigaTV Bar[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Valencia vs Athletic Club[/COLOR] - [COLOR lime]LaLigaTV Bar[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Deportivo Alaves vs Real Sociedad[/COLOR] - [COLOR lime]M. LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Deportivo Alaves vs Real Sociedad[/COLOR] - [COLOR lime]M. LaLiga 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Feb 21:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
     {
       "title": "[COLOR cyan][05/02 21:00][/COLOR] [COLOR gold]Real Betis vs Atletico Madrid[/COLOR] - [COLOR lime]LaLigaTV Bar[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@30@@ES",
@@ -71,6 +127,174 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Rayo Vallecano vs Real Oviedo[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Rayo Vallecano vs Real Oviedo[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Rayo Vallecano vs Real Oviedo[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Rayo Vallecano vs Real Oviedo[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]FC Andorra vs Real Sociedad II[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]FC Andorra vs Real Sociedad II[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:15][/COLOR] [COLOR gold]Barcelona vs Mallorca[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:15 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:15][/COLOR] [COLOR gold]Barcelona vs Mallorca[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:15 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:15][/COLOR] [COLOR gold]Barcelona vs Mallorca[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:15][/COLOR] [COLOR gold]Barcelona vs Mallorca[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:15][/COLOR] [COLOR gold]Las Palmas vs Burgos[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:15][/COLOR] [COLOR gold]Las Palmas vs Burgos[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Sevilla vs Girona[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 18:30 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Sevilla vs Girona[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 18:30 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Sevilla vs Girona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 18:30 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Sevilla vs Girona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 18:30 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Real Zaragoza vs Eibar[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 18:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Real Zaragoza vs Eibar[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 18:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:00][/COLOR] [COLOR gold]Real Sociedad vs Elche[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:00 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:00][/COLOR] [COLOR gold]Real Sociedad vs Elche[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:00 | Spain La Liga | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:00][/COLOR] [COLOR gold]Real Sociedad vs Elche[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:00][/COLOR] [COLOR gold]Real Sociedad vs Elche[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:00][/COLOR] [COLOR gold]Cadiz vs Almeria[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:00][/COLOR] [COLOR gold]Cadiz vs Almeria[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:00 | Spain Segunda Division | Football | Lang: ES"
     }
   ]
 }
