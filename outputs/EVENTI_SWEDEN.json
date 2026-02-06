@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-06 18:43:54",
+  "last_update": "2026-02-06 19:35:58",
   "items": [
     {
       "title": "[COLOR cyan][06/02 19:00][/COLOR] [COLOR gold]AIK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -211,6 +211,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Feb 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][08/02 18:30][/COLOR] [COLOR gold]OV Helsingborg vs IFK Skovde HK[/COLOR] - [COLOR lime]Handbollsligan Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 18:30 | Sweden Handbollsligan | Handball | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][08/02 18:30][/COLOR] [COLOR gold]OV Helsingborg vs IFK Skovde HK[/COLOR] - [COLOR lime]Handbollsligan Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 18:30 | Sweden Handbollsligan | Handball | Lang: SE"
     }
   ]
 }

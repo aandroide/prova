@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-06 18:43:54",
+  "last_update": "2026-02-06 19:35:58",
   "items": [
-    {
-      "title": "[COLOR cyan][06/02 18:00][/COLOR] [COLOR gold]Korona Kielce vs Zagłebie Lubin[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 18:00 | Poland Ekstraklasa | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/02 18:00][/COLOR] [COLOR gold]Korona Kielce vs Zagłebie Lubin[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 18:00 | Poland Ekstraklasa | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/02 18:00][/COLOR] [COLOR gold]Korona Kielce vs Zagłebie Lubin[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@60@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 18:00 | Poland Ekstraklasa | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][06/02 18:00][/COLOR] [COLOR gold]Korona Kielce vs Zagłebie Lubin[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@60@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 18:00 | Poland Ekstraklasa | Football | Lang: PL"
-    },
     {
       "title": "[COLOR cyan][06/02 20:30][/COLOR] [COLOR gold]Lechia Gdansk vs Cracovia Krakow[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@38@@US",
@@ -113,6 +85,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Feb 20:15 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][08/02 12:15][/COLOR] [COLOR gold]Pogon Szczecin vs Nieciecza[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 12:15 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][08/02 12:15][/COLOR] [COLOR gold]Pogon Szczecin vs Nieciecza[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 12:15 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][08/02 14:45][/COLOR] [COLOR gold]Rakow Czestochowa vs Radomiak Radom[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 14:45 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][08/02 14:45][/COLOR] [COLOR gold]Rakow Czestochowa vs Radomiak Radom[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 14:45 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Katowice vs Widzew Łodz[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Katowice vs Widzew Łodz[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:30 | Poland Ekstraklasa | Football | Lang: PL"
     }
   ]
 }
