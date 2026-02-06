@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-06 19:35:58",
+  "last_update": "2026-02-06 20:29:56",
   "items": [
-    {
-      "title": "[COLOR cyan][06/02 19:00][/COLOR] [COLOR gold]AGF vs OB[/COLOR] - [COLOR lime]TV3 Sport[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@63@@DK",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 19:00 | Denmark Super Liga | Football | Lang: DK"
-    },
-    {
-      "title": "[COLOR cyan][06/02 19:00][/COLOR] [COLOR gold]AGF vs OB[/COLOR] - [COLOR lime]TV3 Sport[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@63@@DK",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Feb 19:00 | Denmark Super Liga | Football | Lang: DK"
-    },
     {
       "title": "[COLOR cyan][06/02 20:00][/COLOR] [COLOR gold]Roter Stern Belgrad vs Maccabi Tel Aviv[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
@@ -1151,20 +1137,6 @@
       "info": "08-Feb 05:00 | UFC | MMA | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][08/02 07:00][/COLOR] [COLOR gold]Adelaide United vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 07:00 | Argentina Primera Division | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][08/02 07:00][/COLOR] [COLOR gold]Adelaide United vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 07:00 | Argentina Primera Division | Football | Lang: GB"
-    },
-    {
       "title": "[COLOR cyan][08/02 11:00][/COLOR] [COLOR gold]Dobrudzha 1919 vs Septemvri Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@48@@BG",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1323,14 +1295,14 @@
       "myresolve": "sansat@@82@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 14:00 | Africa CAF Confederation Cup | Hockey | Lang: US"
+      "info": "08-Feb 14:00 | Africa CAF Confederation Cup | Football | Lang: US"
     },
     {
       "title": "[COLOR cyan][08/02 14:00][/COLOR] [COLOR gold]Nairobi Utd vs Wydad Casablanca[/COLOR] - [COLOR lime]beIN Sports 6[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@82@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 14:00 | Africa CAF Confederation Cup | Hockey | Lang: US"
+      "info": "08-Feb 14:00 | Africa CAF Confederation Cup | Football | Lang: US"
     },
     {
       "title": "[COLOR cyan][08/02 14:30][/COLOR] [COLOR gold]AZ vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1701,14 +1673,14 @@
       "myresolve": "sansat@@82@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 20:00 | Africa CAF Confederation Cup | Hockey | Lang: US"
+      "info": "08-Feb 20:00 | Africa CAF Confederation Cup | Football | Lang: US"
     },
     {
       "title": "[COLOR cyan][08/02 20:00][/COLOR] [COLOR gold]Olympic Safi vs Djoliba[/COLOR] - [COLOR lime]beIN Sports 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@82@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 20:00 | Africa CAF Confederation Cup | Hockey | Lang: US"
+      "info": "08-Feb 20:00 | Africa CAF Confederation Cup | Football | Lang: US"
     },
     {
       "title": "[COLOR cyan][08/02 21:00][/COLOR] [COLOR gold]Platense vs Independiente[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
