@@ -1,13 +1,13 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 18:30:43",
+  "last_update": "2026-02-07 19:21:09",
   "items": [
     {
-      "title": "ITALY (93)",
+      "title": "ITALY (84)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/it-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "93 canali ITALY"
+      "info": "84 canali ITALY"
     },
     {
       "title": "UNITED KINGDOM (81)",
@@ -59,11 +59,11 @@
       "info": "18 canali SWEDEN"
     },
     {
-      "title": "POLAND (21)",
+      "title": "POLAND (18)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_POLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21 canali POLAND"
+      "info": "18 canali POLAND"
     },
     {
       "title": "FINLAND (3)",
@@ -73,11 +73,11 @@
       "info": "3 canali FINLAND"
     },
     {
-      "title": "CECHIA (15)",
+      "title": "CECHIA (12)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15 canali CECHIA"
+      "info": "12 canali CECHIA"
     },
     {
       "title": "AUSTRALIA (3)",
@@ -94,11 +94,11 @@
       "info": "27 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (372)",
+      "title": "INTERNAZIONALE (354)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "372 canali INTERNAZIONALE"
+      "info": "354 canali INTERNAZIONALE"
     }
   ]
 }

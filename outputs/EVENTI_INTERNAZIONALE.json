@@ -1,91 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 18:30:43",
+  "last_update": "2026-02-07 19:21:09",
   "items": [
-    {
-      "title": "[COLOR cyan][07/02 16:40][/COLOR] [COLOR gold]USA vs Finland[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/02 16:40][/COLOR] [COLOR gold]USA vs Finland[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/02 16:40][/COLOR] [COLOR gold]USA vs Finland[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@31@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@59@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@59@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][07/02 17:40][/COLOR] [COLOR gold]England vs Wales[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@59@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "07-Feb 17:40 | European Six Nations | Rugby | Lang: FR"
-    },
     {
       "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Glory Kickboxing[/COLOR] - [COLOR lime]Stadium[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@5@@US",
@@ -106,48 +22,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Feb 18:00 | Glory | MMA | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Winterthur vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 18:00 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Winterthur vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 18:00 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Winterthur vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@15@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 18:00 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Samsunspor vs Trabzonspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Samsunspor vs Trabzonspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][07/02 18:00][/COLOR] [COLOR gold]Samsunspor vs Trabzonspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
     },
     {
       "title": "[COLOR cyan][07/02 18:30][/COLOR] [COLOR gold]Celtic vs Dundee[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
