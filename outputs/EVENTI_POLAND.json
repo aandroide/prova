@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 08:27:44",
+  "last_update": "2026-02-07 09:28:05",
   "items": [
     {
       "title": "[COLOR cyan][07/02 14:45][/COLOR] [COLOR gold]Arka Gdynia vs Legia Warszawa[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -127,6 +127,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Feb 17:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/02 19:00][/COLOR] [COLOR gold]Piast Gliwice vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/02 19:00][/COLOR] [COLOR gold]Piast Gliwice vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/02 19:00][/COLOR] [COLOR gold]Piast Gliwice vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/02 19:30][/COLOR] [COLOR gold]Chrobry Głogow vs Stal Rzeszow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Feb 19:30 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/02 19:30][/COLOR] [COLOR gold]Chrobry Głogow vs Stal Rzeszow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Feb 19:30 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/02 19:30][/COLOR] [COLOR gold]Chrobry Głogow vs Stal Rzeszow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Feb 19:30 | Poland I Liga | Football | Lang: PL"
     }
   ]
 }
