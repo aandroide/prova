@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 09:28:05",
+  "last_update": "2026-02-07 10:22:39",
   "items": [
     {
       "title": "[COLOR cyan][07/02 09:30][/COLOR] [COLOR gold]Newcastle Knights vs St. George Illawarra Dragons[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -2647,6 +2647,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "09-Feb 15:30 | Azerbaijan Premier Liqa | Football | Lang: AZ"
+    },
+    {
+      "title": "[COLOR cyan][09/02 16:40][/COLOR] [COLOR gold]Germany vs France[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "09-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][09/02 16:40][/COLOR] [COLOR gold]Germany vs France[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "09-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][09/02 16:40][/COLOR] [COLOR gold]Germany vs France[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "09-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: DE"
     },
     {
       "title": "[COLOR cyan][09/02 16:40][/COLOR] [COLOR gold]Germany vs France[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
