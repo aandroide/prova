@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 07:29:24",
+  "last_update": "2026-02-07 08:27:44",
   "items": [
-    {
-      "title": "[COLOR cyan][07/02 07:00][/COLOR] [COLOR gold]Brisbane Roar vs Central Coast Mariners[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@3@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 07:00 | Australia A-League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/02 07:00][/COLOR] [COLOR gold]Brisbane Roar vs Central Coast Mariners[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@3@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Feb 07:00 | Australia A-League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/02 07:00][/COLOR] [COLOR gold]Brisbane Roar vs Central Coast Mariners[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Feb 07:00 | Australia A-League | Football | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][07/02 07:00][/COLOR] [COLOR gold]Brisbane Roar vs Central Coast Mariners[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Feb 07:00 | Australia A-League | Football | Lang: NZ"
-    },
     {
       "title": "[COLOR cyan][07/02 07:30][/COLOR] [COLOR gold]NZ Breakers vs The Hawks[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@37@@NZ",
@@ -39,6 +11,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 07:30][/COLOR] [COLOR gold]NZ Breakers vs The Hawks[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@37@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "07-Feb 07:30 | Australia NBL | Basketball | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][07/02 07:30][/COLOR] [COLOR gold]NZ Breakers vs The Hawks[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@37@@NZ",
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
@@ -59,6 +38,13 @@
       "info": "07-Feb 09:35 | Australia A-League | Football | Lang: NZ"
     },
     {
+      "title": "[COLOR cyan][07/02 09:35][/COLOR] [COLOR gold]Western Sydney Wanderers vs Melbourne City[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@5@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "07-Feb 09:35 | Australia A-League | Football | Lang: NZ"
+    },
+    {
       "title": "[COLOR cyan][07/02 09:35][/COLOR] [COLOR gold]Western Sydney Wanderers vs Melbourne City[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -67,6 +53,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 09:35][/COLOR] [COLOR gold]Western Sydney Wanderers vs Melbourne City[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 09:35 | Australia A-League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][07/02 09:35][/COLOR] [COLOR gold]Western Sydney Wanderers vs Melbourne City[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@19@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -87,6 +80,13 @@
       "info": "07-Feb 10:00 | Australia NBL | Basketball | Lang: NZ"
     },
     {
+      "title": "[COLOR cyan][07/02 10:00][/COLOR] [COLOR gold]Melbourne United vs Adelaide 36ers[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@37@@NZ",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "07-Feb 10:00 | Australia NBL | Basketball | Lang: NZ"
+    },
+    {
       "title": "[COLOR cyan][08/02 07:00][/COLOR] [COLOR gold]Adelaide United vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -95,6 +95,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 07:00][/COLOR] [COLOR gold]Adelaide United vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 07:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/02 07:00][/COLOR] [COLOR gold]Adelaide United vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",

@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 07:29:24",
+  "last_update": "2026-02-07 08:27:44",
   "items": [
     {
       "title": "[COLOR cyan][07/02 12:00][/COLOR] [COLOR gold]Lusitania FC Lourosa vs Felgueiras 1932[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -11,6 +11,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 12:00][/COLOR] [COLOR gold]Lusitania FC Lourosa vs Felgueiras 1932[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "07-Feb 12:00 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][07/02 12:00][/COLOR] [COLOR gold]Lusitania FC Lourosa vs Felgueiras 1932[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
@@ -31,6 +38,13 @@
       "info": "07-Feb 16:30 | Portugal Primeira Liga | Football | Lang: PT"
     },
     {
+      "title": "[COLOR cyan][07/02 16:30][/COLOR] [COLOR gold]Estrela vs Santa Clara[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "07-Feb 16:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
       "title": "[COLOR cyan][07/02 16:30][/COLOR] [COLOR gold]Moreirense vs Gil Vicente[/COLOR] - [COLOR lime]V+ TVI[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@22@@PT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -39,6 +53,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 16:30][/COLOR] [COLOR gold]Moreirense vs Gil Vicente[/COLOR] - [COLOR lime]V+ TVI[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 16:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][07/02 16:30][/COLOR] [COLOR gold]Moreirense vs Gil Vicente[/COLOR] - [COLOR lime]V+ TVI[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@22@@PT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -59,6 +80,13 @@
       "info": "07-Feb 19:00 | Portugal Primeira Liga | Football | Lang: PT"
     },
     {
+      "title": "[COLOR cyan][07/02 19:00][/COLOR] [COLOR gold]Estoril vs Tondela[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "07-Feb 19:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
       "title": "[COLOR cyan][07/02 21:30][/COLOR] [COLOR gold]Arouca vs Vitoria Guimaraes[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
@@ -67,6 +95,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 21:30][/COLOR] [COLOR gold]Arouca vs Vitoria Guimaraes[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "07-Feb 21:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:30][/COLOR] [COLOR gold]Arouca vs Vitoria Guimaraes[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
@@ -87,6 +122,13 @@
       "info": "08-Feb 16:30 | Portugal Primeira Liga | Football | Lang: PT"
     },
     {
+      "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Nacional vs Casa Pia[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "08-Feb 16:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
       "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Torreense vs Uniao de Leiria[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@22@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
@@ -95,6 +137,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Torreense vs Uniao de Leiria[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "08-Feb 16:30 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Torreense vs Uniao de Leiria[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@22@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
@@ -115,6 +164,13 @@
       "info": "08-Feb 19:00 | Portugal Primeira Liga | Football | Lang: DE"
     },
     {
+      "title": "[COLOR cyan][08/02 19:00][/COLOR] [COLOR gold]Sporting Braga vs Rio Ave[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 19:00 | Portugal Primeira Liga | Football | Lang: DE"
+    },
+    {
       "title": "[COLOR cyan][08/02 19:00][/COLOR] [COLOR gold]Sporting Braga vs Rio Ave[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
@@ -123,6 +179,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 19:00][/COLOR] [COLOR gold]Sporting Braga vs Rio Ave[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "08-Feb 19:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][08/02 19:00][/COLOR] [COLOR gold]Sporting Braga vs Rio Ave[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
@@ -143,6 +206,13 @@
       "info": "08-Feb 21:30 | Portugal Primeira Liga | Football | Lang: DE"
     },
     {
+      "title": "[COLOR cyan][08/02 21:30][/COLOR] [COLOR gold]Benfica vs Alverca[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 21:30 | Portugal Primeira Liga | Football | Lang: DE"
+    },
+    {
       "title": "[COLOR cyan][08/02 21:30][/COLOR] [COLOR gold]Benfica vs Alverca[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -151,6 +221,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 21:30][/COLOR] [COLOR gold]Benfica vs Alverca[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 21:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][08/02 21:30][/COLOR] [COLOR gold]Benfica vs Alverca[/COLOR] - [COLOR lime]Benfica TV[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",

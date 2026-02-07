@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-07 07:29:24",
+  "last_update": "2026-02-07 08:27:44",
   "items": [
     {
       "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Le Mans vs Laval[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -11,6 +11,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Le Mans vs Laval[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | France Ligue 2 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Le Mans vs Laval[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -31,6 +38,13 @@
       "info": "07-Feb 14:00 | France Ligue 2 | Football | Lang: FR"
     },
     {
+      "title": "[COLOR cyan][07/02 14:00][/COLOR] [COLOR gold]Nancy vs Troyes[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 14:00 | France Ligue 2 | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][07/02 17:00][/COLOR] [COLOR gold]Lens vs Rennes[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@39@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -39,6 +53,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 17:00][/COLOR] [COLOR gold]Lens vs Rennes[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 17:00 | France Ligue 1 | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][07/02 17:00][/COLOR] [COLOR gold]Lens vs Rennes[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@39@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -59,6 +80,13 @@
       "info": "07-Feb 17:00 | France Ligue 1 | Football | Lang: FR"
     },
     {
+      "title": "[COLOR cyan][07/02 17:00][/COLOR] [COLOR gold]Lens vs Rennes[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 17:00 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][07/02 19:00][/COLOR] [COLOR gold]Brest vs Lorient[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@39@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -67,6 +95,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 19:00][/COLOR] [COLOR gold]Brest vs Lorient[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 19:00 | France Ligue 1 | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][07/02 19:00][/COLOR] [COLOR gold]Brest vs Lorient[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@39@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -87,6 +122,13 @@
       "info": "07-Feb 19:00 | France Ligue 1 | Football | Lang: FR"
     },
     {
+      "title": "[COLOR cyan][07/02 19:00][/COLOR] [COLOR gold]Brest vs Lorient[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 19:00 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][07/02 20:00][/COLOR] [COLOR gold]Saint-Etienne vs Montpellier[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@52@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -95,6 +137,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 20:00][/COLOR] [COLOR gold]Saint-Etienne vs Montpellier[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 20:00 | France Ligue 2 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][07/02 20:00][/COLOR] [COLOR gold]Saint-Etienne vs Montpellier[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@52@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -115,6 +164,13 @@
       "info": "07-Feb 21:05 | France Ligue 1 | Football | Lang: US"
     },
     {
+      "title": "[COLOR cyan][07/02 21:05][/COLOR] [COLOR gold]Nantes vs Olympique Lyonnais[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:05 | France Ligue 1 | Football | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][07/02 21:05][/COLOR] [COLOR gold]Nantes vs Olympique Lyonnais[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -123,6 +179,13 @@
     },
     {
       "title": "[COLOR cyan][07/02 21:05][/COLOR] [COLOR gold]Nantes vs Olympique Lyonnais[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Feb 21:05 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][07/02 21:05][/COLOR] [COLOR gold]Nantes vs Olympique Lyonnais[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -143,6 +206,13 @@
       "info": "08-Feb 15:00 | France Ligue 1 | Football | Lang: US"
     },
     {
+      "title": "[COLOR cyan][08/02 15:00][/COLOR] [COLOR gold]Nice vs Monaco[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 15:00 | France Ligue 1 | Football | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][08/02 15:00][/COLOR] [COLOR gold]Nice vs Monaco[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -151,6 +221,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 15:00][/COLOR] [COLOR gold]Nice vs Monaco[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 15:00 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][08/02 15:00][/COLOR] [COLOR gold]Nice vs Monaco[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -171,6 +248,13 @@
       "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Le Havre vs Strasbourg[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@38@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: ES"
+    },
+    {
       "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Le Havre vs Strasbourg[/COLOR] - [COLOR lime]Ligue1+ 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@54@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -179,6 +263,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Le Havre vs Strasbourg[/COLOR] - [COLOR lime]Ligue1+ 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Le Havre vs Strasbourg[/COLOR] - [COLOR lime]Ligue1+ 4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@54@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -199,6 +290,13 @@
       "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Angers SCO vs Toulouse[/COLOR] - [COLOR lime]beIN Sports Xtra en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: ES"
+    },
+    {
       "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Angers SCO vs Toulouse[/COLOR] - [COLOR lime]Ligue1+ 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@56@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -207,6 +305,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Angers SCO vs Toulouse[/COLOR] - [COLOR lime]Ligue1+ 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@56@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Angers SCO vs Toulouse[/COLOR] - [COLOR lime]Ligue1+ 6[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@56@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -227,6 +332,13 @@
       "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: FR"
     },
     {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Auxerre vs Paris[/COLOR] - [COLOR lime]Ligue1+ 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@55@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -235,6 +347,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Auxerre vs Paris[/COLOR] - [COLOR lime]Ligue1+ 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@55@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Auxerre vs Paris[/COLOR] - [COLOR lime]Ligue1+ 5[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@55@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -255,6 +374,13 @@
       "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][08/02 17:15][/COLOR] [COLOR gold]Auxerre vs Paris[/COLOR] - [COLOR lime]beIN Sports en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@58@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 17:15 | France Ligue 1 | Football | Lang: ES"
+    },
+    {
       "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@17@@DE",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
@@ -263,6 +389,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "08-Feb 20:45 | France Ligue 1 | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@17@@DE",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
@@ -283,6 +416,13 @@
       "info": "08-Feb 20:45 | France Ligue 1 | Football | Lang: US"
     },
     {
+      "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 20:45 | France Ligue 1 | Football | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -297,6 +437,13 @@
       "info": "08-Feb 20:45 | France Ligue 1 | Football | Lang: FR"
     },
     {
+      "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 20:45 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
       "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]FOX One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@84@@MX",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -305,6 +452,13 @@
     },
     {
       "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]FOX One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Feb 20:45 | France Ligue 1 | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][08/02 20:45][/COLOR] [COLOR gold]PSG vs Olympique Marseille[/COLOR] - [COLOR lime]FOX One[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@84@@MX",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
