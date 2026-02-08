@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-08 10:22:58",
+  "last_update": "2026-02-08 12:42:11",
   "items": [
     {
       "title": "[COLOR cyan][08/02 13:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -421,6 +421,48 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "09-Feb 18:00 | Germany Frauen-Bundesliga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/02 20:45][/COLOR] [COLOR gold]Hertha BSC vs Freiburg[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "10-Feb 20:45 | Germany DFB Pokal | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/02 20:45][/COLOR] [COLOR gold]Hertha BSC vs Freiburg[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "10-Feb 20:45 | Germany DFB Pokal | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/02 20:45][/COLOR] [COLOR gold]Hertha BSC vs Freiburg[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "10-Feb 20:45 | Germany DFB Pokal | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/02 20:45][/COLOR] [COLOR gold]Hertha BSC vs Freiburg[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Feb 20:45 | Germany DFB Pokal | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][10/02 20:45][/COLOR] [COLOR gold]Hertha BSC vs Freiburg[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Feb 20:45 | Germany DFB Pokal | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][10/02 20:45][/COLOR] [COLOR gold]Hertha BSC vs Freiburg[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Feb 20:45 | Germany DFB Pokal | Football | Lang: MX"
     }
   ]
 }
