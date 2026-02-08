@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-08 17:24:23",
+  "last_update": "2026-02-08 18:31:31",
   "items": [
-    {
-      "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Basel vs Zurich[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Basel vs Zurich[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Basel vs Zurich[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@15@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
     {
       "title": "[COLOR cyan][08/02 16:40][/COLOR] [COLOR gold]France vs Sweden[/COLOR] - [COLOR lime]France 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@52@@FR",
@@ -64,90 +43,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Feb 16:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@31@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@80@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@80@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]ESPN2 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@80@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:45][/COLOR] [COLOR gold]Groningen vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "08-Feb 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][08/02 17:00][/COLOR] [COLOR gold]Singida Black Stars vs CR Belouizdad[/COLOR] - [COLOR lime]beIN Sports 8[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@67@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:00 | Africa CAF Confederation Cup | Football | Lang: SA"
-    },
-    {
-      "title": "[COLOR cyan][08/02 17:00][/COLOR] [COLOR gold]Singida Black Stars vs CR Belouizdad[/COLOR] - [COLOR lime]beIN Sports 8[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@67@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:00 | Africa CAF Confederation Cup | Football | Lang: SA"
-    },
-    {
-      "title": "[COLOR cyan][08/02 17:00][/COLOR] [COLOR gold]Singida Black Stars vs CR Belouizdad[/COLOR] - [COLOR lime]beIN Sports 8[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@67@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:00 | Africa CAF Confederation Cup | Football | Lang: SA"
     },
     {
       "title": "[COLOR cyan][08/02 17:45][/COLOR] [COLOR gold]Rijeka vs Dinamo Zagreb[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
