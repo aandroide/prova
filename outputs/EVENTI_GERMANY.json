@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-08 16:26:53",
+  "last_update": "2026-02-08 17:24:23",
   "items": [
-    {
-      "title": "[COLOR cyan][08/02 15:30][/COLOR] [COLOR gold]Koln vs RB Leipzig[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "08-Feb 15:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/02 15:30][/COLOR] [COLOR gold]Koln vs RB Leipzig[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "08-Feb 15:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/02 15:30][/COLOR] [COLOR gold]Koln vs RB Leipzig[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "08-Feb 15:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/02 15:30][/COLOR] [COLOR gold]Koln vs RB Leipzig[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 15:30 | Germany Bundesliga | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][08/02 15:30][/COLOR] [COLOR gold]Koln vs RB Leipzig[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 15:30 | Germany Bundesliga | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][08/02 15:30][/COLOR] [COLOR gold]Koln vs RB Leipzig[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 15:30 | Germany Bundesliga | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:00][/COLOR] [COLOR gold]Union Berlin vs Carl Zeiss Jena[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@97@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:00 | Germany Frauen-Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:00][/COLOR] [COLOR gold]Union Berlin vs Carl Zeiss Jena[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@97@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:00 | Germany Frauen-Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/02 16:00][/COLOR] [COLOR gold]Union Berlin vs Carl Zeiss Jena[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@97@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 16:00 | Germany Frauen-Bundesliga | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][08/02 16:30][/COLOR] [COLOR gold]Alemannia Aachen vs Rot-Weiss Essen[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@16@@DE",
@@ -129,46 +66,46 @@
       "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Rush Sports[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: IT"
+      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Rush Sports[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: IT"
+      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Rush Sports[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@46@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: IT"
+      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Canal+ Sport 1 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: MX"
+      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Canal+ Sport 1 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: MX"
+      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Sky Sports Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@85@@MX",
+      "title": "[COLOR cyan][08/02 17:30][/COLOR] [COLOR gold]Bayern Munchen vs Hoffenheim[/COLOR] - [COLOR lime]Canal+ Sport 1 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@85@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: MX"
+      "info": "08-Feb 17:30 | Germany Bundesliga | Football | Lang: FR"
     },
     {
       "title": "[COLOR cyan][08/02 18:30][/COLOR] [COLOR gold]Nurnberg vs Hoffenheim[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
