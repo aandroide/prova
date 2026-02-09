@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-09 17:49:58",
+  "last_update": "2026-02-09 20:01:30",
   "items": [
     {
       "title": "[COLOR cyan][10/02 17:30][/COLOR] [COLOR gold]KalPa vs Pelicans[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -106,6 +106,69 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Feb 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]Kiekko-Espoo vs Jukurit[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]Kiekko-Espoo vs Jukurit[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]Kiekko-Espoo vs Jukurit[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]SaiPa vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]SaiPa vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]SaiPa vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]TuTo vs RoKi[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]TuTo vs RoKi[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/02 17:30][/COLOR] [COLOR gold]TuTo vs RoKi[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Feb 17:30 | Finland Mestis | Hockey | Lang: FI"
     }
   ]
 }
