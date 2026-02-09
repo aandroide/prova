@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-08 23:27:55",
+  "last_update": "2026-02-09 01:57:50",
   "items": [
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]NFL+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/02 00:30][/COLOR] [COLOR gold]New England Patriots vs Seattle Seahawks[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 00:30 | NFL Super Bowl LX | American Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][10/02 01:00][/COLOR] [COLOR gold]Detroit Pistons vs Charlotte Hornets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@US",
