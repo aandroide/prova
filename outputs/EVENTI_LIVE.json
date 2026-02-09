@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-09 14:48:57",
+  "last_update": "2026-02-09 15:52:42",
   "items": [
     {
       "title": "ITALY (33)",
@@ -73,11 +73,11 @@
       "info": "15 canali FINLAND"
     },
     {
-      "title": "EUROPA (45)",
+      "title": "EUROPA (39)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_EUROPA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "45 canali EUROPA"
+      "info": "39 canali EUROPA"
     },
     {
       "title": "INTERNAZIONALE (105)",
