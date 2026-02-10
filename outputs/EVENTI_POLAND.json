@@ -1,48 +1,111 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-09 20:01:30",
+  "last_update": "2026-02-10 19:13:45",
   "items": [
     {
-      "title": "[COLOR cyan][09/02 19:00][/COLOR] [COLOR gold]Piast Gliwice vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Radomiak Radom vs Korona Kielce[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 18:00 | Poland Ekstraklasa | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Radomiak Radom vs Korona Kielce[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 18:00 | Poland Ekstraklasa | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Radomiak Radom vs Korona Kielce[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 18:00 | Poland Ekstraklasa | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Radomiak Radom vs Korona Kielce[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@60@@PL",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+      "info": "13-Feb 18:00 | Poland Ekstraklasa | Football | Lang: PL"
     },
     {
-      "title": "[COLOR cyan][09/02 19:00][/COLOR] [COLOR gold]Piast Gliwice vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Radomiak Radom vs Korona Kielce[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@60@@PL",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+      "info": "13-Feb 18:00 | Poland Ekstraklasa | Football | Lang: PL"
     },
     {
-      "title": "[COLOR cyan][09/02 19:00][/COLOR] [COLOR gold]Piast Gliwice vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Radomiak Radom vs Korona Kielce[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@60@@PL",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+      "info": "13-Feb 18:00 | Poland Ekstraklasa | Football | Lang: PL"
     },
     {
-      "title": "[COLOR cyan][09/02 19:30][/COLOR] [COLOR gold]Chrobry Głogow vs Stal Rzeszow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@61@@PL",
+      "title": "[COLOR cyan][13/02 20:30][/COLOR] [COLOR gold]Katowice vs Legia Warszawa[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 19:30 | Poland I Liga | Football | Lang: PL"
+      "info": "13-Feb 20:30 | Poland Ekstraklasa | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][09/02 19:30][/COLOR] [COLOR gold]Chrobry Głogow vs Stal Rzeszow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@61@@PL",
+      "title": "[COLOR cyan][13/02 20:30][/COLOR] [COLOR gold]Katowice vs Legia Warszawa[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 19:30 | Poland I Liga | Football | Lang: PL"
+      "info": "13-Feb 20:30 | Poland Ekstraklasa | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][09/02 19:30][/COLOR] [COLOR gold]Chrobry Głogow vs Stal Rzeszow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@61@@PL",
+      "title": "[COLOR cyan][13/02 20:30][/COLOR] [COLOR gold]Katowice vs Legia Warszawa[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Feb 19:30 | Poland I Liga | Football | Lang: PL"
+      "info": "13-Feb 20:30 | Poland Ekstraklasa | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][13/02 20:30][/COLOR] [COLOR gold]Katowice vs Legia Warszawa[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 20:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][13/02 20:30][/COLOR] [COLOR gold]Katowice vs Legia Warszawa[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 20:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][13/02 20:30][/COLOR] [COLOR gold]Katowice vs Legia Warszawa[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 20:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][13/02 21:00][/COLOR] [COLOR gold]Pogon Siedlce vs Ruch Chorzow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 21:00 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][13/02 21:00][/COLOR] [COLOR gold]Pogon Siedlce vs Ruch Chorzow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 21:00 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][13/02 21:00][/COLOR] [COLOR gold]Pogon Siedlce vs Ruch Chorzow[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "13-Feb 21:00 | Poland I Liga | Football | Lang: PL"
     }
   ]
 }
