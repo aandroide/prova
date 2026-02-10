@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-10 21:39:03",
+  "last_update": "2026-02-10 22:36:22",
   "items": [
-    {
-      "title": "[COLOR cyan][10/02 20:10][/COLOR] [COLOR gold]Canada vs USA[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "10-Feb 20:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/02 20:10][/COLOR] [COLOR gold]Canada vs USA[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "10-Feb 20:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/02 20:10][/COLOR] [COLOR gold]Canada vs USA[/COLOR] - [COLOR lime]ZDF[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/ZDF_logo.svg/512px-ZDF_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "10-Feb 20:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/02 20:10][/COLOR] [COLOR gold]Canada vs USA[/COLOR] - [COLOR lime]Sportsnet One[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@36@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Feb 20:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/02 20:10][/COLOR] [COLOR gold]Canada vs USA[/COLOR] - [COLOR lime]Sportsnet One[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@36@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Feb 20:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/02 20:10][/COLOR] [COLOR gold]Canada vs USA[/COLOR] - [COLOR lime]Sportsnet One[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@36@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Feb 20:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][10/02 21:00][/COLOR] [COLOR gold]Hearts vs Hibernian[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Feb 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][10/02 21:00][/COLOR] [COLOR gold]Hearts vs Hibernian[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Feb 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][10/02 21:00][/COLOR] [COLOR gold]Hearts vs Hibernian[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Feb 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][10/02 21:10][/COLOR] [COLOR gold]Finland vs Switzerland[/COLOR] - [COLOR lime]Eurosport 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@80@@FI",
