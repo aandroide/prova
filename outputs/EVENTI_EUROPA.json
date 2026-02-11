@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-11 21:31:03",
+  "last_update": "2026-02-11 22:26:30",
   "items": [
-    {
-      "title": "[COLOR cyan][11/02 20:45][/COLOR] [COLOR gold]Sporting CP vs Hammarby[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "11-Feb 20:45 | Europe UEFA Women's Europa Cup | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][11/02 20:45][/COLOR] [COLOR gold]Sporting CP vs Hammarby[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "11-Feb 20:45 | Europe UEFA Women's Europa Cup | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][11/02 20:45][/COLOR] [COLOR gold]Sporting CP vs Hammarby[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "11-Feb 20:45 | Europe UEFA Women's Europa Cup | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][11/02 21:00][/COLOR] [COLOR gold]Paris FC vs Real Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/02 21:00][/COLOR] [COLOR gold]Paris FC vs Real Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/02 21:00][/COLOR] [COLOR gold]Paris FC vs Real Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/02 21:00][/COLOR] [COLOR gold]Paris FC vs Real Madrid[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/02 21:00][/COLOR] [COLOR gold]Paris FC vs Real Madrid[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/02 21:00][/COLOR] [COLOR gold]Paris FC vs Real Madrid[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][12/02 11:00][/COLOR] [COLOR gold]Pohang Steelers vs Gamba Osaka[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@94@@SA",
