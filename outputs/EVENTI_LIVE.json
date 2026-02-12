@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-12 21:30:40",
+  "last_update": "2026-02-12 22:29:20",
   "items": [
     {
       "title": "ITALY (42)",
@@ -10,18 +10,18 @@
       "info": "42 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (129)",
+      "title": "UNITED KINGDOM (111)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "129 canali UNITED KINGDOM"
+      "info": "111 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (60)",
+      "title": "SPAIN (51)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "60 canali SPAIN"
+      "info": "51 canali SPAIN"
     },
     {
       "title": "GERMANY (87)",
@@ -80,18 +80,18 @@
       "info": "15 canali AUSTRALIA"
     },
     {
-      "title": "EUROPA (18)",
+      "title": "EUROPA (12)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_EUROPA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18 canali EUROPA"
+      "info": "12 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (363)",
+      "title": "INTERNAZIONALE (345)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "363 canali INTERNAZIONALE"
+      "info": "345 canali INTERNAZIONALE"
     }
   ]
 }
