@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-12 17:54:59",
+  "last_update": "2026-02-12 18:59:07",
   "items": [
-    {
-      "title": "[COLOR cyan][12/02 16:40][/COLOR] [COLOR gold]Czech Republic vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][12/02 16:40][/COLOR] [COLOR gold]Czech Republic vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][12/02 16:40][/COLOR] [COLOR gold]Czech Republic vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][12/02 16:40][/COLOR] [COLOR gold]Czech Republic vs Canada[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][12/02 16:40][/COLOR] [COLOR gold]Czech Republic vs Canada[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][12/02 16:40][/COLOR] [COLOR gold]Czech Republic vs Canada[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][12/02 17:00][/COLOR] [COLOR gold]Lokomotiv Plovdiv vs Botev Plovdiv[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 17:00 | Bulgaria Bulgarian Cup | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][12/02 17:00][/COLOR] [COLOR gold]Lokomotiv Plovdiv vs Botev Plovdiv[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 17:00 | Bulgaria Bulgarian Cup | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][12/02 17:00][/COLOR] [COLOR gold]Lokomotiv Plovdiv vs Botev Plovdiv[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Feb 17:00 | Bulgaria Bulgarian Cup | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][12/02 18:30][/COLOR] [COLOR gold]Anadolu Efes vs Virtus Bologna[/COLOR] - [COLOR lime]M+ Deportes 6[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@40@@ES",
