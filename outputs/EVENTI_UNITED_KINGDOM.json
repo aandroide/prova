@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-13 07:02:36",
+  "last_update": "2026-02-13 08:38:53",
   "items": [
     {
       "title": "[COLOR cyan][13/02 15:40][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -820,6 +820,447 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Feb 21:00 | England FA Cup | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/02 07:30][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 07:30 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 07:30][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 07:30 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 07:30][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 07:30 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 07:30][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 07:30 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 07:30][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 07:30 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 07:30][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 07:30 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 10:00][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 10:00 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 10:00][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 10:00 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 10:00][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 10:00 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 10:00][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 10:00 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 10:00][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 10:00 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 10:00][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 10:00 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 12:15][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 12:15 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 12:15][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 12:15 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 12:15][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 12:15 | World Rally Championship | Motorsport | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][15/02 12:15][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 12:15 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 12:15][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 12:15 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 12:15][/COLOR] [COLOR gold]Rally Sweden[/COLOR] - [COLOR lime]TV4 Motor[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 12:15 | World Rally Championship | Motorsport | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Birmingham City vs Leeds United[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 13:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Netherlands vs Georgia[/COLOR] - [COLOR lime]Ziggo Sport[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "15-Feb 13:00 | Europe Championship | Rugby | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Netherlands vs Georgia[/COLOR] - [COLOR lime]Ziggo Sport[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "15-Feb 13:00 | Europe Championship | Rugby | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][15/02 13:00][/COLOR] [COLOR gold]Netherlands vs Georgia[/COLOR] - [COLOR lime]Ziggo Sport[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "15-Feb 13:00 | Europe Championship | Rugby | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][15/02 14:00][/COLOR] [COLOR gold]Grimsby Town vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 14:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 14:00][/COLOR] [COLOR gold]Grimsby Town vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 14:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 14:00][/COLOR] [COLOR gold]Grimsby Town vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 14:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 14:00][/COLOR] [COLOR gold]Grimsby Town vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@71@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 14:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 14:00][/COLOR] [COLOR gold]Grimsby Town vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@71@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 14:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 14:00][/COLOR] [COLOR gold]Grimsby Town vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@71@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 14:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]TNT Sports 6[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]TNT Sports 6[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]TNT Sports 6[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@76@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@76@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Stoke City vs Fulham[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@76@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Oxford United vs Sunderland[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Oxford United vs Sunderland[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Oxford United vs Sunderland[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 15:00 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: SE"
     }
   ]
 }
