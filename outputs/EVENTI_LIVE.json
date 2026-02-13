@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-13 10:36:41",
+  "last_update": "2026-02-13 11:28:55",
   "items": [
     {
       "title": "ITALY (105)",
@@ -73,11 +73,11 @@
       "info": "24 canali CECHIA"
     },
     {
-      "title": "AUSTRALIA (15)",
+      "title": "AUSTRALIA (12)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15 canali AUSTRALIA"
+      "info": "12 canali AUSTRALIA"
     },
     {
       "title": "EUROPA (15)",
@@ -87,11 +87,11 @@
       "info": "15 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (519)",
+      "title": "INTERNAZIONALE (516)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "519 canali INTERNAZIONALE"
+      "info": "516 canali INTERNAZIONALE"
     }
   ]
 }
