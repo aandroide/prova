@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-13 17:37:42",
+  "last_update": "2026-02-13 18:42:55",
   "items": [
-    {
-      "title": "[COLOR cyan][13/02 16:40][/COLOR] [COLOR gold]France vs Czech Republic[/COLOR] - [COLOR lime]Eurosport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "13-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][13/02 16:40][/COLOR] [COLOR gold]France vs Czech Republic[/COLOR] - [COLOR lime]Eurosport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "13-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][13/02 16:40][/COLOR] [COLOR gold]France vs Czech Republic[/COLOR] - [COLOR lime]Eurosport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/512px-Eurosport_1_Logo_2015.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "13-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][13/02 16:45][/COLOR] [COLOR gold]Spartak Varna vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Feb 16:45 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][13/02 16:45][/COLOR] [COLOR gold]Spartak Varna vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Feb 16:45 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][13/02 16:45][/COLOR] [COLOR gold]Spartak Varna vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Feb 16:45 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][13/02 18:00][/COLOR] [COLOR gold]Slaven Koprivnica vs Lokomotiva Zagreb[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@70@@HR",
@@ -801,6 +759,27 @@
       "info": "14-Feb 02:00 | Mexico Liga MX | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][14/02 02:00][/COLOR] [COLOR gold]Puebla vs Pumas UNAM[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Feb 02:00 | Mexico Liga MX | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][14/02 02:00][/COLOR] [COLOR gold]Puebla vs Pumas UNAM[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Feb 02:00 | Mexico Liga MX | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][14/02 02:00][/COLOR] [COLOR gold]Puebla vs Pumas UNAM[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@40@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Feb 02:00 | Mexico Liga MX | Football | Lang: MX"
+    },
+    {
       "title": "[COLOR cyan][14/02 02:00][/COLOR] [COLOR gold]Tigres UANL vs Club Puebla[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@87@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -904,6 +883,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Feb 04:00 | Mexico Liga MX | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/02 04:00][/COLOR] [COLOR gold]Toluca vs Tijuana[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Feb 04:00 | Mexico Liga MX | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][14/02 04:00][/COLOR] [COLOR gold]Toluca vs Tijuana[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Feb 04:00 | Mexico Liga MX | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][14/02 04:00][/COLOR] [COLOR gold]Toluca vs Tijuana[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@40@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Feb 04:00 | Mexico Liga MX | Football | Lang: MX"
     },
     {
       "title": "[COLOR cyan][14/02 05:50][/COLOR] [COLOR gold]Sydney Roosters vs Wests Tigers[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
