@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-14 21:20:43",
+  "last_update": "2026-02-14 22:19:59",
   "items": [
-    {
-      "title": "[COLOR cyan][14/02 21:00][/COLOR] [COLOR gold]Toulon vs Clermont[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:00 | France Top 14 | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:00][/COLOR] [COLOR gold]Toulon vs Clermont[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:00 | France Top 14 | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:00][/COLOR] [COLOR gold]Toulon vs Clermont[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:00 | France Top 14 | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:05][/COLOR] [COLOR gold]Paris vs Lens[/COLOR] - [COLOR lime]beIN Sport[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:05 | France Ligue 1 | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:05][/COLOR] [COLOR gold]Paris vs Lens[/COLOR] - [COLOR lime]beIN Sport[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:05 | France Ligue 1 | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:05][/COLOR] [COLOR gold]Paris vs Lens[/COLOR] - [COLOR lime]beIN Sport[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:05 | France Ligue 1 | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:05][/COLOR] [COLOR gold]Paris vs Lens[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:05 | France Ligue 1 | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:05][/COLOR] [COLOR gold]Paris vs Lens[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:05 | France Ligue 1 | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/02 21:05][/COLOR] [COLOR gold]Paris vs Lens[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Feb 21:05 | France Ligue 1 | Football | Lang: FR"
-    },
     {
       "title": "[COLOR cyan][15/02 15:00][/COLOR] [COLOR gold]Le Havre vs Toulouse[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@39@@US",
