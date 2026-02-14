@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-14 17:23:40",
+  "last_update": "2026-02-14 18:29:43",
   "items": [
     {
       "title": "[COLOR cyan][14/02 18:30][/COLOR] [COLOR gold]Sevilla vs Deportivo Alaves[/COLOR] - [COLOR lime]LaLiga TV Bar[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -442,6 +442,153 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Feb 21:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 20:30][/COLOR] [COLOR gold]Real Sociedad II vs Malaga[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 20:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 20:30][/COLOR] [COLOR gold]Real Sociedad II vs Malaga[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 20:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 20:30][/COLOR] [COLOR gold]Real Sociedad II vs Malaga[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 20:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@5@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@6@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/02 21:00][/COLOR] [COLOR gold]Girona vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Feb 21:00 | Spain La Liga | Football | Lang: ES"
     }
   ]
 }
