@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-15 18:31:51",
+  "last_update": "2026-02-15 19:22:28",
   "items": [
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@79@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][15/02 17:30][/COLOR] [COLOR gold]Arsenal vs Wigan Athletic[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@79@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 17:30 | England FA Cup | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][15/02 18:00][/COLOR] [COLOR gold]Romania vs Belgium[/COLOR] - [COLOR lime]TVR Sport[/COLOR] [COLOR orange][ro][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@37@@RO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 18:00 | Europe Championship | Rugby | Lang: RO"
-    },
-    {
-      "title": "[COLOR cyan][15/02 18:00][/COLOR] [COLOR gold]Romania vs Belgium[/COLOR] - [COLOR lime]TVR Sport[/COLOR] [COLOR orange][ro][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@37@@RO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 18:00 | Europe Championship | Rugby | Lang: RO"
-    },
     {
       "title": "[COLOR cyan][16/02 20:30][/COLOR] [COLOR gold]Macclesfield vs Brentford[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@GB",
