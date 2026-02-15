@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-15 20:22:20",
+  "last_update": "2026-02-15 21:21:27",
   "items": [
-    {
-      "title": "[COLOR cyan][15/02 19:10][/COLOR] [COLOR gold]Denmark vs Latvia[/COLOR] - [COLOR lime]CNBC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 19:10 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/02 19:10][/COLOR] [COLOR gold]Denmark vs Latvia[/COLOR] - [COLOR lime]CNBC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 19:10 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/02 20:00][/COLOR] [COLOR gold]Panathinaikos vs Larissa[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "15-Feb 20:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][15/02 20:00][/COLOR] [COLOR gold]Panathinaikos vs Larissa[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "15-Feb 20:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][15/02 20:00][/COLOR] [COLOR gold]Florida Atlantic vs South Florida[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "15-Feb 20:00 | NCAA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/02 20:00][/COLOR] [COLOR gold]Florida Atlantic vs South Florida[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "15-Feb 20:00 | NCAA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/02 20:10][/COLOR] [COLOR gold]Rionegro Aguilas vs Atletico Bucaramanga[/COLOR] - [COLOR lime]Win Sports[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@CO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 20:10 | Colombia Primera A | Football | Lang: CO"
-    },
-    {
-      "title": "[COLOR cyan][15/02 20:10][/COLOR] [COLOR gold]Rionegro Aguilas vs Atletico Bucaramanga[/COLOR] - [COLOR lime]Win Sports[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@CO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Feb 20:10 | Colombia Primera A | Football | Lang: CO"
-    },
     {
       "title": "[COLOR cyan][15/02 20:30][/COLOR] [COLOR gold]NASCAR Cup Series[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@87@@ES",
