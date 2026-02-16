@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-16 19:30:26",
+  "last_update": "2026-02-16 20:27:00",
   "items": [
     {
       "title": "[COLOR cyan][16/02 20:30][/COLOR] [COLOR gold]Macclesfield vs Brentford[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -127,6 +127,90 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "17-Feb 21:00 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Sky Sports Premier League[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Sky Sports Premier League[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]DAZN Spain[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]DAZN Spain[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@70@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Arsenal[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@70@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | England Premier League | Football | Lang: SE"
     }
   ]
 }

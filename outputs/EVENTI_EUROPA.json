@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-16 19:30:26",
+  "last_update": "2026-02-16 20:27:00",
   "items": [
-    {
-      "title": "[COLOR cyan][16/02 19:15][/COLOR] [COLOR gold]Al-Hilal vs Al Wahda[/COLOR] - [COLOR lime]ESPN3 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16-Feb 19:15 | AFC Champions League | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][16/02 19:15][/COLOR] [COLOR gold]Al-Hilal vs Al Wahda[/COLOR] - [COLOR lime]ESPN3 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "16-Feb 19:15 | AFC Champions League | Football | Lang: MX"
-    },
     {
       "title": "[COLOR cyan][17/02 11:00][/COLOR] [COLOR gold]Seoul vs Sanfrecce Hiroshima[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@20@@DE",
@@ -575,6 +561,538 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "17-Feb 21:00 | Europe UEFA Champions League | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][18/02 11:00][/COLOR] [COLOR gold]Melbourne City vs Gangwon[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 11:00 | Asia AFC Champions League Elite | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 11:00][/COLOR] [COLOR gold]Melbourne City vs Gangwon[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 11:00 | Asia AFC Champions League Elite | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 11:00][/COLOR] [COLOR gold]Shanghai Port vs Ulsan[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@49@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 11:00 | Asia AFC Champions League Elite | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 11:00][/COLOR] [COLOR gold]Shanghai Port vs Ulsan[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@49@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 11:00 | Asia AFC Champions League Elite | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 13:15][/COLOR] [COLOR gold]Tampines Rovers vs Cong An Hanoi[/COLOR] - [COLOR lime]Diema Sport 3[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 13:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 13:15][/COLOR] [COLOR gold]Tampines Rovers vs Cong An Hanoi[/COLOR] - [COLOR lime]Diema Sport 3[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 13:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 13:15][/COLOR] [COLOR gold]Persib vs Ratchaburi[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@49@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 13:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 13:15][/COLOR] [COLOR gold]Persib vs Ratchaburi[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@49@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 13:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Qarabag vs Newcastle United[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Real Madrid vs Paris FC[/COLOR] - [COLOR lime]CBS Sports Golazo Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Real Madrid vs Paris FC[/COLOR] - [COLOR lime]CBS Sports Golazo Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Real Madrid vs Paris FC[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 18:45][/COLOR] [COLOR gold]Real Madrid vs Paris FC[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 19:15][/COLOR] [COLOR gold]Al Nassr vs Arkadag[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 19:15 | Asia AFC Champions League Two | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 19:15][/COLOR] [COLOR gold]Al Nassr vs Arkadag[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 19:15 | Asia AFC Champions League Two | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 19:15][/COLOR] [COLOR gold]Al Nassr vs Arkadag[/COLOR] - [COLOR lime]Diema Sport 3[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 19:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 19:15][/COLOR] [COLOR gold]Al Nassr vs Arkadag[/COLOR] - [COLOR lime]Diema Sport 3[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 19:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 19:15][/COLOR] [COLOR gold]Al Ahli vs Sepahan[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@49@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 19:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 19:15][/COLOR] [COLOR gold]Al Ahli vs Sepahan[/COLOR] - [COLOR lime]Nova Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@49@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 19:15 | Asia AFC Champions League Two | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]M. Liga de Campeones 3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]M. Liga de Campeones 3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@76@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Bodø / Glimt vs Internazionale[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@76@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Club Brugge vs Atletico Madrid[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]Cosmote Sport 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]Cosmote Sport 2[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-2-384.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@77@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Bayer Leverkusen[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@77@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Arsenal vs OH Leuven[/COLOR] - [COLOR lime]CBS Sports Golazo Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Arsenal vs OH Leuven[/COLOR] - [COLOR lime]CBS Sports Golazo Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Arsenal vs OH Leuven[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:00][/COLOR] [COLOR gold]Arsenal vs OH Leuven[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
     }
   ]
 }
