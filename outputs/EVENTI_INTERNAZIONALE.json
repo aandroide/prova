@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-17 17:53:32",
+  "last_update": "2026-02-17 18:53:57",
   "items": [
-    {
-      "title": "[COLOR cyan][17/02 16:40][/COLOR] [COLOR gold]Denmark vs Czech Republic[/COLOR] - [COLOR lime]Sky Sport 7[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@34@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143651",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "17-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][17/02 16:40][/COLOR] [COLOR gold]Denmark vs Czech Republic[/COLOR] - [COLOR lime]Sky Sport 7[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@34@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143651",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "17-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][17/02 16:40][/COLOR] [COLOR gold]Denmark vs Czech Republic[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][17/02 16:40][/COLOR] [COLOR gold]Denmark vs Czech Republic[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][17/02 18:00][/COLOR] [COLOR gold]Istanbulspor vs Erokspor[/COLOR] - [COLOR lime]TRT Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@92@@TR",
@@ -435,6 +407,426 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "18-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][18/02 23:00][/COLOR] [COLOR gold]Higgins vs Bahia[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 23:00 | South America Copa Libertadores | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 23:00][/COLOR] [COLOR gold]Higgins vs Bahia[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 23:00 | South America Copa Libertadores | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/02 23:00][/COLOR] [COLOR gold]O'Higgins vs Bahia[/COLOR] - [COLOR lime]beIN Sports n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 23:00 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/02 23:00][/COLOR] [COLOR gold]O'Higgins vs Bahia[/COLOR] - [COLOR lime]beIN Sports n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 23:00 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 00:00][/COLOR] [COLOR gold]Defence Force vs Philadelphia Union[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 00:00 | North America CONCACAF Champions Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 00:00][/COLOR] [COLOR gold]Defence Force vs Philadelphia Union[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 00:00 | North America CONCACAF Champions Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 00:00][/COLOR] [COLOR gold]Defence Force vs Philadelphia Union[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "19-Feb 00:00 | North America CONCACAF Champions Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 00:00][/COLOR] [COLOR gold]Defence Force vs Philadelphia Union[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "19-Feb 00:00 | North America CONCACAF Champions Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Nacional Potosi vs Botafogo[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Nacional Potosi vs Botafogo[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Nacional Potosi vs Botafogo[/COLOR] - [COLOR lime]beIN Sports Xtra n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Nacional Potosi vs Botafogo[/COLOR] - [COLOR lime]beIN Sports Xtra n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Barcelona vs Argentinos Juniors[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@39@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Barcelona vs Argentinos Juniors[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]O'Barcelona vs Argentinos Juniors[/COLOR] - [COLOR lime]beIN Sports n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]O'Barcelona vs Argentinos Juniors[/COLOR] - [COLOR lime]beIN Sports n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | South America Copa Libertadores | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Junior vs America de Cali[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@84@@CO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][19/02 01:30][/COLOR] [COLOR gold]Junior vs America de Cali[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@CO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 01:30 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][19/02 02:00][/COLOR] [COLOR gold]Universidad O&M vs Cincinnati[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 02:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 02:00][/COLOR] [COLOR gold]Universidad O&M vs Cincinnati[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 02:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 02:00][/COLOR] [COLOR gold]Universidad O&M vs Cincinnati[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 02:00 | North America CONCACAF Champions Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 02:00][/COLOR] [COLOR gold]Universidad O&M vs Cincinnati[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 02:00 | North America CONCACAF Champions Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 02:00][/COLOR] [COLOR gold]Universidad O&M vs Cincinnati[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "19-Feb 02:00 | North America CONCACAF Champions Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 02:00][/COLOR] [COLOR gold]Universidad O&M vs Cincinnati[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "19-Feb 02:00 | North America CONCACAF Champions Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 04:00][/COLOR] [COLOR gold]Cartagines vs Vancouver Whitecaps[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 04:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 04:00][/COLOR] [COLOR gold]Cartagines vs Vancouver Whitecaps[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 04:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 04:00][/COLOR] [COLOR gold]Cartagines vs Vancouver Whitecaps[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 04:00 | North America CONCACAF Champions Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 04:00][/COLOR] [COLOR gold]Cartagines vs Vancouver Whitecaps[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 04:00 | North America CONCACAF Champions Cup | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 08:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "19-Feb 08:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][19/02 08:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "19-Feb 08:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][19/02 08:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "19-Feb 08:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 08:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "19-Feb 08:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 13:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "19-Feb 13:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][19/02 13:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "19-Feb 13:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][19/02 13:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "19-Feb 13:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 13:00][/COLOR] [COLOR gold]Bahrain Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "19-Feb 13:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 14:40][/COLOR] [COLOR gold]Sweden vs Switzerland[/COLOR] - [COLOR lime]RDS[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 14:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 14:40][/COLOR] [COLOR gold]Sweden vs Switzerland[/COLOR] - [COLOR lime]RDS[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 14:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 14:40][/COLOR] [COLOR gold]Sweden vs Switzerland[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 14:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][19/02 14:40][/COLOR] [COLOR gold]Sweden vs Switzerland[/COLOR] - [COLOR lime]TV4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 14:40 | Women's Ice Hockey Winter Olympics | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][19/02 18:00][/COLOR] [COLOR gold]Sakaryaspor vs Pendikspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@92@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 18:00 | Turkey 1. Lig | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][19/02 18:00][/COLOR] [COLOR gold]Sakaryaspor vs Pendikspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@92@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 18:00 | Turkey 1. Lig | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]RDS 2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]RDS 2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
+      "info": "19-Feb 20:00 | PDC | Darts | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
+      "info": "19-Feb 20:00 | PDC | Darts | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Ittifaq vs Al Fateh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@66@@SA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Ittifaq vs Al Fateh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@66@@SA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Kholood vs Al Riyadh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@67@@SA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Kholood vs Al Riyadh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@67@@SA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 21:15][/COLOR] [COLOR gold]Defensa y Justicia vs Belgrano[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 21:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 21:15][/COLOR] [COLOR gold]Defensa y Justicia vs Belgrano[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 21:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 21:15][/COLOR] [COLOR gold]San Lorenzo vs Estudiantes Rio Cuarto[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 21:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/02 21:15][/COLOR] [COLOR gold]San Lorenzo vs Estudiantes Rio Cuarto[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Feb 21:15 | Argentina Primera Division | Football | Lang: ES"
     }
   ]
 }
