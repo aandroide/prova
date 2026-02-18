@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-18 17:58:40",
+  "last_update": "2026-02-18 19:04:37",
   "items": [
-    {
-      "title": "[COLOR cyan][18/02 16:40][/COLOR] [COLOR gold]Canada vs Czech Republic[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][18/02 16:40][/COLOR] [COLOR gold]Canada vs Czech Republic[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Feb 16:40 | Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
     {
       "title": "[COLOR cyan][18/02 18:00][/COLOR] [COLOR gold]Manisa BBSK vs Bandırmaspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@92@@TR",
@@ -945,14 +931,14 @@
       "myresolve": "sansat@@4@@NZ",
       "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-2-171.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "20-Feb 20:15 | European Six Nations | Hockey | Lang: NZ"
+      "info": "20-Feb 20:15 | European Six Nations | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][20/02 20:15][/COLOR] [COLOR gold]Wales U-20 vs Scotland U-20[/COLOR] - [COLOR lime]Sky Sports 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@4@@NZ",
       "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-2-171.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "20-Feb 20:15 | European Six Nations | Hockey | Lang: NZ"
+      "info": "20-Feb 20:15 | European Six Nations | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][20/02 20:15][/COLOR] [COLOR gold]Stade Nyonnais vs Aarau[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -973,14 +959,14 @@
       "myresolve": "sansat@@3@@AU",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 20:45 | European Six Nations | Hockey | Lang: AU"
+      "info": "20-Feb 20:45 | European Six Nations | Rugby | Lang: AU"
     },
     {
       "title": "[COLOR cyan][20/02 20:45][/COLOR] [COLOR gold]England U-20 vs Ireland U-20[/COLOR] - [COLOR lime]Stan Sport[/COLOR] [COLOR orange][au][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@3@@AU",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 20:45 | European Six Nations | Hockey | Lang: AU"
+      "info": "20-Feb 20:45 | European Six Nations | Rugby | Lang: AU"
     },
     {
       "title": "[COLOR cyan][20/02 21:00][/COLOR] [COLOR gold]Catalans Dragons vs Bradford[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
