@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-18 15:48:56",
+  "last_update": "2026-02-18 16:59:56",
   "items": [
-    {
-      "title": "[COLOR cyan][18/02 15:00][/COLOR] [COLOR gold]Van BB vs Bodrumspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Feb 15:00 | Turkey 1. Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][18/02 15:00][/COLOR] [COLOR gold]Van BB vs Bodrumspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Feb 15:00 | Turkey 1. Lig | Football | Lang: TR"
-    },
     {
       "title": "[COLOR cyan][18/02 16:40][/COLOR] [COLOR gold]Canada vs Czech Republic[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@32@@US",
@@ -46,14 +32,14 @@
     },
     {
       "title": "[COLOR cyan][18/02 18:10][/COLOR] [COLOR gold]Finland vs Switzerland[/COLOR] - [COLOR lime]SVT2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
+      "myresolve": "sansat@@69@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Feb 18:10 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
     },
     {
       "title": "[COLOR cyan][18/02 18:10][/COLOR] [COLOR gold]Finland vs Switzerland[/COLOR] - [COLOR lime]SVT2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
+      "myresolve": "sansat@@69@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Feb 18:10 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
@@ -87,18 +73,32 @@
       "info": "18-Feb 20:45 | Scotland Scottish Cup | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][18/02 21:10][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][18/02 21:10][/COLOR] [COLOR gold]USA vs Sweden[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@32@@CA",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "18-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
     },
     {
-      "title": "[COLOR cyan][18/02 21:10][/COLOR] [COLOR gold]TBD vs TBD[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][18/02 21:10][/COLOR] [COLOR gold]USA vs Sweden[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@32@@CA",
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "18-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:10][/COLOR] [COLOR gold]USA vs Sweden[/COLOR] - [COLOR lime]SVT1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/02 21:10][/COLOR] [COLOR gold]USA vs Sweden[/COLOR] - [COLOR lime]SVT1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: SE"
     },
     {
       "title": "[COLOR cyan][18/02 23:00][/COLOR] [COLOR gold]Higgins vs Bahia[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
