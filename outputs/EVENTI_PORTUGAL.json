@@ -1,20 +1,34 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-16 21:26:23",
+  "last_update": "2026-02-18 17:58:40",
   "items": [
     {
-      "title": "[COLOR cyan][16/02 21:15][/COLOR] [COLOR gold]Rio Ave vs Moreirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "title": "[COLOR cyan][20/02 19:45][/COLOR] [COLOR gold]Leixoes vs Vizela[/COLOR] - [COLOR lime]Sport TV5[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "16-Feb 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+      "info": "20-Feb 19:45 | Portugal Segunda liga | Football | Lang: PT"
     },
     {
-      "title": "[COLOR cyan][16/02 21:15][/COLOR] [COLOR gold]Rio Ave vs Moreirense[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][20/02 19:45][/COLOR] [COLOR gold]Leixoes vs Vizela[/COLOR] - [COLOR lime]Sport TV5[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/ldsp6c1700902696.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "20-Feb 19:45 | Portugal Segunda liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][20/02 21:45][/COLOR] [COLOR gold]Estrela vs Tondela[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "16-Feb 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+      "info": "20-Feb 21:45 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][20/02 21:45][/COLOR] [COLOR gold]Estrela vs Tondela[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "20-Feb 21:45 | Portugal Primeira Liga | Football | Lang: PT"
     }
   ]
 }

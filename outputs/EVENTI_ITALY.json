@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-18 16:59:56",
+  "last_update": "2026-02-18 17:58:40",
   "items": [
     {
       "title": "[COLOR cyan][18/02 20:45][/COLOR] [COLOR gold]Milan vs Como[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,34 @@
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
       "info": "18-Feb 20:45 | Italy Serie A | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][20/02 20:45][/COLOR] [COLOR gold]Sassuolo vs Verona[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "20-Feb 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][20/02 20:45][/COLOR] [COLOR gold]Sassuolo vs Verona[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "20-Feb 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][20/02 20:45][/COLOR] [COLOR gold]Sassuolo vs Verona[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "20-Feb 20:45 | Italy Serie A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][20/02 20:45][/COLOR] [COLOR gold]Sassuolo vs Verona[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "20-Feb 20:45 | Italy Serie A | Football | Lang: ES"
     }
   ]
 }
