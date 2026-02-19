@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-19 18:45:51",
+  "last_update": "2026-02-19 19:36:55",
   "items": [
-    {
-      "title": "[COLOR cyan][19/02 18:00][/COLOR] [COLOR gold]Sakaryaspor vs Pendikspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 18:00 | Turkey 1. Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][19/02 18:00][/COLOR] [COLOR gold]Sakaryaspor vs Pendikspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 18:00 | Turkey 1. Lig | Football | Lang: TR"
-    },
     {
       "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@10@@US",
@@ -843,6 +829,20 @@
       "info": "21-Feb 02:30 | Colombia Primera A | Football | Lang: CO"
     },
     {
+      "title": "[COLOR cyan][21/02 04:00][/COLOR] [COLOR gold]Buriram-Test[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 04:00 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/02 04:00][/COLOR] [COLOR gold]Buriram-Test[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 04:00 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
       "title": "[COLOR cyan][21/02 04:05][/COLOR] [COLOR gold]Puebla vs America[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@30@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1510,20 +1510,6 @@
     {
       "title": "[COLOR cyan][21/02 21:00][/COLOR] [COLOR gold]Platense vs Barracas Central[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 21:00 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/02 21:00][/COLOR] [COLOR gold]Banfield vs Newell's Old Boys[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 21:00 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/02 21:00][/COLOR] [COLOR gold]Banfield vs Newell's Old Boys[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Feb 21:00 | Argentina Primera Division | Football | Lang: ES"
