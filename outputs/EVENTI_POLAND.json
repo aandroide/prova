@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-19 17:47:20",
+  "last_update": "2026-02-19 18:45:51",
   "items": [
     {
       "title": "[COLOR cyan][20/02 18:00][/COLOR] [COLOR gold]Piast Gliwice vs Motor Lublin[/COLOR] - [COLOR lime]beIN Sports n[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -71,6 +71,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "20-Feb 20:30 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][21/02 15:00][/COLOR] [COLOR gold]Rakow Czestochowa vs Nieciecza[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 15:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][21/02 15:00][/COLOR] [COLOR gold]Rakow Czestochowa vs Nieciecza[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 15:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][21/02 17:45][/COLOR] [COLOR gold]Gornik Zabrze vs Pogon Szczecin[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 17:45 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][21/02 17:45][/COLOR] [COLOR gold]Gornik Zabrze vs Pogon Szczecin[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 17:45 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][21/02 20:30][/COLOR] [COLOR gold]Legia Warszawa vs Wisła Płock[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 20:30 | Poland Ekstraklasa | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/02 20:30][/COLOR] [COLOR gold]Legia Warszawa vs Wisła Płock[/COLOR] - [COLOR lime]beIN Sports Xtra[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 20:30 | Poland Ekstraklasa | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/02 20:30][/COLOR] [COLOR gold]Legia Warszawa vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 20:30 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][21/02 20:30][/COLOR] [COLOR gold]Legia Warszawa vs Wisła Płock[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Feb 20:30 | Poland Ekstraklasa | Football | Lang: PL"
     }
   ]
 }
