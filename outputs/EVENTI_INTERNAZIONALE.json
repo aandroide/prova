@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-19 20:28:46",
+  "last_update": "2026-02-19 21:29:03",
   "items": [
-    {
-      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]RDS 2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][19/02 19:10][/COLOR] [COLOR gold]USA vs Canada[/COLOR] - [COLOR lime]RDS 2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 19:10 | Women's Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
     {
       "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@14@@DE",
@@ -43,62 +15,6 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "info": "19-Feb 20:00 | PDC | Darts | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Ittifaq vs Al Fateh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@66@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Ittifaq vs Al Fateh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@66@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Kholood vs Al Riyadh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@67@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al Kholood vs Al Riyadh[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@67@@SA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: SA"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][19/02 20:00][/COLOR] [COLOR gold]Al-Ahli vs Al Najma[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Feb 20:00 | Saudi Arabia Pro League | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][19/02 21:15][/COLOR] [COLOR gold]Defensa y Justicia vs Belgrano[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
