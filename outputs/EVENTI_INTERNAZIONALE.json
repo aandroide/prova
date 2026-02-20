@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-20 08:36:39",
+  "last_update": "2026-02-20 09:37:22",
   "items": [
-    {
-      "title": "[COLOR cyan][20/02 08:00][/COLOR] [COLOR gold]Bahrain-Test[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "20-Feb 08:00 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][20/02 08:00][/COLOR] [COLOR gold]Bahrain-Test[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "20-Feb 08:00 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][20/02 08:00][/COLOR] [COLOR gold]Bahrain-Test[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "20-Feb 08:00 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][20/02 08:00][/COLOR] [COLOR gold]Bahrain-Test[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "20-Feb 08:00 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][20/02 08:00][/COLOR] [COLOR gold]Dolphins vs New Zealand Warriors[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "20-Feb 08:00 | NRL | Rugby | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][20/02 08:00][/COLOR] [COLOR gold]Dolphins vs New Zealand Warriors[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "20-Feb 08:00 | NRL | Rugby | Lang: US"
-    },
     {
       "title": "[COLOR cyan][20/02 10:10][/COLOR] [COLOR gold]Penrith Panthers vs Wests Tigers[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@82@@US",
