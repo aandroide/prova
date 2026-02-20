@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-20 14:47:40",
+  "last_update": "2026-02-20 15:34:39",
   "items": [
     {
       "title": "[COLOR cyan][21/02 20:30][/COLOR] [COLOR gold]St. Louis City vs Charlotte[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -29,6 +29,160 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Feb 22:45 | USA/Canada Major League Soccer | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]Vancouver Whitecaps vs Real Salt Lake[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "22-Feb 01:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]Vancouver Whitecaps vs Real Salt Lake[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "22-Feb 01:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]DC United vs Philadelphia Union[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 01:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]DC United vs Philadelphia Union[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 01:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]Orlando City SC vs New York RB[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 01:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]Orlando City SC vs New York RB[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 01:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Austin vs Minnesota United[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Austin vs Minnesota United[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Dallas vs Toronto FC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@35@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Dallas vs Toronto FC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@35@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Houston Dynamo vs Chicago Fire[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@36@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Houston Dynamo vs Chicago Fire[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@36@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Nashville SC vs New England[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@37@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Nashville SC vs New England[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@37@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 02:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 03:30][/COLOR] [COLOR gold]Los Angeles FC vs Inter Miami[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 03:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 03:30][/COLOR] [COLOR gold]Los Angeles FC vs Inter Miami[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 03:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 04:30][/COLOR] [COLOR gold]San Diego vs CF Montreal[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "22-Feb 04:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][22/02 04:30][/COLOR] [COLOR gold]San Diego vs CF Montreal[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "22-Feb 04:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][22/02 04:30][/COLOR] [COLOR gold]Portland Timbers vs Columbus Crew[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 04:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 04:30][/COLOR] [COLOR gold]Portland Timbers vs Columbus Crew[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 04:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 04:30][/COLOR] [COLOR gold]SJ Earthquakes vs Sporting KC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 04:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/02 04:30][/COLOR] [COLOR gold]SJ Earthquakes vs Sporting KC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Feb 04:30 | USA/Canada Major League Soccer | Football | Lang: US"
     }
   ]
 }
