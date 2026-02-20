@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-20 22:22:04",
+  "last_update": "2026-02-20 23:26:04",
   "items": [
-    {
-      "title": "[COLOR cyan][20/02 21:10][/COLOR] [COLOR gold]USA vs Slovakia[/COLOR] - [COLOR lime]Sky Sports 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@NZ",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-6-1624.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "20-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][20/02 21:10][/COLOR] [COLOR gold]USA vs Slovakia[/COLOR] - [COLOR lime]Sky Sports 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@NZ",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-6-1624.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "20-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][20/02 21:10][/COLOR] [COLOR gold]USA vs Slovakia[/COLOR] - [COLOR lime]Sportsnet One[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][20/02 21:10][/COLOR] [COLOR gold]USA vs Slovakia[/COLOR] - [COLOR lime]Sportsnet One[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][20/02 21:10][/COLOR] [COLOR gold]USA vs Slovakia[/COLOR] - [COLOR lime]RDS 2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][20/02 21:10][/COLOR] [COLOR gold]USA vs Slovakia[/COLOR] - [COLOR lime]RDS 2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 21:10 | Ice Hockey Winter Olympics | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][20/02 22:00][/COLOR] [COLOR gold]Estudiantes vs Sarmiento[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 22:00 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][20/02 22:00][/COLOR] [COLOR gold]Estudiantes vs Sarmiento[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 22:00 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][20/02 22:00][/COLOR] [COLOR gold]Union La Calera vs Nublense[/COLOR] - [COLOR lime]TNT SPORTS Premium[/COLOR] [COLOR orange][cl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@CL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 22:00 | Chile Primera Division | Football | Lang: CL"
-    },
-    {
-      "title": "[COLOR cyan][20/02 22:00][/COLOR] [COLOR gold]Union La Calera vs Nublense[/COLOR] - [COLOR lime]TNT SPORTS Premium[/COLOR] [COLOR orange][cl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@CL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Feb 22:00 | Chile Primera Division | Football | Lang: CL"
-    },
     {
       "title": "[COLOR cyan][21/02 00:00][/COLOR] [COLOR gold]Boca Juniors vs Racing Club[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@28@@ES",
