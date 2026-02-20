@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-20 18:41:14",
+  "last_update": "2026-02-20 19:34:39",
   "items": [
     {
       "title": "ITALY (54)",
@@ -24,11 +24,11 @@
       "info": "58 canali SPAIN"
     },
     {
-      "title": "GERMANY (98)",
+      "title": "GERMANY (92)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "98 canali GERMANY"
+      "info": "92 canali GERMANY"
     },
     {
       "title": "FRANCE (68)",
@@ -66,18 +66,18 @@
       "info": "18 canali SWEDEN"
     },
     {
-      "title": "POLAND (30)",
+      "title": "POLAND (26)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_POLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30 canali POLAND"
+      "info": "26 canali POLAND"
     },
     {
-      "title": "FINLAND (24)",
+      "title": "FINLAND (20)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali FINLAND"
+      "info": "20 canali FINLAND"
     },
     {
       "title": "CECHIA (8)",
@@ -94,11 +94,11 @@
       "info": "12 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (278)",
+      "title": "INTERNAZIONALE (274)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "278 canali INTERNAZIONALE"
+      "info": "274 canali INTERNAZIONALE"
     }
   ]
 }
