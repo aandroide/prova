@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-21 19:21:37",
+  "last_update": "2026-02-21 20:21:00",
   "items": [
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Sky Sport 8[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@4@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sport_8_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143641",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Sky Sport 8[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@4@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Sky_Sport_8_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143641",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]West Ham United vs AFC Bournemouth[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:30 | England Premier League | Football | Lang: FR"
-    },
     {
       "title": "[COLOR cyan][21/02 20:00][/COLOR] [COLOR gold]Belgium vs Germany[/COLOR] - [COLOR lime]ProSieben MAXX[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@13@@DE",
