@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-21 17:22:48",
+  "last_update": "2026-02-21 18:30:26",
   "items": [
-    {
-      "title": "[COLOR cyan][21/02 16:30][/COLOR] [COLOR gold]Ulm vs Saarbrucken[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@100@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 16:30 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][21/02 16:30][/COLOR] [COLOR gold]Ulm vs Saarbrucken[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@100@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 16:30 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@96@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@96@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Hartberg vs Grazer AK[/COLOR] - [COLOR lime]Sky Sport Austria 4[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@97@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Hartberg vs Grazer AK[/COLOR] - [COLOR lime]Sky Sport Austria 4[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@97@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Rheindorf Altach vs Austria Wien[/COLOR] - [COLOR lime]Sky Sport Austria 3[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@98@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Rheindorf Altach vs Austria Wien[/COLOR] - [COLOR lime]Sky Sport Austria 3[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@98@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Rapid Wien vs Wolfsberger AC[/COLOR] - [COLOR lime]Sky Sport Austria 2[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@99@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:00][/COLOR] [COLOR gold]Rapid Wien vs Wolfsberger AC[/COLOR] - [COLOR lime]Sky Sport Austria 2[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@99@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
     {
       "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]RB Leipzig vs Borussia Dortmund[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@9@@US",
