@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-21 18:30:26",
+  "last_update": "2026-02-21 19:21:37",
   "items": [
-    {
-      "title": "[COLOR cyan][21/02 17:40][/COLOR] [COLOR gold]Wales vs Scotland[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@69@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "21-Feb 17:40 | European Six Nations | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:40][/COLOR] [COLOR gold]Wales vs Scotland[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@69@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "21-Feb 17:40 | European Six Nations | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:40][/COLOR] [COLOR gold]Wales vs Scotland[/COLOR] - [COLOR lime]BBC One[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:40 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/02 17:40][/COLOR] [COLOR gold]Wales vs Scotland[/COLOR] - [COLOR lime]BBC One[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 17:40 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:00][/COLOR] [COLOR gold]Servette vs St. Gallen[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@16@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:00 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:00][/COLOR] [COLOR gold]Servette vs St. Gallen[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@16@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:00 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:00][/COLOR] [COLOR gold]Konyaspor vs Galatasaray[/COLOR] - [COLOR lime]beIN Sports 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@34@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:00 | Turkey Super Lig | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:00][/COLOR] [COLOR gold]Konyaspor vs Galatasaray[/COLOR] - [COLOR lime]beIN Sports 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@34@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:00 | Turkey Super Lig | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:00][/COLOR] [COLOR gold]Konyaspor vs Galatasaray[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][21/02 18:00][/COLOR] [COLOR gold]Konyaspor vs Galatasaray[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
     {
       "title": "[COLOR cyan][21/02 18:30][/COLOR] [COLOR gold]Leigh Wood vs Josh Warrington[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@3@@US",
