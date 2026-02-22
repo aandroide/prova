@@ -1,105 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-22 01:54:35",
+  "last_update": "2026-02-22 04:14:22",
   "items": [
-    {
-      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]Central Cordoba SdE vs Tigre[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 01:30 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/02 01:30][/COLOR] [COLOR gold]Central Cordoba SdE vs Tigre[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 01:30 | Argentina Primera Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Sean Strickland vs Anthony Hernandez[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | UFC | MMA | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Sean Strickland vs Anthony Hernandez[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | UFC | MMA | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Sean Strickland vs Anthony Hernandez[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Sean Strickland vs Anthony Hernandez[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Sean Strickland vs Anthony Hernandez[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | UFC | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Sean Strickland vs Anthony Hernandez[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | UFC | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Necaxa vs Toluca[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Necaxa vs Toluca[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Nicolas Ezequiel Jara vs Lorenzo Gerez[/COLOR] - [COLOR lime]ESPN3 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@97@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | Fighting | Boxing | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:00][/COLOR] [COLOR gold]Nicolas Ezequiel Jara vs Lorenzo Gerez[/COLOR] - [COLOR lime]ESPN3 Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@97@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:00 | Fighting | Boxing | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Inter Bogota vs Millonarios[/COLOR] - [COLOR lime]Win Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@CO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:30 | Colombia Primera A | Football | Lang: CO"
-    },
-    {
-      "title": "[COLOR cyan][22/02 02:30][/COLOR] [COLOR gold]Inter Bogota vs Millonarios[/COLOR] - [COLOR lime]Win Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@CO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 02:30 | Colombia Primera A | Football | Lang: CO"
-    },
     {
       "title": "[COLOR cyan][22/02 03:00][/COLOR] [COLOR gold]Ryan Garcia vs Mario Barrios[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@9@@US",
@@ -113,20 +15,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22-Feb 03:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][22/02 03:00][/COLOR] [COLOR gold]Deportivo Saprissa vs Alajuelense[/COLOR] - [COLOR lime]FUTV[/COLOR] [COLOR orange][cr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@CR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 03:00 | Costa Rica Primera Division | Football | Lang: CR"
-    },
-    {
-      "title": "[COLOR cyan][22/02 03:00][/COLOR] [COLOR gold]Deportivo Saprissa vs Alajuelense[/COLOR] - [COLOR lime]FUTV[/COLOR] [COLOR orange][cr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@CR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 03:00 | Costa Rica Primera Division | Football | Lang: CR"
     },
     {
       "title": "[COLOR cyan][22/02 04:05][/COLOR] [COLOR gold]Cruz Azul vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
