@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-22 12:41:54",
+  "last_update": "2026-02-22 13:40:57",
   "items": [
     {
       "title": "[COLOR cyan][23/02 19:00][/COLOR] [COLOR gold]GAIS vs Landskrona[/COLOR] - [COLOR lime]SportExpressen Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -71,6 +71,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "23-Feb 19:00 | Sweden Allsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/02 19:00][/COLOR] [COLOR gold]Linkoping HC vs Leksands IF[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Feb 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/02 19:00][/COLOR] [COLOR gold]Linkoping HC vs Leksands IF[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Feb 19:00 | Sweden SHL | Hockey | Lang: SE"
     }
   ]
 }
