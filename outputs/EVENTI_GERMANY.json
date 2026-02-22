@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-22 14:23:07",
+  "last_update": "2026-02-22 15:21:13",
   "items": [
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Hannover 96 vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Hannover 96 vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Paderborn vs Hertha BSC[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Paderborn vs Hertha BSC[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Preußen Munster vs Kaiserslautern[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]Preußen Munster vs Kaiserslautern[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]1860 Munchen vs Hansa Rostock[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 13:30][/COLOR] [COLOR gold]1860 Munchen vs Hansa Rostock[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 13:30 | Germany 3. Liga | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][22/02 14:30][/COLOR] [COLOR gold]WSG Tirol vs Ried[/COLOR] - [COLOR lime]Sky Sport Austria 3[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@98@@AT",
