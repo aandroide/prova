@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-22 16:25:31",
+  "last_update": "2026-02-22 17:22:35",
   "items": [
     {
       "title": "ITALY (34)",
@@ -10,25 +10,25 @@
       "info": "34 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (60)",
+      "title": "UNITED KINGDOM (62)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "60 canali UNITED KINGDOM"
+      "info": "62 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (24)",
+      "title": "SPAIN (18)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali SPAIN"
+      "info": "18 canali SPAIN"
     },
     {
-      "title": "GERMANY (20)",
+      "title": "GERMANY (16)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20 canali GERMANY"
+      "info": "16 canali GERMANY"
     },
     {
       "title": "FRANCE (22)",
@@ -87,11 +87,11 @@
       "info": "40 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (112)",
+      "title": "INTERNAZIONALE (94)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "112 canali INTERNAZIONALE"
+      "info": "94 canali INTERNAZIONALE"
     }
   ]
 }
