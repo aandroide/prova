@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-22 17:22:35",
+  "last_update": "2026-02-22 18:31:11",
   "items": [
-    {
-      "title": "[COLOR cyan][22/02 16:30][/COLOR] [COLOR gold]Erzgebirge Aue vs Energie Cottbus[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 16:30 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 16:30][/COLOR] [COLOR gold]Erzgebirge Aue vs Energie Cottbus[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 16:30 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 17:00][/COLOR] [COLOR gold]LASK Linz vs Salzburg[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][22/02 17:00][/COLOR] [COLOR gold]LASK Linz vs Salzburg[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 17:00 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][22/02 17:30][/COLOR] [COLOR gold]St. Pauli vs Werder Bremen[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "22-Feb 17:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 17:30][/COLOR] [COLOR gold]St. Pauli vs Werder Bremen[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "22-Feb 17:30 | Germany Bundesliga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/02 17:30][/COLOR] [COLOR gold]St. Pauli vs Werder Bremen[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 17:30 | Germany Bundesliga | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][22/02 17:30][/COLOR] [COLOR gold]St. Pauli vs Werder Bremen[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Feb 17:30 | Germany Bundesliga | Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][22/02 19:30][/COLOR] [COLOR gold]Hoffenheim II vs Viktoria Koln[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@15@@DE",
