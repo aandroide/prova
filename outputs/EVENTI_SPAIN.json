@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-23 17:59:08",
+  "last_update": "2026-02-23 19:15:14",
   "items": [
     {
       "title": "[COLOR cyan][23/02 20:30][/COLOR] [COLOR gold]Cadiz vs Real Sociedad II[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -43,6 +43,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "23-Feb 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/02 19:00][/COLOR] [COLOR gold]Ceuta vs Cordoba[/COLOR] - [COLOR lime]LALIGA TV Hypermotion 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Feb 19:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/02 19:00][/COLOR] [COLOR gold]Ceuta vs Cordoba[/COLOR] - [COLOR lime]LALIGA TV Hypermotion 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Feb 19:00 | Spain Segunda Division | Football | Lang: ES"
     }
   ]
 }
