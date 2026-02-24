@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-24 17:03:09",
+  "last_update": "2026-02-24 18:57:23",
   "items": [
     {
       "title": "UNITED KINGDOM (46)",
@@ -52,18 +52,18 @@
       "info": "14 canali CECHIA"
     },
     {
-      "title": "EUROPA (190)",
+      "title": "EUROPA (194)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_EUROPA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "190 canali EUROPA"
+      "info": "194 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (134)",
+      "title": "INTERNAZIONALE (138)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "134 canali INTERNAZIONALE"
+      "info": "138 canali INTERNAZIONALE"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-24 17:03:09",
+  "last_update": "2026-02-24 18:57:23",
   "items": [
     {
       "title": "[COLOR cyan][24/02 18:45][/COLOR] [COLOR gold]Atletico Madrid vs Club Brugge[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -955,6 +955,20 @@
       "info": "26-Feb 18:45 | Europe UEFA Conference League | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][26/02 18:45][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@AT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Feb 18:45 | Europe UEFA Europa League | Football | Lang: AT"
+    },
+    {
+      "title": "[COLOR cyan][26/02 18:45][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@AT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Feb 18:45 | Europe UEFA Europa League | Football | Lang: AT"
+    },
+    {
       "title": "[COLOR cyan][26/02 21:00][/COLOR] [COLOR gold]Nottingham Forest vs Fenerbahce[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1331,6 +1345,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "26-Feb 21:00 | Europe UEFA Conference League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][26/02 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@AT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Feb 21:00 | Europe UEFA Europa League | Football | Lang: AT"
+    },
+    {
+      "title": "[COLOR cyan][26/02 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@AT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Feb 21:00 | Europe UEFA Europa League | Football | Lang: AT"
     }
   ]
 }
