@@ -1,230 +1,76 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-25 21:31:47",
+  "last_update": "2026-02-25 22:29:39",
   "items": [
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Real Madrid vs Benfica[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]PSG vs Monaco[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@51@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@5@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TNT Sports 5[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@5@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: US"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]M. Liga de Campeones 5[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]M. Liga de Campeones 5[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@26@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]M. Liga de Campeones 5[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]M. Liga de Campeones 5[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@26@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@53@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@53@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TRT 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TRT 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@91@@TR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: TR"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: TR"
     },
     {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TRT 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][25/02 21:45][/COLOR] [COLOR gold]Juventus vs Galatasaray[/COLOR] - [COLOR lime]TRT 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@91@@TR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][25/02 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "25-Feb 21:00 | Europe UEFA Champions League | Football | Lang: GR"
+      "info": "25-Feb 21:45 | Europe UEFA Champions League | Football | Lang: TR"
     },
     {
       "title": "[COLOR cyan][26/02 18:45][/COLOR] [COLOR gold]Stuttgart vs Celtic[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
