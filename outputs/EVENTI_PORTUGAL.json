@@ -1,34 +1,48 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-23 21:41:08",
+  "last_update": "2026-02-25 17:14:35",
   "items": [
     {
-      "title": "[COLOR cyan][23/02 21:15][/COLOR] [COLOR gold]Famalicao vs Casa Pia[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][27/02 19:45][/COLOR] [COLOR gold]Porto vs Arouca[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "27-Feb 19:45 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][27/02 19:45][/COLOR] [COLOR gold]Porto vs Arouca[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "27-Feb 19:45 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][27/02 21:45][/COLOR] [COLOR gold]Sporting CP vs Estoril[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Feb 21:45 | Portugal Primeira Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][27/02 21:45][/COLOR] [COLOR gold]Sporting CP vs Estoril[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Feb 21:45 | Portugal Primeira Liga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][27/02 21:45][/COLOR] [COLOR gold]Sporting CP vs Estoril[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "23-Feb 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+      "info": "27-Feb 21:45 | Portugal Primeira Liga | Football | Lang: PT"
     },
     {
-      "title": "[COLOR cyan][23/02 21:15][/COLOR] [COLOR gold]Famalicao vs Casa Pia[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][27/02 21:45][/COLOR] [COLOR gold]Sporting CP vs Estoril[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "23-Feb 21:15 | Portugal Primeira Liga | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][23/02 21:15][/COLOR] [COLOR gold]Porto II vs Pacos de Ferreira[/COLOR] - [COLOR lime]Porto Canal[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@22@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "23-Feb 21:15 | Portugal Segunda liga | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][23/02 21:15][/COLOR] [COLOR gold]Porto II vs Pacos de Ferreira[/COLOR] - [COLOR lime]Porto Canal[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@22@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "23-Feb 21:15 | Portugal Segunda liga | Football | Lang: PL"
+      "info": "27-Feb 21:45 | Portugal Primeira Liga | Football | Lang: PT"
     }
   ]
 }
