@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-25 22:29:39",
+  "last_update": "2026-02-25 23:25:43",
   "items": [
     {
       "title": "ITALY (4)",
@@ -38,11 +38,11 @@
       "info": "18 canali FRANCE"
     },
     {
-      "title": "USA (114)",
+      "title": "USA (100)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "114 canali USA"
+      "info": "100 canali USA"
     },
     {
       "title": "PORTUGAL (6)",
@@ -87,11 +87,11 @@
       "info": "4 canali AUSTRALIA"
     },
     {
-      "title": "EUROPA (120)",
+      "title": "EUROPA (110)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_EUROPA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "120 canali EUROPA"
+      "info": "110 canali EUROPA"
     },
     {
       "title": "INTERNAZIONALE (146)",
