@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-26 18:49:22",
+  "last_update": "2026-02-26 19:41:19",
   "items": [
     {
       "title": "[COLOR cyan][27/02 09:35][/COLOR] [COLOR gold]Melbourne Victory vs Adelaide United[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -29,6 +29,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "27-Feb 09:35 | Australia A-League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][28/02 05:00][/COLOR] [COLOR gold]Auckland vs Melbourne City[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 05:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][28/02 05:00][/COLOR] [COLOR gold]Auckland vs Melbourne City[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 05:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][28/02 07:00][/COLOR] [COLOR gold]Central Coast Mariners vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 07:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][28/02 07:00][/COLOR] [COLOR gold]Central Coast Mariners vs Newcastle Jets[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 07:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][28/02 08:00][/COLOR] [COLOR gold]Brisbane Roar vs Perth Glory[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "28-Feb 08:00 | Australia A-League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][28/02 08:00][/COLOR] [COLOR gold]Brisbane Roar vs Perth Glory[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "28-Feb 08:00 | Australia A-League | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][28/02 09:35][/COLOR] [COLOR gold]Macarthur vs Western Sydney Wanderers[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 09:35 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][28/02 09:35][/COLOR] [COLOR gold]Macarthur vs Western Sydney Wanderers[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 09:35 | Australia A-League | Football | Lang: GB"
     }
   ]
 }
