@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-27 18:37:39",
+  "last_update": "2026-02-27 19:31:06",
   "items": [
-    {
-      "title": "[COLOR cyan][27/02 18:00][/COLOR] [COLOR gold]Slaven Koprivnica vs Istra 1961[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 18:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:00][/COLOR] [COLOR gold]Slaven Koprivnica vs Istra 1961[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 18:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:00][/COLOR] [COLOR gold]Trabzonspor vs Fatih Karagumruk[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:00][/COLOR] [COLOR gold]Trabzonspor vs Fatih Karagumruk[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:00][/COLOR] [COLOR gold]Istanbul Basaksehir vs Konyaspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:00][/COLOR] [COLOR gold]Istanbul Basaksehir vs Konyaspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 18:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:30][/COLOR] [COLOR gold]Streets of St. Petersburg[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "27-Feb 18:30 | Indy NXT Series | Motorsport | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 18:30][/COLOR] [COLOR gold]Streets of St. Petersburg[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "27-Feb 18:30 | Indy NXT Series | Motorsport | Lang: US"
-    },
     {
       "title": "[COLOR cyan][27/02 19:30][/COLOR] [COLOR gold]Grand Prix of St. Petersburg[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@82@@US",
