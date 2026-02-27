@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-27 04:11:09",
+  "last_update": "2026-02-27 05:50:10",
   "items": [
-    {
-      "title": "[COLOR cyan][27/02 02:30][/COLOR] [COLOR gold]Sacramento Kings vs Dallas Mavericks[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 02:30 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 02:30][/COLOR] [COLOR gold]Sacramento Kings vs Dallas Mavericks[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 02:30 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]Los Angeles Lakers vs Phoenix Suns[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]Los Angeles Lakers vs Phoenix Suns[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]New Orleans Pelicans vs Utah Jazz[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@9@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]New Orleans Pelicans vs Utah Jazz[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@9@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]Minnesota Wild vs Colorado Avalanche[/COLOR] - [COLOR lime]Sportsnet Pacific[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@39@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]Minnesota Wild vs Colorado Avalanche[/COLOR] - [COLOR lime]Sportsnet Pacific[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@39@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]Minnesota Wild vs Colorado Avalanche[/COLOR] - [COLOR lime]V Sport Extra[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][27/02 03:00][/COLOR] [COLOR gold]Minnesota Wild vs Colorado Avalanche[/COLOR] - [COLOR lime]V Sport Extra[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 03:00 | NHL | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][27/02 04:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Los Angeles Clippers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@10@@US",
