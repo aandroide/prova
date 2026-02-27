@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-27 21:26:39",
+  "last_update": "2026-02-27 22:22:36",
   "items": [
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]beIN Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@39@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]beIN Sports Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]beIN Sports Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][27/02 20:45][/COLOR] [COLOR gold]Strasbourg vs Lens[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 20:45 | France Ligue 1 | Football | Lang: FR"
-    },
     {
       "title": "[COLOR cyan][28/02 14:00][/COLOR] [COLOR gold]Red Star vs Le Mans[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@51@@FR",

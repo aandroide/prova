@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-27 21:26:39",
+  "last_update": "2026-02-27 22:22:36",
   "items": [
-    {
-      "title": "[COLOR cyan][27/02 19:45][/COLOR] [COLOR gold]Lausanne vs Lions Zurich[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@59@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 19:45 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][27/02 19:45][/COLOR] [COLOR gold]Lausanne vs Lions Zurich[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@59@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 19:45 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][27/02 21:00][/COLOR] [COLOR gold]Huddersfield Giants vs Castleford Tigers[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 21:00 | Super League | Rugby | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][27/02 21:00][/COLOR] [COLOR gold]Huddersfield Giants vs Castleford Tigers[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Feb 21:00 | Super League | Rugby | Lang: CA"
-    },
     {
       "title": "[COLOR cyan][27/02 22:00][/COLOR] [COLOR gold]Cobresal vs La Serena[/COLOR] - [COLOR lime]TNT SPORTS Premium[/COLOR] [COLOR orange][cl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@27@@CL",
@@ -787,6 +759,20 @@
       "info": "01-Mar 01:00 | UFC | MMA | Lang: CA"
     },
     {
+      "title": "[COLOR cyan][01/03 01:00][/COLOR] [COLOR gold]Hull Kingston Rovers vs Leeds Rhinos[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "01-Mar 01:00 | Super League | Rugby | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][01/03 01:00][/COLOR] [COLOR gold]Hull Kingston Rovers vs Leeds Rhinos[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "01-Mar 01:00 | Super League | Rugby | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][01/03 02:00][/COLOR] [COLOR gold]Eduardo Nunez vs Emanuel Navarrete[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@10@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1093,20 +1079,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Mar 13:00 | Scotland Scottish Premiership | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][01/03 13:00][/COLOR] [COLOR gold]Hull Kingston Rovers vs Leeds Rhinos[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "01-Mar 13:00 | Super League | Rugby | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][01/03 13:00][/COLOR] [COLOR gold]Hull Kingston Rovers vs Leeds Rhinos[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "01-Mar 13:00 | Super League | Rugby | Lang: US"
     },
     {
       "title": "[COLOR cyan][01/03 14:00][/COLOR] [COLOR gold]Genclerbirligi vs Kayserispor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
