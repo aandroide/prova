@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-27 17:32:37",
+  "last_update": "2026-02-27 18:37:39",
   "items": [
     {
       "title": "[COLOR cyan][28/02 05:00][/COLOR] [COLOR gold]Auckland vs Melbourne City[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Feb 09:35 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/03 03:00][/COLOR] [COLOR gold]Wellington Phoenix vs Sydney FC[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Mar 03:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/03 03:00][/COLOR] [COLOR gold]Wellington Phoenix vs Sydney FC[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Mar 03:00 | Australia A-League | Football | Lang: GB"
     }
   ]
 }
