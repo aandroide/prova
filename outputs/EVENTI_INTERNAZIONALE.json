@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-28 21:18:03",
+  "last_update": "2026-02-28 22:19:38",
   "items": [
-    {
-      "title": "[COLOR cyan][28/02 20:30][/COLOR] [COLOR gold]Servette vs Sion[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][28/02 20:30][/COLOR] [COLOR gold]Servette vs Sion[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
     {
       "title": "[COLOR cyan][28/02 21:00][/COLOR] [COLOR gold]Leopold Goi vs Romero dos Reis[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@52@@FR",
@@ -29,20 +15,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Feb 21:00 | Hexagone | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][28/02 21:00][/COLOR] [COLOR gold]NEC vs Fortuna Sittard[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "28-Feb 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][28/02 21:00][/COLOR] [COLOR gold]NEC vs Fortuna Sittard[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "28-Feb 21:00 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
       "title": "[COLOR cyan][28/02 21:45][/COLOR] [COLOR gold]Boca Juniors vs Gimnasia Mendoza[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
