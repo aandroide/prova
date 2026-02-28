@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-28 13:34:15",
+  "last_update": "2026-02-28 14:19:11",
   "items": [
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Kaiserslautern vs Paderborn[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Kaiserslautern vs Paderborn[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Holstein Kiel vs Elversberg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Holstein Kiel vs Elversberg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Arminia Bielefeld vs Hannover 96[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][28/02 13:00][/COLOR] [COLOR gold]Arminia Bielefeld vs Hannover 96[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Feb 13:00 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][28/02 14:00][/COLOR] [COLOR gold]Erzgebirge Aue vs Osnabruck[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@96@@DE",
