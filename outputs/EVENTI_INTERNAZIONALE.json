@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-02-28 03:51:44",
+  "last_update": "2026-02-28 04:52:32",
   "items": [
     {
       "title": "[COLOR cyan][28/02 02:40][/COLOR] [COLOR gold]Thailand Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -113,6 +113,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Feb 14:00 | Turkey Super Lig | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][28/02 14:30][/COLOR] [COLOR gold]Sri Lanka vs Pakistan[/COLOR] - [COLOR lime]Sky Sports Cricket[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 14:30 | T20 World Cup | Cricket | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][28/02 14:30][/COLOR] [COLOR gold]Sri Lanka vs Pakistan[/COLOR] - [COLOR lime]Sky Sports Cricket[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Feb 14:30 | T20 World Cup | Cricket | Lang: GB"
     },
     {
       "title": "[COLOR cyan][28/02 15:00][/COLOR] [COLOR gold]Osijek vs Vukovar[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
