@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-01 05:49:43",
+  "last_update": "2026-03-01 06:41:26",
   "items": [
-    {
-      "title": "[COLOR cyan][01/03 04:00][/COLOR] [COLOR gold]David Martinez vs Marlon Vera[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:00][/COLOR] [COLOR gold]David Martinez vs Marlon Vera[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:30][/COLOR] [COLOR gold]Brandon Moreno vs Lone'er Kavanagh[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:30 | UFC | MMA | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:30][/COLOR] [COLOR gold]Brandon Moreno vs Lone'er Kavanagh[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:30 | UFC | MMA | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:30][/COLOR] [COLOR gold]Brandon Moreno vs Lone'er Kavanagh[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:30 | UFC | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:30][/COLOR] [COLOR gold]Brandon Moreno vs Lone'er Kavanagh[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:30 | UFC | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:30][/COLOR] [COLOR gold]Brandon Moreno vs Lone'er Kavanagh[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:30 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][01/03 04:30][/COLOR] [COLOR gold]Brandon Moreno vs Lone'er Kavanagh[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 04:30 | UFC | MMA | Lang: CA"
-    },
     {
       "title": "[COLOR cyan][01/03 04:40][/COLOR] [COLOR gold]Thailand Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -85,20 +29,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Mar 04:40 | MotoGP | Motorsport | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][01/03 05:30][/COLOR] [COLOR gold]St. George Illawarra Dragons vs Canterbury Bulldogs[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "01-Mar 05:30 | NRL | Rugby | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][01/03 05:30][/COLOR] [COLOR gold]St. George Illawarra Dragons vs Canterbury Bulldogs[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "01-Mar 05:30 | NRL | Rugby | Lang: US"
     },
     {
       "title": "[COLOR cyan][01/03 12:15][/COLOR] [COLOR gold]PEC Zwolle vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
