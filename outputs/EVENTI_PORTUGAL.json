@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-01 11:17:35",
+  "last_update": "2026-03-01 12:41:18",
   "items": [
     {
       "title": "[COLOR cyan][01/03 12:00][/COLOR] [COLOR gold]Farense vs Lusitania FC Lourosa[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -99,6 +99,48 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "02-Mar 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:45][/COLOR] [COLOR gold]Sporting CP vs Porto[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 21:45 | Portugal Taca de Portugal | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:45][/COLOR] [COLOR gold]Sporting CP vs Porto[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 21:45 | Portugal Taca de Portugal | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:45][/COLOR] [COLOR gold]Sporting CP vs Porto[/COLOR] - [COLOR lime]beIN SPORTS[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:45 | Portugal Taca de Portugal | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:45][/COLOR] [COLOR gold]Sporting CP vs Porto[/COLOR] - [COLOR lime]beIN SPORTS[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:45 | Portugal Taca de Portugal | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:45][/COLOR] [COLOR gold]Sporting CP vs Porto[/COLOR] - [COLOR lime]beIN SPORTS en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:45 | Portugal Taca de Portugal | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:45][/COLOR] [COLOR gold]Sporting CP vs Porto[/COLOR] - [COLOR lime]beIN SPORTS en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:45 | Portugal Taca de Portugal | Football | Lang: ES"
     }
   ]
 }

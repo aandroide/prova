@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-01 11:17:35",
+  "last_update": "2026-03-01 12:41:18",
   "items": [
     {
       "title": "[COLOR cyan][01/03 15:00][/COLOR] [COLOR gold]Manchester United vs Crystal Palace[/COLOR] - [COLOR lime]HUB Premier 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -253,6 +253,314 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Mar 21:00 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]Sky Sport 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/27/Sky_Sport_1_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144011",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]DAZN4[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]DAZN4[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Leeds United vs Sunderland[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]TNT Sports 3[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@70@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Everton vs Burnley[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@70@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]AFC Bournemouth vs Brentford[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]AFC Bournemouth vs Brentford[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]AFC Bournemouth vs Brentford[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]AFC Bournemouth vs Brentford[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]AFC Bournemouth vs Brentford[/COLOR] - [COLOR lime]DAZN3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]AFC Bournemouth vs Brentford[/COLOR] - [COLOR lime]DAZN3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 20:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Port Vale vs Bristol City[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England FA Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Port Vale vs Bristol City[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England FA Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Ipswich Town vs Hull City[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Ipswich Town vs Hull City[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Exeter City vs Burton Albion[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Exeter City vs Burton Albion[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Barnsley vs Wycombe Wanderers[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Barnsley vs Wycombe Wanderers[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Rotherham United vs Mansfield Town[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Rotherham United vs Mansfield Town[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | England League One | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]Universo[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@77@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:15][/COLOR] [COLOR gold]Wolverhampton Wanderers vs Liverpool[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@77@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 21:15 | England Premier League | Football | Lang: SE"
     }
   ]
 }

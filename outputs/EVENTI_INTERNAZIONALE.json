@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-01 11:17:35",
+  "last_update": "2026-03-01 12:41:18",
   "items": [
-    {
-      "title": "[COLOR cyan][01/03 10:30][/COLOR] [COLOR gold]Zimbabwe vs South Africa[/COLOR] - [COLOR lime]Sky Sports Cricket[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 10:30 | T20 World Cup | Cricket | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][01/03 10:30][/COLOR] [COLOR gold]Zimbabwe vs South Africa[/COLOR] - [COLOR lime]Sky Sports Cricket[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 10:30 | T20 World Cup | Cricket | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][01/03 12:15][/COLOR] [COLOR gold]PEC Zwolle vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@7@@CA",
@@ -631,6 +617,412 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Mar 19:00 | FIBA World Cup Qualification Europe | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][02/03 23:15][/COLOR] [COLOR gold]Deportivo Riestra vs Platense[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Mar 23:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][02/03 23:15][/COLOR] [COLOR gold]Deportivo Riestra vs Platense[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Mar 23:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][02/03 23:15][/COLOR] [COLOR gold]Estudiantes vs Velez Sarsfield[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Mar 23:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][02/03 23:15][/COLOR] [COLOR gold]Estudiantes vs Velez Sarsfield[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Mar 23:15 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 01:30][/COLOR] [COLOR gold]Independiente Rivadavia vs River Plate[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 01:30 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 01:30][/COLOR] [COLOR gold]Independiente Rivadavia vs River Plate[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 01:30 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 01:30][/COLOR] [COLOR gold]Banfield vs Aldosivi[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 01:30 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 01:30][/COLOR] [COLOR gold]Banfield vs Aldosivi[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 01:30 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 03:00][/COLOR] [COLOR gold]Korea DPR vs Uzbekistan[/COLOR] - [COLOR lime]Astro Arena Bola 2[/COLOR] [COLOR orange][mz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@MZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 03:00 | Asia AFC Women's Asian Cup | Football | Lang: MZ"
+    },
+    {
+      "title": "[COLOR cyan][03/03 03:00][/COLOR] [COLOR gold]Korea DPR vs Uzbekistan[/COLOR] - [COLOR lime]Astro Arena Bola 2[/COLOR] [COLOR orange][mz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@MZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 03:00 | Asia AFC Women's Asian Cup | Football | Lang: MZ"
+    },
+    {
+      "title": "[COLOR cyan][03/03 09:00][/COLOR] [COLOR gold]China vs Bangladesh[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "03-Mar 09:00 | Asia AFC Women's Asian Cup | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 09:00][/COLOR] [COLOR gold]China vs Bangladesh[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "03-Mar 09:00 | Asia AFC Women's Asian Cup | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 11:00][/COLOR] [COLOR gold]Fethiyespor vs Fatih Karagumruk[/COLOR] - [COLOR lime]A Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 11:00 | Turkey Turkish Cup | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 11:00][/COLOR] [COLOR gold]Fethiyespor vs Fatih Karagumruk[/COLOR] - [COLOR lime]A Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 11:00 | Turkey Turkish Cup | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 12:30][/COLOR] [COLOR gold]Spartak Varna vs Montana[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 12:30 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][03/03 12:30][/COLOR] [COLOR gold]Spartak Varna vs Montana[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 12:30 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][03/03 13:30][/COLOR] [COLOR gold]Istanbulspor vs Boluspor[/COLOR] - [COLOR lime]A Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 13:30 | Turkey Turkish Cup | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 13:30][/COLOR] [COLOR gold]Istanbulspor vs Boluspor[/COLOR] - [COLOR lime]A Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 13:30 | Turkey Turkish Cup | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 15:00][/COLOR] [COLOR gold]Beroe vs Slavia Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 15:00 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][03/03 15:00][/COLOR] [COLOR gold]Beroe vs Slavia Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 15:00 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][03/03 17:30][/COLOR] [COLOR gold]Botev Plovdiv vs Septemvri Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 17:30 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][03/03 17:30][/COLOR] [COLOR gold]Botev Plovdiv vs Septemvri Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 17:30 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][03/03 17:45][/COLOR] [COLOR gold]Germany vs Slovenia[/COLOR] - [COLOR lime]Das Erste[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Das_Erste-Logo.svg/640px-Das_Erste-Logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "03-Mar 17:45 | FIFA Women's World Cup Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 17:45][/COLOR] [COLOR gold]Germany vs Slovenia[/COLOR] - [COLOR lime]Das Erste[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Das_Erste-Logo.svg/640px-Das_Erste-Logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "03-Mar 17:45 | FIFA Women's World Cup Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:00][/COLOR] [COLOR gold]Ukraine vs England[/COLOR] - [COLOR lime]ITV4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:00 | FIFA Women's World Cup Qualifying | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:00][/COLOR] [COLOR gold]Ukraine vs England[/COLOR] - [COLOR lime]ITV4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:00 | FIFA Women's World Cup Qualifying | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:00][/COLOR] [COLOR gold]Poland vs Netherlands[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:00 | FIFA Women's World Cup Qualifying | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:00][/COLOR] [COLOR gold]Poland vs Netherlands[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:00 | FIFA Women's World Cup Qualifying | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:00][/COLOR] [COLOR gold]Austria vs Norway[/COLOR] - [COLOR lime]TV 2 Direkte[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@69@@DK",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:00 | FIFA Women's World Cup Qualifying | Football | Lang: DK"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:00][/COLOR] [COLOR gold]Austria vs Norway[/COLOR] - [COLOR lime]TV 2 Direkte[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@69@@DK",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:00 | FIFA Women's World Cup Qualifying | Football | Lang: DK"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:15][/COLOR] [COLOR gold]Italy vs Sweden[/COLOR] - [COLOR lime]SVT2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:15 | FIFA Women's World Cup Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:15][/COLOR] [COLOR gold]Italy vs Sweden[/COLOR] - [COLOR lime]SVT2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@79@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:15 | FIFA Women's World Cup Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Czech Republic vs Wales[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | FIFA Women's World Cup Qualifying | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Czech Republic vs Wales[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | FIFA Women's World Cup Qualifying | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Istanbul Basaksehir vs Trabzonspor[/COLOR] - [COLOR lime]A Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | Turkey Turkish Cup | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Istanbul Basaksehir vs Trabzonspor[/COLOR] - [COLOR lime]A Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | Turkey Turkish Cup | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Hapoel Tel-Aviv vs Paris[/COLOR] - [COLOR lime]M+ Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@94@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | Euroleague | Basketball | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Hapoel Tel-Aviv vs Paris[/COLOR] - [COLOR lime]M+ Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@94@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | Euroleague | Basketball | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Hapoel Tel-Aviv vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:30][/COLOR] [COLOR gold]Hapoel Tel-Aviv vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 18:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:45][/COLOR] [COLOR gold]Kiel vs CD Bidasoa Irun[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "03-Mar 18:45 | EHF European League | Handball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 18:45][/COLOR] [COLOR gold]Kiel vs CD Bidasoa Irun[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "03-Mar 18:45 | EHF European League | Handball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 19:00][/COLOR] [COLOR gold]Spain vs Iceland[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 19:00 | FIFA Women's World Cup Qualifying | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 19:00][/COLOR] [COLOR gold]Spain vs Iceland[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 19:00 | FIFA Women's World Cup Qualifying | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][03/03 19:30][/COLOR] [COLOR gold]Israel vs Belgium[/COLOR] - [COLOR lime]VRT Canvas[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@49@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 19:30 | FIFA Women's World Cup Qualifying | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 19:30][/COLOR] [COLOR gold]Israel vs Belgium[/COLOR] - [COLOR lime]VRT Canvas[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@49@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 19:30 | FIFA Women's World Cup Qualifying | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][03/03 19:30][/COLOR] [COLOR gold]Republic of Ireland vs France[/COLOR] - [COLOR lime]France4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
+      "info": "03-Mar 19:30 | FIFA Women's World Cup Qualifying | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 19:30][/COLOR] [COLOR gold]Republic of Ireland vs France[/COLOR] - [COLOR lime]France4[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@54@@FR",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/73/France_4_logo.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
+      "info": "03-Mar 19:30 | FIFA Women's World Cup Qualifying | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:00][/COLOR] [COLOR gold]NEC vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@88@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "03-Mar 20:00 | Netherlands KNVB Beker | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:00][/COLOR] [COLOR gold]NEC vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@88@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "03-Mar 20:00 | Netherlands KNVB Beker | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:00][/COLOR] [COLOR gold]Cambuur vs Almere City[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@89@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "03-Mar 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:00][/COLOR] [COLOR gold]Cambuur vs Almere City[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@89@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "03-Mar 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:00][/COLOR] [COLOR gold]Emmen vs Utrecht II[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "03-Mar 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:00][/COLOR] [COLOR gold]Emmen vs Utrecht II[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@90@@NL",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
+      "info": "03-Mar 20:00 | Netherlands Eerste Divisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Winterthur vs Servette[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@CH",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | Switzerland Super League | Football | Lang: CH"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:30][/COLOR] [COLOR gold]Winterthur vs Servette[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@CH",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:30 | Switzerland Super League | Football | Lang: CH"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Dundee United vs St. Mirren[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@35@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | Scotland Scottish Premiership | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 20:45][/COLOR] [COLOR gold]Dundee United vs St. Mirren[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@35@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Mar 20:45 | Scotland Scottish Premiership | Football | Lang: GB"
     }
   ]
 }
