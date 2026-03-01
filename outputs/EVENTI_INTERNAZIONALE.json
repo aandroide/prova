@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-01 12:41:18",
+  "last_update": "2026-03-01 13:36:37",
   "items": [
-    {
-      "title": "[COLOR cyan][01/03 12:15][/COLOR] [COLOR gold]PEC Zwolle vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 12:15 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][01/03 12:15][/COLOR] [COLOR gold]PEC Zwolle vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Mar 12:15 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][01/03 12:15][/COLOR] [COLOR gold]PEC Zwolle vs Ajax[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "01-Mar 12:15 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][01/03 12:15][/COLOR] [COLOR gold]PEC Zwolle vs Ajax[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "01-Mar 12:15 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][01/03 13:00][/COLOR] [COLOR gold]Rangers vs Celtic[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@4@@GB",
