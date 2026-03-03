@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-03 15:43:26",
+  "last_update": "2026-03-03 16:42:20",
   "items": [
     {
       "title": "[COLOR cyan][04/03 17:00][/COLOR] [COLOR gold]Hradec Kralove vs Banik Ostrava[/COLOR] - [COLOR lime]Oneplay Sport 1[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -113,6 +113,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Mar 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][05/03 17:00][/COLOR] [COLOR gold]Karvina vs Viktoria Plzen[/COLOR] - [COLOR lime]Oneplay Sport 1[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Mar 17:00 | Czech Republic Czech Cup | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][05/03 17:00][/COLOR] [COLOR gold]Karvina vs Viktoria Plzen[/COLOR] - [COLOR lime]Oneplay Sport 1[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Mar 17:00 | Czech Republic Czech Cup | Football | Lang: CZ"
     }
   ]
 }
