@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-03 17:40:36",
+  "last_update": "2026-03-03 18:42:37",
   "items": [
     {
       "title": "[COLOR cyan][03/03 21:00][/COLOR] [COLOR gold]Como vs Internazionale[/COLOR] - [COLOR lime]Premier Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -15,6 +15,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "03-Mar 21:00 | Italy Coppa Italia | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:00][/COLOR] [COLOR gold]Como vs Internazionale[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@16@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 21:00 | Italy Coppa Italia | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/03 21:00][/COLOR] [COLOR gold]Como vs Internazionale[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@16@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Mar 21:00 | Italy Coppa Italia | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][03/03 21:00][/COLOR] [COLOR gold]Como vs Internazionale[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
