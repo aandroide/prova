@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-04 19:35:45",
+  "last_update": "2026-03-04 20:28:47",
   "items": [
-    {
-      "title": "[COLOR cyan][04/03 19:00][/COLOR] [COLOR gold]Kifisia vs PAOK[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "04-Mar 19:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][04/03 19:00][/COLOR] [COLOR gold]Kifisia vs PAOK[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "04-Mar 19:00 | Greece Super League | Football | Lang: GR"
-    },
     {
       "title": "[COLOR cyan][04/03 20:30][/COLOR] [COLOR gold]Luzern vs Young Boys[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@CH",
@@ -183,6 +169,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "05-Mar 01:30 | South America Copa Sudamericana | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][05/03 02:00][/COLOR] [COLOR gold]Puebla vs Tigres UANL[/COLOR] - [COLOR lime]Fox One[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Mar 02:00 | Mexico Liga MX | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][05/03 02:00][/COLOR] [COLOR gold]Puebla vs Tigres UANL[/COLOR] - [COLOR lime]Fox One[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "05-Mar 02:00 | Mexico Liga MX | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][05/03 02:00][/COLOR] [COLOR gold]Monterrey vs Queretaro[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
