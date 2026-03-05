@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-05 21:31:18",
+  "last_update": "2026-03-05 22:27:38",
   "items": [
-    {
-      "title": "[COLOR cyan][05/03 19:45][/COLOR] [COLOR gold]Geneve-Servette HC vs EHC Biel-Bienne[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@63@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 19:45 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][05/03 19:45][/COLOR] [COLOR gold]Geneve-Servette HC vs EHC Biel-Bienne[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@63@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 19:45 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][05/03 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "info": "05-Mar 20:00 | PDC | Darts | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/03 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "info": "05-Mar 20:00 | PDC | Darts | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/03 20:45][/COLOR] [COLOR gold]Real Madrid vs Virtus Bologna[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@91@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 20:45 | Euroleague | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][05/03 20:45][/COLOR] [COLOR gold]Real Madrid vs Virtus Bologna[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@91@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 20:45 | Euroleague | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][05/03 20:45][/COLOR] [COLOR gold]Real Madrid vs Virtus Bologna[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@95@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/03 20:45][/COLOR] [COLOR gold]Real Madrid vs Virtus Bologna[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@95@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/03 21:00][/COLOR] [COLOR gold]Hull FC vs Wakefield Trinity[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 21:00 | Super League | Rugby | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][05/03 21:00][/COLOR] [COLOR gold]Hull FC vs Wakefield Trinity[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@9@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Mar 21:00 | Super League | Rugby | Lang: CA"
-    },
     {
       "title": "[COLOR cyan][05/03 22:00][/COLOR] [COLOR gold]Deportes Tolima vs Santa Fe[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@84@@CA",
