@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-05 13:59:50",
+  "last_update": "2026-03-05 14:56:28",
   "items": [
     {
       "title": "ITALY (4)",
@@ -59,11 +59,11 @@
       "info": "28 canali SWEDEN"
     },
     {
-      "title": "POLAND (6)",
+      "title": "POLAND (4)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_POLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "6 canali POLAND"
+      "info": "4 canali POLAND"
     },
     {
       "title": "FINLAND (22)",
