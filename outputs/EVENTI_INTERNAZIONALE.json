@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-06 17:32:11",
+  "last_update": "2026-03-06 18:39:16",
   "items": [
-    {
-      "title": "[COLOR cyan][06/03 17:00][/COLOR] [COLOR gold]Slavia Sofia vs Spartak Varna[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 17:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][06/03 17:00][/COLOR] [COLOR gold]Slavia Sofia vs Spartak Varna[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 17:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][06/03 18:00][/COLOR] [COLOR gold]Istra 1961 vs Osijek[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@70@@HR",
@@ -1613,20 +1599,6 @@
       "info": "08-Mar 11:00 | World Baseball Classic | Baseball | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][08/03 11:30][/COLOR] [COLOR gold]Gaziantep FK vs Fatih Karagumruk[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@62@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Mar 11:30 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][08/03 11:30][/COLOR] [COLOR gold]Gaziantep FK vs Fatih Karagumruk[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@62@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Mar 11:30 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
       "title": "[COLOR cyan][08/03 11:30][/COLOR] [COLOR gold]Rizespor vs Antalyaspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@91@@TR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1636,6 +1608,20 @@
     {
       "title": "[COLOR cyan][08/03 11:30][/COLOR] [COLOR gold]Rizespor vs Antalyaspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Mar 11:30 | Turkey Super Lig | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][08/03 11:30][/COLOR] [COLOR gold]Gaziantep FK vs Fatih Karagumruk[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@92@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Mar 11:30 | Turkey Super Lig | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][08/03 11:30][/COLOR] [COLOR gold]Gaziantep FK vs Fatih Karagumruk[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@92@@TR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Mar 11:30 | Turkey Super Lig | Football | Lang: TR"
@@ -1837,15 +1823,15 @@
       "info": "08-Mar 16:00 | Super League | Rugby | Lang: US"
     },
     {
-      "title": "[COLOR cyan][08/03 16:30][/COLOR] [COLOR gold]St. Gallen vs Basel[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@CH",
+      "title": "[COLOR cyan][08/03 16:30][/COLOR] [COLOR gold]Young Boys vs Thun[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@CH",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Mar 16:30 | Switzerland Super League | Football | Lang: CH"
     },
     {
-      "title": "[COLOR cyan][08/03 16:30][/COLOR] [COLOR gold]St. Gallen vs Basel[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@CH",
+      "title": "[COLOR cyan][08/03 16:30][/COLOR] [COLOR gold]Young Boys vs Thun[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@CH",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Mar 16:30 | Switzerland Super League | Football | Lang: CH"
