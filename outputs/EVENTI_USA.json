@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-06 04:07:09",
+  "last_update": "2026-03-06 05:42:19",
   "items": [
-    {
-      "title": "[COLOR cyan][06/03 03:00][/COLOR] [COLOR gold]Chicago Bulls vs Phoenix Suns[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 03:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:00][/COLOR] [COLOR gold]Chicago Bulls vs Phoenix Suns[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 03:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:00][/COLOR] [COLOR gold]Ottawa Senators vs Calgary Flames[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@35@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "06-Mar 03:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:00][/COLOR] [COLOR gold]Ottawa Senators vs Calgary Flames[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@35@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "06-Mar 03:00 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:00][/COLOR] [COLOR gold]Ottawa Senators vs Calgary Flames[/COLOR] - [COLOR lime]V Sport LIve 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@74@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 03:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:00][/COLOR] [COLOR gold]Ottawa Senators vs Calgary Flames[/COLOR] - [COLOR lime]V Sport LIve 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@74@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 03:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:30][/COLOR] [COLOR gold]New York Islanders vs Los Angeles Kings[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "06-Mar 03:30 | NHL | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:30][/COLOR] [COLOR gold]New York Islanders vs Los Angeles Kings[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "06-Mar 03:30 | NHL | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:30][/COLOR] [COLOR gold]New York Islanders vs Los Angeles Kings[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 03:30 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][06/03 03:30][/COLOR] [COLOR gold]New York Islanders vs Los Angeles Kings[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Mar 03:30 | NHL | Hockey | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][06/03 04:00][/COLOR] [COLOR gold]Los Angeles Lakers vs Denver Nuggets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@9@@US",
