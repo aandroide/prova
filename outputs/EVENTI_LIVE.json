@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 11:17:20",
+  "last_update": "2026-03-07 12:39:51",
   "items": [
     {
       "title": "ITALY (44)",
@@ -94,11 +94,11 @@
       "info": "2 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (192)",
+      "title": "INTERNAZIONALE (186)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "192 canali INTERNAZIONALE"
+      "info": "186 canali INTERNAZIONALE"
     }
   ]
 }
