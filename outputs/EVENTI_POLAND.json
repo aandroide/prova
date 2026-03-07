@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 18:28:59",
+  "last_update": "2026-03-07 19:19:02",
   "items": [
-    {
-      "title": "[COLOR cyan][07/03 17:30][/COLOR] [COLOR gold]Piast Gliwice vs Zagłebie Lubin[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@60@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 17:30 | Poland Ekstraklasa | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][07/03 17:30][/COLOR] [COLOR gold]Piast Gliwice vs Zagłebie Lubin[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@60@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 17:30 | Poland Ekstraklasa | Football | Lang: PL"
-    },
     {
       "title": "[COLOR cyan][07/03 20:15][/COLOR] [COLOR gold]Widzew Łodz vs Lech Poznan[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@60@@PL",
@@ -85,6 +71,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Mar 20:15 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/03 18:00][/COLOR] [COLOR gold]Polonia Warszawa vs Łodzki KS[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Mar 18:00 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/03 18:00][/COLOR] [COLOR gold]Polonia Warszawa vs Łodzki KS[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Mar 18:00 | Poland I Liga | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/03 19:00][/COLOR] [COLOR gold]Wisła Płock vs Arka Gdynia[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Mar 19:00 | Poland Ekstraklasa | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][09/03 19:00][/COLOR] [COLOR gold]Wisła Płock vs Arka Gdynia[/COLOR] - [COLOR lime]Canal+ Sport 3[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Mar 19:00 | Poland Ekstraklasa | Football | Lang: PL"
     }
   ]
 }

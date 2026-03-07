@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 18:28:59",
+  "last_update": "2026-03-07 19:19:02",
   "items": [
     {
       "title": "[COLOR cyan][07/03 18:45][/COLOR] [COLOR gold]Wrexham vs Chelsea[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -239,6 +239,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Mar 17:30 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][09/03 20:30][/COLOR] [COLOR gold]West Ham United vs Brentford[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Mar 20:30 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][09/03 20:30][/COLOR] [COLOR gold]West Ham United vs Brentford[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "09-Mar 20:30 | England FA Cup | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][09/03 20:30][/COLOR] [COLOR gold]West Ham United vs Brentford[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "09-Mar 20:30 | England FA Cup | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][09/03 20:30][/COLOR] [COLOR gold]West Ham United vs Brentford[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "09-Mar 20:30 | England FA Cup | Football | Lang: DE"
     }
   ]
 }
