@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 13:36:10",
+  "last_update": "2026-03-07 14:21:08",
   "items": [
     {
       "title": "ITALY (44)",
@@ -10,11 +10,11 @@
       "info": "44 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (62)",
+      "title": "UNITED KINGDOM (50)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "62 canali UNITED KINGDOM"
+      "info": "50 canali UNITED KINGDOM"
     },
     {
       "title": "SPAIN (50)",
@@ -24,11 +24,11 @@
       "info": "50 canali SPAIN"
     },
     {
-      "title": "GERMANY (98)",
+      "title": "GERMANY (90)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "98 canali GERMANY"
+      "info": "90 canali GERMANY"
     },
     {
       "title": "FRANCE (40)",
