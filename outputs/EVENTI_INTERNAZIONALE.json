@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 15:19:45",
+  "last_update": "2026-03-07 16:23:34",
   "items": [
-    {
-      "title": "[COLOR cyan][07/03 15:00][/COLOR] [COLOR gold]Gorica vs Slaven Koprivnica[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:00][/COLOR] [COLOR gold]Gorica vs Slaven Koprivnica[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:10][/COLOR] [COLOR gold]Scotland vs France[/COLOR] - [COLOR lime]BBC One[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@4@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 15:10 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:10][/COLOR] [COLOR gold]Scotland vs France[/COLOR] - [COLOR lime]BBC One[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@4@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 15:10 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:10][/COLOR] [COLOR gold]Scotland vs France[/COLOR] - [COLOR lime]Ziggo Sport[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Mar 15:10 | European Six Nations | Rugby | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:10][/COLOR] [COLOR gold]Scotland vs France[/COLOR] - [COLOR lime]Ziggo Sport[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t6lerk1573988295.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Mar 15:10 | European Six Nations | Rugby | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:10][/COLOR] [COLOR gold]Scotland vs France[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@95@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 15:10 | European Six Nations | Rugby | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/03 15:10][/COLOR] [COLOR gold]Scotland vs France[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@95@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 15:10 | European Six Nations | Rugby | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][07/03 16:00][/COLOR] [COLOR gold]Dundee vs Motherwell[/COLOR] - [COLOR lime]Dundee[/COLOR] [COLOR orange][tv][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@5@@TV",
