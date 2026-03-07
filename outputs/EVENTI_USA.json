@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 03:57:44",
+  "last_update": "2026-03-07 05:01:29",
   "items": [
-    {
-      "title": "[COLOR cyan][07/03 02:00][/COLOR] [COLOR gold]Portland Trail Blazers vs Houston Rockets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@3@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:00][/COLOR] [COLOR gold]Portland Trail Blazers vs Houston Rockets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@3@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:00 | NBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:00][/COLOR] [COLOR gold]Colorado Avalanche vs Dallas Stars[/COLOR] - [COLOR lime]Altitude[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:00 | NHL | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:00][/COLOR] [COLOR gold]Colorado Avalanche vs Dallas Stars[/COLOR] - [COLOR lime]Altitude[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:00 | NHL | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:00][/COLOR] [COLOR gold]Colorado Avalanche vs Dallas Stars[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@77@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:00][/COLOR] [COLOR gold]Colorado Avalanche vs Dallas Stars[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@77@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:00 | NHL | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:30][/COLOR] [COLOR gold]Vancouver Canucks vs Chicago Blackhawks[/COLOR] - [COLOR lime]Sportsnet Pacific[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:30 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:30][/COLOR] [COLOR gold]Vancouver Canucks vs Chicago Blackhawks[/COLOR] - [COLOR lime]Sportsnet Pacific[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:30 | NHL | Hockey | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:30][/COLOR] [COLOR gold]Vancouver Canucks vs Chicago Blackhawks[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:30 | NHL | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 02:30][/COLOR] [COLOR gold]Vancouver Canucks vs Chicago Blackhawks[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 02:30 | NHL | Hockey | Lang: US"
-    },
     {
       "title": "[COLOR cyan][07/03 03:00][/COLOR] [COLOR gold]New Orleans Pelicans vs Phoenix Suns[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@4@@US",
