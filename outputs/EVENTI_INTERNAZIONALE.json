@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-07 05:01:29",
+  "last_update": "2026-03-07 06:36:02",
   "items": [
-    {
-      "title": "[COLOR cyan][07/03 03:00][/COLOR] [COLOR gold]Julio Cabrera vs Gerardo Zapata[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 03:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 03:00][/COLOR] [COLOR gold]Julio Cabrera vs Gerardo Zapata[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 03:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 04:00][/COLOR] [COLOR gold]Necaxa vs Pumas UNAM[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/03 04:00][/COLOR] [COLOR gold]Necaxa vs Pumas UNAM[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Mar 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/03 04:00][/COLOR] [COLOR gold]Chinese Taipei vs Czech Republic[/COLOR] - [COLOR lime]FOX Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "07-Mar 04:00 | World Baseball Classic | Baseball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 04:00][/COLOR] [COLOR gold]Chinese Taipei vs Czech Republic[/COLOR] - [COLOR lime]FOX Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "07-Mar 04:00 | World Baseball Classic | Baseball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/03 04:35][/COLOR] [COLOR gold]Highlanders vs Western Force[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Mar 04:35 | Super Rugby Pacific | Rugby | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][07/03 04:35][/COLOR] [COLOR gold]Highlanders vs Western Force[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "07-Mar 04:35 | Super Rugby Pacific | Rugby | Lang: NZ"
-    },
     {
       "title": "[COLOR cyan][07/03 06:00][/COLOR] [COLOR gold]Australian Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@7@@GB",
