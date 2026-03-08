@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-08 13:37:41",
+  "last_update": "2026-03-08 14:22:04",
   "items": [
-    {
-      "title": "[COLOR cyan][08/03 13:00][/COLOR] [COLOR gold]Fulham vs Southampton[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "08-Mar 13:00 | England FA Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][08/03 13:00][/COLOR] [COLOR gold]Fulham vs Southampton[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "08-Mar 13:00 | England FA Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][08/03 13:00][/COLOR] [COLOR gold]Fulham vs Southampton[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@17@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "08-Mar 13:00 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/03 13:00][/COLOR] [COLOR gold]Fulham vs Southampton[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@17@@DE",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "08-Mar 13:00 | England FA Cup | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][08/03 13:00][/COLOR] [COLOR gold]Fulham vs Southampton[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Mar 13:00 | England FA Cup | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][08/03 13:00][/COLOR] [COLOR gold]Fulham vs Southampton[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Mar 13:00 | England FA Cup | Football | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][08/03 14:30][/COLOR] [COLOR gold]Port Vale vs Sunderland[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@GB",
