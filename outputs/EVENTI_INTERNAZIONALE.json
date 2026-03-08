@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-08 16:23:58",
+  "last_update": "2026-03-08 17:20:18",
   "items": [
-    {
-      "title": "[COLOR cyan][08/03 16:00][/COLOR] [COLOR gold]Volos NFC vs OFI[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "08-Mar 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][08/03 16:00][/COLOR] [COLOR gold]Volos NFC vs OFI[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "08-Mar 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][08/03 16:00][/COLOR] [COLOR gold]Hull Kingston Rovers vs Huddersfield Giants[/COLOR] - [COLOR lime]FOX Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Mar 16:00 | Super League | Rugby | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][08/03 16:00][/COLOR] [COLOR gold]Hull Kingston Rovers vs Huddersfield Giants[/COLOR] - [COLOR lime]FOX Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Mar 16:00 | Super League | Rugby | Lang: US"
-    },
     {
       "title": "[COLOR cyan][08/03 16:30][/COLOR] [COLOR gold]Young Boys vs Thun[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@20@@CH",
