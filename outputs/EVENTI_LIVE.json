@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-08 19:21:13",
+  "last_update": "2026-03-08 20:22:16",
   "items": [
     {
       "title": "ITALY (12)",
@@ -17,11 +17,11 @@
       "info": "18 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (20)",
+      "title": "SPAIN (12)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20 canali SPAIN"
+      "info": "12 canali SPAIN"
     },
     {
       "title": "GERMANY (4)",
@@ -38,11 +38,11 @@
       "info": "8 canali FRANCE"
     },
     {
-      "title": "USA (78)",
+      "title": "USA (76)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "78 canali USA"
+      "info": "76 canali USA"
     },
     {
       "title": "CANADA (4)",
@@ -52,11 +52,11 @@
       "info": "4 canali CANADA"
     },
     {
-      "title": "PORTUGAL (12)",
+      "title": "PORTUGAL (6)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_PORTUGAL.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12 canali PORTUGAL"
+      "info": "6 canali PORTUGAL"
     },
     {
       "title": "SWEDEN (24)",
@@ -78,13 +78,6 @@
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10 canali FINLAND"
-    },
-    {
-      "title": "CECHIA (2)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "2 canali CECHIA"
     },
     {
       "title": "EUROPA (50)",
