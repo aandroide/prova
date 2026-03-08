@@ -1,20 +1,342 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-04 11:27:30",
+  "last_update": "2026-03-08 16:23:58",
   "items": [
     {
-      "title": "[COLOR cyan][04/03 11:00][/COLOR] [COLOR gold]Seoul vs Vissel Kobe[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Mar 11:00 | Asia AFC Champions League Elite | Football | Lang: DE"
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][04/03 11:00][/COLOR] [COLOR gold]Seoul vs Vissel Kobe[/COLOR] - [COLOR lime]sportdigital1+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Mar 11:00 | Asia AFC Champions League Elite | Football | Lang: DE"
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]TRT 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 18:45][/COLOR] [COLOR gold]Galatasaray vs Liverpool[/COLOR] - [COLOR lime]TRT 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 18:45 | Europe UEFA Champions League | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]Canal+ Sport[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@52@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atletico Madrid vs Tottenham Hotspur[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]M. Liga de Campeones 3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]M. Liga de Campeones 3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]Sky Sport Uno[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@69@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Atalanta vs Bayern Munchen[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@69@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]Amazon Prime Video[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]Amazon Prime Video[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][10/03 21:00][/COLOR] [COLOR gold]Newcastle United vs Barcelona[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Mar 21:00 | Europe UEFA Champions League | Football | Lang: SE"
     }
   ]
 }
