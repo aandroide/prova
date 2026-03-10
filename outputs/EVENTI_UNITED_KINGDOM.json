@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-10 16:06:55",
+  "last_update": "2026-03-10 17:43:28",
   "items": [
     {
       "title": "[COLOR cyan][10/03 20:45][/COLOR] [COLOR gold]Portsmouth vs Swansea City[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -225,6 +225,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Mar 21:00 | England Championship | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][12/03 14:00][/COLOR] [COLOR gold]Safari Rally Kenya[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Mar 14:00 | World Rally Championship | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/03 14:00][/COLOR] [COLOR gold]Safari Rally Kenya[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Mar 14:00 | World Rally Championship | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/03 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
+      "info": "12-Mar 20:00 | Premier League | Darts | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][12/03 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/t1k26d1616932441.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
+      "info": "12-Mar 20:00 | Premier League | Darts | Lang: DE"
     }
   ]
 }
