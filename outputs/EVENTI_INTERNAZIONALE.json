@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-11 21:29:37",
+  "last_update": "2026-03-11 22:23:48",
   "items": [
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Virtus Bologna vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Mar 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Virtus Bologna vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Mar 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Virtus Bologna vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]M. Deportes 6[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@96@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Mar 20:45 | Euroleague | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Virtus Bologna vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]M. Deportes 6[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@96@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Mar 20:45 | Euroleague | Basketball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Paris SG vs SC Magdeburg[/COLOR] - [COLOR lime]Sport 2[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@68@@CZ",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "info": "11-Mar 20:45 | Handball | Champions League | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Paris SG vs SC Magdeburg[/COLOR] - [COLOR lime]Sport 2[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@68@@CZ",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "info": "11-Mar 20:45 | Handball | Champions League | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Barcelona vs Eurofarm Rabotnik[/COLOR] - [COLOR lime]DAZN 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@90@@ES",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "11-Mar 20:45 | Handball | Champions League | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/03 20:45][/COLOR] [COLOR gold]Barcelona vs Eurofarm Rabotnik[/COLOR] - [COLOR lime]DAZN 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@90@@ES",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "11-Mar 20:45 | Handball | Champions League | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][11/03 21:30][/COLOR] [COLOR gold]Argentinos Juniors vs Rosario Central[/COLOR] - [COLOR lime]TNT Sports Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@26@@ES",
