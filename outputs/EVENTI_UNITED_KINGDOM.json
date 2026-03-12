@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-12 18:49:58",
+  "last_update": "2026-03-12 19:40:07",
   "items": [
     {
       "title": "[COLOR cyan][12/03 20:00][/COLOR] [COLOR gold]Premier League Darts[/COLOR] - [COLOR lime]Sport1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -323,6 +323,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Mar 18:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/03 18:30][/COLOR] [COLOR gold]Chelsea vs Newcastle United[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "14-Mar 18:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/03 18:30][/COLOR] [COLOR gold]Chelsea vs Newcastle United[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "14-Mar 18:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/03 18:30][/COLOR] [COLOR gold]Chelsea vs Newcastle United[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 18:30 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][14/03 18:30][/COLOR] [COLOR gold]Chelsea vs Newcastle United[/COLOR] - [COLOR lime]Canal+ Foot[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 18:30 | England Premier League | Football | Lang: FR"
     },
     {
       "title": "[COLOR cyan][14/03 18:30][/COLOR] [COLOR gold]Chelsea vs Newcastle United[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
