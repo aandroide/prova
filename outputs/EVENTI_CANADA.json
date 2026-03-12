@@ -1,20 +1,34 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-08 23:20:33",
+  "last_update": "2026-03-12 18:49:58",
   "items": [
     {
-      "title": "[COLOR cyan][09/03 00:00][/COLOR] [COLOR gold]Cincinnati vs Toronto FC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Mar 00:00 | USA/Canada Major League Soccer | Football | Lang: US"
+      "title": "[COLOR cyan][14/03 18:00][/COLOR] [COLOR gold]Toronto FC vs New York RB[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "14-Mar 18:00 | USA/Canada Major League Soccer | Football | Lang: CA"
     },
     {
-      "title": "[COLOR cyan][09/03 00:00][/COLOR] [COLOR gold]Cincinnati vs Toronto FC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
+      "title": "[COLOR cyan][14/03 18:00][/COLOR] [COLOR gold]Toronto FC vs New York RB[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "14-Mar 18:00 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][14/03 20:15][/COLOR] [COLOR gold]Atlanta United vs Philadelphia Union[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Mar 00:00 | USA/Canada Major League Soccer | Football | Lang: US"
+      "info": "14-Mar 20:15 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/03 20:15][/COLOR] [COLOR gold]Atlanta United vs Philadelphia Union[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 20:15 | USA/Canada Major League Soccer | Football | Lang: US"
     }
   ]
 }

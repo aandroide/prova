@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-12 17:51:32",
+  "last_update": "2026-03-12 18:49:58",
   "items": [
     {
       "title": "[COLOR cyan][12/03 17:00][/COLOR] [COLOR gold]Olomouc vs Ocelari Trinec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "12-Mar 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Hradec Kralove vs Banik Ostrava[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Hradec Kralove vs Banik Ostrava[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Dukla Praha vs Jablonec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Dukla Praha vs Jablonec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Mlada Boleslav vs FK Pardubice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Mlada Boleslav vs FK Pardubice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 15:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 18:00][/COLOR] [COLOR gold]Zlin vs Slavia Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 18:00 | Czech Republic 1. liga | Football | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][14/03 18:00][/COLOR] [COLOR gold]Zlin vs Slavia Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 18:00 | Czech Republic 1. liga | Football | Lang: CZ"
     }
   ]
 }
