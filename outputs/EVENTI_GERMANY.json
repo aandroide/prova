@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-13 19:28:42",
+  "last_update": "2026-03-13 20:30:27",
   "items": [
-    {
-      "title": "[COLOR cyan][13/03 18:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 18:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 18:30][/COLOR] [COLOR gold]Magdeburg vs Darmstadt 98[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 18:30][/COLOR] [COLOR gold]Magdeburg vs Darmstadt 98[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 18:30][/COLOR] [COLOR gold]Greuther Furth vs Elversberg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 18:30][/COLOR] [COLOR gold]Greuther Furth vs Elversberg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 19:00][/COLOR] [COLOR gold]Alemannia Aachen vs Energie Cottbus[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 19:00 | Germany 3. Liga | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 19:00][/COLOR] [COLOR gold]Alemannia Aachen vs Energie Cottbus[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 19:00 | Germany 3. Liga | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][13/03 19:30][/COLOR] [COLOR gold]Grizzly Wolfsburg vs Kolner Haie[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@93@@DE",
@@ -155,20 +99,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "13-Mar 19:30 | Germany DEL | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][13/03 19:30][/COLOR] [COLOR gold]LASK Linz vs Hartberg[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 19:30 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][13/03 19:30][/COLOR] [COLOR gold]LASK Linz vs Hartberg[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "13-Mar 19:30 | Austria Bundesliga | Football | Lang: AT"
     },
     {
       "title": "[COLOR cyan][13/03 20:30][/COLOR] [COLOR gold]Borussia M'gladbach vs St. Pauli[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
