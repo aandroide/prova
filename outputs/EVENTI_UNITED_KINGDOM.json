@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-13 15:39:03",
+  "last_update": "2026-03-13 16:36:45",
   "items": [
     {
       "title": "[COLOR cyan][13/03 20:45][/COLOR] [COLOR gold]Greenock Morton vs Partick Thistle[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -477,6 +477,216 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Mar 21:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Nottingham Forest vs Fulham[/COLOR] - [COLOR lime]Sky Sports Premier League[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Nottingham Forest vs Fulham[/COLOR] - [COLOR lime]Sky Sports Premier League[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Nottingham Forest vs Fulham[/COLOR] - [COLOR lime]DAZN3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Nottingham Forest vs Fulham[/COLOR] - [COLOR lime]DAZN3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@28@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/270837cf317d40308022c27e2900f8d8/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Nottingham Forest vs Fulham[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Nottingham Forest vs Fulham[/COLOR] - [COLOR lime]Canal+ Sport360[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@53@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Crystal Palace vs Leeds United[/COLOR] - [COLOR lime]Peacock[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Crystal Palace vs Leeds United[/COLOR] - [COLOR lime]Peacock[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Crystal Palace vs Leeds United[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Crystal Palace vs Leeds United[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Crystal Palace vs Leeds United[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Crystal Palace vs Leeds United[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@16@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@16@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 15:00][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 15:00 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]Peacock[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]Peacock[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@16@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]Sky Sport Premier League[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@16@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]Canal+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@50@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 17:30][/COLOR] [COLOR gold]Liverpool vs Tottenham Hotspur[/COLOR] - [COLOR lime]V Sport Football[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 17:30 | England Premier League | Football | Lang: SE"
     }
   ]
 }
