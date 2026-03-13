@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-13 16:36:45",
+  "last_update": "2026-03-13 17:31:58",
   "items": [
     {
       "title": "[COLOR cyan][14/03 00:00][/COLOR] [COLOR gold]Los Angeles Kings vs New York Islanders[/COLOR] - [COLOR lime]TVA Sports[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -703,20 +703,6 @@
       "info": "15-Mar 09:10 | MLB | Baseball | Lang: US"
     },
     {
-      "title": "[COLOR cyan][15/03 09:10][/COLOR] [COLOR gold]San Diego Padres vs Arizona Diamondbacks[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Mar 09:10 | MLB | Baseball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/03 09:10][/COLOR] [COLOR gold]San Diego Padres vs Arizona Diamondbacks[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Mar 09:10 | MLB | Baseball | Lang: US"
-    },
-    {
       "title": "[COLOR cyan][15/03 18:00][/COLOR] [COLOR gold]Minnesota Timberwolves vs Oklahoma City Thunder[/COLOR] - [COLOR lime]ABC[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@3@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -883,6 +869,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Mar 21:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 21:10][/COLOR] [COLOR gold]San Diego Padres vs Arizona Diamondbacks[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 21:10 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 21:10][/COLOR] [COLOR gold]San Diego Padres vs Arizona Diamondbacks[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 21:10 | MLB | Baseball | Lang: US"
     },
     {
       "title": "[COLOR cyan][15/03 22:00][/COLOR] [COLOR gold]San Jose Sharks vs Ottawa Senators[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
