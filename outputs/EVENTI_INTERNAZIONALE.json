@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-14 15:24:48",
+  "last_update": "2026-03-14 16:27:47",
   "items": [
-    {
-      "title": "[COLOR cyan][14/03 14:30][/COLOR] [COLOR gold]Java House Grand Prix of Arlington[/COLOR] - [COLOR lime]FOX Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "14-Mar 14:30 | IndyCar | Motorsport | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/03 14:30][/COLOR] [COLOR gold]Java House Grand Prix of Arlington[/COLOR] - [COLOR lime]FOX Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "14-Mar 14:30 | IndyCar | Motorsport | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Osijek vs Gorica[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 15:00][/COLOR] [COLOR gold]Osijek vs Gorica[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 15:10][/COLOR] [COLOR gold]Ireland vs Scotland[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "14-Mar 15:10 | European Six Nations | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 15:10][/COLOR] [COLOR gold]Ireland vs Scotland[/COLOR] - [COLOR lime]TF1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/TF1_logo_2006.svg/512px-TF1_logo_2006.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "info": "14-Mar 15:10 | European Six Nations | Rugby | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 15:10][/COLOR] [COLOR gold]Ireland vs Scotland[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@90@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 15:10 | European Six Nations | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][14/03 15:10][/COLOR] [COLOR gold]Ireland vs Scotland[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@90@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 15:10 | European Six Nations | Rugby | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Celtic vs Motherwell[/COLOR] - [COLOR lime]Celtic TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@3@@GB",
