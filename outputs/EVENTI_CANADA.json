@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-14 17:24:20",
+  "last_update": "2026-03-14 18:34:05",
   "items": [
     {
       "title": "[COLOR cyan][14/03 18:00][/COLOR] [COLOR gold]Toronto FC vs New York RB[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -211,6 +211,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Mar 21:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/03 00:00][/COLOR] [COLOR gold]SJ Earthquakes vs Seattle Sounders FC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Mar 00:00 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/03 00:00][/COLOR] [COLOR gold]SJ Earthquakes vs Seattle Sounders FC[/COLOR] - [COLOR lime]MLS Season Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Mar 00:00 | USA/Canada Major League Soccer | Football | Lang: US"
     }
   ]
 }
