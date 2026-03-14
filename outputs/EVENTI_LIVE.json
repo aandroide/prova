@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-14 16:27:47",
+  "last_update": "2026-03-14 17:24:20",
   "items": [
     {
       "title": "ITALY (42)",
@@ -10,25 +10,25 @@
       "info": "42 canali ITALY"
     },
     {
-      "title": "UNITED KINGDOM (92)",
+      "title": "UNITED KINGDOM (60)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_UNITED_KINGDOM.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/uk-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "92 canali UNITED KINGDOM"
+      "info": "60 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (54)",
+      "title": "SPAIN (48)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "54 canali SPAIN"
+      "info": "48 canali SPAIN"
     },
     {
-      "title": "GERMANY (70)",
+      "title": "GERMANY (56)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "70 canali GERMANY"
+      "info": "56 canali GERMANY"
     },
     {
       "title": "FRANCE (40)",
@@ -59,11 +59,11 @@
       "info": "20 canali PORTUGAL"
     },
     {
-      "title": "SWEDEN (24)",
+      "title": "SWEDEN (10)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali SWEDEN"
+      "info": "10 canali SWEDEN"
     },
     {
       "title": "POLAND (10)",

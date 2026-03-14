@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-14 16:27:47",
+  "last_update": "2026-03-14 17:24:20",
   "items": [
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Celtic vs Motherwell[/COLOR] - [COLOR lime]Celtic TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@3@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Celtic vs Motherwell[/COLOR] - [COLOR lime]Celtic TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@3@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Aberdeen vs Falkirk[/COLOR] - [COLOR lime]Falkirk TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Aberdeen vs Falkirk[/COLOR] - [COLOR lime]Falkirk TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]OFI vs Olympiakos Piraeus[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "14-Mar 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]OFI vs Olympiakos Piraeus[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-cosmote-sport-1-383.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/gr-circle-01.png",
-      "info": "14-Mar 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Hibernian vs Livingston[/COLOR] - [COLOR lime]Hibs TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@38@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][14/03 16:00][/COLOR] [COLOR gold]Hibernian vs Livingston[/COLOR] - [COLOR lime]Hibs TV[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@38@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 16:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][14/03 16:30][/COLOR] [COLOR gold]Volendam vs Fortuna Sittard[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@89@@NL",
@@ -997,6 +941,20 @@
       "info": "15-Mar 13:30 | Bulgaria Parva Liga | Football | Lang: BG"
     },
     {
+      "title": "[COLOR cyan][15/03 13:30][/COLOR] [COLOR gold]Genk vs Sint-Truiden[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 13:30 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 13:30][/COLOR] [COLOR gold]Genk vs Sint-Truiden[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 13:30 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
       "title": "[COLOR cyan][15/03 14:00][/COLOR] [COLOR gold]Anthony Olascuaga vs Jukiya Iimura[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@49@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1165,6 +1123,20 @@
       "info": "15-Mar 16:00 | Bulgaria Parva Liga | Football | Lang: BG"
     },
     {
+      "title": "[COLOR cyan][15/03 16:00][/COLOR] [COLOR gold]Antwerp vs Standard Liège[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 16:00 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 16:00][/COLOR] [COLOR gold]Antwerp vs Standard Liège[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 16:00 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
       "title": "[COLOR cyan][15/03 16:00][/COLOR] [COLOR gold]SønderjyskE vs AGF[/COLOR] - [COLOR lime]TV2 Sport X[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@69@@DK",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1317,6 +1289,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Mar 18:30 | Greece Super League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][15/03 18:30][/COLOR] [COLOR gold]Mechelen vs Anderlecht[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 18:30 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 18:30][/COLOR] [COLOR gold]Mechelen vs Anderlecht[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 18:30 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 19:15][/COLOR] [COLOR gold]Cercle Brugge vs RAAL La Louvière[/COLOR] - [COLOR lime]DAZN Pro League 2[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@66@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 19:15 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][15/03 19:15][/COLOR] [COLOR gold]Cercle Brugge vs RAAL La Louvière[/COLOR] - [COLOR lime]DAZN Pro League 2[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@66@@BE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 19:15 | Belgium Pro League | Football | Lang: BE"
     },
     {
       "title": "[COLOR cyan][15/03 20:00][/COLOR] [COLOR gold]Panathinaikos vs Panaitolikos[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
