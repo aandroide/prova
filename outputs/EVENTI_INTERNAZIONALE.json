@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-14 14:25:45",
+  "last_update": "2026-03-14 15:24:48",
   "items": [
-    {
-      "title": "[COLOR cyan][14/03 14:00][/COLOR] [COLOR gold]Otoho d'Oyo vs Zamalek[/COLOR] - [COLOR lime]Canal+ Sport 2 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 14:00 | Africa CAF Confederation Cup | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 14:00][/COLOR] [COLOR gold]Otoho d'Oyo vs Zamalek[/COLOR] - [COLOR lime]Canal+ Sport 2 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 14:00 | Africa CAF Confederation Cup | Football | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][14/03 14:15][/COLOR] [COLOR gold]Botev Plovdiv vs Botev Vratsa[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 14:15 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][14/03 14:15][/COLOR] [COLOR gold]Botev Plovdiv vs Botev Vratsa[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "14-Mar 14:15 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][14/03 14:30][/COLOR] [COLOR gold]Java House Grand Prix of Arlington[/COLOR] - [COLOR lime]FOX Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@81@@US",
@@ -339,6 +311,20 @@
       "info": "14-Mar 19:30 | IndyCar | Motorsport | Lang: US"
     },
     {
+      "title": "[COLOR cyan][14/03 20:00][/COLOR] [COLOR gold]James Dickens vs Anthony Cacace[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 20:00 | Super featherweight | Boxing | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/03 20:00][/COLOR] [COLOR gold]James Dickens vs Anthony Cacace[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Mar 20:00 | Super featherweight | Boxing | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][14/03 20:00][/COLOR] [COLOR gold]Al Fateh vs Al Hilal[/COLOR] - [COLOR lime]Thmanyah[/COLOR] [COLOR orange][sa][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@65@@SA",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -617,6 +603,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Mar 23:20 | UFC | MMA | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][15/03 00:00][/COLOR] [COLOR gold]Arnold Barboza Jr vs Kenneth Sims Jr[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 00:00 | Fighting | Boxing | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 00:00][/COLOR] [COLOR gold]Arnold Barboza Jr vs Kenneth Sims Jr[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 00:00 | Fighting | Boxing | Lang: US"
     },
     {
       "title": "[COLOR cyan][15/03 00:00][/COLOR] [COLOR gold]Atletico San Luis vs Pachuca[/COLOR] - [COLOR lime]ESPN Mexico[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1051,6 +1051,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Mar 13:30 | Bulgaria Parva Liga | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][15/03 14:00][/COLOR] [COLOR gold]Anthony Olascuaga vs Jukiya Iimura[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@49@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 14:00 | Fighting | Boxing | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][15/03 14:00][/COLOR] [COLOR gold]Anthony Olascuaga vs Jukiya Iimura[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@49@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "15-Mar 14:00 | Fighting | Boxing | Lang: US"
     },
     {
       "title": "[COLOR cyan][15/03 14:00][/COLOR] [COLOR gold]Midtjylland vs Nordsjælland[/COLOR] - [COLOR lime]TV3 Sport[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
