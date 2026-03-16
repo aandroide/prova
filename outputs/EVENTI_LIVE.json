@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-16 19:06:22",
+  "last_update": "2026-03-16 20:35:31",
   "items": [
     {
       "title": "ITALY (6)",
@@ -38,11 +38,11 @@
       "info": "2 canali FRANCE"
     },
     {
-      "title": "USA (116)",
+      "title": "USA (130)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "116 canali USA"
+      "info": "130 canali USA"
     },
     {
       "title": "SWEDEN (20)",
@@ -52,18 +52,18 @@
       "info": "20 canali SWEDEN"
     },
     {
-      "title": "POLAND (8)",
+      "title": "POLAND (4)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_POLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "8 canali POLAND"
+      "info": "4 canali POLAND"
     },
     {
-      "title": "FINLAND (24)",
+      "title": "FINLAND (20)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24 canali FINLAND"
+      "info": "20 canali FINLAND"
     },
     {
       "title": "AUSTRALIA (4)",
@@ -80,11 +80,11 @@
       "info": "94 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (90)",
+      "title": "INTERNAZIONALE (84)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "90 canali INTERNAZIONALE"
+      "info": "84 canali INTERNAZIONALE"
     }
   ]
 }
