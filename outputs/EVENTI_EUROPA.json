@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-18 16:13:11",
+  "last_update": "2026-03-18 17:58:41",
   "items": [
-    {
-      "title": "[COLOR cyan][18/03 16:00][/COLOR] [COLOR gold]Inter U19 vs Benfica U19[/COLOR] - [COLOR lime]M. Liga de Campeones 3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 16:00 | Europe UEFA Youth League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:00][/COLOR] [COLOR gold]Inter U19 vs Benfica U19[/COLOR] - [COLOR lime]M. Liga de Campeones 3[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 16:00 | Europe UEFA Youth League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:30][/COLOR] [COLOR gold]Sporting Braga vs Ferencvaros[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 16:30 | Europe UEFA Europa League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:30][/COLOR] [COLOR gold]Sporting Braga vs Ferencvaros[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 16:30 | Europe UEFA Europa League | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:30][/COLOR] [COLOR gold]Sporting Braga vs Ferencvaros[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "18-Mar 16:30 | Europe UEFA Europa League | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:30][/COLOR] [COLOR gold]Sporting Braga vs Ferencvaros[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "18-Mar 16:30 | Europe UEFA Europa League | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:30][/COLOR] [COLOR gold]Sporting Braga vs Ferencvaros[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 16:30 | Europe UEFA Europa League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][18/03 16:30][/COLOR] [COLOR gold]Sporting Braga vs Ferencvaros[/COLOR] - [COLOR lime]M. Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@28@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 16:30 | Europe UEFA Europa League | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][18/03 18:45][/COLOR] [COLOR gold]Barcelona vs Newcastle United[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -227,6 +171,20 @@
       "info": "18-Mar 21:00 | Europe UEFA Champions League | Football | Lang: GB"
     },
     {
+      "title": "[COLOR cyan][18/03 21:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Atletico Madrid[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Mar 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][18/03 21:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Atletico Madrid[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Mar 21:00 | Europe UEFA Champions League | Football | Lang: DE"
+    },
+    {
       "title": "[COLOR cyan][18/03 21:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Atletico Madrid[/COLOR] - [COLOR lime]M. Liga de Campeones[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@29@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -337,20 +295,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Mar 21:00 | Europe UEFA Champions League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][18/03 21:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Atlético Madrid[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 21:00 | Europe UEFA Champions League | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][18/03 21:00][/COLOR] [COLOR gold]Tottenham Hotspur vs Atlético Madrid[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18-Mar 21:00 | Europe UEFA Champions League | Football | Lang: DE"
     },
     {
       "title": "[COLOR cyan][18/03 21:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Cosmote Sport 1[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
