@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-19 14:08:44",
+  "last_update": "2026-03-19 15:51:59",
   "items": [
     {
       "title": "[COLOR cyan][20/03 17:30][/COLOR] [COLOR gold]Kettera vs IPK[/COLOR] - [COLOR lime]MTV Sport[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -29,6 +29,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "20-Mar 17:30 | Finland Mestis | Rugby | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][21/03 16:00][/COLOR] [COLOR gold]KalPa vs HIFK[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@68@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Mar 16:00 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][21/03 16:00][/COLOR] [COLOR gold]KalPa vs HIFK[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@68@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Mar 16:00 | Finland Liiga | Hockey | Lang: FI"
     }
   ]
 }
