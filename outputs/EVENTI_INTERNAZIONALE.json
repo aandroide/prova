@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-19 04:27:12",
+  "last_update": "2026-03-19 05:55:55",
   "items": [
-    {
-      "title": "[COLOR cyan][19/03 04:00][/COLOR] [COLOR gold]Toluca vs San Diego[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Mar 04:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][19/03 04:00][/COLOR] [COLOR gold]Toluca vs San Diego[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "19-Mar 04:00 | North America CONCACAF Champions Cup | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][19/03 04:00][/COLOR] [COLOR gold]Toluca vs San Diego[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "19-Mar 04:00 | North America CONCACAF Champions Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/03 04:00][/COLOR] [COLOR gold]Toluca vs San Diego[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "19-Mar 04:00 | North America CONCACAF Champions Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/03 04:00][/COLOR] [COLOR gold]Seattle Sounders FC vs Vancouver Whitecaps[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "19-Mar 04:00 | North America CONCACAF Champions Cup | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][19/03 04:00][/COLOR] [COLOR gold]Seattle Sounders FC vs Vancouver Whitecaps[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "19-Mar 04:00 | North America CONCACAF Champions Cup | Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][19/03 10:00][/COLOR] [COLOR gold]Canterbury Bulldogs vs Canberra Raiders[/COLOR] - [COLOR lime]FOX Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@82@@US",
