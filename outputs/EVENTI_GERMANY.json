@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-20 18:43:02",
+  "last_update": "2026-03-20 19:35:24",
   "items": [
-    {
-      "title": "[COLOR cyan][20/03 18:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][20/03 18:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][20/03 18:30][/COLOR] [COLOR gold]Hannover 96 vs Eintracht Braunschweig[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][20/03 18:30][/COLOR] [COLOR gold]Hannover 96 vs Eintracht Braunschweig[/COLOR] - [COLOR lime]Sky Sport Bundesliga 3[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][20/03 18:30][/COLOR] [COLOR gold]Karlsruher SC vs Greuther Furth[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][20/03 18:30][/COLOR] [COLOR gold]Karlsruher SC vs Greuther Furth[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 18:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][20/03 19:00][/COLOR] [COLOR gold]Wehen Wiesbaden vs Hansa Rostock[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@19@@DE",
