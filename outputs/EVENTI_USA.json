@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-20 16:39:25",
+  "last_update": "2026-03-20 17:33:27",
   "items": [
     {
       "title": "[COLOR cyan][20/03 18:05][/COLOR] [COLOR gold]Boston Red Sox vs Tampa Bay Rays[/COLOR] - [COLOR lime]NESN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -787,6 +787,20 @@
       "info": "22-Mar 01:30 | NBA | Basketball | Lang: US"
     },
     {
+      "title": "[COLOR cyan][22/03 02:10][/COLOR] [COLOR gold]Chicago Cubs vs Seattle Mariners[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 02:10 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 02:10][/COLOR] [COLOR gold]Chicago Cubs vs Seattle Mariners[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 02:10 | MLB | Baseball | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][22/03 02:30][/COLOR] [COLOR gold]Philadelphia 76ers vs Utah Jazz[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -857,6 +871,20 @@
       "info": "22-Mar 17:00 | NHL | Hockey | Lang: CA"
     },
     {
+      "title": "[COLOR cyan][22/03 17:05][/COLOR] [COLOR gold]St. Louis Cardinals vs Houston Astros[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 17:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 17:05][/COLOR] [COLOR gold]St. Louis Cardinals vs Houston Astros[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 17:05 | MLB | Baseball | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][22/03 17:30][/COLOR] [COLOR gold]Colorado Avalanche vs Washington Capitals[/COLOR] - [COLOR lime]Altitude[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@3@@CA",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -883,6 +911,90 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22-Mar 17:30 | NHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:05][/COLOR] [COLOR gold]Philadelphia Phillies vs New York Yankees[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:05][/COLOR] [COLOR gold]Philadelphia Phillies vs New York Yankees[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:05][/COLOR] [COLOR gold]Boston Red Sox vs Pittsburgh Pirates[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@35@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:05][/COLOR] [COLOR gold]Boston Red Sox vs Pittsburgh Pirates[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@35@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:05][/COLOR] [COLOR gold]Atlanta Braves vs Minnesota Twins[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@36@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:05][/COLOR] [COLOR gold]Atlanta Braves vs Minnesota Twins[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@36@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:07][/COLOR] [COLOR gold]Tampa Bay Rays vs Toronto Blue Jays[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:07 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:07][/COLOR] [COLOR gold]Tampa Bay Rays vs Toronto Blue Jays[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:07 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:10][/COLOR] [COLOR gold]New York Mets vs Miami Marlins[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:10 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:10][/COLOR] [COLOR gold]New York Mets vs Miami Marlins[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:10 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:35][/COLOR] [COLOR gold]Washington Nationals vs Baltimore Orioles[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@13@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:35 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 18:35][/COLOR] [COLOR gold]Washington Nationals vs Baltimore Orioles[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@13@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 18:35 | MLB | Baseball | Lang: US"
     },
     {
       "title": "[COLOR cyan][22/03 20:00][/COLOR] [COLOR gold]Carolina Hurricanes vs Pittsburgh Penguins[/COLOR] - [COLOR lime]Sportsnet One[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -939,6 +1051,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22-Mar 20:00 | NHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/03 20:05][/COLOR] [COLOR gold]Milwaukee Brewers vs Chicago Cubs[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 20:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 20:05][/COLOR] [COLOR gold]Milwaukee Brewers vs Chicago Cubs[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 20:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 20:05][/COLOR] [COLOR gold]Cincinnati Reds vs Cleveland Guardians[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@14@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 20:05 | MLB | Baseball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][22/03 20:05][/COLOR] [COLOR gold]Cincinnati Reds vs Cleveland Guardians[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@14@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Mar 20:05 | MLB | Baseball | Lang: US"
     },
     {
       "title": "[COLOR cyan][22/03 22:00][/COLOR] [COLOR gold]Portland Trail Blazers vs Denver Nuggets[/COLOR] - [COLOR lime]Altitude[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
