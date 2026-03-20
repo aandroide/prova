@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-20 20:28:18",
+  "last_update": "2026-03-20 21:26:56",
   "items": [
-    {
-      "title": "[COLOR cyan][20/03 20:00][/COLOR] [COLOR gold]Heracles vs Excelsior[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "20-Mar 20:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:00][/COLOR] [COLOR gold]Heracles vs Excelsior[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "20-Mar 20:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:15][/COLOR] [COLOR gold]Vaduz vs Yverdon Sport[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 20:15 | Switzerland Challenge League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:15][/COLOR] [COLOR gold]Vaduz vs Yverdon Sport[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 20:15 | Switzerland Challenge League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:15][/COLOR] [COLOR gold]Panathinaikos vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Nova Sport Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 20:15 | Euroleague | Basketball | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:15][/COLOR] [COLOR gold]Panathinaikos vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Nova Sport Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 20:15 | Euroleague | Basketball | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:15][/COLOR] [COLOR gold]Panathinaikos vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@98@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 20:15 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][20/03 20:15][/COLOR] [COLOR gold]Panathinaikos vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@98@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "20-Mar 20:15 | Euroleague | Basketball | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][20/03 20:30][/COLOR] [COLOR gold]Buckle Up South Carolina 200[/COLOR] - [COLOR lime]FOX Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@82@@US",
