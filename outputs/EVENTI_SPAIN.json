@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-20 15:40:01",
+  "last_update": "2026-03-20 16:39:25",
   "items": [
     {
       "title": "[COLOR cyan][20/03 20:30][/COLOR] [COLOR gold]Huesca vs Almeria[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -255,6 +255,20 @@
       "info": "21-Mar 21:00 | Spain Segunda Division | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][22/03 14:00][/COLOR] [COLOR gold]Barcelona vs Rayo Vallecano[/COLOR] - [COLOR lime]TSN4[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "22-Mar 14:00 | Spain La Liga | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][22/03 14:00][/COLOR] [COLOR gold]Barcelona vs Rayo Vallecano[/COLOR] - [COLOR lime]TSN4[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "22-Mar 14:00 | Spain La Liga | Football | Lang: CA"
+    },
+    {
       "title": "[COLOR cyan][22/03 14:00][/COLOR] [COLOR gold]Barcelona vs Rayo Vallecano[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@6@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -309,20 +323,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22-Mar 14:00 | Spain Segunda Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:15][/COLOR] [COLOR gold]Celta de Vigo vs Deportivo Alaves[/COLOR] - [COLOR lime]TSN4[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@4@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "22-Mar 16:15 | Spain La Liga | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:15][/COLOR] [COLOR gold]Celta de Vigo vs Deportivo Alaves[/COLOR] - [COLOR lime]TSN4[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@4@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "22-Mar 16:15 | Spain La Liga | Football | Lang: CA"
     },
     {
       "title": "[COLOR cyan][22/03 16:15][/COLOR] [COLOR gold]Celta de Vigo vs Deportivo Alaves[/COLOR] - [COLOR lime]Now Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
