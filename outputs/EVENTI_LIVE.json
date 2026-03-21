@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-21 20:22:22",
+  "last_update": "2026-03-21 21:21:24",
   "items": [
     {
       "title": "ITALY (34)",
@@ -31,18 +31,18 @@
       "info": "32 canali GERMANY"
     },
     {
-      "title": "FRANCE (30)",
+      "title": "FRANCE (28)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30 canali FRANCE"
+      "info": "28 canali FRANCE"
     },
     {
-      "title": "USA (100)",
+      "title": "USA (94)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "100 canali USA"
+      "info": "94 canali USA"
     },
     {
       "title": "CANADA (28)",
@@ -66,18 +66,11 @@
       "info": "10 canali SWEDEN"
     },
     {
-      "title": "POLAND (10)",
+      "title": "POLAND (8)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_POLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/pl-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10 canali POLAND"
-    },
-    {
-      "title": "FINLAND (2)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "2 canali FINLAND"
+      "info": "8 canali POLAND"
     },
     {
       "title": "CECHIA (4)",
@@ -101,11 +94,11 @@
       "info": "6 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (128)",
+      "title": "INTERNAZIONALE (122)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "128 canali INTERNAZIONALE"
+      "info": "122 canali INTERNAZIONALE"
     }
   ]
 }
