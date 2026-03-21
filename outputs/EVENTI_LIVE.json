@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-21 13:39:56",
+  "last_update": "2026-03-21 14:23:35",
   "items": [
     {
       "title": "ITALY (52)",
@@ -24,11 +24,11 @@
       "info": "60 canali SPAIN"
     },
     {
-      "title": "GERMANY (84)",
+      "title": "GERMANY (76)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_GERMANY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "84 canali GERMANY"
+      "info": "76 canali GERMANY"
     },
     {
       "title": "FRANCE (44)",
