@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-21 21:21:24",
+  "last_update": "2026-03-21 22:20:54",
   "items": [
-    {
-      "title": "[COLOR cyan][21/03 20:00][/COLOR] [COLOR gold]Lions Zürich vs Lugano[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@67@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 20:00 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][21/03 20:00][/COLOR] [COLOR gold]Lions Zürich vs Lugano[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@67@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 20:00 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][21/03 20:30][/COLOR] [COLOR gold]Sion vs St. Gallen[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][21/03 20:30][/COLOR] [COLOR gold]Sion vs St. Gallen[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][21/03 21:00][/COLOR] [COLOR gold]Houston Dash vs Boston Legacy FC[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 21:00 | NWSL | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][21/03 21:00][/COLOR] [COLOR gold]Houston Dash vs Boston Legacy FC[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 21:00 | NWSL | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][21/03 21:00][/COLOR] [COLOR gold]PEC Zwolle vs NAC Breda[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "21-Mar 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][21/03 21:00][/COLOR] [COLOR gold]PEC Zwolle vs NAC Breda[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "21-Mar 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][21/03 21:45][/COLOR] [COLOR gold]Newell's Old Boys vs Gimnasia Mendoza[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@27@@ES",
