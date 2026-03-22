@@ -1,63 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-22 15:22:43",
+  "last_update": "2026-03-22 16:26:47",
   "items": [
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Feyenoord vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Feyenoord vs Ajax[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Feyenoord vs Ajax[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Feyenoord vs Ajax[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Feyenoord vs Ajax[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Feyenoord vs Ajax[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Utrecht vs Go Ahead Eagles[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/03 14:30][/COLOR] [COLOR gold]Utrecht vs Go Ahead Eagles[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Mar 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][22/03 14:40][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -99,20 +43,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22-Mar 14:40 | MotoGP | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/03 15:00][/COLOR] [COLOR gold]Slaven Koprivnica vs Osijek[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/03 15:00][/COLOR] [COLOR gold]Slaven Koprivnica vs Osijek[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 15:00 | Croatia 1. HNL | Football | Lang: HR"
     },
     {
       "title": "[COLOR cyan][22/03 16:00][/COLOR] [COLOR gold]København vs Fredericia[/COLOR] - [COLOR lime]TV2 Sport X[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
