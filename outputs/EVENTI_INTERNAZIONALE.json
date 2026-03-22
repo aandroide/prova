@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-22 17:22:41",
+  "last_update": "2026-03-22 18:32:42",
   "items": [
     {
       "title": "[COLOR cyan][22/03 14:40][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -43,90 +43,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "22-Mar 14:40 | MotoGP | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:30][/COLOR] [COLOR gold]Young Boys vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:30][/COLOR] [COLOR gold]Young Boys vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:30][/COLOR] [COLOR gold]Botev Vratsa vs Lokomotiv Plovdiv[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:30 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:30][/COLOR] [COLOR gold]Botev Vratsa vs Lokomotiv Plovdiv[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:30 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Telstar vs PSV[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Telstar vs PSV[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Telstar vs PSV[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Telstar vs PSV[/COLOR] - [COLOR lime]Sportdigital FUSSBALL[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@19@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Telstar vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Telstar vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Groningen vs AZ[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/03 16:45][/COLOR] [COLOR gold]Groningen vs AZ[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Mar 16:45 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
       "title": "[COLOR cyan][22/03 17:45][/COLOR] [COLOR gold]Gorica vs Rijeka[/COLOR] - [COLOR lime]Max Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
