@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-22 14:24:46",
+  "last_update": "2026-03-22 15:22:43",
   "items": [
     {
       "title": "[COLOR cyan][22/03 17:00][/COLOR] [COLOR gold]Kometa Brno vs Dynamo Pardubice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "23-Mar 18:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/03 18:00][/COLOR] [COLOR gold]Ocelari Trinec vs Mountfield[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Mar 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/03 18:00][/COLOR] [COLOR gold]Ocelari Trinec vs Mountfield[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Mar 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/03 18:00][/COLOR] [COLOR gold]Karlovy Vary vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Mar 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/03 18:00][/COLOR] [COLOR gold]Karlovy Vary vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Mar 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
     }
   ]
 }
