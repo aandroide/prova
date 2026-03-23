@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-23 18:51:09",
+  "last_update": "2026-03-23 19:45:52",
   "items": [
     {
       "title": "[COLOR cyan][23/03 19:00][/COLOR] [COLOR gold]Kalmar HC vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -141,6 +141,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "25-Mar 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][26/03 19:00][/COLOR] [COLOR gold]Vaxjo Lakers vs Brynas IF[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "26-Mar 19:00 | Sweden SHL | Darts | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][26/03 19:00][/COLOR] [COLOR gold]Vaxjo Lakers vs Brynas IF[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "26-Mar 19:00 | Sweden SHL | Darts | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][26/03 19:00][/COLOR] [COLOR gold]Rogle BK vs Farjestad BK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Mar 19:00 | Sweden SHL | Darts | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][26/03 19:00][/COLOR] [COLOR gold]Rogle BK vs Farjestad BK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Mar 19:00 | Sweden SHL | Darts | Lang: SE"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-23 18:51:09",
+  "last_update": "2026-03-23 19:45:52",
   "items": [
     {
       "title": "[COLOR cyan][25/03 18:45][/COLOR] [COLOR gold]Real Madrid vs Barcelona[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "25-Mar 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][26/03 18:00][/COLOR] [COLOR gold]Malta vs Luxembourg[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "26-Mar 18:00 | Europe UEFA Nations League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][26/03 18:00][/COLOR] [COLOR gold]Malta vs Luxembourg[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "26-Mar 18:00 | Europe UEFA Nations League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][26/03 18:00][/COLOR] [COLOR gold]Gibraltar vs Latvia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Mar 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][26/03 18:00][/COLOR] [COLOR gold]Gibraltar vs Latvia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "26-Mar 18:00 | Europe UEFA Nations League | Football | Lang: US"
     }
   ]
 }
