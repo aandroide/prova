@@ -1,34 +1,62 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-21 17:22:42",
+  "last_update": "2026-03-23 17:53:04",
   "items": [
     {
-      "title": "[COLOR cyan][21/03 17:00][/COLOR] [COLOR gold]Pyramids FC vs FAR Rabat[/COLOR] - [COLOR lime]beIN SPORTS[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@39@@US",
+      "title": "[COLOR cyan][25/03 18:45][/COLOR] [COLOR gold]Real Madrid vs Barcelona[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 17:00 | Africa CAF Champions League | Football | Lang: US"
+      "info": "25-Mar 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][21/03 17:00][/COLOR] [COLOR gold]Pyramids FC vs FAR Rabat[/COLOR] - [COLOR lime]beIN SPORTS[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@39@@US",
+      "title": "[COLOR cyan][25/03 18:45][/COLOR] [COLOR gold]Real Madrid vs Barcelona[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 17:00 | Africa CAF Champions League | Football | Lang: US"
+      "info": "25-Mar 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][21/03 17:00][/COLOR] [COLOR gold]Pyramids FC vs FAR Rabat[/COLOR] - [COLOR lime]beIN SPORTS en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
+      "title": "[COLOR cyan][25/03 18:45][/COLOR] [COLOR gold]Real Madrid vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 17:00 | Africa CAF Champions League | Football | Lang: ES"
+      "info": "25-Mar 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][21/03 17:00][/COLOR] [COLOR gold]Pyramids FC vs FAR Rabat[/COLOR] - [COLOR lime]beIN SPORTS en Espanol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@40@@ES",
+      "title": "[COLOR cyan][25/03 18:45][/COLOR] [COLOR gold]Real Madrid vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Mar 17:00 | Africa CAF Champions League | Football | Lang: ES"
+      "info": "25-Mar 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/03 21:00][/COLOR] [COLOR gold]Manchester United vs Bayern[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/03 21:00][/COLOR] [COLOR gold]Manchester United vs Bayern[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/03 21:00][/COLOR] [COLOR gold]Manchester United vs Bayern[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/03 21:00][/COLOR] [COLOR gold]Manchester United vs Bayern[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-23 16:57:26",
+  "last_update": "2026-03-23 17:53:04",
   "items": [
     {
       "title": "[COLOR cyan][24/03 19:00][/COLOR] [COLOR gold]EHC Red Bull Munchen vs ERC Ingolstadt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -29,6 +29,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "24-Mar 19:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 19:00][/COLOR] [COLOR gold]Adler Mannheim vs Bremerhaven[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@99@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 19:00 | Germany DEL | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 19:00][/COLOR] [COLOR gold]Adler Mannheim vs Bremerhaven[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@99@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 19:00 | Germany DEL | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 19:30][/COLOR] [COLOR gold]Kolner Haie vs Schwenninger[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 19:30 | Germany DEL | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 19:30][/COLOR] [COLOR gold]Kolner Haie vs Schwenninger[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 19:30 | Germany DEL | Basketball | Lang: DE"
     }
   ]
 }

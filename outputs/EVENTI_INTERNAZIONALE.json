@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-23 16:57:26",
+  "last_update": "2026-03-23 17:53:04",
   "items": [
     {
       "title": "[COLOR cyan][23/03 17:00][/COLOR] [COLOR gold]Yantra vs Fratria[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -337,6 +337,104 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "24-Mar 21:30 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][25/03 00:00][/COLOR] [COLOR gold]Junior vs Atletico Bucaramanga[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@CO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 00:00 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][25/03 00:00][/COLOR] [COLOR gold]Junior vs Atletico Bucaramanga[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@CO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 00:00 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][25/03 02:00][/COLOR] [COLOR gold]Fortaleza CEIF vs Deportivo Pasto[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@85@@CO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 02:00 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][25/03 02:00][/COLOR] [COLOR gold]Fortaleza CEIF vs Deportivo Pasto[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@85@@CO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 02:00 | Colombia Primera A | Football | Lang: CO"
+    },
+    {
+      "title": "[COLOR cyan][25/03 12:00][/COLOR] [COLOR gold]Croatia U19 vs Switzerland U19[/COLOR] - [COLOR lime]MAX Sport 2[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@69@@HR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 12:00 | Europe U19 Euro Qualifying | Football | Lang: HR"
+    },
+    {
+      "title": "[COLOR cyan][25/03 12:00][/COLOR] [COLOR gold]Croatia U19 vs Switzerland U19[/COLOR] - [COLOR lime]MAX Sport 2[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@69@@HR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 12:00 | Europe U19 Euro Qualifying | Football | Lang: HR"
+    },
+    {
+      "title": "[COLOR cyan][25/03 18:00][/COLOR] [COLOR gold]Germany U19 vs Sweden U19[/COLOR] - [COLOR lime]Sky Sport News[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 18:00 | Europe U19 Euro Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 18:00][/COLOR] [COLOR gold]Germany U19 vs Sweden U19[/COLOR] - [COLOR lime]Sky Sport News[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 18:00 | Europe U19 Euro Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 20:00][/COLOR] [COLOR gold]Geneve Servette HC vs Lausanne Hc[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 20:00 | Switzerland National League | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 20:00][/COLOR] [COLOR gold]Geneve Servette HC vs Lausanne Hc[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 20:00 | Switzerland National League | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 20:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 20:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/03 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 20:30 | Euroleague | Basketball | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][25/03 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Mar 20:30 | Euroleague | Basketball | Lang: ES"
     }
   ]
 }
