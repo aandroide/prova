@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-23 19:45:52",
+  "last_update": "2026-03-23 20:34:58",
   "items": [
     {
       "title": "UNITED KINGDOM (2)",
@@ -24,11 +24,11 @@
       "info": "8 canali GERMANY"
     },
     {
-      "title": "USA (162)",
+      "title": "USA (158)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "162 canali USA"
+      "info": "158 canali USA"
     },
     {
       "title": "SWEDEN (24)",
@@ -45,11 +45,11 @@
       "info": "12 canali FINLAND"
     },
     {
-      "title": "CECHIA (10)",
+      "title": "CECHIA (8)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CECHIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10 canali CECHIA"
+      "info": "8 canali CECHIA"
     },
     {
       "title": "EUROPA (12)",
