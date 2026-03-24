@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-24 14:54:36",
+  "last_update": "2026-03-24 16:03:57",
   "items": [
     {
       "title": "UNITED KINGDOM (2)",
@@ -31,11 +31,11 @@
       "info": "18 canali SWEDEN"
     },
     {
-      "title": "FINLAND (12)",
+      "title": "FINLAND (14)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FINLAND.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fi-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12 canali FINLAND"
+      "info": "14 canali FINLAND"
     },
     {
       "title": "CECHIA (8)",
