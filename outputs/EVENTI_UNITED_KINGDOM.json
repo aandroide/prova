@@ -1,20 +1,20 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-24 21:34:46",
+  "last_update": "2026-03-25 21:35:49",
   "items": [
     {
-      "title": "[COLOR cyan][24/03 20:45][/COLOR] [COLOR gold]Doncaster Rovers vs Port Vale[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@4@@GB",
+      "title": "[COLOR cyan][27/03 18:00][/COLOR] [COLOR gold]Cardiff Rugby vs Sharks[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@CA",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Mar 20:45 | England League One | Football | Lang: GB"
+      "info": "27-Mar 18:00 | United Rugby Championship | Rugby | Lang: CA"
     },
     {
-      "title": "[COLOR cyan][24/03 20:45][/COLOR] [COLOR gold]Doncaster Rovers vs Port Vale[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@4@@GB",
+      "title": "[COLOR cyan][27/03 18:00][/COLOR] [COLOR gold]Cardiff Rugby vs Sharks[/COLOR] - [COLOR lime]Sportsnet World[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@CA",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Mar 20:45 | England League One | Football | Lang: GB"
+      "info": "27-Mar 18:00 | United Rugby Championship | Rugby | Lang: CA"
     }
   ]
 }
