@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-27 02:04:14",
+  "last_update": "2026-03-27 05:04:09",
   "items": [
-    {
-      "title": "[COLOR cyan][27/03 03:30][/COLOR] [COLOR gold]Japanese Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "27-Mar 03:30 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][27/03 03:30][/COLOR] [COLOR gold]Japanese Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "27-Mar 03:30 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][27/03 03:30][/COLOR] [COLOR gold]Japanese Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@16@@DE",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "27-Mar 03:30 | Formula 1 | Motorsport | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/03 03:30][/COLOR] [COLOR gold]Japanese Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@16@@DE",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "27-Mar 03:30 | Formula 1 | Motorsport | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/03 03:30][/COLOR] [COLOR gold]Japanese Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "27-Mar 03:30 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/03 03:30][/COLOR] [COLOR gold]Japanese Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "27-Mar 03:30 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/03 04:00][/COLOR] [COLOR gold]Chile vs Cape Verde Islands[/COLOR] - [COLOR lime]DAZN Spain[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Mar 04:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/03 04:00][/COLOR] [COLOR gold]Chile vs Cape Verde Islands[/COLOR] - [COLOR lime]DAZN Spain[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@27@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Mar 04:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/03 04:00][/COLOR] [COLOR gold]New Caledonia vs Jamaica[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "27-Mar 04:00 | World Cup Qualifying | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][27/03 04:00][/COLOR] [COLOR gold]New Caledonia vs Jamaica[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "27-Mar 04:00 | World Cup Qualifying | Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][27/03 05:00][/COLOR] [COLOR gold]New Zealand vs Finland[/COLOR] - [COLOR lime]YLE TV2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@80@@FI",
@@ -449,6 +379,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "27-Mar 20:00 | Switzerland National League | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][27/03 20:00][/COLOR] [COLOR gold]Wanderers vs Cerro[/COLOR] - [COLOR lime]Disney+[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Mar 20:00 | Uruguay Primera Division | Football | Lang: MX"
+    },
+    {
+      "title": "[COLOR cyan][27/03 20:00][/COLOR] [COLOR gold]Wanderers vs Cerro[/COLOR] - [COLOR lime]Disney+[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@MX",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Mar 20:00 | Uruguay Primera Division | Football | Lang: MX"
     },
     {
       "title": "[COLOR cyan][27/03 20:15][/COLOR] [COLOR gold]Panathinaikos vs Monaco[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
