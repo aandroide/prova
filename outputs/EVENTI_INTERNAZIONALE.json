@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-27 17:47:02",
+  "last_update": "2026-03-27 18:51:49",
   "items": [
     {
       "title": "[COLOR cyan][27/03 15:00][/COLOR] [COLOR gold]United States Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -211,20 +211,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "27-Mar 20:00 | Switzerland National League | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][27/03 20:00][/COLOR] [COLOR gold]Wanderers vs Cerro[/COLOR] - [COLOR lime]Disney+[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Mar 20:00 | Uruguay Primera Division | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][27/03 20:00][/COLOR] [COLOR gold]Wanderers vs Cerro[/COLOR] - [COLOR lime]Disney+[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@84@@MX",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Mar 20:00 | Uruguay Primera Division | Football | Lang: MX"
     },
     {
       "title": "[COLOR cyan][27/03 20:15][/COLOR] [COLOR gold]Panathinaikos vs Monaco[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1488,14 +1474,14 @@
     },
     {
       "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Armenia vs Belarus[/COLOR] - [COLOR lime]Sport 2[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@43@@CZ",
+      "myresolve": "sansat@@46@@CZ",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "info": "29-Mar 14:00 | Friendly International | Football | Lang: CZ"
     },
     {
       "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Armenia vs Belarus[/COLOR] - [COLOR lime]Sport 2[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@43@@CZ",
+      "myresolve": "sansat@@46@@CZ",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
       "info": "29-Mar 14:00 | Friendly International | Football | Lang: CZ"
