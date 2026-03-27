@@ -1,62 +1,216 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-22 21:22:42",
+  "last_update": "2026-03-27 17:47:02",
   "items": [
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
+      "title": "[COLOR cyan][29/03 11:30][/COLOR] [COLOR gold]Inter II vs Trento[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: GB"
+      "info": "29-Mar 11:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
+      "title": "[COLOR cyan][29/03 11:30][/COLOR] [COLOR gold]Inter II vs Trento[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: GB"
+      "info": "29-Mar 11:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@8@@US",
+      "title": "[COLOR cyan][29/03 11:30][/COLOR] [COLOR gold]Benevento vs Cosenza[/COLOR] - [COLOR lime]Sky Sport 256[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: US"
+      "info": "29-Mar 11:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@8@@US",
+      "title": "[COLOR cyan][29/03 11:30][/COLOR] [COLOR gold]Benevento vs Cosenza[/COLOR] - [COLOR lime]Sky Sport 256[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: US"
+      "info": "29-Mar 11:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Team Altamura vs Siracusa[/COLOR] - [COLOR lime]Sky Sport 251[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Team Altamura vs Siracusa[/COLOR] - [COLOR lime]Sky Sport 251[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Foggia vs Trapani 1905[/COLOR] - [COLOR lime]Sky Sport 252[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Foggia vs Trapani 1905[/COLOR] - [COLOR lime]Sky Sport 252[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Crotone vs Audace Cerignola[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Crotone vs Audace Cerignola[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Pontedera vs Bra[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Pontedera vs Bra[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Vicenza vs Union Brescia[/COLOR] - [COLOR lime]Sky Sport UNO[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: IT"
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]DAZN Zona[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][29/03 13:30][/COLOR] [COLOR gold]Vicenza vs Union Brescia[/COLOR] - [COLOR lime]Sky Sport UNO[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@47@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: IT"
+      "info": "29-Mar 13:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]ESPN Mexico[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@84@@ES",
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Cittadella vs Lecco[/COLOR] - [COLOR lime]Sky Sport 251[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: ES"
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
     },
     {
-      "title": "[COLOR cyan][22/03 20:45][/COLOR] [COLOR gold]Fiorentina vs Internazionale[/COLOR] - [COLOR lime]ESPN Mexico[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@84@@ES",
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Cittadella vs Lecco[/COLOR] - [COLOR lime]Sky Sport 251[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@IT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Mar 20:45 | Italy vs Serie A | Football | Lang: ES"
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Campobasso vs Nuova Monterosi[/COLOR] - [COLOR lime]Sky Sport 252[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Campobasso vs Nuova Monterosi[/COLOR] - [COLOR lime]Sky Sport 252[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Vis Pesaro vs Perugia[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Vis Pesaro vs Perugia[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Virtus Casarano vs Giugliano[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Virtus Casarano vs Giugliano[/COLOR] - [COLOR lime]Sky Sport 254[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@44@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Forli vs Pianese[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 16:30][/COLOR] [COLOR gold]Forli vs Pianese[/COLOR] - [COLOR lime]Sky Sport 255[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@45@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 16:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 19:30][/COLOR] [COLOR gold]Gubbio vs Ravenna[/COLOR] - [COLOR lime]Sky Sport 251[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 19:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 19:30][/COLOR] [COLOR gold]Gubbio vs Ravenna[/COLOR] - [COLOR lime]Sky Sport 251[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 19:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 19:30][/COLOR] [COLOR gold]Pineto vs Sambenedettese[/COLOR] - [COLOR lime]Sky Sport 252[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 19:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 19:30][/COLOR] [COLOR gold]Pineto vs Sambenedettese[/COLOR] - [COLOR lime]Sky Sport 252[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 19:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 19:30][/COLOR] [COLOR gold]Picerno vs Monopoli[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 19:30 | Italy Serie C | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][29/03 19:30][/COLOR] [COLOR gold]Picerno vs Monopoli[/COLOR] - [COLOR lime]Sky Sport 253[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Mar 19:30 | Italy Serie C | Football | Lang: IT"
     }
   ]
 }
