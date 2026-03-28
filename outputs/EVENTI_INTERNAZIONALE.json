@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-28 12:48:29",
+  "last_update": "2026-03-28 13:49:15",
   "items": [
     {
       "title": "[COLOR cyan][28/03 15:00][/COLOR] [COLOR gold]United States Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Mar 17:00 | United States NWSL | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Sparta Praha vs Škoda Plzeň[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Mar 17:00 | Tipsport Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Sparta Praha vs Škoda Plzeň[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Mar 17:00 | Tipsport Extraliga | Hockey | Lang: CZ"
     },
     {
       "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Scotland vs Japan[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
