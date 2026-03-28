@@ -1,35 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-28 17:25:48",
+  "last_update": "2026-03-28 18:36:01",
   "items": [
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Boston Legacy vs Utah Royals[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@3@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "28-Mar 17:00 | United States NWSL | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Boston Legacy vs Utah Royals[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@3@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "28-Mar 17:00 | United States NWSL | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Boston Legacy vs Utah Royals[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | United States NWSL | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Boston Legacy vs Utah Royals[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | United States NWSL | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Sparta Praha vs Škoda Plzeň[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@41@@CZ",
@@ -43,48 +15,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Mar 17:00 | Tipsport Extraliga | Hockey | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Scotland vs Japan[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | Friendly International | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Scotland vs Japan[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@78@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | Friendly International | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Scotland vs Japan[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | Friendly International | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Scotland vs Japan[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | Friendly International | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Senegal vs Peru[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][28/03 17:00][/COLOR] [COLOR gold]Senegal vs Peru[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 17:00 | Friendly International | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][28/03 17:30][/COLOR] [COLOR gold]Fabia Sintes vs Abdul Karim Badakhshi[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
