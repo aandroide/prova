@@ -1,105 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-28 23:28:08",
+  "last_update": "2026-03-29 02:06:42",
   "items": [
-    {
-      "title": "[COLOR cyan][28/03 23:00][/COLOR] [COLOR gold]Parker Porter vs Clayton Haze[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 23:00 | Light heavyweight | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][28/03 23:00][/COLOR] [COLOR gold]Parker Porter vs Clayton Haze[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "28-Mar 23:00 | Light heavyweight | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][28/03 23:30][/COLOR] [COLOR gold]Seattle Reign vs Racing Louisville FC[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "28-Mar 23:30 | United States NWSL | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][28/03 23:30][/COLOR] [COLOR gold]Seattle Reign vs Racing Louisville FC[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "28-Mar 23:30 | United States NWSL | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | UFC | MMA | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | UFC | MMA | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | UFC | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]RMC Sport 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | UFC | MMA | Lang: FR"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Sportsnet 360[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]North Carolina Courage vs Bay FC[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | United States NWSL | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:00][/COLOR] [COLOR gold]North Carolina Courage vs Bay FC[/COLOR] - [COLOR lime]OneSoccer[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@CA",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:00 | United States NWSL | Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:10][/COLOR] [COLOR gold]Deportes Tolima vs Jaguares de Cordoba[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@CO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:10 | Colombia Primera A | Football | Lang: CO"
-    },
-    {
-      "title": "[COLOR cyan][29/03 00:10][/COLOR] [COLOR gold]Deportes Tolima vs Jaguares de Cordoba[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@CO",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 00:10 | Colombia Primera A | Football | Lang: CO"
-    },
     {
       "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Israel Adesanya vs Joe Pyfer[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@1@@GB",
@@ -141,48 +43,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "29-Mar 01:00 | UFC | MMA | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Mexico vs Portugal[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Mexico vs Portugal[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Mexico vs Portugal[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Mexico vs Portugal[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Mexico vs Portugal[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Mexico vs Portugal[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Johnny Eblen vs Bryan Battle[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -253,20 +113,6 @@
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "29-Mar 01:00 | Super Welterweight | Boxing | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Haiti vs Tunisia[/COLOR] - [COLOR lime]SYN Sport[/COLOR] [COLOR orange][is][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@69@@IS",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: IS"
-    },
-    {
-      "title": "[COLOR cyan][29/03 01:00][/COLOR] [COLOR gold]Haiti vs Tunisia[/COLOR] - [COLOR lime]SYN Sport[/COLOR] [COLOR orange][is][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@69@@IS",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 01:00 | Friendly International | Football | Lang: IS"
     },
     {
       "title": "[COLOR cyan][29/03 02:20][/COLOR] [COLOR gold]Deportivo Cali vs Deportivo Pereira[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][co][/COLOR] [COLOR yellow]Link 1[/COLOR]",
