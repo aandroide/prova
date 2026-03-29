@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-29 14:31:04",
+  "last_update": "2026-03-29 15:28:01",
   "items": [
     {
       "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Malmo Redhawks vs Skelleftea AIK[/COLOR] - [COLOR lime]Sportdigital+[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "30-Mar 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]Assat vs SaiPa[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:30 | Sweden Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]Assat vs SaiPa[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:30 | Sweden Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]KalPa vs Ilves[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:30 | Sweden Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]KalPa vs Ilves[/COLOR] - [COLOR lime]MTV Urheilu[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:30 | Sweden Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Frolunda HC vs Lulea HF[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Frolunda HC vs Lulea HF[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Sweden SHL | Hockey | Lang: SE"
     }
   ]
 }

@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-29 14:31:04",
+  "last_update": "2026-03-29 15:28:01",
   "items": [
-    {
-      "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Lithuania vs Georgia[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@34@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "29-Mar 14:00 | Friendly International | Football | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Lithuania vs Georgia[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@34@@NZ",
-      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
-      "info": "29-Mar 14:00 | Friendly International | Football | Lang: NZ"
-    },
-    {
-      "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Lithuania vs Georgia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 14:00 | Friendly International | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Lithuania vs Georgia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Mar 14:00 | Friendly International | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Armenia vs Belarus[/COLOR] - [COLOR lime]Sport 2[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@46@@CZ",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "info": "29-Mar 14:00 | Friendly International | Football | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][29/03 14:00][/COLOR] [COLOR gold]Armenia vs Belarus[/COLOR] - [COLOR lime]Sport 2[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@46@@CZ",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/68s5x31616932507.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/cz-circle-01.png",
-      "info": "29-Mar 14:00 | Friendly International | Football | Lang: CZ"
-    },
     {
       "title": "[COLOR cyan][29/03 14:30][/COLOR] [COLOR gold]Chernomorets Burgas vs Dunav 2010[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@48@@BG",
@@ -421,6 +379,622 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
       "info": "30-Mar 19:45 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 00:10][/COLOR] [COLOR gold]Medellin vs America de Cali[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@84@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 00:10 | Colombia Primera A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 00:10][/COLOR] [COLOR gold]Medellin vs America de Cali[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 00:10 | Colombia Primera A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 02:20][/COLOR] [COLOR gold]Millonarios vs Fortaleza CEIF[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@84@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 02:20 | Colombia Primera A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 02:20][/COLOR] [COLOR gold]Millonarios vs Fortaleza CEIF[/COLOR] - [COLOR lime]Win+ Futbol[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@84@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 02:20 | Colombia Primera A | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 13:00][/COLOR] [COLOR gold]Kazakhstan vs Comoros[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 13:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 13:00][/COLOR] [COLOR gold]Kazakhstan vs Comoros[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 13:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 13:00][/COLOR] [COLOR gold]Kazakhstan vs Comoros[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 13:00 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 13:00][/COLOR] [COLOR gold]Kazakhstan vs Comoros[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 13:00 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 13:00][/COLOR] [COLOR gold]Montenegro U21 vs Poland U21[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 13:00 | Europe Euro U-21 Qualifying | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 13:00][/COLOR] [COLOR gold]Montenegro U21 vs Poland U21[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 13:00 | Europe Euro U-21 Qualifying | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 15:30][/COLOR] [COLOR gold]Hungary U21 vs Ukraine U21[/COLOR] - [COLOR lime]M4 Sports[/COLOR] [COLOR orange][hu][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@100@@HU",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 15:30 | Europe Euro U-21 Qualifying | Football | Lang: HU"
+    },
+    {
+      "title": "[COLOR cyan][31/03 15:30][/COLOR] [COLOR gold]Hungary U21 vs Ukraine U21[/COLOR] - [COLOR lime]M4 Sports[/COLOR] [COLOR orange][hu][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@100@@HU",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 15:30 | Europe Euro U-21 Qualifying | Football | Lang: HU"
+    },
+    {
+      "title": "[COLOR cyan][31/03 15:45][/COLOR] [COLOR gold]Poland U20 vs Germany U20[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 15:45 | Friendly International | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 15:45][/COLOR] [COLOR gold]Poland U20 vs Germany U20[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 15:45 | Friendly International | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Kazakhstan U21 vs Republic of Ireland U21[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Kazakhstan U21 vs Republic of Ireland U21[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Czechia U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][ct][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: CT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Czechia U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][ct][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: CT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]Croatia U21 vs Turkiye U21[/COLOR] - [COLOR lime]TRT Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@92@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:30 | Europe Euro U-21 Qualifying | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]Croatia U21 vs Turkiye U21[/COLOR] - [COLOR lime]TRT Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@92@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 16:30 | Europe Euro U-21 Qualifying | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Greece U21 vs Germany U21[/COLOR] - [COLOR lime]ProSieben Maxx[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Europe Euro U-21 Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Greece U21 vs Germany U21[/COLOR] - [COLOR lime]ProSieben Maxx[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Europe Euro U-21 Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Austria U21 vs Belarus U21[/COLOR] - [COLOR lime]ORF Sport Plus[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@AT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Europe Euro U-21 Qualifying | Football | Lang: AT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Austria U21 vs Belarus U21[/COLOR] - [COLOR lime]ORF Sport Plus[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@AT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Europe Euro U-21 Qualifying | Football | Lang: AT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Norway vs Switzerland[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Norway vs Switzerland[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/88/Sky_Sport_2_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830144002",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Norway vs Switzerland[/COLOR] - [COLOR lime]TV 2 Direkte[/COLOR] [COLOR orange][no][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@68@@NO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: NO"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Norway vs Switzerland[/COLOR] - [COLOR lime]TV 2 Direkte[/COLOR] [COLOR orange][no][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@68@@NO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: NO"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Norway vs Switzerland[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Norway vs Switzerland[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Montenegro vs Slovenia[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Montenegro vs Slovenia[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 17:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Bulgaria U21 vs Azerbaijan U21[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Europe Euro U-21 Qualifying | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Bulgaria U21 vs Azerbaijan U21[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@48@@BG",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:00 | Europe Euro U-21 Qualifying | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:30][/COLOR] [COLOR gold]Sweden U21 vs Italy U21[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:30 | Europe Euro U-21 Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:30][/COLOR] [COLOR gold]Sweden U21 vs Italy U21[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:30 | Europe Euro U-21 Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:30][/COLOR] [COLOR gold]Haiti vs Iceland[/COLOR] - [COLOR lime]SYN Sport Island[/COLOR] [COLOR orange][is][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@79@@IS",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:30 | Friendly International | Football | Lang: IS"
+    },
+    {
+      "title": "[COLOR cyan][31/03 17:30][/COLOR] [COLOR gold]Haiti vs Iceland[/COLOR] - [COLOR lime]SYN Sport Island[/COLOR] [COLOR orange][is][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@79@@IS",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 17:30 | Friendly International | Football | Lang: IS"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Besiktas vs Bahcesehir Kol[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Eurocup | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Besiktas vs Bahcesehir Kol[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@19@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Eurocup | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Hungary vs Greece[/COLOR] - [COLOR lime]Alpha TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Friendly International | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Hungary vs Greece[/COLOR] - [COLOR lime]Alpha TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Friendly International | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Hungary vs Greece[/COLOR] - [COLOR lime]Sky Sport 9[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@39@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143632",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 18:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Hungary vs Greece[/COLOR] - [COLOR lime]Sky Sport 9[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@39@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/0/00/Sky_Sport_9_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143632",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 18:00 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Aldosivi vs Argentinos Juniors[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 18:00][/COLOR] [COLOR gold]Aldosivi vs Argentinos Juniors[/COLOR] - [COLOR lime]ESPN Premium Argentina[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@27@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 18:00 | Argentina Primera Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:00][/COLOR] [COLOR gold]Mincidelice JL Bourg en Bresse vs Turk Telekom[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:00 | Eurocup | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:00][/COLOR] [COLOR gold]Mincidelice JL Bourg en Bresse vs Turk Telekom[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:00 | Eurocup | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:00][/COLOR] [COLOR gold]Peru vs Honduras[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:00 | Friendly International | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:00][/COLOR] [COLOR gold]Peru vs Honduras[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@87@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:00 | Friendly International | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:30][/COLOR] [COLOR gold]Scotland vs Cote d'Ivoire[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:30 | Friendly International | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:30][/COLOR] [COLOR gold]Scotland vs Cote d'Ivoire[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:30 | Friendly International | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Kosovo vs Turkey[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Kosovo vs Turkey[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Kosovo vs Turkey[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Kosovo vs Turkey[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Kosovo vs Turkey[/COLOR] - [COLOR lime]TV8[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Kosovo vs Turkey[/COLOR] - [COLOR lime]TV8[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@91@@TR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: TR"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Virtus Bologna vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Virtus Bologna vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Virtus Bologna vs Paris[/COLOR] - [COLOR lime]M. Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@90@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Euroleague | Basketball | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Virtus Bologna vs Paris[/COLOR] - [COLOR lime]M. Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@90@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Euroleague | Basketball | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Sweden vs Poland[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Sweden vs Poland[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Sweden vs Poland[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Sweden vs Poland[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PL",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: PL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Sweden vs Poland[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Sweden vs Poland[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]England vs Japan[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@35@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]England vs Japan[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@35@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]England vs Japan[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]England vs Japan[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Netherlands vs Ecuador[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@36@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Netherlands vs Ecuador[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@36@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Netherlands vs Ecuador[/COLOR] - [COLOR lime]NPO 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@88@@NL",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/512px-NPO_3_logo_2014.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Netherlands vs Ecuador[/COLOR] - [COLOR lime]NPO 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@88@@NL",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/NPO_3_logo_2014.svg/512px-NPO_3_logo_2014.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Austria vs Korea Republic[/COLOR] - [COLOR lime]Sky Sport 7[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@37@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143651",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Austria vs Korea Republic[/COLOR] - [COLOR lime]Sky Sport 7[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@37@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/f/f4/Sky_Sport_7_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143651",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "31-Mar 19:45 | Friendly International | Football | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Czech Republic vs Denmark[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][ct][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: CT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Czech Republic vs Denmark[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][ct][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: CT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Czech Republic vs Denmark[/COLOR] - [COLOR lime]TV2[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@69@@DK",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: DK"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Czech Republic vs Denmark[/COLOR] - [COLOR lime]TV2[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@69@@DK",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: DK"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Bosnia and Herzegovina vs Italy[/COLOR] - [COLOR lime]RAI 1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Bosnia and Herzegovina vs Italy[/COLOR] - [COLOR lime]RAI 1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Bosnia and Herzegovina vs Italy[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Bosnia and Herzegovina vs Italy[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "31-Mar 19:45 | World Cup Qualifying | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Slovenia U21 vs Norway U21[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Europe Euro U-21 Qualifying | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][31/03 19:45][/COLOR] [COLOR gold]Slovenia U21 vs Norway U21[/COLOR] - [COLOR lime]V Sport Premium[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@78@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Mar 19:45 | Europe Euro U-21 Qualifying | Football | Lang: SE"
     }
   ]
 }
