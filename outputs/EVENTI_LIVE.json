@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-30 20:41:31",
+  "last_update": "2026-03-30 21:39:01",
   "items": [
     {
       "title": "SPAIN (10)",
@@ -45,11 +45,11 @@
       "info": "12 canali EUROPA"
     },
     {
-      "title": "INTERNAZIONALE (130)",
+      "title": "INTERNAZIONALE (124)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "130 canali INTERNAZIONALE"
+      "info": "124 canali INTERNAZIONALE"
     }
   ]
 }
