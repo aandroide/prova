@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-30 22:32:09",
+  "last_update": "2026-03-30 23:31:36",
   "items": [
     {
       "title": "SPAIN (10)",
@@ -17,11 +17,11 @@
       "info": "8 canali GERMANY"
     },
     {
-      "title": "USA (168)",
+      "title": "USA (166)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "168 canali USA"
+      "info": "166 canali USA"
     },
     {
       "title": "SWEDEN (10)",
