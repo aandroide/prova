@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-30 17:52:04",
+  "last_update": "2026-03-30 18:55:50",
   "items": [
     {
       "title": "[COLOR cyan][30/03 21:10][/COLOR] [COLOR gold]Minnesota Twins vs Kansas City Royals[/COLOR] - [COLOR lime]MLBtv[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -689,6 +689,20 @@
       "info": "01-Apr 00:00 | NHL | Hockey | Lang: CA"
     },
     {
+      "title": "[COLOR cyan][01/04 00:00][/COLOR] [COLOR gold]Detroit Red Wings vs Pittsburgh Penguins[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@70@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Apr 00:00 | NHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][01/04 00:00][/COLOR] [COLOR gold]Detroit Red Wings vs Pittsburgh Penguins[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@70@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Apr 00:00 | NHL | Hockey | Lang: SE"
+    },
+    {
       "title": "[COLOR cyan][01/04 00:00][/COLOR] [COLOR gold]Philadelphia Flyers vs Washington Capitals[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@37@@CA",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -813,20 +827,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Apr 01:00 | NBA | Basketball | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][01/04 01:00][/COLOR] [COLOR gold]Toronto Raptors vs Detroit Pistons[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Apr 01:00 | NBA | Basketball | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][01/04 01:00][/COLOR] [COLOR gold]Toronto Raptors vs Detroit Pistons[/COLOR] - [COLOR lime]V Sport 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Apr 01:00 | NBA | Basketball | Lang: SE"
     },
     {
       "title": "[COLOR cyan][01/04 01:00][/COLOR] [COLOR gold]New York Knicks vs Houston Rockets[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
