@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-30 15:00:41",
+  "last_update": "2026-03-30 16:52:22",
   "items": [
-    {
-      "title": "[COLOR cyan][30/03 15:00][/COLOR] [COLOR gold]Uzbekistan vs Venezuela[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Mar 15:00 | Friendly International | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][30/03 15:00][/COLOR] [COLOR gold]Uzbekistan vs Venezuela[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Mar 15:00 | Friendly International | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][30/03 16:00][/COLOR] [COLOR gold]Azerbaijan vs Sierra Leone[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@83@@US",
@@ -29,20 +15,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "30-Mar 16:00 | Friendly International | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][30/03 17:00][/COLOR] [COLOR gold]Spain vs Egypt[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Mar 17:00 | Friendly International | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][30/03 17:00][/COLOR] [COLOR gold]Spain vs Egypt[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Mar 17:00 | Friendly International | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][30/03 17:00][/COLOR] [COLOR gold]Cyprus vs Moldova[/COLOR] - [COLOR lime]Sky Sport 2[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -71,6 +43,20 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
       "info": "30-Mar 17:00 | Friendly International | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][30/03 19:00][/COLOR] [COLOR gold]Spain vs Egypt[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Mar 19:00 | Friendly International | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][30/03 19:00][/COLOR] [COLOR gold]Spain vs Egypt[/COLOR] - [COLOR lime]TVE La 1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "30-Mar 19:00 | Friendly International | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][30/03 19:45][/COLOR] [COLOR gold]Germany vs Ghana[/COLOR] - [COLOR lime]Das Erste[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
