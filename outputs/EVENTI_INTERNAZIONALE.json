@@ -1,77 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-31 16:08:46",
+  "last_update": "2026-03-31 17:54:15",
   "items": [
-    {
-      "title": "[COLOR cyan][31/03 15:30][/COLOR] [COLOR gold]Hungary U21 vs Ukraine U21[/COLOR] - [COLOR lime]M4 Sports[/COLOR] [COLOR orange][hu][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@100@@HU",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 15:30 | Europe Euro U-21 Qualifying | Football | Lang: HU"
-    },
-    {
-      "title": "[COLOR cyan][31/03 15:30][/COLOR] [COLOR gold]Hungary U21 vs Ukraine U21[/COLOR] - [COLOR lime]M4 Sports[/COLOR] [COLOR orange][hu][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@100@@HU",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 15:30 | Europe Euro U-21 Qualifying | Football | Lang: HU"
-    },
-    {
-      "title": "[COLOR cyan][31/03 15:45][/COLOR] [COLOR gold]Poland U20 vs Germany U20[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@60@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 15:45 | Friendly International | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][31/03 15:45][/COLOR] [COLOR gold]Poland U20 vs Germany U20[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@60@@PL",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 15:45 | Friendly International | Football | Lang: PL"
-    },
-    {
-      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Kazakhstan U21 vs Republic of Ireland U21[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@6@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Kazakhstan U21 vs Republic of Ireland U21[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@6@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Czechia U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@41@@CZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][31/03 16:00][/COLOR] [COLOR gold]Czechia U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CT Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@41@@CZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 16:00 | Europe Euro U-21 Qualifying | Football | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]Croatia U21 vs Turkiye U21[/COLOR] - [COLOR lime]TRT Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 16:30 | Europe Euro U-21 Qualifying | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][31/03 16:30][/COLOR] [COLOR gold]Croatia U21 vs Turkiye U21[/COLOR] - [COLOR lime]TRT Spor[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Mar 16:30 | Europe Euro U-21 Qualifying | Football | Lang: TR"
-    },
     {
       "title": "[COLOR cyan][31/03 17:00][/COLOR] [COLOR gold]Greece U21 vs Germany U21[/COLOR] - [COLOR lime]ProSieben Maxx[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@12@@DE",
