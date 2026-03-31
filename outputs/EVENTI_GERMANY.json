@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-31 18:58:08",
+  "last_update": "2026-03-31 19:55:57",
   "items": [
     {
       "title": "[COLOR cyan][31/03 18:30][/COLOR] [COLOR gold]Eisbaren Berlin vs Straubing Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,34 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Mar 18:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][02/04 18:30][/COLOR] [COLOR gold]EHC Red Bull Munchen vs ERC Ingolstadt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Apr 18:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][02/04 18:30][/COLOR] [COLOR gold]EHC Red Bull Munchen vs ERC Ingolstadt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@17@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Apr 18:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][02/04 18:30][/COLOR] [COLOR gold]Straubing Tigers vs Eisbaren Berlin[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Apr 18:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][02/04 18:30][/COLOR] [COLOR gold]Straubing Tigers vs Eisbaren Berlin[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Apr 18:30 | Germany DEL | Hockey | Lang: DE"
     }
   ]
 }
