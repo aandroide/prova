@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-04-01 17:46:33",
+  "last_update": "2026-04-01 18:57:12",
   "items": [
     {
       "title": "[COLOR cyan][02/04 16:30][/COLOR] [COLOR gold]Tappara Tampere vs HPK[/COLOR] - [COLOR lime]Liiga Sport[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -57,6 +57,62 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Apr 16:30 | Finland Liiga | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]SaiPa vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]SaiPa vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 1[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]Jokerit vs Kettera[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]Jokerit vs Kettera[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]Ilves vs KalPa[/COLOR] - [COLOR lime]MTV3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]Ilves vs KalPa[/COLOR] - [COLOR lime]MTV3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]Ilves vs KalPa[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Liiga | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][03/04 15:00][/COLOR] [COLOR gold]Ilves vs KalPa[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@75@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Apr 15:00 | Finland Liiga | Hockey | Lang: SE"
     }
   ]
 }

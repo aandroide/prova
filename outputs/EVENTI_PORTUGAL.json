@@ -1,20 +1,48 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-03-29 16:31:02",
+  "last_update": "2026-04-01 18:57:12",
   "items": [
     {
-      "title": "[COLOR cyan][29/03 15:30][/COLOR] [COLOR gold]Uniao de Leiria vs Pacos de Ferreira[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][03/04 15:30][/COLOR] [COLOR gold]Gil Vicente vs AVS[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "29-Mar 15:30 | Portugal Segunda liga | Football | Lang: PT"
+      "info": "03-Apr 15:30 | Portugal Primeira Liga | Football | Lang: PT"
     },
     {
-      "title": "[COLOR cyan][29/03 15:30][/COLOR] [COLOR gold]Uniao de Leiria vs Pacos de Ferreira[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][03/04 15:30][/COLOR] [COLOR gold]Gil Vicente vs AVS[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@21@@PT",
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "29-Mar 15:30 | Portugal Segunda liga | Football | Lang: PT"
+      "info": "03-Apr 15:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/04 18:00][/COLOR] [COLOR gold]Vitoria Guimaraes vs Tondela[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Apr 18:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/04 18:00][/COLOR] [COLOR gold]Vitoria Guimaraes vs Tondela[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@22@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Apr 18:00 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/04 20:30][/COLOR] [COLOR gold]Sporting CP vs Santa Clara[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Apr 20:30 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][03/04 20:30][/COLOR] [COLOR gold]Sporting CP vs Santa Clara[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "03-Apr 20:30 | Portugal Primeira Liga | Football | Lang: PT"
     }
   ]
 }
