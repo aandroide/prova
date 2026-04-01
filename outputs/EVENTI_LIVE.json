@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-04-01 13:14:35",
+  "last_update": "2026-04-01 15:01:13",
   "items": [
     {
       "title": "UNITED KINGDOM (2)",
@@ -31,11 +31,11 @@
       "info": "66 canali USA"
     },
     {
-      "title": "SWEDEN (6)",
+      "title": "SWEDEN (8)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SWEDEN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "6 canali SWEDEN"
+      "info": "8 canali SWEDEN"
     },
     {
       "title": "FINLAND (8)",
