@@ -1,48 +1,405 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-04-02 15:58:04",
+  "last_update": "2026-09-21 14:15:42",
   "items": [
     {
-      "title": "[COLOR cyan][02/04 18:00][/COLOR] [COLOR gold]IF Bjorkloven vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Apr 18:00 | Sweden Allsvenskan | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][02/04 18:00][/COLOR] [COLOR gold]IF Bjorkloven vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "02-Apr 18:00 | Sweden Allsvenskan | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][03/04 14:00][/COLOR] [COLOR gold]Helsingborgs IF vs Osters IF[/COLOR] - [COLOR lime]TV4 Fotboll[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@79@@SE",
+      "title": "[COLOR cyan][21/09 18:00][/COLOR] [COLOR gold]AIK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Apr 14:00 | Sweden Superettan | Football | Lang: SE"
+      "info": "21-Sep 18:00 | Hockeyallsvenskan | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][03/04 14:00][/COLOR] [COLOR gold]Helsingborgs IF vs Osters IF[/COLOR] - [COLOR lime]TV4 Fotboll[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@79@@SE",
+      "title": "[COLOR cyan][21/09 18:00][/COLOR] [COLOR gold]AIK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Apr 14:00 | Sweden Superettan | Football | Lang: SE"
+      "info": "21-Sep 18:00 | Hockeyallsvenskan | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][03/04 17:00][/COLOR] [COLOR gold]BIK Karlskoga vs Modo Hockey[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Apr 17:00 | Sweden Allsvenskan | Hockey | Lang: SE"
+      "title": "[COLOR cyan][21/09 18:00][/COLOR] [COLOR gold]AIK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@74@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Sep 18:00 | Hockeyallsvenskan | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][03/04 17:00][/COLOR] [COLOR gold]BIK Karlskoga vs Modo Hockey[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@71@@SE",
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Linköping HC vs Brynäs IF[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
       "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
-      "info": "03-Apr 17:00 | Sweden Allsvenskan | Hockey | Lang: SE"
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Linköping HC vs Brynäs IF[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Linköping HC vs Brynäs IF[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Rögle BK vs Djurgårdens IF[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Rögle BK vs Djurgårdens IF[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Rögle BK vs Djurgårdens IF[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Timrå IK vs Örebro Hockey[/COLOR] - [COLOR lime]TV4 Sport Live 3[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Timrå IK vs Örebro Hockey[/COLOR] - [COLOR lime]TV4 Sport Live 3[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Timrå IK vs Örebro Hockey[/COLOR] - [COLOR lime]TV4 Sport Live 3[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Frölunda HC vs Färjestad[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Frölunda HC vs Färjestad[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Frölunda HC vs Färjestad[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Växjö Lakers vs Malmö Redhawks[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Växjö Lakers vs Malmö Redhawks[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][22/09 18:00][/COLOR] [COLOR gold]Växjö Lakers vs Malmö Redhawks[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Modo Hockey vs Mora IK[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Modo Hockey vs Mora IK[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Modo Hockey vs Mora IK[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Leksands IF vs IK Oskarshamn[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Leksands IF vs IK Oskarshamn[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Leksands IF vs IK Oskarshamn[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Nybro Vikings IF vs BIK Karlskoga[/COLOR] - [COLOR lime]TV4 Sport Live 3[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Nybro Vikings IF vs BIK Karlskoga[/COLOR] - [COLOR lime]TV4 Sport Live 3[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Nybro Vikings IF vs BIK Karlskoga[/COLOR] - [COLOR lime]TV4 Sport Live 3[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/3y0AxGHgQlHMF8nZSoDB8M/2b2e3e69b49597b0c04d072b400e3e4d/tv4_sport_live_3.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Vimmerby HC vs AIK[/COLOR] - [COLOR lime]TV4 Sport Live 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Vimmerby HC vs AIK[/COLOR] - [COLOR lime]TV4 Sport Live 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Vimmerby HC vs AIK[/COLOR] - [COLOR lime]TV4 Sport Live 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Västerås IK vs Södertälje SK[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Västerås IK vs Södertälje SK[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Västerås IK vs Södertälje SK[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Visby/Roma HK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Visby/Roma HK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Visby/Roma HK vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Östersunds IK vs Almtuna IS[/COLOR] - [COLOR lime]TV4 Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@67@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Östersunds IK vs Almtuna IS[/COLOR] - [COLOR lime]TV4 Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@67@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][23/09 18:00][/COLOR] [COLOR gold]Östersunds IK vs Almtuna IS[/COLOR] - [COLOR lime]TV4 Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@67@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Sep 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Luleå HF vs Frölunda HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Luleå HF vs Frölunda HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Luleå HF vs Frölunda HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Luleå HF vs Frölunda HC[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Luleå HF vs Frölunda HC[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Luleå HF vs Frölunda HC[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Örebro HK vs Björklöven[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Örebro HK vs Björklöven[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Örebro HK vs Björklöven[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Färjestad BK vs Rögle BK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Färjestad BK vs Rögle BK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Färjestad BK vs Rögle BK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Djurgårdens IF vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Djurgårdens IF vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]Djurgårdens IF vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]HV71 vs Skellefteå AIK[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]HV71 vs Skellefteå AIK[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][24/09 18:00][/COLOR] [COLOR gold]HV71 vs Skellefteå AIK[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Sep 18:00 | Sweden SHL | Hockey | Lang: SE"
     }
   ]
 }
