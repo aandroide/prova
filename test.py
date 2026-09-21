@@ -20,7 +20,7 @@ from urllib.parse import urlparse, parse_qs
 
 GITHUB_USERNAME = 'aandroide'  # <-- MODIFICA QUESTO!
 MANDRAKODI_CANALI_URL = f'https://raw.githubusercontent.com/{GITHUB_USERNAME}/prova/main/canali/canali.json'
-SUPERLEAGUE_URL = 'https://super.league.do'
+SUPERLEAGUE_URL = 'https://super.league.st'
 GITHUB_RAW_BASE = f'https://raw.githubusercontent.com/{GITHUB_USERNAME}/prova/main/outputs'
 
 # Mapping campionati -> nazioni
