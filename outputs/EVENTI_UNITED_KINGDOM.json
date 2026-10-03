@@ -1,27 +1,48 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-09-23 07:46:04",
+  "last_update": "2026-10-03 17:53:45",
   "items": [
     {
-      "title": "[COLOR cyan][24/09 03:00][/COLOR] [COLOR gold]Vancouver FC vs Inter Toronto[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
+      "title": "[COLOR cyan][03/10 17:30][/COLOR] [COLOR gold]Sharks vs Leinster[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Sep 03:00 | Canada Canadian Premier League | Football | Lang: US"
+      "info": "03-Oct 17:30 | United Rugby Championship | Rugby | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][24/09 03:00][/COLOR] [COLOR gold]Vancouver FC vs Inter Toronto[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
+      "title": "[COLOR cyan][03/10 17:30][/COLOR] [COLOR gold]Sharks vs Leinster[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Sep 03:00 | Canada Canadian Premier League | Football | Lang: US"
+      "info": "03-Oct 17:30 | United Rugby Championship | Rugby | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][24/09 03:00][/COLOR] [COLOR gold]Vancouver FC vs Inter Toronto[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@83@@US",
+      "title": "[COLOR cyan][03/10 17:30][/COLOR] [COLOR gold]Sharks vs Leinster[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "24-Sep 03:00 | Canada Canadian Premier League | Football | Lang: US"
+      "info": "03-Oct 17:30 | United Rugby Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/10 19:45][/COLOR] [COLOR gold]Munster vs Bulls[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Oct 19:45 | United Rugby Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/10 19:45][/COLOR] [COLOR gold]Munster vs Bulls[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Oct 19:45 | United Rugby Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][03/10 19:45][/COLOR] [COLOR gold]Munster vs Bulls[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Oct 19:45 | United Rugby Championship | Rugby | Lang: GB"
     }
   ]
 }
