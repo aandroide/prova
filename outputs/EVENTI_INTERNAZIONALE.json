@@ -1,14 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-04 12:22:36",
+  "last_update": "2026-10-04 17:34:49",
   "items": [
-    {
-      "title": "[COLOR cyan][04/10 12:00][/COLOR] [COLOR gold]FK Minyor Pernik vs Beroe[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 12:00 | Bulgaria Bulgarian Cup | Football | Lang: BG"
-    },
     {
       "title": "[COLOR cyan][04/10 19:00][/COLOR] [COLOR gold]World Grand Prix 2026[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR]",
       "myresolve": "sansat@@18@@DE",
@@ -400,6 +393,118 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Oct 19:45 | Euroleague | Basketball | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][07/10 23:30][/COLOR] [COLOR gold]Internacional vs Corinthians[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Oct 23:30 | Brazil Brasileirao | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][08/10 17:00][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Olimpia Milano[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 17:00 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/10 17:00][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Olimpia Milano[/COLOR] - [COLOR lime]Nova Sports Start[/COLOR] [COLOR orange][gr][/COLOR]",
+      "myresolve": "sansat@@23@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 17:00 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/10 17:00][/COLOR] [COLOR gold]Dubai vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 17:00 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/10 17:00][/COLOR] [COLOR gold]Dubai vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Nova Sports 4[/COLOR] [COLOR orange][gr][/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 17:00 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/10 17:00][/COLOR] [COLOR gold]Dubai vs Crvena Zvezda Meridianbet[/COLOR] - [COLOR lime]Oneplay Sport 1[/COLOR] [COLOR orange][cz][/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 17:00 | Euroleague | Basketball | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Virtus Bologna[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:00 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:00][/COLOR] [COLOR gold]FC Bayern Munchen vs Virtus Bologna[/COLOR] - [COLOR lime]Nova Sports 5[/COLOR] [COLOR orange][gr][/COLOR]",
+      "myresolve": "sansat@@27@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:00 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:15][/COLOR] [COLOR gold]Panathinaikos vs Fenerbahce[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:15 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:15][/COLOR] [COLOR gold]Panathinaikos vs Fenerbahce[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR]",
+      "myresolve": "sansat@@25@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:15 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:30][/COLOR] [COLOR gold]Valencia vs Hapoel Tel vs Aviv[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:30][/COLOR] [COLOR gold]Valencia vs Hapoel Tel vs Aviv[/COLOR] - [COLOR lime]Nova Sports 6[/COLOR] [COLOR orange][gr][/COLOR]",
+      "myresolve": "sansat@@26@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:30 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:30][/COLOR] [COLOR gold]Valencia vs Hapoel Tel vs Aviv[/COLOR] - [COLOR lime]Oneplay Sport 1[/COLOR] [COLOR orange][cz][/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:30 | Euroleague | Basketball | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:45][/COLOR] [COLOR gold]Real Madrid vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:45 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:45][/COLOR] [COLOR gold]Real Madrid vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Nova Sports 4[/COLOR] [COLOR orange][gr][/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:45 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/10 19:45][/COLOR] [COLOR gold]Real Madrid vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Vamos[/COLOR] [COLOR orange][es][/COLOR]",
+      "myresolve": "sansat@@29@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 19:45 | Euroleague | Basketball | Lang: ES"
     }
   ]
 }

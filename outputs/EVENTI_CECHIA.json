@@ -1,21 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-04 12:22:36",
+  "last_update": "2026-10-04 17:34:49",
   "items": [
-    {
-      "title": "[COLOR cyan][04/10 15:00][/COLOR] [COLOR gold]Karlovy Vary vs Plzen[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR]",
-      "myresolve": "sansat@@41@@CZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 15:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
-    },
-    {
-      "title": "[COLOR cyan][04/10 15:00][/COLOR] [COLOR gold]Mlada vs Boleslav vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR]",
-      "myresolve": "sansat@@42@@CZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 15:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
-    },
     {
       "title": "[COLOR cyan][04/10 16:00][/COLOR] [COLOR gold]Mountfield vs Vitkovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR]",
       "myresolve": "sansat@@43@@CZ",
@@ -43,6 +29,20 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "04-Oct 16:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][08/10 16:30][/COLOR] [COLOR gold]Plzen vs Ceske Budejovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 16:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][08/10 17:30][/COLOR] [COLOR gold]Sparta Praha vs Kometa Brno[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Oct 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
     }
   ]
 }
