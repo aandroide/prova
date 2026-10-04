@@ -1,48 +1,20 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-03 17:53:45",
+  "last_update": "2026-10-04 21:25:49",
   "items": [
     {
-      "title": "[COLOR cyan][03/10 17:30][/COLOR] [COLOR gold]Sharks vs Leinster[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
+      "title": "[COLOR cyan][09/10 20:00][/COLOR] [COLOR gold]West Ham United vs Queens Park Rangers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR]",
+      "myresolve": "sansat@@5@@GB",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 17:30 | United Rugby Championship | Rugby | Lang: GB"
+      "info": "09-Oct 20:00 | England Championship | Football | Lang: GB"
     },
     {
-      "title": "[COLOR cyan][03/10 17:30][/COLOR] [COLOR gold]Sharks vs Leinster[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
+      "title": "[COLOR cyan][09/10 20:00][/COLOR] [COLOR gold]West Ham United vs Queens Park Rangers[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR]",
+      "myresolve": "sansat@@8@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 17:30 | United Rugby Championship | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/10 17:30][/COLOR] [COLOR gold]Sharks vs Leinster[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 17:30 | United Rugby Championship | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/10 19:45][/COLOR] [COLOR gold]Munster vs Bulls[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 19:45 | United Rugby Championship | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/10 19:45][/COLOR] [COLOR gold]Munster vs Bulls[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 19:45 | United Rugby Championship | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/10 19:45][/COLOR] [COLOR gold]Munster vs Bulls[/COLOR] - [COLOR lime]Premier Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 19:45 | United Rugby Championship | Rugby | Lang: GB"
+      "info": "09-Oct 20:00 | England Championship | Football | Lang: US"
     }
   ]
 }

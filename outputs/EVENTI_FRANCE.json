@@ -1,27 +1,20 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-03 17:53:45",
+  "last_update": "2026-10-04 21:25:49",
   "items": [
     {
-      "title": "[COLOR cyan][03/10 20:00][/COLOR] [COLOR gold]Castres vs Toulouse[/COLOR] - [COLOR lime]Premier Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 20:00 | France TOP 14 | Rugby | Lang: GB"
+      "title": "[COLOR cyan][09/10 19:45][/COLOR] [COLOR gold]Lens vs Olympique Lyonnais[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "09-Oct 19:45 | France Ligue 1 | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][03/10 20:00][/COLOR] [COLOR gold]Castres vs Toulouse[/COLOR] - [COLOR lime]Premier Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
+      "title": "[COLOR cyan][09/10 19:45][/COLOR] [COLOR gold]Lens vs Olympique Lyonnais[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR]",
+      "myresolve": "sansat@@50@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 20:00 | France TOP 14 | Rugby | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][03/10 20:00][/COLOR] [COLOR gold]Castres vs Toulouse[/COLOR] - [COLOR lime]Premier Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "03-Oct 20:00 | France TOP 14 | Rugby | Lang: GB"
+      "info": "09-Oct 19:45 | France Ligue 1 | Football | Lang: FR"
     }
   ]
 }
