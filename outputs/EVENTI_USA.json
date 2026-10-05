@@ -1,42 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-04 21:25:49",
+  "last_update": "2026-10-05 00:55:55",
   "items": [
-    {
-      "title": "[COLOR cyan][04/10 21:00][/COLOR] [COLOR gold]Milwaukee Brewers vs San Diego Padres[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "04-Oct 21:00 | MLB | Baseball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/10 21:05][/COLOR] [COLOR gold]Minnesota Vikings vs Miami Dolphins[/COLOR] - [COLOR lime]NFL Game Pass[/COLOR] [COLOR orange][us][/COLOR]",
-      "myresolve": "sansat@@32@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 21:05 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/10 21:25][/COLOR] [COLOR gold]Las Vegas Raiders vs Kansas City Chiefs[/COLOR] - [COLOR lime]NFL Game Pass[/COLOR] [COLOR orange][us][/COLOR]",
-      "myresolve": "sansat@@33@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 21:25 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/10 21:25][/COLOR] [COLOR gold]Seattle Seahawks vs Los Angeles Chargers[/COLOR] - [COLOR lime]NFL Game Pass[/COLOR] [COLOR orange][us][/COLOR]",
-      "myresolve": "sansat@@34@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 21:25 | NFL | American Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][04/10 21:25][/COLOR] [COLOR gold]San Francisco 49ers vs Denver Broncos[/COLOR] - [COLOR lime]NFL Game Pass[/COLOR] [COLOR orange][us][/COLOR]",
-      "myresolve": "sansat@@35@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Oct 21:25 | NFL | American Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][04/10 23:00][/COLOR] [COLOR gold]New York Rangers vs Utah Mammoth[/COLOR] - [COLOR lime]TVA Sports[/COLOR] [COLOR orange][ca][/COLOR]",
       "myresolve": "sansat@@3@@CA",
