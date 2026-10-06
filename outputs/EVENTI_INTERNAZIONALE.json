@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-06 10:18:33",
+  "last_update": "2026-10-06 17:11:28",
   "items": [
-    {
-      "title": "[COLOR cyan][06/10 14:45][/COLOR] [COLOR gold]Azerbaijan U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CBC Sport[/COLOR] [COLOR orange][az][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@57@@AZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 14:45 | Europe Euro U-21 Qualifying | Football | Lang: AZ"
-    },
-    {
-      "title": "[COLOR cyan][06/10 14:45][/COLOR] [COLOR gold]Azerbaijan U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CBC Sport[/COLOR] [COLOR orange][az][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@57@@AZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 14:45 | Europe Euro U-21 Qualifying | Football | Lang: AZ"
-    },
-    {
-      "title": "[COLOR cyan][06/10 14:45][/COLOR] [COLOR gold]Azerbaijan U21 vs Gibraltar U21[/COLOR] - [COLOR lime]CBC Sport[/COLOR] [COLOR orange][az][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@57@@AZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 14:45 | Europe Euro U-21 Qualifying | Football | Lang: AZ"
-    },
-    {
-      "title": "[COLOR cyan][06/10 15:00][/COLOR] [COLOR gold]India vs Uruguay[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "06-Oct 15:00 | World Friendly | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][06/10 15:00][/COLOR] [COLOR gold]India vs Uruguay[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "06-Oct 15:00 | World Friendly | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][06/10 15:00][/COLOR] [COLOR gold]India vs Uruguay[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "06-Oct 15:00 | World Friendly | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][06/10 15:00][/COLOR] [COLOR gold]Moldova U21 vs Kazakhstan U21[/COLOR] - [COLOR lime]Qazsport[/COLOR] [COLOR orange][kz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@56@@KZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 15:00 | Europe Euro U-21 Qualifying | Football | Lang: KZ"
-    },
-    {
-      "title": "[COLOR cyan][06/10 15:00][/COLOR] [COLOR gold]Moldova U21 vs Kazakhstan U21[/COLOR] - [COLOR lime]Qazsport[/COLOR] [COLOR orange][kz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@56@@KZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 15:00 | Europe Euro U-21 Qualifying | Football | Lang: KZ"
-    },
-    {
-      "title": "[COLOR cyan][06/10 15:00][/COLOR] [COLOR gold]Moldova U21 vs Kazakhstan U21[/COLOR] - [COLOR lime]Qazsport[/COLOR] [COLOR orange][kz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@56@@KZ",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 15:00 | Europe Euro U-21 Qualifying | Football | Lang: KZ"
-    },
     {
       "title": "[COLOR cyan][06/10 16:30][/COLOR] [COLOR gold]Plzen vs Skellefteå AIK[/COLOR] - [COLOR lime]Viaplay Sport[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@69@@SE",
@@ -337,27 +274,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Oct 18:00 | Champions Hockey League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][06/10 18:00][/COLOR] [COLOR gold]Kosovo U21 vs Finland U21[/COLOR] - [COLOR lime]YLE Areena[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@79@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 18:00 | Europe Euro U-21 Qualifying | Football | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][06/10 18:00][/COLOR] [COLOR gold]Kosovo U21 vs Finland U21[/COLOR] - [COLOR lime]YLE Areena[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@79@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 18:00 | Europe Euro U-21 Qualifying | Football | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][06/10 18:00][/COLOR] [COLOR gold]Kosovo U21 vs Finland U21[/COLOR] - [COLOR lime]YLE Areena[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@79@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "06-Oct 18:00 | Europe Euro U-21 Qualifying | Football | Lang: FI"
     },
     {
       "title": "[COLOR cyan][06/10 18:30][/COLOR] [COLOR gold]Fraport Skyliners vs Siauliai[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
