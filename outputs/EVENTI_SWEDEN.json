@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-06 17:11:28",
+  "last_update": "2026-10-06 21:37:53",
   "items": [
     {
       "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Leksands IF vs Nybro Vikings IF[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -66,27 +66,6 @@
       "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Modo Hockey vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@64@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Modo Hockey vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@64@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Modo Hockey vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@64@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
-    },
-    {
       "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Vimmerby HC vs Kalmar HC[/COLOR] - [COLOR lime]TV4 Sport Live 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@64@@SE",
       "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/013pZkYwWwVUvuHrzPJ45U/c518446ab64f2926bd54441ded66de66/tv4_sport_live_4.png?fit=scale&w=256&fm=webp&q=75&h=256",
@@ -124,6 +103,27 @@
     {
       "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]IK Oskarshamn vs AIK[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Modo Hockey vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Modo Hockey vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/10 18:00][/COLOR] [COLOR gold]Modo Hockey vs Sodertalje SK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Oct 18:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"

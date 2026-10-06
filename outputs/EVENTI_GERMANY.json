@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-06 17:11:28",
+  "last_update": "2026-10-06 21:37:53",
   "items": [
     {
       "title": "[COLOR cyan][08/10 18:30][/COLOR] [COLOR gold]Lowen Frankfurt vs Krefeld Pinguine[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -276,22 +276,22 @@
       "info": "09-Oct 19:30 | Germany Bundesliga | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Osnabruck vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@DE",
+      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Osnabruck vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@DE",
+      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Osnabruck vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@5@@DE",
+      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
@@ -334,6 +334,27 @@
     {
       "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Darmstadt 98 vs Energie Cottbus[/COLOR] - [COLOR lime]Sky Sport Bundesliga 4[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Osnabruck vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Osnabruck vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][10/10 12:00][/COLOR] [COLOR gold]Osnabruck vs Dynamo Dresden[/COLOR] - [COLOR lime]Sky Sport Bundesliga 5[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@15@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Oct 12:00 | Germany Bundesliga 2 | Football | Lang: DE"
