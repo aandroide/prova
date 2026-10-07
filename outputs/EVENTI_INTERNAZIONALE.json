@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-06 21:37:53",
+  "last_update": "2026-10-07 01:32:55",
   "items": [
-    {
-      "title": "[COLOR cyan][06/10 22:00][/COLOR] [COLOR gold]Saint Vincent and the Grenadines vs Sint Maarten[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "06-Oct 22:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/10 22:00][/COLOR] [COLOR gold]Saint Vincent and the Grenadines vs Sint Maarten[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "06-Oct 22:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][06/10 22:00][/COLOR] [COLOR gold]Saint Vincent and the Grenadines vs Sint Maarten[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "06-Oct 22:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Argentina vs Benin[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "07-Oct 00:00 | World Friendly | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Argentina vs Benin[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "07-Oct 00:00 | World Friendly | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Argentina vs Benin[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@21@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "07-Oct 00:00 | World Friendly | Football | Lang: PT"
-    },
     {
       "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Dana White's Contender Series[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@35@@US",
@@ -64,27 +22,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Oct 00:00 | Fighting | MMA | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Antigua and Barbuda vs Aruba[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 00:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Antigua and Barbuda vs Aruba[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 00:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/10 00:00][/COLOR] [COLOR gold]Antigua and Barbuda vs Aruba[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 00:00 | North America CONCACAF Nations League | Football | Lang: US"
     },
     {
       "title": "[COLOR cyan][07/10 00:45][/COLOR] [COLOR gold]Colombia vs Peru[/COLOR] - [COLOR lime]Movistar Liga de Campeones 2[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
