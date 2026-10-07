@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-07 08:39:43",
+  "last_update": "2026-10-07 16:29:08",
   "items": [
-    {
-      "title": "[COLOR cyan][07/10 10:00][/COLOR] [COLOR gold]Jukurit vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@72@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 10:00 | Finland Liiga | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][07/10 10:00][/COLOR] [COLOR gold]Jukurit vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@72@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 10:00 | Finland Liiga | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][07/10 10:00][/COLOR] [COLOR gold]Jukurit vs Assat[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@72@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 10:00 | Finland Liiga | Hockey | Lang: FI"
-    },
     {
       "title": "[COLOR cyan][07/10 16:30][/COLOR] [COLOR gold]Sport vs Ilves[/COLOR] - [COLOR lime]MTV Urheilu 2[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@72@@FI",
@@ -484,6 +463,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "10-Oct 16:00 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]Inter Turku vs KuPS[/COLOR] - [COLOR lime]Ruutu+[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 13:00 | Finland Veikkausliiga | Football | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]Inter Turku vs KuPS[/COLOR] - [COLOR lime]Ruutu+[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 13:00 | Finland Veikkausliiga | Football | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]Inter Turku vs KuPS[/COLOR] - [COLOR lime]Ruutu+[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@80@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 13:00 | Finland Veikkausliiga | Football | Lang: FI"
     }
   ]
 }
