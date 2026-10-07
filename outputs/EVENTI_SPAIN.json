@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-07 16:29:08",
+  "last_update": "2026-10-07 21:58:53",
   "items": [
     {
       "title": "[COLOR cyan][09/10 20:00][/COLOR] [COLOR gold]Malaga vs Espanyol[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -234,6 +234,27 @@
       "info": "10-Oct 20:00 | Spain Segunda Division | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]FC Andorra vs CD Castellon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 13:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]FC Andorra vs CD Castellon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 13:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]FC Andorra vs CD Castellon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 13:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
       "title": "[COLOR cyan][11/10 13:00][/COLOR] [COLOR gold]Elche vs Celta de Vigo[/COLOR] - [COLOR lime]M+ LALIGA TV[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@86@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -255,25 +276,67 @@
       "info": "11-Oct 13:00 | Spain La Liga | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Real Sociedad vs Deportivo La Coruña[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Almeria vs Leganes[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 15:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Almeria vs Leganes[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 15:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Almeria vs Leganes[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 15:15 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Real Sociedad vs Deportivo La Coruna[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@86@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Oct 15:15 | Spain La Liga | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Real Sociedad vs Deportivo La Coruña[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Real Sociedad vs Deportivo La Coruna[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@86@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Oct 15:15 | Spain La Liga | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Real Sociedad vs Deportivo La Coruña[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][11/10 15:15][/COLOR] [COLOR gold]Real Sociedad vs Deportivo La Coruna[/COLOR] - [COLOR lime]DAZN LaLiga[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@86@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Oct 15:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 17:30][/COLOR] [COLOR gold]Mallorca vs Las Palmas[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 17:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 17:30][/COLOR] [COLOR gold]Mallorca vs Las Palmas[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 17:30 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 17:30][/COLOR] [COLOR gold]Mallorca vs Las Palmas[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 17:30 | Spain Segunda Division | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][11/10 17:30][/COLOR] [COLOR gold]Real Betis vs Osasuna[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -295,6 +358,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Oct 17:30 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 20:00][/COLOR] [COLOR gold]Cadiz vs Sporting Gijon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 20:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 20:00][/COLOR] [COLOR gold]Cadiz vs Sporting Gijon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 20:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][11/10 20:00][/COLOR] [COLOR gold]Cadiz vs Sporting Gijon[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "11-Oct 20:00 | Spain Segunda Division | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][11/10 20:00][/COLOR] [COLOR gold]Racing Santander vs Valencia[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
