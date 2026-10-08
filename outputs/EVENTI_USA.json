@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-07 21:58:53",
+  "last_update": "2026-10-08 01:56:36",
   "items": [
-    {
-      "title": "[COLOR cyan][07/10 21:00][/COLOR] [COLOR gold]Chicago White Sox vs Cleveland Guardians[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 21:00 | MLB | Baseball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/10 21:00][/COLOR] [COLOR gold]Chicago White Sox vs Cleveland Guardians[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 21:00 | MLB | Baseball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/10 21:00][/COLOR] [COLOR gold]Chicago White Sox vs Cleveland Guardians[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Oct 21:00 | MLB | Baseball | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/10 23:00][/COLOR] [COLOR gold]Atlanta Braves vs Los Angeles Dodgers[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "07-Oct 23:00 | MLB | Baseball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/10 23:00][/COLOR] [COLOR gold]Atlanta Braves vs Los Angeles Dodgers[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "07-Oct 23:00 | MLB | Baseball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/10 23:00][/COLOR] [COLOR gold]Atlanta Braves vs Los Angeles Dodgers[/COLOR] - [COLOR lime]Fox Sports 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fox_Sports_1_logo.svg/512px-Fox_Sports_1_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "07-Oct 23:00 | MLB | Baseball | Lang: US"
-    },
     {
       "title": "[COLOR cyan][08/10 00:00][/COLOR] [COLOR gold]Indiana Pacers vs Minnesota Timberwolves[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@31@@US",
@@ -106,27 +64,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Oct 00:30 | NHL | Hockey | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][08/10 00:30][/COLOR] [COLOR gold]Atlanta Dream vs New York Liberty[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "08-Oct 00:30 | WNBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][08/10 00:30][/COLOR] [COLOR gold]Atlanta Dream vs New York Liberty[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "08-Oct 00:30 | WNBA | Basketball | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][08/10 00:30][/COLOR] [COLOR gold]Atlanta Dream vs New York Liberty[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@10@@US",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "08-Oct 00:30 | WNBA | Basketball | Lang: US"
     },
     {
       "title": "[COLOR cyan][08/10 01:00][/COLOR] [COLOR gold]New York Yankees vs Tampa Bay Rays[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
