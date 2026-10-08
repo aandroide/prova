@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-08 16:29:00",
+  "last_update": "2026-10-08 22:04:35",
   "items": [
     {
       "title": "[COLOR cyan][09/10 18:00][/COLOR] [COLOR gold]Brann vs Viking[/COLOR] - [COLOR lime]TV 2 Play[/COLOR] [COLOR orange][no][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -22,6 +22,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "09-Oct 18:00 | Norway Eliteserien | Football | Lang: NO"
+    },
+    {
+      "title": "[COLOR cyan][12/10 18:00][/COLOR] [COLOR gold]KFUM vs Valerenga[/COLOR] - [COLOR lime]TV 2 Play[/COLOR] [COLOR orange][no][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@67@@NO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Oct 18:00 | Norway Eliteserien | Football | Lang: NO"
+    },
+    {
+      "title": "[COLOR cyan][12/10 18:00][/COLOR] [COLOR gold]KFUM vs Valerenga[/COLOR] - [COLOR lime]TV 2 Play[/COLOR] [COLOR orange][no][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@67@@NO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Oct 18:00 | Norway Eliteserien | Football | Lang: NO"
+    },
+    {
+      "title": "[COLOR cyan][12/10 18:00][/COLOR] [COLOR gold]KFUM vs Valerenga[/COLOR] - [COLOR lime]TV 2 Play[/COLOR] [COLOR orange][no][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@67@@NO",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Oct 18:00 | Norway Eliteserien | Football | Lang: NO"
     }
   ]
 }
