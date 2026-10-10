@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-10 18:36:37",
+  "last_update": "2026-10-10 22:32:40",
   "items": [
-    {
-      "title": "[COLOR cyan][10/10 18:30][/COLOR] [COLOR gold]Austria Wien vs Sturm Graz[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Oct 18:30 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][10/10 18:30][/COLOR] [COLOR gold]Austria Wien vs Sturm Graz[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Oct 18:30 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][10/10 18:30][/COLOR] [COLOR gold]Austria Wien vs Sturm Graz[/COLOR] - [COLOR lime]Sky Sport Austria 1[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@100@@AT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Oct 18:30 | Austria Bundesliga | Football | Lang: AT"
-    },
-    {
-      "title": "[COLOR cyan][10/10 19:30][/COLOR] [COLOR gold]Nurnberg vs Wolfsburg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Oct 19:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/10 19:30][/COLOR] [COLOR gold]Nurnberg vs Wolfsburg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Oct 19:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][10/10 19:30][/COLOR] [COLOR gold]Nurnberg vs Wolfsburg[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "10-Oct 19:30 | Germany Bundesliga 2 | Football | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][11/10 12:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@11@@DE",
@@ -591,21 +549,21 @@
       "info": "14-Oct 18:00 | Germany 3. Liga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Viktoria Köln vs Sonnenhof Großaspach[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Viktoria Koln vs Sonnenhof Großaspach[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@97@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:00 | Germany 3. Liga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Viktoria Köln vs Sonnenhof Großaspach[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Viktoria Koln vs Sonnenhof Großaspach[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@97@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:00 | Germany 3. Liga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Viktoria Köln vs Sonnenhof Großaspach[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Viktoria Koln vs Sonnenhof Großaspach[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@97@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -633,21 +591,21 @@
       "info": "14-Oct 18:00 | Germany 3. Liga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Preußen Münster vs Fortuna Düsseldorf[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Preußen Munster vs Fortuna Dusseldorf[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@99@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:00 | Germany 3. Liga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Preußen Münster vs Fortuna Düsseldorf[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Preußen Munster vs Fortuna Dusseldorf[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@99@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:00 | Germany 3. Liga | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Preußen Münster vs Fortuna Düsseldorf[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Preußen Munster vs Fortuna Dusseldorf[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@99@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
