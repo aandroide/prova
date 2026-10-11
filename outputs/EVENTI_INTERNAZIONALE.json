@@ -1,91 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-11 01:54:07",
+  "last_update": "2026-10-11 08:51:53",
   "items": [
-    {
-      "title": "[COLOR cyan][11/10 00:00][/COLOR] [COLOR gold]Winnipeg Blue Bombers vs Calgary Stampeders[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@1@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "11-Oct 00:00 | CFL | Canadian Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][11/10 00:00][/COLOR] [COLOR gold]Winnipeg Blue Bombers vs Calgary Stampeders[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@1@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "11-Oct 00:00 | CFL | Canadian Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][11/10 00:00][/COLOR] [COLOR gold]Winnipeg Blue Bombers vs Calgary Stampeders[/COLOR] - [COLOR lime]TSN1[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@1@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "11-Oct 00:00 | CFL | Canadian Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][11/10 01:00][/COLOR] [COLOR gold]Brendan Allen vs Christian Leroy Duncan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 01:00 | UFC | MMA | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/10 01:00][/COLOR] [COLOR gold]Brendan Allen vs Christian Leroy Duncan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 01:00 | UFC | MMA | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/10 01:00][/COLOR] [COLOR gold]Brendan Allen vs Christian Leroy Duncan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@85@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 01:00 | UFC | MMA | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/10 01:30][/COLOR] [COLOR gold]River Plate vs Estudiantes Rio Cuarto[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "11-Oct 01:30 | Argentina Primera Division | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][11/10 01:30][/COLOR] [COLOR gold]River Plate vs Estudiantes Rio Cuarto[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "11-Oct 01:30 | Argentina Primera Division | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][11/10 01:30][/COLOR] [COLOR gold]River Plate vs Estudiantes Rio Cuarto[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@22@@PT",
-      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "11-Oct 01:30 | Argentina Primera Division | Football | Lang: PT"
-    },
-    {
-      "title": "[COLOR cyan][11/10 02:00][/COLOR] [COLOR gold]Atlas vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/10 02:00][/COLOR] [COLOR gold]Atlas vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/10 02:00][/COLOR] [COLOR gold]Atlas vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][11/10 03:40][/COLOR] [COLOR gold]Grand Prix of Indonesia[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -127,27 +43,6 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "11-Oct 03:40 | MotoGP | Motorsport | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/10 04:10][/COLOR] [COLOR gold]America vs Monterrey[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 04:10 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/10 04:10][/COLOR] [COLOR gold]America vs Monterrey[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 04:10 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][11/10 04:10][/COLOR] [COLOR gold]America vs Monterrey[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Oct 04:10 | Mexico Liga MX | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][11/10 11:15][/COLOR] [COLOR gold]Utrecht vs Willem II[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1410,21 +1305,21 @@
       "info": "14-Oct 18:00 | Champions Hockey League | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]BIK Karlskoga vs Ostersunds IK[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Herning Blue Fox vs Fribourg[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@68@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:00 | Champions Hockey League | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]BIK Karlskoga vs Ostersunds IK[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Herning Blue Fox vs Fribourg[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@68@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:00 | Champions Hockey League | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]BIK Karlskoga vs Ostersunds IK[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][14/10 18:00][/COLOR] [COLOR gold]Herning Blue Fox vs Fribourg[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@68@@SE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -1471,6 +1366,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 18:30 | Champions Hockey League | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][14/10 18:45][/COLOR] [COLOR gold]Davos vs Liberec[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@70@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Oct 18:45 | Champions Hockey League | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][14/10 18:45][/COLOR] [COLOR gold]Davos vs Liberec[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@70@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Oct 18:45 | Champions Hockey League | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][14/10 18:45][/COLOR] [COLOR gold]Davos vs Liberec[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@70@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Oct 18:45 | Champions Hockey League | Hockey | Lang: FI"
     },
     {
       "title": "[COLOR cyan][14/10 18:45][/COLOR] [COLOR gold]Lausanne vs Ajoie[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
