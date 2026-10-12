@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-12 07:21:24",
+  "last_update": "2026-10-12 17:54:57",
   "items": [
     {
       "title": "[COLOR cyan][12/10 17:30][/COLOR] [COLOR gold]Atalanta vs Venezia[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -127,6 +127,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "12-Oct 19:45 | Italy Serie A | Football | Lang: DK"
+    },
+    {
+      "title": "[COLOR cyan][16/10 19:45][/COLOR] [COLOR gold]Frosinone vs Sassuolo[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "16-Oct 19:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][16/10 19:45][/COLOR] [COLOR gold]Frosinone vs Sassuolo[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "16-Oct 19:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][16/10 19:45][/COLOR] [COLOR gold]Frosinone vs Sassuolo[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "16-Oct 19:45 | Italy Serie A | Football | Lang: IT"
     }
   ]
 }

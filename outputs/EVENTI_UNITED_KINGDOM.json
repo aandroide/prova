@@ -1,7 +1,28 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-12 07:21:24",
+  "last_update": "2026-10-12 17:54:57",
   "items": [
+    {
+      "title": "[COLOR cyan][12/10 20:00][/COLOR] [COLOR gold]Coventry City vs Newcastle United[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Oct 20:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][12/10 20:00][/COLOR] [COLOR gold]Coventry City vs Newcastle United[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Oct 20:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][12/10 20:00][/COLOR] [COLOR gold]Coventry City vs Newcastle United[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "12-Oct 20:00 | England Premier League | Football | Lang: US"
+    },
     {
       "title": "[COLOR cyan][13/10 19:45][/COLOR] [COLOR gold]Bristol City vs Blackburn Rovers[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@31@@GB",
@@ -253,6 +274,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "14-Oct 20:00 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/10 20:00][/COLOR] [COLOR gold]Burnley vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Oct 20:00 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/10 20:00][/COLOR] [COLOR gold]Burnley vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Oct 20:00 | England Championship | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][16/10 20:00][/COLOR] [COLOR gold]Burnley vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@5@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Oct 20:00 | England Championship | Football | Lang: GB"
     }
   ]
 }
