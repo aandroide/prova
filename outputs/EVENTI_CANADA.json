@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-13 15:59:32",
+  "last_update": "2026-10-13 21:14:52",
   "items": [
     {
       "title": "[COLOR cyan][15/10 00:30][/COLOR] [COLOR gold]CF Montreal vs Atlanta United[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -316,6 +316,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Oct 03:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][17/10 19:30][/COLOR] [COLOR gold]Philadelphia Union vs Charlotte[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Oct 19:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][17/10 19:30][/COLOR] [COLOR gold]Philadelphia Union vs Charlotte[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Oct 19:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][17/10 19:30][/COLOR] [COLOR gold]Philadelphia Union vs Charlotte[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "17-Oct 19:30 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][17/10 21:30][/COLOR] [COLOR gold]Minnesota United vs St. Louis City[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "17-Oct 21:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][17/10 21:30][/COLOR] [COLOR gold]Minnesota United vs St. Louis City[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "17-Oct 21:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][17/10 21:30][/COLOR] [COLOR gold]Minnesota United vs St. Louis City[/COLOR] - [COLOR lime]TSN5[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "17-Oct 21:30 | USA/Canada Major League Soccer | Football | Lang: CA"
     }
   ]
 }
