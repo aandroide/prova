@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-15 15:01:41",
+  "last_update": "2026-10-15 19:08:14",
   "items": [
     {
       "title": "[COLOR cyan][17/10 19:30][/COLOR] [COLOR gold]Philadelphia Union vs Charlotte[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -295,6 +295,27 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "info": "18-Oct 03:30 | USA/Canada Major League Soccer | Football | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][18/10 22:00][/COLOR] [COLOR gold]Cincinnati vs Columbus Crew[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Oct 22:00 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/10 22:00][/COLOR] [COLOR gold]Cincinnati vs Columbus Crew[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Oct 22:00 | USA/Canada Major League Soccer | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/10 22:00][/COLOR] [COLOR gold]Cincinnati vs Columbus Crew[/COLOR] - [COLOR lime]Apple TV[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Oct 22:00 | USA/Canada Major League Soccer | Football | Lang: US"
     }
   ]
 }

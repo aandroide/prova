@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-15 15:01:41",
+  "last_update": "2026-10-15 19:08:14",
   "items": [
     {
       "title": "[COLOR cyan][16/10 19:45][/COLOR] [COLOR gold]Frosinone vs Sassuolo[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -274,6 +274,48 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "18-Oct 19:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][19/10 17:30][/COLOR] [COLOR gold]Monza vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "19-Oct 17:30 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][19/10 17:30][/COLOR] [COLOR gold]Monza vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "19-Oct 17:30 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][19/10 17:30][/COLOR] [COLOR gold]Monza vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "19-Oct 17:30 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][19/10 19:45][/COLOR] [COLOR gold]Parma vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Oct 19:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][19/10 19:45][/COLOR] [COLOR gold]Parma vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Oct 19:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][19/10 19:45][/COLOR] [COLOR gold]Parma vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Oct 19:45 | Italy Serie A | Football | Lang: IT"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-15 15:01:41",
+  "last_update": "2026-10-15 19:08:14",
   "items": [
     {
       "title": "[COLOR cyan][15/10 18:00][/COLOR] [COLOR gold]Farjestad BK vs Lulea HF[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -610,6 +610,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "18-Oct 15:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][19/10 18:00][/COLOR] [COLOR gold]Degerfors vs Kalmar[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Oct 18:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][19/10 18:00][/COLOR] [COLOR gold]Degerfors vs Kalmar[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Oct 18:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][19/10 18:00][/COLOR] [COLOR gold]Degerfors vs Kalmar[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Oct 18:00 | Sweden Allsvenskan | Football | Lang: SE"
     }
   ]
 }
