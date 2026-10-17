@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-17 04:27:03",
+  "last_update": "2026-10-17 09:21:55",
   "items": [
-    {
-      "title": "[COLOR cyan][17/10 02:30][/COLOR] [COLOR gold]Edmonton Elks vs Winnipeg Blue Bombers[/COLOR] - [COLOR lime]TSN3[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@84@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "17-Oct 02:30 | CFL | Canadian Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][17/10 02:30][/COLOR] [COLOR gold]Edmonton Elks vs Winnipeg Blue Bombers[/COLOR] - [COLOR lime]TSN3[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@84@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "17-Oct 02:30 | CFL | Canadian Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][17/10 02:30][/COLOR] [COLOR gold]Edmonton Elks vs Winnipeg Blue Bombers[/COLOR] - [COLOR lime]TSN3[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@84@@CA",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
-      "info": "17-Oct 02:30 | CFL | Canadian Football | Lang: CA"
-    },
-    {
-      "title": "[COLOR cyan][17/10 04:00][/COLOR] [COLOR gold]Atlante vs Pumas UNAM[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Oct 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][17/10 04:00][/COLOR] [COLOR gold]Atlante vs Pumas UNAM[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Oct 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][17/10 04:00][/COLOR] [COLOR gold]Atlante vs Pumas UNAM[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Oct 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][17/10 04:00][/COLOR] [COLOR gold]Tijuana vs Puebla[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Oct 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][17/10 04:00][/COLOR] [COLOR gold]Tijuana vs Puebla[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Oct 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][17/10 04:00][/COLOR] [COLOR gold]Tijuana vs Puebla[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "17-Oct 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][17/10 10:00][/COLOR] [COLOR gold]Vihren Sandanski vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@48@@BG",
@@ -339,21 +276,21 @@
       "info": "17-Oct 19:00 | Fighting | Boxing | Lang: US"
     },
     {
-      "title": "[COLOR cyan][17/10 19:00][/COLOR] [COLOR gold]ADO Den Haag vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][17/10 19:00][/COLOR] [COLOR gold]Telstar vs Feyenoord[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@88@@NL",
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "17-Oct 19:00 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
-      "title": "[COLOR cyan][17/10 19:00][/COLOR] [COLOR gold]ADO Den Haag vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][17/10 19:00][/COLOR] [COLOR gold]Telstar vs Feyenoord[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@88@@NL",
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "17-Oct 19:00 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
-      "title": "[COLOR cyan][17/10 19:00][/COLOR] [COLOR gold]ADO Den Haag vs PSV[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][17/10 19:00][/COLOR] [COLOR gold]Telstar vs Feyenoord[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@88@@NL",
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
