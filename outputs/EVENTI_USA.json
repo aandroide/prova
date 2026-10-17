@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-17 13:43:28",
+  "last_update": "2026-10-17 17:10:36",
   "items": [
     {
       "title": "[COLOR cyan][17/10 18:00][/COLOR] [COLOR gold]Washington Capitals vs New Jersey Devils[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -967,6 +967,363 @@
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
       "info": "20-Oct 20:00 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Knicks vs Philadelphia 76ers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Knicks vs Philadelphia 76ers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Knicks vs Philadelphia 76ers[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Knicks vs Philadelphia 76ers[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "21-Oct 00:00 | NBA | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Knicks vs Philadelphia 76ers[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "21-Oct 00:00 | NBA | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Knicks vs Philadelphia 76ers[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "21-Oct 00:00 | NBA | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Montreal Canadiens vs San Jose Sharks[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Montreal Canadiens vs San Jose Sharks[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Montreal Canadiens vs San Jose Sharks[/COLOR] - [COLOR lime]TSN2[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@CA",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/it/thumb/8/82/TSN_logo.svg/512px-TSN_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New Jersey Devils vs Colorado Avalanche[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New Jersey Devils vs Colorado Avalanche[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New Jersey Devils vs Colorado Avalanche[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@3@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Islanders vs Anaheim Ducks[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Islanders vs Anaheim Ducks[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]New York Islanders vs Anaheim Ducks[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@4@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Washington Capitals vs Los Angeles Kings[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@5@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Washington Capitals vs Los Angeles Kings[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@5@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Washington Capitals vs Los Angeles Kings[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@5@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Columbus Blue Jackets vs Toronto Maple Leafs[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Columbus Blue Jackets vs Toronto Maple Leafs[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 00:00][/COLOR] [COLOR gold]Columbus Blue Jackets vs Toronto Maple Leafs[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@6@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 00:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]St. Louis Blues vs Winnipeg Jets[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]St. Louis Blues vs Winnipeg Jets[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]St. Louis Blues vs Winnipeg Jets[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@8@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Dallas Stars vs Boston Bruins[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Dallas Stars vs Boston Bruins[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Dallas Stars vs Boston Bruins[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Dallas Stars vs Boston Bruins[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Dallas Stars vs Boston Bruins[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Dallas Stars vs Boston Bruins[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | NHL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Tampa Bay Rays vs Cleveland Guardians[/COLOR] - [COLOR lime]sportdigital+1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | MLB | Baseball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Tampa Bay Rays vs Cleveland Guardians[/COLOR] - [COLOR lime]sportdigital+1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | MLB | Baseball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 01:00][/COLOR] [COLOR gold]Tampa Bay Rays vs Cleveland Guardians[/COLOR] - [COLOR lime]sportdigital+1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@20@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 01:00 | MLB | Baseball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:00][/COLOR] [COLOR gold]Edmonton Oilers vs Minnesota Wild[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:00][/COLOR] [COLOR gold]Edmonton Oilers vs Minnesota Wild[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:00][/COLOR] [COLOR gold]Edmonton Oilers vs Minnesota Wild[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@10@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:30][/COLOR] [COLOR gold]San Antonio Spurs vs Oklahoma City Thunder[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:30 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:30][/COLOR] [COLOR gold]San Antonio Spurs vs Oklahoma City Thunder[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:30 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:30][/COLOR] [COLOR gold]San Antonio Spurs vs Oklahoma City Thunder[/COLOR] - [COLOR lime]NBA League Pass[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:30 | NBA | Basketball | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:30][/COLOR] [COLOR gold]San Antonio Spurs vs Oklahoma City Thunder[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "21-Oct 02:30 | NBA | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:30][/COLOR] [COLOR gold]San Antonio Spurs vs Oklahoma City Thunder[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "21-Oct 02:30 | NBA | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:30][/COLOR] [COLOR gold]San Antonio Spurs vs Oklahoma City Thunder[/COLOR] - [COLOR lime]Sky Sport Top Event[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/r14o5i1658662835.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "21-Oct 02:30 | NBA | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:40][/COLOR] [COLOR gold]Seattle Kraken vs Detroit Red Wings[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:40 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:40][/COLOR] [COLOR gold]Seattle Kraken vs Detroit Red Wings[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:40 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 02:40][/COLOR] [COLOR gold]Seattle Kraken vs Detroit Red Wings[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 02:40 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 03:00][/COLOR] [COLOR gold]Vancouver Canucks vs Carolina Hurricanes[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 03:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 03:00][/COLOR] [COLOR gold]Vancouver Canucks vs Carolina Hurricanes[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 03:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 03:00][/COLOR] [COLOR gold]Vancouver Canucks vs Carolina Hurricanes[/COLOR] - [COLOR lime]Sportsnet+[/COLOR] [COLOR orange][ca][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@32@@CA",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Oct 03:00 | NHL | Hockey | Lang: CA"
+    },
+    {
+      "title": "[COLOR cyan][21/10 03:30][/COLOR] [COLOR gold]Vegas Golden Knights vs Tampa Bay Lightning[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "21-Oct 03:30 | NHL | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 03:30][/COLOR] [COLOR gold]Vegas Golden Knights vs Tampa Bay Lightning[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "21-Oct 03:30 | NHL | Hockey | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/10 03:30][/COLOR] [COLOR gold]Vegas Golden Knights vs Tampa Bay Lightning[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
+      "info": "21-Oct 03:30 | NHL | Hockey | Lang: US"
     }
   ]
 }
