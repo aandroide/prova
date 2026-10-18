@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-18 11:05:55",
+  "last_update": "2026-10-18 14:34:57",
   "items": [
     {
       "title": "[COLOR cyan][20/10 16:30][/COLOR] [COLOR gold]HPK vs Pelicans[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -211,6 +211,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Oct 16:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][22/10 16:30][/COLOR] [COLOR gold]JYP vs HPK[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Oct 16:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][22/10 16:30][/COLOR] [COLOR gold]JYP vs HPK[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Oct 16:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][22/10 16:30][/COLOR] [COLOR gold]JYP vs HPK[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Oct 16:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][22/10 16:30][/COLOR] [COLOR gold]JoKP vs Pyry[/COLOR] - [COLOR lime]MTV Sub[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Oct 16:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][22/10 16:30][/COLOR] [COLOR gold]JoKP vs Pyry[/COLOR] - [COLOR lime]MTV Sub[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Oct 16:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][22/10 16:30][/COLOR] [COLOR gold]JoKP vs Pyry[/COLOR] - [COLOR lime]MTV Sub[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "22-Oct 16:30 | Finland Mestis | Hockey | Lang: FI"
     }
   ]
 }
