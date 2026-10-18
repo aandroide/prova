@@ -1,13 +1,13 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-18 20:43:55",
+  "last_update": "2026-10-18 23:12:53",
   "items": [
     {
-      "title": "ITALY (15)",
+      "title": "ITALY (6)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_ITALY.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/it-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15 canali ITALY"
+      "info": "6 canali ITALY"
     },
     {
       "title": "UNITED KINGDOM (15)",
@@ -17,11 +17,11 @@
       "info": "15 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (27)",
+      "title": "SPAIN (15)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27 canali SPAIN"
+      "info": "15 canali SPAIN"
     },
     {
       "title": "GERMANY (6)",
@@ -31,25 +31,18 @@
       "info": "6 canali GERMANY"
     },
     {
-      "title": "FRANCE (3)",
-      "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_FRANCE.json",
-      "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/fr-circle-01.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "3 canali FRANCE"
-    },
-    {
-      "title": "USA (147)",
+      "title": "USA (144)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "147 canali USA"
+      "info": "144 canali USA"
     },
     {
-      "title": "CANADA (6)",
+      "title": "CANADA (3)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CANADA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "6 canali CANADA"
+      "info": "3 canali CANADA"
     },
     {
       "title": "PORTUGAL (3)",
