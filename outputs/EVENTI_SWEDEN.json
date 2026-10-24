@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-24 11:01:27",
+  "last_update": "2026-10-24 14:33:31",
   "items": [
     {
       "title": "[COLOR cyan][24/10 14:00][/COLOR] [COLOR gold]Häcken vs Degerfors[/COLOR] - [COLOR lime]TV4 Sport Live 4[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -253,6 +253,48 @@
       "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "info": "25-Oct 16:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]Malmoe vs Linkoeping[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "27-Oct 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]Malmoe vs Linkoeping[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "27-Oct 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]Malmoe vs Linkoeping[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "27-Oct 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]Frolunda vs Rogle[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Oct 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]Frolunda vs Rogle[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Oct 19:00 | Sweden SHL | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]Frolunda vs Rogle[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "27-Oct 19:00 | Sweden SHL | Hockey | Lang: SE"
     },
     {
       "title": "[COLOR cyan][27/10 19:00][/COLOR] [COLOR gold]AIK vs Elfsborg[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
