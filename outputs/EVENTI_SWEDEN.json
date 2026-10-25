@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-25 11:30:37",
+  "last_update": "2026-10-25 16:19:52",
   "items": [
-    {
-      "title": "[COLOR cyan][25/10 14:00][/COLOR] [COLOR gold]GAIS vs IFK Göteborg[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@66@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Oct 14:00 | Sweden Allsvenskan | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][25/10 14:00][/COLOR] [COLOR gold]GAIS vs IFK Göteborg[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@66@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Oct 14:00 | Sweden Allsvenskan | Football | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][25/10 14:00][/COLOR] [COLOR gold]GAIS vs IFK Göteborg[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@66@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "25-Oct 14:00 | Sweden Allsvenskan | Football | Lang: SE"
-    },
     {
       "title": "[COLOR cyan][25/10 16:30][/COLOR] [COLOR gold]Mjällby vs Hammarby[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@61@@SE",
@@ -106,6 +85,237 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "27-Oct 19:00 | Sweden Allsvenskan | Football | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Halmstad vs Malmö FF[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@56@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Halmstad vs Malmö FF[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@56@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Halmstad vs Malmö FF[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@56@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]IFK Göteborg vs Djurgården[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@57@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]IFK Göteborg vs Djurgården[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@57@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]IFK Göteborg vs Djurgården[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@57@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Brommapojkarna vs Häcken[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@58@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Brommapojkarna vs Häcken[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@58@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Brommapojkarna vs Häcken[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@58@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Degerfors vs Västerås SK[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@59@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Degerfors vs Västerås SK[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@59@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Degerfors vs Västerås SK[/COLOR] - [COLOR lime]TV4 Play[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@59@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]AIK vs Vimmerby HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]AIK vs Vimmerby HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]AIK vs Vimmerby HC[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Almtuna IS vs Västerås IK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Almtuna IS vs Västerås IK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Almtuna IS vs Västerås IK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Kalmar HC vs Östersunds IK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Kalmar HC vs Östersunds IK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Kalmar HC vs Östersunds IK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@63@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Leksands IF vs BIK Karlskoga[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Leksands IF vs BIK Karlskoga[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Leksands IF vs BIK Karlskoga[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Mora IK vs Södertälje SK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Mora IK vs Södertälje SK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Mora IK vs Södertälje SK[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@65@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Nybro Vikings IF vs Modo Hockey[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Nybro Vikings IF vs Modo Hockey[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Nybro Vikings IF vs Modo Hockey[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@66@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Visby/Roma HK vs IK Oskarshamn[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@67@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Visby/Roma HK vs IK Oskarshamn[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@67@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][28/10 19:00][/COLOR] [COLOR gold]Visby/Roma HK vs IK Oskarshamn[/COLOR] - [COLOR lime]TV4 Sport Live[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@67@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "28-Oct 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
     }
   ]
 }
