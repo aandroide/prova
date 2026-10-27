@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-27 16:39:32",
+  "last_update": "2026-10-27 21:20:16",
   "items": [
     {
       "title": "[COLOR cyan][27/10 21:15][/COLOR] [COLOR gold]Sporting CP vs Marítimo[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -43,6 +43,69 @@
       "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "28-Oct 21:00 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/10 19:45][/COLOR] [COLOR gold]Sporting Braga vs Famalicão[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "29-Oct 19:45 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/10 19:45][/COLOR] [COLOR gold]Sporting Braga vs Famalicão[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "29-Oct 19:45 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/10 19:45][/COLOR] [COLOR gold]Sporting Braga vs Famalicão[/COLOR] - [COLOR lime]Sport TV2[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/oiu2yn1700902611.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "29-Oct 19:45 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/10 21:45][/COLOR] [COLOR gold]Benfica vs Gil Vicente[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "29-Oct 21:45 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/10 21:45][/COLOR] [COLOR gold]Benfica vs Gil Vicente[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "29-Oct 21:45 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][29/10 21:45][/COLOR] [COLOR gold]Benfica vs Gil Vicente[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "29-Oct 21:45 | Portugal Taça da Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][30/10 21:15][/COLOR] [COLOR gold]Casa Pia vs Sporting CP[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "30-Oct 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][30/10 21:15][/COLOR] [COLOR gold]Casa Pia vs Sporting CP[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "30-Oct 21:15 | Portugal Primeira Liga | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][30/10 21:15][/COLOR] [COLOR gold]Casa Pia vs Sporting CP[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "30-Oct 21:15 | Portugal Primeira Liga | Football | Lang: PT"
     }
   ]
 }

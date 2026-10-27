@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-27 16:39:32",
+  "last_update": "2026-10-27 21:20:16",
   "items": [
-    {
-      "title": "[COLOR cyan][27/10 17:30][/COLOR] [COLOR gold]KalPa vs Sport[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@73@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Oct 17:30 | Finland Liiga | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][27/10 17:30][/COLOR] [COLOR gold]KalPa vs Sport[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@73@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Oct 17:30 | Finland Liiga | Hockey | Lang: FI"
-    },
-    {
-      "title": "[COLOR cyan][27/10 17:30][/COLOR] [COLOR gold]KalPa vs Sport[/COLOR] - [COLOR lime]MTV Urheilu 3[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@73@@FI",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Oct 17:30 | Finland Liiga | Hockey | Lang: FI"
-    },
     {
       "title": "[COLOR cyan][28/10 17:30][/COLOR] [COLOR gold]Kärpät vs HPK[/COLOR] - [COLOR lime]MTV Max[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@71@@FI",
@@ -169,6 +148,69 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Oct 17:30 | Finland Liiga | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]IPK vs KeuPa HT[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]IPK vs KeuPa HT[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]IPK vs KeuPa HT[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@71@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]Ketterä vs Pyry[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]Ketterä vs Pyry[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]Ketterä vs Pyry[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@72@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]TuTo vs K-Vantaa[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]TuTo vs K-Vantaa[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
+    },
+    {
+      "title": "[COLOR cyan][29/10 17:30][/COLOR] [COLOR gold]TuTo vs K-Vantaa[/COLOR] - [COLOR lime]Liiga TV[/COLOR] [COLOR orange][fi][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@73@@FI",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Oct 17:30 | Finland Mestis | Hockey | Lang: FI"
     }
   ]
 }
