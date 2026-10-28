@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-27 21:20:16",
+  "last_update": "2026-10-28 01:22:31",
   "items": [
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Roma vs Cagliari[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Roma vs Cagliari[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Roma vs Cagliari[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@18@@DE",
-      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Roma vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Roma vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Roma vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Torino vs Como[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Torino vs Como[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][27/10 20:45][/COLOR] [COLOR gold]Torino vs Como[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Oct 20:45 | Italy Serie A | Football | Lang: IT"
-    },
     {
       "title": "[COLOR cyan][28/10 18:30][/COLOR] [COLOR gold]Venezia vs Internazionale[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@17@@DE",
