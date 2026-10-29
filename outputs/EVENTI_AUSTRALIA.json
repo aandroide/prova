@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-29 14:20:12",
+  "last_update": "2026-10-29 20:18:23",
   "items": [
     {
       "title": "[COLOR cyan][30/10 10:00][/COLOR] [COLOR gold]Brisbane Roar vs Auckland[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -85,6 +85,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Oct 09:40 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 05:00][/COLOR] [COLOR gold]Melbourne Victory vs Central Coast Mariners[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 05:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 05:00][/COLOR] [COLOR gold]Melbourne Victory vs Central Coast Mariners[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 05:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 05:00][/COLOR] [COLOR gold]Melbourne Victory vs Central Coast Mariners[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 05:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 09:00][/COLOR] [COLOR gold]Perth Glory vs Adelaide United[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 09:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 09:00][/COLOR] [COLOR gold]Perth Glory vs Adelaide United[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 09:00 | Australia A-League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 09:00][/COLOR] [COLOR gold]Perth Glory vs Adelaide United[/COLOR] - [COLOR lime]TNT Sports 4[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@4@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 09:00 | Australia A-League | Football | Lang: GB"
     }
   ]
 }

@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-29 14:20:12",
+  "last_update": "2026-10-29 20:18:23",
   "items": [
-    {
-      "title": "[COLOR cyan][29/10 18:30][/COLOR] [COLOR gold]Frosinone vs Lecce[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@57@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "29-Oct 18:30 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][29/10 18:30][/COLOR] [COLOR gold]Frosinone vs Lecce[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@57@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "29-Oct 18:30 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][29/10 18:30][/COLOR] [COLOR gold]Frosinone vs Lecce[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@57@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "29-Oct 18:30 | Italy Serie A | Football | Lang: IT"
-    },
     {
       "title": "[COLOR cyan][29/10 20:45][/COLOR] [COLOR gold]Fiorentina vs Atalanta[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
@@ -106,6 +85,132 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Oct 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 12:30][/COLOR] [COLOR gold]Como vs Venezia[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 12:30 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 12:30][/COLOR] [COLOR gold]Como vs Venezia[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 12:30 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 12:30][/COLOR] [COLOR gold]Como vs Venezia[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 12:30 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 15:00][/COLOR] [COLOR gold]Frosinone vs Torino[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "01-Nov 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 15:00][/COLOR] [COLOR gold]Frosinone vs Torino[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "01-Nov 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 15:00][/COLOR] [COLOR gold]Frosinone vs Torino[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "01-Nov 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 15:00][/COLOR] [COLOR gold]Lazio vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 15:00][/COLOR] [COLOR gold]Lazio vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 15:00][/COLOR] [COLOR gold]Lazio vs Cagliari[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 15:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 18:00][/COLOR] [COLOR gold]Lecce vs Genoa[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 18:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 18:00][/COLOR] [COLOR gold]Lecce vs Genoa[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 18:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 18:00][/COLOR] [COLOR gold]Lecce vs Genoa[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 18:00 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 20:45][/COLOR] [COLOR gold]Juventus vs Napoli[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 20:45 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 20:45][/COLOR] [COLOR gold]Juventus vs Napoli[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 20:45 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 20:45][/COLOR] [COLOR gold]Juventus vs Napoli[/COLOR] - [COLOR lime]TNT Sports 1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 20:45 | Italy Serie A | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 20:45][/COLOR] [COLOR gold]Juventus vs Napoli[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 20:45][/COLOR] [COLOR gold]Juventus vs Napoli[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 20:45][/COLOR] [COLOR gold]Juventus vs Napoli[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
+      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
+      "info": "01-Nov 20:45 | Italy Serie A | Football | Lang: IT"
     }
   ]
 }
