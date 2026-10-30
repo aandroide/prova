@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-30 19:23:28",
+  "last_update": "2026-10-30 23:47:20",
   "items": [
-    {
-      "title": "[COLOR cyan][30/10 21:00][/COLOR] [COLOR gold]Villarreal vs Espanyol[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Oct 21:00 | Spain La Liga | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][30/10 21:00][/COLOR] [COLOR gold]Villarreal vs Espanyol[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Oct 21:00 | Spain La Liga | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][30/10 21:00][/COLOR] [COLOR gold]Villarreal vs Espanyol[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Oct 21:00 | Spain La Liga | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][31/10 14:00][/COLOR] [COLOR gold]Real Sociedad II vs Girona[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@26@@ES",
@@ -339,25 +318,25 @@
       "info": "01-Nov 18:30 | Spain La Liga | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Tenerife vs FC Andorra[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Athletic Club vs Real Sociedad[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
+      "info": "01-Nov 21:00 | Spain La Liga | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Tenerife vs FC Andorra[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Athletic Club vs Real Sociedad[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
+      "info": "01-Nov 21:00 | Spain La Liga | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Tenerife vs FC Andorra[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Athletic Club vs Real Sociedad[/COLOR] - [COLOR lime]ESPN+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "01-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
+      "info": "01-Nov 21:00 | Spain La Liga | Football | Lang: US"
     },
     {
       "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Athletic Club vs Real Sociedad[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -379,6 +358,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Nov 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Tenerife vs FC Andorra[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Tenerife vs FC Andorra[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Tenerife vs FC Andorra[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
     }
   ]
 }
