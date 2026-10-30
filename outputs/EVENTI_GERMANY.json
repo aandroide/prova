@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-29 20:18:23",
+  "last_update": "2026-10-30 01:00:13",
   "items": [
-    {
-      "title": "[COLOR cyan][29/10 19:30][/COLOR] [COLOR gold]Augsburger Panther vs Löwen Frankfurt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 19:30 | Germany DEL | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 19:30][/COLOR] [COLOR gold]Augsburger Panther vs Löwen Frankfurt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 19:30 | Germany DEL | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 19:30][/COLOR] [COLOR gold]Augsburger Panther vs Löwen Frankfurt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@14@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 19:30 | Germany DEL | Hockey | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][30/10 18:30][/COLOR] [COLOR gold]Simulcast[/COLOR] - [COLOR lime]Sky Sport Bundesliga 2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@12@@DE",
@@ -780,6 +759,69 @@
       "info": "01-Nov 13:30 | Germany Bundesliga 2 | Football | Lang: DE"
     },
     {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Grizzly Wolfsburg vs Augsburger Panther[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Grizzly Wolfsburg vs Augsburger Panther[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Grizzly Wolfsburg vs Augsburger Panther[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Eisbaren Berlin vs Adler Mannheim[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@97@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Eisbaren Berlin vs Adler Mannheim[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@97@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Eisbaren Berlin vs Adler Mannheim[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@97@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Bremerhaven vs Straubing Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Bremerhaven vs Straubing Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 14:00][/COLOR] [COLOR gold]Bremerhaven vs Straubing Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 14:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
       "title": "[COLOR cyan][01/11 14:30][/COLOR] [COLOR gold]Wolfsberger AC vs Sturm Graz[/COLOR] - [COLOR lime]Sky Sport Austria[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@99@@AT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -864,6 +906,69 @@
       "info": "01-Nov 16:30 | Germany 3. Liga | Football | Lang: DE"
     },
     {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]Schwenninger vs Krefeld Pinguine[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]Schwenninger vs Krefeld Pinguine[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]Schwenninger vs Krefeld Pinguine[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@96@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]EHC Red Bull München vs Nurnberg Ice Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@97@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]EHC Red Bull München vs Nurnberg Ice Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@97@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]EHC Red Bull München vs Nurnberg Ice Tigers[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@97@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]Löwen Frankfurt vs ERC Ingolstadt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]Löwen Frankfurt vs ERC Ingolstadt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 16:30][/COLOR] [COLOR gold]Löwen Frankfurt vs ERC Ingolstadt[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 16:30 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
       "title": "[COLOR cyan][01/11 17:00][/COLOR] [COLOR gold]Austria Wien vs Rapid Wien[/COLOR] - [COLOR lime]Sky Sport Austria[/COLOR] [COLOR orange][at][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@100@@AT",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -904,6 +1009,27 @@
       "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
       "info": "01-Nov 17:30 | Germany Bundesliga | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 19:00][/COLOR] [COLOR gold]Kölner Haie vs Iserlohn Roosters[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 19:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 19:00][/COLOR] [COLOR gold]Kölner Haie vs Iserlohn Roosters[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 19:00 | Germany DEL | Hockey | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 19:00][/COLOR] [COLOR gold]Kölner Haie vs Iserlohn Roosters[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@98@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 19:00 | Germany DEL | Hockey | Lang: DE"
     },
     {
       "title": "[COLOR cyan][01/11 19:30][/COLOR] [COLOR gold]Alemannia Aachen vs Preußen Münster[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",

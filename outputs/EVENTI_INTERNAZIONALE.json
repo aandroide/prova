@@ -1,133 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-29 20:18:23",
+  "last_update": "2026-10-30 01:00:13",
   "items": [
-    {
-      "title": "[COLOR cyan][29/10 19:30][/COLOR] [COLOR gold]Midtjylland vs OB[/COLOR] - [COLOR lime]Viaplay Sport News[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@69@@DK",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 19:30 | Denmark DBU Pokalen | Football | Lang: DK"
-    },
-    {
-      "title": "[COLOR cyan][29/10 19:30][/COLOR] [COLOR gold]Midtjylland vs OB[/COLOR] - [COLOR lime]Viaplay Sport News[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@69@@DK",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 19:30 | Denmark DBU Pokalen | Football | Lang: DK"
-    },
-    {
-      "title": "[COLOR cyan][29/10 19:30][/COLOR] [COLOR gold]Midtjylland vs OB[/COLOR] - [COLOR lime]Viaplay Sport News[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@69@@DK",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 19:30 | Denmark DBU Pokalen | Football | Lang: DK"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:00][/COLOR] [COLOR gold]Crvena Zvezda Meridianbet vs FC Bayern München[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:00 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:00][/COLOR] [COLOR gold]Crvena Zvezda Meridianbet vs FC Bayern München[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:00 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:00][/COLOR] [COLOR gold]Crvena Zvezda Meridianbet vs FC Bayern München[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@11@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:00 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:00][/COLOR] [COLOR gold]De Treffers vs Heracles[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "29-Oct 20:00 | Netherlands KNVB Beker | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:00][/COLOR] [COLOR gold]De Treffers vs Heracles[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "29-Oct 20:00 | Netherlands KNVB Beker | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:00][/COLOR] [COLOR gold]De Treffers vs Heracles[/COLOR] - [COLOR lime]ESPN 3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "29-Oct 20:00 | Netherlands KNVB Beker | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:05][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:05 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:05][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:05 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:05][/COLOR] [COLOR gold]Maccabi Tel Aviv vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:05 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:45][/COLOR] [COLOR gold]Real Madrid vs Fenerbahce[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:45][/COLOR] [COLOR gold]Real Madrid vs Fenerbahce[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 20:45][/COLOR] [COLOR gold]Real Madrid vs Fenerbahce[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "29-Oct 20:45 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][29/10 21:00][/COLOR] [COLOR gold]Groningen vs Emmen[/COLOR] - [COLOR lime]ESPN 4[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/ekdzvo1660760535.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "29-Oct 21:00 | Netherlands KNVB Beker | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][29/10 21:00][/COLOR] [COLOR gold]Groningen vs Emmen[/COLOR] - [COLOR lime]ESPN 4[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/ekdzvo1660760535.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "29-Oct 21:00 | Netherlands KNVB Beker | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][29/10 21:00][/COLOR] [COLOR gold]Groningen vs Emmen[/COLOR] - [COLOR lime]ESPN 4[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/ekdzvo1660760535.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "29-Oct 21:00 | Netherlands KNVB Beker | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][30/10 02:00][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -444,27 +318,6 @@
       "info": "30-Oct 20:00 | Euroleague | Basketball | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][30/10 20:15][/COLOR] [COLOR gold]Neuchâtel Xamax vs Aarau[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@27@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Oct 20:15 | Switzerland Challenge League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][30/10 20:15][/COLOR] [COLOR gold]Neuchâtel Xamax vs Aarau[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@27@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Oct 20:15 | Switzerland Challenge League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][30/10 20:15][/COLOR] [COLOR gold]Neuchâtel Xamax vs Aarau[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@27@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "30-Oct 20:15 | Switzerland Challenge League | Football | Lang: CH"
-    },
-    {
       "title": "[COLOR cyan][30/10 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Olimpia Milano[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@96@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -547,6 +400,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "30-Oct 20:45 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "30-Oct 23:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "30-Oct 23:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "30-Oct 23:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "30-Oct 23:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "30-Oct 23:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "30-Oct 23:00 | Formula 1 | Motorsport | Lang: ES"
     },
     {
       "title": "[COLOR cyan][30/10 23:00][/COLOR] [COLOR gold]Huracán vs Tigre[/COLOR] - [COLOR lime]ESPN Premium[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -633,22 +528,43 @@
       "info": "31-Oct 01:15 | Argentina Primera División | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][31/10 01:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Oct 01:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 01:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Oct 01:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 01:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Oct 01:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
       "title": "[COLOR cyan][31/10 02:00][/COLOR] [COLOR gold]Juárez vs Querétaro[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
+      "myresolve": "sansat@@26@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Oct 02:00 | Mexico Liga MX | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][31/10 02:00][/COLOR] [COLOR gold]Juárez vs Querétaro[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
+      "myresolve": "sansat@@26@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Oct 02:00 | Mexico Liga MX | Football | Lang: ES"
     },
     {
       "title": "[COLOR cyan][31/10 02:00][/COLOR] [COLOR gold]Juárez vs Querétaro[/COLOR] - [COLOR lime]Azteca 7[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
+      "myresolve": "sansat@@26@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "31-Oct 02:00 | Mexico Liga MX | Football | Lang: ES"
@@ -948,6 +864,48 @@
       "info": "31-Oct 18:30 | Scotland Scottish League Cup | Football | Lang: GB"
     },
     {
+      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "31-Oct 18:30 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "31-Oct 18:30 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "31-Oct 18:30 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "31-Oct 18:30 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "31-Oct 18:30 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "31-Oct 18:30 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
       "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]CSKA Sofia vs Slavia Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@48@@BG",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1158,6 +1116,69 @@
       "info": "31-Oct 21:00 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
+      "title": "[COLOR cyan][31/10 22:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "31-Oct 22:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 22:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "31-Oct 22:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 22:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "31-Oct 22:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][31/10 22:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "31-Oct 22:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/10 22:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "31-Oct 22:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/10 22:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "31-Oct 22:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][31/10 23:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Oct 23:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/10 23:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Oct 23:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][31/10 23:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "31-Oct 23:00 | UFC | MMA | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][31/10 23:15][/COLOR] [COLOR gold]Vélez Sarsfield vs San Lorenzo[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@85@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1200,6 +1221,27 @@
       "info": "01-Nov 00:00 | Mexico Liga MX | Football | Lang: ES"
     },
     {
+      "title": "[COLOR cyan][01/11 01:00][/COLOR] [COLOR gold]Renato Moicano vs Tom Nolan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 01:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][01/11 01:00][/COLOR] [COLOR gold]Renato Moicano vs Tom Nolan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 01:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][01/11 01:00][/COLOR] [COLOR gold]Renato Moicano vs Tom Nolan[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 01:00 | UFC | MMA | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][01/11 01:30][/COLOR] [COLOR gold]Estudiantes vs Instituto[/COLOR] - [COLOR lime]ESPN Premium[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@84@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1240,6 +1282,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Nov 02:05 | Mexico Liga MX | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 03:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 03:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 03:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 03:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 03:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 03:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 03:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 03:40 | MotoGP | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 03:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 03:40 | MotoGP | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 03:40][/COLOR] [COLOR gold]Malaysian Grand Prix[/COLOR] - [COLOR lime]Sky Sport Mix[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@11@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 03:40 | MotoGP | Motorsport | Lang: DE"
     },
     {
       "title": "[COLOR cyan][01/11 04:10][/COLOR] [COLOR gold]América vs Toluca[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1828,6 +1912,90 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Nov 19:15 | Belgium Pro League | Football | Lang: BE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][01/11 21:00][/COLOR] [COLOR gold]Mexican Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
+      "info": "01-Nov 21:00 | Formula 1 | Motorsport | Lang: IT"
     },
     {
       "title": "[COLOR cyan][01/11 22:30][/COLOR] [COLOR gold]Newell's Old Boys vs Unión Santa Fe[/COLOR] - [COLOR lime]ESPN Premium[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
