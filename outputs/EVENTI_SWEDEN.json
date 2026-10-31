@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-31 05:41:40",
+  "last_update": "2026-10-31 12:30:26",
   "items": [
     {
       "title": "[COLOR cyan][31/10 15:00][/COLOR] [COLOR gold]IK Oskarshamn vs Modo Hockey[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -379,6 +379,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Nov 16:30 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][02/11 19:00][/COLOR] [COLOR gold]Mjällby vs Kalmar[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "02-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][02/11 19:00][/COLOR] [COLOR gold]Mjällby vs Kalmar[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "02-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][02/11 19:00][/COLOR] [COLOR gold]Mjällby vs Kalmar[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@61@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "02-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][02/11 19:00][/COLOR] [COLOR gold]GAIS vs AIK[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][02/11 19:00][/COLOR] [COLOR gold]GAIS vs AIK[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][02/11 19:00][/COLOR] [COLOR gold]GAIS vs AIK[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
     }
   ]
 }

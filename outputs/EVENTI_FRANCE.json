@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-31 05:41:40",
+  "last_update": "2026-10-31 12:30:26",
   "items": [
     {
       "title": "[COLOR cyan][31/10 20:45][/COLOR] [COLOR gold]Troyes vs Le Mans[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -106,6 +106,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "01-Nov 20:45 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][02/11 20:45][/COLOR] [COLOR gold]Lorient vs Brest[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Nov 20:45 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][02/11 20:45][/COLOR] [COLOR gold]Lorient vs Brest[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Nov 20:45 | France Ligue 1 | Football | Lang: FR"
+    },
+    {
+      "title": "[COLOR cyan][02/11 20:45][/COLOR] [COLOR gold]Lorient vs Brest[/COLOR] - [COLOR lime]Ligue1+[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@51@@FR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "02-Nov 20:45 | France Ligue 1 | Football | Lang: FR"
     }
   ]
 }
