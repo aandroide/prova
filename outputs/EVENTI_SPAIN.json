@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-10-31 17:44:04",
+  "last_update": "2026-10-31 21:35:21",
   "items": [
-    {
-      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Celta de Vigo II vs Córdoba[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Oct 18:30 | Spain Segunda Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Celta de Vigo II vs Córdoba[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Oct 18:30 | Spain Segunda Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Celta de Vigo II vs Córdoba[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Oct 18:30 | Spain Segunda Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Real Betis vs Málaga[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Oct 18:30 | Spain La Liga | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Real Betis vs Málaga[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Oct 18:30 | Spain La Liga | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][31/10 18:30][/COLOR] [COLOR gold]Real Betis vs Málaga[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@86@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "31-Oct 18:30 | Spain La Liga | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][31/10 21:00][/COLOR] [COLOR gold]Albacete vs Sabadell[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@26@@ES",
@@ -400,6 +358,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "02-Nov 21:00 | Spain Segunda Division | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/11 19:00][/COLOR] [COLOR gold]Anaitasuna FT vs Deportivo Alavés[/COLOR] - [COLOR lime]M+ LALIGA TV[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Nov 19:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/11 19:00][/COLOR] [COLOR gold]Anaitasuna FT vs Deportivo Alavés[/COLOR] - [COLOR lime]M+ LALIGA TV[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Nov 19:00 | Spain Copa del Rey | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][03/11 19:00][/COLOR] [COLOR gold]Anaitasuna FT vs Deportivo Alavés[/COLOR] - [COLOR lime]M+ LALIGA TV[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@26@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "03-Nov 19:00 | Spain Copa del Rey | Football | Lang: ES"
     }
   ]
 }
