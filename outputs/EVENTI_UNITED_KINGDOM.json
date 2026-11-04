@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-04 17:16:04",
+  "last_update": "2026-11-04 22:39:45",
   "items": [
-    {
-      "title": "[COLOR cyan][04/11 20:45][/COLOR] [COLOR gold]Cardiff City vs West Ham United[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 20:45 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 20:45][/COLOR] [COLOR gold]Cardiff City vs West Ham United[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 20:45 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 20:45][/COLOR] [COLOR gold]Cardiff City vs West Ham United[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@31@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 20:45 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 20:45][/COLOR] [COLOR gold]Wrexham vs Middlesbrough[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 20:45 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 20:45][/COLOR] [COLOR gold]Wrexham vs Middlesbrough[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 20:45 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 20:45][/COLOR] [COLOR gold]Wrexham vs Middlesbrough[/COLOR] - [COLOR lime]Sky Sports+[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@32@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 20:45 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 21:00][/COLOR] [COLOR gold]Bristol City vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@33@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 21:00 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 21:00][/COLOR] [COLOR gold]Bristol City vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@33@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 21:00 | England Championship | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][04/11 21:00][/COLOR] [COLOR gold]Bristol City vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@33@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "04-Nov 21:00 | England Championship | Football | Lang: GB"
-    },
     {
       "title": "[COLOR cyan][06/11 21:00][/COLOR] [COLOR gold]Derby County vs Bolton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@5@@GB",
@@ -127,6 +64,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Nov 21:00 | England Premier League | Football | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][06/11 21:10][/COLOR] [COLOR gold]Ireland vs Argentina[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Nov 21:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][06/11 21:10][/COLOR] [COLOR gold]Ireland vs Argentina[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Nov 21:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][06/11 21:10][/COLOR] [COLOR gold]Ireland vs Argentina[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "06-Nov 21:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 12:40][/COLOR] [COLOR gold]Italy vs South Africa[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 12:40 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 12:40][/COLOR] [COLOR gold]Italy vs South Africa[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 12:40 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 12:40][/COLOR] [COLOR gold]Italy vs South Africa[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 12:40 | Nations Championship | Rugby | Lang: GB"
     },
     {
       "title": "[COLOR cyan][07/11 13:30][/COLOR] [COLOR gold]Wrexham vs Wolverhampton Wanderers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -211,6 +190,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Nov 13:30 | England Championship | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 15:10][/COLOR] [COLOR gold]Scotland vs New Zealand[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 15:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 15:10][/COLOR] [COLOR gold]Scotland vs New Zealand[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 15:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 15:10][/COLOR] [COLOR gold]Scotland vs New Zealand[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 15:10 | Nations Championship | Rugby | Lang: GB"
     },
     {
       "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Watford vs Middlesbrough[/COLOR] - [COLOR lime]CBS Sports Golazo[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -423,6 +423,27 @@
       "info": "07-Nov 16:00 | England Championship | Football | Lang: US"
     },
     {
+      "title": "[COLOR cyan][07/11 17:40][/COLOR] [COLOR gold]Wales vs Japan[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 17:40 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:40][/COLOR] [COLOR gold]Wales vs Japan[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 17:40 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:40][/COLOR] [COLOR gold]Wales vs Japan[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 17:40 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
       "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Nottingham Forest vs Manchester City[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@9@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -442,6 +463,195 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Nov 18:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][07/11 21:10][/COLOR] [COLOR gold]France vs Fiji[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 21:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 21:10][/COLOR] [COLOR gold]France vs Fiji[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 21:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][07/11 21:10][/COLOR] [COLOR gold]France vs Fiji[/COLOR] - [COLOR lime]ITV1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 21:10 | Nations Championship | Rugby | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Crystal Palace vs Liverpool[/COLOR] - [COLOR lime]NBCSN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Crystal Palace vs Liverpool[/COLOR] - [COLOR lime]NBCSN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Crystal Palace vs Liverpool[/COLOR] - [COLOR lime]NBCSN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Crystal Palace vs Liverpool[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Crystal Palace vs Liverpool[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Crystal Palace vs Liverpool[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Sunderland vs Chelsea[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Sunderland vs Chelsea[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Sunderland vs Chelsea[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Sunderland vs Chelsea[/COLOR] - [COLOR lime]Hub Premier 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Sunderland vs Chelsea[/COLOR] - [COLOR lime]Hub Premier 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Sunderland vs Chelsea[/COLOR] - [COLOR lime]Hub Premier 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@32@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Brentford[/COLOR] - [COLOR lime]Hub Premier 3[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Brentford[/COLOR] - [COLOR lime]Hub Premier 3[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Brighton & Hove Albion vs Brentford[/COLOR] - [COLOR lime]Hub Premier 3[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@33@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Ipswich Town vs AFC Bournemouth[/COLOR] - [COLOR lime]Hub Premier 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Ipswich Town vs AFC Bournemouth[/COLOR] - [COLOR lime]Hub Premier 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:00][/COLOR] [COLOR gold]Ipswich Town vs AFC Bournemouth[/COLOR] - [COLOR lime]Hub Premier 4[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@34@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 15:00 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 17:30][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 17:30][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 17:30][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]USA Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 17:30][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@31@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 17:30][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@31@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 17:30 | England Premier League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 17:30][/COLOR] [COLOR gold]Manchester United vs Aston Villa[/COLOR] - [COLOR lime]Hub Premier 1[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@31@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 17:30 | England Premier League | Football | Lang: US"
     }
   ]
 }
