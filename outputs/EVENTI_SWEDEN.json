@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-03 20:59:33",
+  "last_update": "2026-11-04 01:21:53",
   "items": [
     {
       "title": "[COLOR cyan][06/11 19:00][/COLOR] [COLOR gold]Hammarby vs Elfsborg[/COLOR] - [COLOR lime]TV4 Fotboll[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -22,6 +22,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Nov 19:00 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:30][/COLOR] [COLOR gold]Örgryte vs Västerås SK[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "07-Nov 17:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:30][/COLOR] [COLOR gold]Örgryte vs Västerås SK[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "07-Nov 17:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:30][/COLOR] [COLOR gold]Örgryte vs Västerås SK[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@62@@SE",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
+      "info": "07-Nov 17:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:30][/COLOR] [COLOR gold]Degerfors vs GAIS[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 17:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:30][/COLOR] [COLOR gold]Degerfors vs GAIS[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 17:30 | Sweden Allsvenskan | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][07/11 17:30][/COLOR] [COLOR gold]Degerfors vs GAIS[/COLOR] - [COLOR lime]TV4 Fotball[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "07-Nov 17:30 | Sweden Allsvenskan | Football | Lang: SE"
     }
   ]
 }
