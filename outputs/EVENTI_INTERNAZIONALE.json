@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-05 12:21:48",
+  "last_update": "2026-11-05 20:40:21",
   "items": [
-    {
-      "title": "[COLOR cyan][05/11 18:15][/COLOR] [COLOR gold]Anadolu Efes vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 18:15 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/11 18:15][/COLOR] [COLOR gold]Anadolu Efes vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 18:15 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/11 18:15][/COLOR] [COLOR gold]Anadolu Efes vs Paris[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@12@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 18:15 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/11 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al-Fayha[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][05/11 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al-Fayha[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][05/11 18:30][/COLOR] [COLOR gold]Al Quadisiya vs Al-Fayha[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 18:30 | Saudi Arabia Pro League | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][05/11 19:00][/COLOR] [COLOR gold]Fenerbahce vs Baskonia[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 19:00 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/11 19:00][/COLOR] [COLOR gold]Fenerbahce vs Baskonia[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 19:00 | Euroleague | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][05/11 19:00][/COLOR] [COLOR gold]Fenerbahce vs Baskonia[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@13@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "05-Nov 19:00 | Euroleague | Basketball | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][05/11 19:45][/COLOR] [COLOR gold]Hapoel T vs A vs Barcelona[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@14@@DE",
@@ -570,21 +507,21 @@
       "info": "06-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
     },
     {
-      "title": "[COLOR cyan][06/11 20:45][/COLOR] [COLOR gold]Partizan vs Maccabi T vs A[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][06/11 20:45][/COLOR] [COLOR gold]Partizan vs Maccabi TA[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@96@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Nov 20:45 | Euroleague | Basketball | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][06/11 20:45][/COLOR] [COLOR gold]Partizan vs Maccabi T vs A[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][06/11 20:45][/COLOR] [COLOR gold]Partizan vs Maccabi TA[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@96@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "06-Nov 20:45 | Euroleague | Basketball | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][06/11 20:45][/COLOR] [COLOR gold]Partizan vs Maccabi T vs A[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][06/11 20:45][/COLOR] [COLOR gold]Partizan vs Maccabi TA[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@96@@DE",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -1410,6 +1347,27 @@
       "info": "07-Nov 21:00 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
+      "title": "[COLOR cyan][08/11 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 00:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 00:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 00:00 | UFC | MMA | Lang: US"
+    },
+    {
       "title": "[COLOR cyan][08/11 00:00][/COLOR] [COLOR gold]Tigres UANL vs Cruz Azul[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@87@@ES",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1450,6 +1408,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Gabriel Bonfim vs Sean Brady[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 02:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Gabriel Bonfim vs Sean Brady[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 02:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Gabriel Bonfim vs Sean Brady[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@81@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 02:00 | UFC | MMA | Lang: US"
     },
     {
       "title": "[COLOR cyan][08/11 04:10][/COLOR] [COLOR gold]Pumas UNAM vs América[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1536,6 +1515,27 @@
       "info": "08-Nov 12:15 | Netherlands Eredivisie | Football | Lang: NL"
     },
     {
+      "title": "[COLOR cyan][08/11 12:40][/COLOR] [COLOR gold]Qatar Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 12:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/11 12:40][/COLOR] [COLOR gold]Qatar Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 12:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/11 12:40][/COLOR] [COLOR gold]Qatar Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 12:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
       "title": "[COLOR cyan][08/11 13:00][/COLOR] [COLOR gold]Spartak Varna vs Arda[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@48@@BG",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -1579,21 +1579,21 @@
     },
     {
       "title": "[COLOR cyan][08/11 14:00][/COLOR] [COLOR gold]St. Gallen vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@CH",
+      "myresolve": "sansat@@20@@CH",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 14:00 | Switzerland Super League | Football | Lang: CH"
     },
     {
       "title": "[COLOR cyan][08/11 14:00][/COLOR] [COLOR gold]St. Gallen vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@CH",
+      "myresolve": "sansat@@20@@CH",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 14:00 | Switzerland Super League | Football | Lang: CH"
     },
     {
       "title": "[COLOR cyan][08/11 14:00][/COLOR] [COLOR gold]St. Gallen vs Lugano[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@CH",
+      "myresolve": "sansat@@20@@CH",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 14:00 | Switzerland Super League | Football | Lang: CH"
@@ -1681,6 +1681,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 15:00 | Croatia 1. HNL | Football | Lang: HR"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:45][/COLOR] [COLOR gold]Hong Kong vs United States[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "08-Nov 15:45 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:45][/COLOR] [COLOR gold]Hong Kong vs United States[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "08-Nov 15:45 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][08/11 15:45][/COLOR] [COLOR gold]Hong Kong vs United States[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@3@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "08-Nov 15:45 | WR Nations Cup | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][08/11 16:00][/COLOR] [COLOR gold]AEK Athens vs Levadiakos[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -1912,6 +1933,69 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 17:30 | Greece Super League | Football | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@7@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Brazilian Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@46@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "08-Nov 18:00 | Formula 1 | Motorsport | Lang: IT"
     },
     {
       "title": "[COLOR cyan][08/11 18:00][/COLOR] [COLOR gold]Midtjylland vs SønderjyskE[/COLOR] - [COLOR lime]TV3 Sport[/COLOR] [COLOR orange][dk][/COLOR] [COLOR yellow]Link 1[/COLOR]",
