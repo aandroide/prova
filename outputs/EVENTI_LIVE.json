@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-06 09:25:15",
+  "last_update": "2026-11-06 17:29:59",
   "items": [
     {
       "title": "ITALY (51)",
@@ -17,11 +17,11 @@
       "info": "96 canali UNITED KINGDOM"
     },
     {
-      "title": "SPAIN (72)",
+      "title": "SPAIN (75)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_SPAIN.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "72 canali SPAIN"
+      "info": "75 canali SPAIN"
     },
     {
       "title": "GERMANY (105)",
@@ -87,18 +87,18 @@
       "info": "15 canali NORWAY"
     },
     {
-      "title": "AUSTRALIA (18)",
+      "title": "AUSTRALIA (15)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "18 canali AUSTRALIA"
+      "info": "15 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (297)",
+      "title": "INTERNAZIONALE (288)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "297 canali INTERNAZIONALE"
+      "info": "288 canali INTERNAZIONALE"
     }
   ]
 }
