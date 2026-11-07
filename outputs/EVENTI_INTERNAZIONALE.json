@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-07 02:48:47",
+  "last_update": "2026-11-07 10:10:07",
   "items": [
-    {
-      "title": "[COLOR cyan][07/11 02:00][/COLOR] [COLOR gold]Atlético San Luis vs Juárez[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@MX",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Nov 02:00 | Mexico Liga MX | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][07/11 02:00][/COLOR] [COLOR gold]Atlético San Luis vs Juárez[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@MX",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Nov 02:00 | Mexico Liga MX | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][07/11 02:00][/COLOR] [COLOR gold]Atlético San Luis vs Juárez[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][mx][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@29@@MX",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Nov 02:00 | Mexico Liga MX | Football | Lang: MX"
-    },
-    {
-      "title": "[COLOR cyan][07/11 02:00][/COLOR] [COLOR gold]Necaxa vs Tijuana[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/11 02:00][/COLOR] [COLOR gold]Necaxa vs Tijuana[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/11 02:00][/COLOR] [COLOR gold]Necaxa vs Tijuana[/COLOR] - [COLOR lime]Fox Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/11 04:00][/COLOR] [COLOR gold]Atlante vs Santos Laguna[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/11 04:00][/COLOR] [COLOR gold]Atlante vs Santos Laguna[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][07/11 04:00][/COLOR] [COLOR gold]Atlante vs Santos Laguna[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][07/11 09:30][/COLOR] [COLOR gold]Qatar Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -297,21 +234,21 @@
       "info": "07-Nov 15:30 | Saudi Arabia Pro League | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Volos NFC vs Kifisia[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Volos NFC vs Kifisia[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@23@@GR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Nov 16:00 | Greece Super League | Football | Lang: GR"
     },
     {
-      "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Volos NFC vs Kifisia[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Volos NFC vs Kifisia[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@23@@GR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Nov 16:00 | Greece Super League | Football | Lang: GR"
     },
     {
-      "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Volos NFC vs Kifisia[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][07/11 16:00][/COLOR] [COLOR gold]Volos NFC vs Kifisia[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@23@@GR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
@@ -612,21 +549,21 @@
       "info": "07-Nov 18:15 | Belgium Pro League | Football | Lang: BE"
     },
     {
-      "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Aris vs Panaitolikos[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Aris vs Panaitolikos[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@23@@GR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Nov 18:30 | Greece Super League | Football | Lang: GR"
     },
     {
-      "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Aris vs Panaitolikos[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Aris vs Panaitolikos[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@23@@GR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "07-Nov 18:30 | Greece Super League | Football | Lang: GR"
     },
     {
-      "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Aris vs Panaitolikos[/COLOR] - [COLOR lime]TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][07/11 18:30][/COLOR] [COLOR gold]Aris vs Panaitolikos[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@23@@GR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
