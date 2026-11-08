@@ -1,133 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-07 20:53:10",
+  "last_update": "2026-11-08 00:36:37",
   "items": [
-    {
-      "title": "[COLOR cyan][07/11 20:00][/COLOR] [COLOR gold]Willy Hutchinson vs Joshua Buatsi[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:00][/COLOR] [COLOR gold]Willy Hutchinson vs Joshua Buatsi[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:00][/COLOR] [COLOR gold]Willy Hutchinson vs Joshua Buatsi[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@81@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:30][/COLOR] [COLOR gold]Grasshopper vs Lausanne Sport[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:30][/COLOR] [COLOR gold]Grasshopper vs Lausanne Sport[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:30][/COLOR] [COLOR gold]Grasshopper vs Lausanne Sport[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:45][/COLOR] [COLOR gold]Antwerp vs Lommel United[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:45][/COLOR] [COLOR gold]Antwerp vs Lommel United[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:45][/COLOR] [COLOR gold]Antwerp vs Lommel United[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:45][/COLOR] [COLOR gold]RAAL La Louvière vs Cercle Brugge[/COLOR] - [COLOR lime]DAZN Pro League 2[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@50@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:45][/COLOR] [COLOR gold]RAAL La Louvière vs Cercle Brugge[/COLOR] - [COLOR lime]DAZN Pro League 2[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@50@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][07/11 20:45][/COLOR] [COLOR gold]RAAL La Louvière vs Cercle Brugge[/COLOR] - [COLOR lime]DAZN Pro League 2[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@50@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 20:45 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][07/11 21:00][/COLOR] [COLOR gold]St. Mirren vs Rangers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/11 21:00][/COLOR] [COLOR gold]St. Mirren vs Rangers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/11 21:00][/COLOR] [COLOR gold]St. Mirren vs Rangers[/COLOR] - [COLOR lime]Sky Sports Football[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@5@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "07-Nov 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][07/11 21:00][/COLOR] [COLOR gold]Excelsior vs Go Ahead Eagles[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Nov 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][07/11 21:00][/COLOR] [COLOR gold]Excelsior vs Go Ahead Eagles[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Nov 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][07/11 21:00][/COLOR] [COLOR gold]Excelsior vs Go Ahead Eagles[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "07-Nov 21:00 | Netherlands Eredivisie | Football | Lang: NL"
-    },
     {
       "title": "[COLOR cyan][08/11 00:00][/COLOR] [COLOR gold]UFC Fight Night[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@81@@US",
@@ -192,21 +66,21 @@
       "info": "08-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
     },
     {
-      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Gabriel Bonfim vs Sean Brady[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Johnny Walker vs Waldo Cortes-Acosta[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@81@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 02:00 | UFC | MMA | Lang: US"
     },
     {
-      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Gabriel Bonfim vs Sean Brady[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Johnny Walker vs Waldo Cortes-Acosta[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@81@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "08-Nov 02:00 | UFC | MMA | Lang: US"
     },
     {
-      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Gabriel Bonfim vs Sean Brady[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][08/11 02:00][/COLOR] [COLOR gold]Johnny Walker vs Waldo Cortes-Acosta[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@81@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
