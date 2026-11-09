@@ -1,70 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-08 23:43:14",
+  "last_update": "2026-11-09 06:30:00",
   "items": [
-    {
-      "title": "[COLOR cyan][08/11 23:30][/COLOR] [COLOR gold]Central Córdoba SdE vs Lanús[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@85@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Nov 23:30 | Argentina Primera División | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][08/11 23:30][/COLOR] [COLOR gold]Central Córdoba SdE vs Lanús[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@85@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Nov 23:30 | Argentina Primera División | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][08/11 23:30][/COLOR] [COLOR gold]Central Córdoba SdE vs Lanús[/COLOR] - [COLOR lime]TNT Sports[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@85@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "08-Nov 23:30 | Argentina Primera División | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/11 01:00][/COLOR] [COLOR gold]Querétaro vs Puebla[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Nov 01:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/11 01:00][/COLOR] [COLOR gold]Querétaro vs Puebla[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Nov 01:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/11 01:00][/COLOR] [COLOR gold]Querétaro vs Puebla[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Nov 01:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/11 03:30][/COLOR] [COLOR gold]León vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Nov 03:30 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/11 03:30][/COLOR] [COLOR gold]León vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Nov 03:30 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][09/11 03:30][/COLOR] [COLOR gold]León vs Guadalajara[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "09-Nov 03:30 | Mexico Liga MX | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][10/11 20:00][/COLOR] [COLOR gold]Rostock vs vs Cedevita Olimpija[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@11@@DE",
