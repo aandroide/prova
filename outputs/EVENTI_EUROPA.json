@@ -1,112 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-11 15:12:36",
+  "last_update": "2026-11-11 21:58:27",
   "items": [
-    {
-      "title": "[COLOR cyan][11/11 17:30][/COLOR] [COLOR gold]Saipa Lappeenranta vs Hc Pardubice[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@67@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 17:30 | Champions League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 17:30][/COLOR] [COLOR gold]Saipa Lappeenranta vs Hc Pardubice[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@67@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 17:30 | Champions League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 17:30][/COLOR] [COLOR gold]Saipa Lappeenranta vs Hc Pardubice[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@67@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 17:30 | Champions League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 18:45][/COLOR] [COLOR gold]OH Leuven vs Køge Kvinder[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@9@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/11 18:45][/COLOR] [COLOR gold]OH Leuven vs Køge Kvinder[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@9@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/11 18:45][/COLOR] [COLOR gold]OH Leuven vs Køge Kvinder[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@9@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][11/11 19:30][/COLOR] [COLOR gold]Kolner Haie vs Liberec[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@16@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 19:30 | Champions League | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 19:30][/COLOR] [COLOR gold]Kolner Haie vs Liberec[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@16@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 19:30 | Champions League | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 19:30][/COLOR] [COLOR gold]Kolner Haie vs Liberec[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@16@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 19:30 | Champions League | Hockey | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 19:45][/COLOR] [COLOR gold]Geneve vs Servette HC vs Hc Fribourg Gotteron[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@68@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 19:45 | Champions League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 19:45][/COLOR] [COLOR gold]Geneve vs Servette HC vs Hc Fribourg Gotteron[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@68@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 19:45 | Champions League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 19:45][/COLOR] [COLOR gold]Geneve vs Servette HC vs Hc Fribourg Gotteron[/COLOR] - [COLOR lime]Viaplay[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@68@@SE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 19:45 | Champions League | Hockey | Lang: SE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 20:30][/COLOR] [COLOR gold]Murcia vs Bamberg[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 20:30 | Champions League | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 20:30][/COLOR] [COLOR gold]Murcia vs Bamberg[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 20:30 | Champions League | Basketball | Lang: DE"
-    },
-    {
-      "title": "[COLOR cyan][11/11 20:30][/COLOR] [COLOR gold]Murcia vs Bamberg[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@15@@DE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "11-Nov 20:30 | Champions League | Basketball | Lang: DE"
-    },
     {
       "title": "[COLOR cyan][11/11 21:00][/COLOR] [COLOR gold]Juventus vs OL Lyonnes[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@9@@US",
@@ -673,6 +568,195 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "13-Nov 20:45 | Europe UEFA Nations League | Football | Lang: BG"
+    },
+    {
+      "title": "[COLOR cyan][14/11 15:00][/COLOR] [COLOR gold]Kosovo vs Israel[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 15:00][/COLOR] [COLOR gold]Kosovo vs Israel[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 15:00][/COLOR] [COLOR gold]Kosovo vs Israel[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 18:00][/COLOR] [COLOR gold]Norway vs Wales[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "14-Nov 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 18:00][/COLOR] [COLOR gold]Norway vs Wales[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "14-Nov 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 18:00][/COLOR] [COLOR gold]Norway vs Wales[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "14-Nov 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 18:00][/COLOR] [COLOR gold]Georgia vs Hungary[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 18:00][/COLOR] [COLOR gold]Georgia vs Hungary[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 18:00][/COLOR] [COLOR gold]Georgia vs Hungary[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 18:00 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Northern Ireland vs Ukraine[/COLOR] - [COLOR lime]BBC Two[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Northern Ireland vs Ukraine[/COLOR] - [COLOR lime]BBC Two[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Northern Ireland vs Ukraine[/COLOR] - [COLOR lime]BBC Two[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@2@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Austria vs Ireland Republic[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Austria vs Ireland Republic[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Austria vs Ireland Republic[/COLOR] - [COLOR lime]RTE 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@3@@GB",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Portugal vs Denmark[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Portugal vs Denmark[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Portugal vs Denmark[/COLOR] - [COLOR lime]Sport TV1[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@21@@PT",
+      "thumbnail": "https://r2.thesportsdb.com/images/media/channel/logo/vy9kl11700902598.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Portugal vs Denmark[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Portugal vs Denmark[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Portugal vs Denmark[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Romania vs Poland[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@60@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Romania vs Poland[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@60@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Romania vs Poland[/COLOR] - [COLOR lime]TVP Sport[/COLOR] [COLOR orange][pt][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@60@@PT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: PT"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Sweden vs Bosnia and Herzegovina[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Sweden vs Bosnia and Herzegovina[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][14/11 20:45][/COLOR] [COLOR gold]Sweden vs Bosnia and Herzegovina[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
     }
   ]
 }
