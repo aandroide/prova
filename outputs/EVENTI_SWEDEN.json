@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-14 03:16:42",
+  "last_update": "2026-11-14 10:38:34",
   "items": [
     {
       "title": "[COLOR cyan][14/11 15:00][/COLOR] [COLOR gold]Vimmerby HC vs Nybro Vikings IF[/COLOR] - [COLOR lime]TV4 Sportkanalen[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -45,23 +45,23 @@
       "info": "14-Nov 15:15 | SHL | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][14/11 15:15][/COLOR] [COLOR gold]Malmö Redhawks vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][14/11 15:15][/COLOR] [COLOR gold]Malmö Redhawks vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "info": "14-Nov 15:15 | SHL | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][14/11 15:15][/COLOR] [COLOR gold]Malmö Redhawks vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][14/11 15:15][/COLOR] [COLOR gold]Malmö Redhawks vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "info": "14-Nov 15:15 | SHL | Hockey | Lang: SE"
     },
     {
-      "title": "[COLOR cyan][14/11 15:15][/COLOR] [COLOR gold]Malmö Redhawks vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sport Live 1[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][14/11 15:15][/COLOR] [COLOR gold]Malmö Redhawks vs Växjö Lakers[/COLOR] - [COLOR lime]TV4 Sport Live 2[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@62@@SE",
-      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/25XzA8bRGUMxcIwr5EzXtJ/92e5b953dc767e929dfc63e3a03699ca/tv4_sport_live_1.png?fit=scale&w=256&fm=webp&q=75&h=256",
+      "thumbnail": "https://www.telia.se/images/j6b4qnxw7ufu/6qU6aJGG9kgAECw6c3xpEm/79fde1c03151b9bcee3a276eb4e23d55/tv4_sport_live_2.png?fit=scale&w=256&fm=webp&q=75&h=256",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/se-sphere-01.png",
       "info": "14-Nov 15:15 | SHL | Hockey | Lang: SE"
     },
@@ -253,6 +253,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Nov 16:30 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][16/11 19:00][/COLOR] [COLOR gold]Östersunds IK vs Visby/Roma HK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][16/11 19:00][/COLOR] [COLOR gold]Östersunds IK vs Visby/Roma HK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][16/11 19:00][/COLOR] [COLOR gold]Östersunds IK vs Visby/Roma HK[/COLOR] - [COLOR lime]TV4 Hockey[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@64@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 19:00 | Sweden Hockeyallsvenskan | Hockey | Lang: SE"
     }
   ]
 }

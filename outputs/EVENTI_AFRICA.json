@@ -1,90 +1,132 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-12 18:56:26",
+  "last_update": "2026-11-14 10:38:34",
   "items": [
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Senegal vs Sudan[/COLOR] - [COLOR lime]Canal+ Sport 1 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Zimbabwe vs Equatorial Guinea[/COLOR] - [COLOR lime]beIN SPORTS XTRA[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Zimbabwe vs Equatorial Guinea[/COLOR] - [COLOR lime]beIN SPORTS XTRA[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Zimbabwe vs Equatorial Guinea[/COLOR] - [COLOR lime]beIN SPORTS XTRA[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@38@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Sudan vs Senegal[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Senegal vs Sudan[/COLOR] - [COLOR lime]Canal+ Sport 1 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Sudan vs Senegal[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Senegal vs Sudan[/COLOR] - [COLOR lime]Canal+ Sport 1 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Sudan vs Senegal[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@51@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Côte d'Ivoire vs Gambia[/COLOR] - [COLOR lime]Canal+ Sport 2 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Namibia vs Cameroon[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@52@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Côte d'Ivoire vs Gambia[/COLOR] - [COLOR lime]Canal+ Sport 2 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Namibia vs Cameroon[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
       "myresolve": "sansat@@52@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Côte d'Ivoire vs Gambia[/COLOR] - [COLOR lime]Canal+ Sport 2 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "title": "[COLOR cyan][16/11 14:00][/COLOR] [COLOR gold]Namibia vs Cameroon[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
       "myresolve": "sansat@@52@@FR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 14:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Cameroon vs Namibia[/COLOR] - [COLOR lime]Canal+ Sport 3 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "title": "[COLOR cyan][16/11 16:00][/COLOR] [COLOR gold]Somalia vs Ghana[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "16-Nov 16:00 | Africa Africa Cup of Nations Qualification | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Cameroon vs Namibia[/COLOR] - [COLOR lime]Canal+ Sport 3 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "title": "[COLOR cyan][16/11 16:00][/COLOR] [COLOR gold]Somalia vs Ghana[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "16-Nov 16:00 | Africa Africa Cup of Nations Qualification | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Cameroon vs Namibia[/COLOR] - [COLOR lime]Canal+ Sport 3 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@53@@FR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "title": "[COLOR cyan][16/11 16:00][/COLOR] [COLOR gold]Somalia vs Ghana[/COLOR] - [COLOR lime]DAZN2[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@18@@DE",
+      "thumbnail": "https://3038.images-vfp2.ott.kaltura.com/Service.svc/GetImage/p/3038/entry_id/8395aa532bfc4e01b91098ff5bcd18d0/version/1",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/pt-circle-01.png",
+      "info": "16-Nov 16:00 | Africa Africa Cup of Nations Qualification | Football | Lang: DE"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Benin vs Central African Republic[/COLOR] - [COLOR lime]Canal+ Sport 4 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "title": "[COLOR cyan][16/11 17:00][/COLOR] [COLOR gold]Central African Republic vs Benin[/COLOR] - [COLOR lime]beIN SPORTS XTRA[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 17:00 | Africa Africa Cup of Nations Qualification | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Benin vs Central African Republic[/COLOR] - [COLOR lime]Canal+ Sport 4 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "title": "[COLOR cyan][16/11 17:00][/COLOR] [COLOR gold]Central African Republic vs Benin[/COLOR] - [COLOR lime]beIN SPORTS XTRA[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 17:00 | Africa Africa Cup of Nations Qualification | Football | Lang: US"
     },
     {
-      "title": "[COLOR cyan][12/11 20:00][/COLOR] [COLOR gold]Benin vs Central African Republic[/COLOR] - [COLOR lime]Canal+ Sport 4 Afrique[/COLOR] [COLOR orange][fr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@54@@FR",
+      "title": "[COLOR cyan][16/11 17:00][/COLOR] [COLOR gold]Central African Republic vs Benin[/COLOR] - [COLOR lime]beIN SPORTS XTRA[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@38@@US",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12-Nov 20:00 | Africa Africa Cup of Nations Qualification | Football | Lang: FR"
+      "info": "16-Nov 17:00 | Africa Africa Cup of Nations Qualification | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 17:00][/COLOR] [COLOR gold]Eritrea vs Guinea[/COLOR] - [COLOR lime]beIN SPORTS en Español[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 17:00 | Africa Africa Cup of Nations Qualification | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/11 17:00][/COLOR] [COLOR gold]Eritrea vs Guinea[/COLOR] - [COLOR lime]beIN SPORTS en Español[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 17:00 | Africa Africa Cup of Nations Qualification | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][16/11 17:00][/COLOR] [COLOR gold]Eritrea vs Guinea[/COLOR] - [COLOR lime]beIN SPORTS en Español[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@40@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 17:00 | Africa Africa Cup of Nations Qualification | Football | Lang: ES"
     }
   ]
 }

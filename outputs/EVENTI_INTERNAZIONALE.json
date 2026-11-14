@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-14 03:16:42",
+  "last_update": "2026-11-14 10:38:34",
   "items": [
-    {
-      "title": "[COLOR cyan][14/11 03:00][/COLOR] [COLOR gold]Guatemala vs Canada[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "14-Nov 03:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/11 03:00][/COLOR] [COLOR gold]Guatemala vs Canada[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "14-Nov 03:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][14/11 03:00][/COLOR] [COLOR gold]Guatemala vs Canada[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "14-Nov 03:00 | North America CONCACAF Nations League | Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][14/11 13:30][/COLOR] [COLOR gold]Carlos Adames vs Gerome Warburton[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@3@@NZ",
@@ -126,6 +105,48 @@
       "myresolve": "sansat@@5@@NZ",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][14/11 17:00][/COLOR] [COLOR gold]Spain vs Chile[/COLOR] - [COLOR lime]M+ Vamos Bar[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/11 17:00][/COLOR] [COLOR gold]Spain vs Chile[/COLOR] - [COLOR lime]M+ Vamos Bar[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/11 17:00][/COLOR] [COLOR gold]Spain vs Chile[/COLOR] - [COLOR lime]M+ Vamos Bar[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@30@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][14/11 17:00][/COLOR] [COLOR gold]Spain vs Chile[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@36@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][14/11 17:00][/COLOR] [COLOR gold]Spain vs Chile[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@36@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][14/11 17:00][/COLOR] [COLOR gold]Spain vs Chile[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@36@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
       "info": "14-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
     },
     {
@@ -316,6 +337,48 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "15-Nov 15:45 | Switzerland National League | Hockey | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][16/11 00:00][/COLOR] [COLOR gold]Panama vs Curaçao[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "16-Nov 00:00 | North America CONCACAF Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 00:00][/COLOR] [COLOR gold]Panama vs Curaçao[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "16-Nov 00:00 | North America CONCACAF Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 00:00][/COLOR] [COLOR gold]Panama vs Curaçao[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "16-Nov 00:00 | North America CONCACAF Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 20:00][/COLOR] [COLOR gold]Guyana vs Puerto Rico[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 20:00 | North America CONCACAF Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 20:00][/COLOR] [COLOR gold]Guyana vs Puerto Rico[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 20:00 | North America CONCACAF Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][16/11 20:00][/COLOR] [COLOR gold]Guyana vs Puerto Rico[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "16-Nov 20:00 | North America CONCACAF Nations League | Football | Lang: US"
     }
   ]
 }
