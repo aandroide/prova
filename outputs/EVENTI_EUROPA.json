@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-15 09:27:11",
+  "last_update": "2026-11-15 17:11:42",
   "items": [
-    {
-      "title": "[COLOR cyan][15/11 15:00][/COLOR] [COLOR gold]Cyprus vs Montenegro[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "15-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/11 15:00][/COLOR] [COLOR gold]Cyprus vs Montenegro[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "15-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/11 15:00][/COLOR] [COLOR gold]Cyprus vs Montenegro[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@82@@US",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
-      "info": "15-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/11 15:00][/COLOR] [COLOR gold]Latvia vs Armenia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/11 15:00][/COLOR] [COLOR gold]Latvia vs Armenia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][15/11 15:00][/COLOR] [COLOR gold]Latvia vs Armenia[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@83@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15-Nov 15:00 | Europe UEFA Nations League | Football | Lang: US"
-    },
     {
       "title": "[COLOR cyan][15/11 18:00][/COLOR] [COLOR gold]Finland vs San Marino[/COLOR] - [COLOR lime]Fubo Sports Network 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@9@@US",
@@ -883,6 +841,258 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
       "info": "17-Nov 20:45 | Europe UEFA Nations League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Real Madrid vs Inter Milano[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Real Madrid vs Inter Milano[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Real Madrid vs Inter Milano[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Real Madrid vs Inter Milano[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Real Madrid vs Inter Milano[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Real Madrid vs Inter Milano[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Häcken vs Manchester City[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Häcken vs Manchester City[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/11 18:45][/COLOR] [COLOR gold]Häcken vs Manchester City[/COLOR] - [COLOR lime]TV12[/COLOR] [COLOR orange][se][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@80@@SE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: SE"
+    },
+    {
+      "title": "[COLOR cyan][18/11 21:00][/COLOR] [COLOR gold]Juventus vs OH Leuven[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 21:00][/COLOR] [COLOR gold]Juventus vs OH Leuven[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 21:00][/COLOR] [COLOR gold]Juventus vs OH Leuven[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][18/11 21:00][/COLOR] [COLOR gold]Chelsea FC vs PSG[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/11 21:00][/COLOR] [COLOR gold]Chelsea FC vs PSG[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][18/11 21:00][/COLOR] [COLOR gold]Chelsea FC vs PSG[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "18-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Austria Wien vs Bayern[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Austria Wien vs Bayern[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Austria Wien vs Bayern[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Austria Wien vs Bayern[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Austria Wien vs Bayern[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Austria Wien vs Bayern[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Paris FC vs Køge[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Paris FC vs Køge[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 18:45][/COLOR] [COLOR gold]Paris FC vs Køge[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 18:45 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Barcelona vs Servette Chênois Féminin[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Barcelona vs Servette Chênois Féminin[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Barcelona vs Servette Chênois Féminin[/COLOR] - [COLOR lime]CBS Sports Network[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@8@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Barcelona vs Servette Chênois Féminin[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Barcelona vs Servette Chênois Féminin[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Barcelona vs Servette Chênois Féminin[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Arsenal vs OL Lyonnes[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Arsenal vs OL Lyonnes[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]Arsenal vs OL Lyonnes[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@9@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]SL Benfica vs Roma[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]SL Benfica vs Roma[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][19/11 21:00][/COLOR] [COLOR gold]SL Benfica vs Roma[/COLOR] - [COLOR lime]Paramount+[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@10@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "19-Nov 21:00 | Europe UEFA Women's Champions League | Football | Lang: US"
     }
   ]
 }
