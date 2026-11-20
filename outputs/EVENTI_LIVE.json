@@ -1,6 +1,6 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-20 03:15:35",
+  "last_update": "2026-11-20 11:50:01",
   "items": [
     {
       "title": "ITALY (33)",
@@ -38,18 +38,18 @@
       "info": "36 canali FRANCE"
     },
     {
-      "title": "USA (159)",
+      "title": "USA (126)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_USA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/us-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "159 canali USA"
+      "info": "126 canali USA"
     },
     {
-      "title": "CANADA (15)",
+      "title": "CANADA (12)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_CANADA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/ca-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "15 canali CANADA"
+      "info": "12 canali CANADA"
     },
     {
       "title": "PORTUGAL (15)",
@@ -94,18 +94,18 @@
       "info": "3 canali NORWAY"
     },
     {
-      "title": "AUSTRALIA (12)",
+      "title": "AUSTRALIA (9)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_AUSTRALIA.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/au-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "12 canali AUSTRALIA"
+      "info": "9 canali AUSTRALIA"
     },
     {
-      "title": "INTERNAZIONALE (252)",
+      "title": "INTERNAZIONALE (243)",
       "externallink": "https://raw.githubusercontent.com/aandroide/prova/main/outputs/EVENTI_INTERNAZIONALE.json",
       "thumbnail": "https://vectorflags.s3.amazonaws.com/flags/org-eu-circle-01.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "252 canali INTERNAZIONALE"
+      "info": "243 canali INTERNAZIONALE"
     }
   ]
 }
