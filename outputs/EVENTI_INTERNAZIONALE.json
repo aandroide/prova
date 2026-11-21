@@ -1,217 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-21 02:15:44",
+  "last_update": "2026-11-21 09:55:04",
   "items": [
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 01:30][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 01:30 | Formula 1 | Motorsport | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 02:00][/COLOR] [COLOR gold]Amari Jones vs DeAundre Pettus[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 02:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][21/11 02:00][/COLOR] [COLOR gold]Amari Jones vs DeAundre Pettus[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 02:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][21/11 02:00][/COLOR] [COLOR gold]Amari Jones vs DeAundre Pettus[/COLOR] - [COLOR lime]DAZN[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@8@@US",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 02:00 | Fighting | Boxing | Lang: US"
-    },
-    {
-      "title": "[COLOR cyan][21/11 02:00][/COLOR] [COLOR gold]Puebla vs Atletico San Luis[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 02:00][/COLOR] [COLOR gold]Puebla vs Atletico San Luis[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 02:00][/COLOR] [COLOR gold]Puebla vs Atletico San Luis[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 02:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 04:00][/COLOR] [COLOR gold]Tijuana vs Atlante[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 04:00][/COLOR] [COLOR gold]Tijuana vs Atlante[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 04:00][/COLOR] [COLOR gold]Tijuana vs Atlante[/COLOR] - [COLOR lime]TUDN[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@30@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 04:00][/COLOR] [COLOR gold]Juarez vs Atlas[/COLOR] - [COLOR lime]FOX Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 04:00][/COLOR] [COLOR gold]Juarez vs Atlas[/COLOR] - [COLOR lime]FOX Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 04:00][/COLOR] [COLOR gold]Juarez vs Atlas[/COLOR] - [COLOR lime]FOX Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@87@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 04:00 | Mexico Liga MX | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sports F1[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@7@@GB",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-sky-sport-hd-1-155.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/de-circle-01.png",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]DAZN F1[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@29@@ES",
-      "thumbnail": "https://img2.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/es-sphere-01.png",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 05:00][/COLOR] [COLOR gold]Las Vegas Grand Prix[/COLOR] - [COLOR lime]Sky Sport F1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@46@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 05:00 | Formula 1 | Motorsport | Lang: IT"
-    },
     {
       "title": "[COLOR cyan][21/11 09:40][/COLOR] [COLOR gold]Portuguese Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@2@@GB",
@@ -232,6 +22,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Nov 09:40 | MotoGP | Motorsport | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][21/11 10:00][/COLOR] [COLOR gold]Hong Kong vs Tonga[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@6@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 10:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 10:00][/COLOR] [COLOR gold]Hong Kong vs Tonga[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@6@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 10:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 10:00][/COLOR] [COLOR gold]Hong Kong vs Tonga[/COLOR] - [COLOR lime]Sky Sport 6[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@6@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/8/80/Sky_Sport_6_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143701",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 10:00 | WR Nations Cup | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][21/11 11:30][/COLOR] [COLOR gold]Genclerbirligi vs Gaziantep FK[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -318,6 +129,27 @@
       "info": "21-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
     },
     {
+      "title": "[COLOR cyan][21/11 15:00][/COLOR] [COLOR gold]Georgia vs United States[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 15:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 15:00][/COLOR] [COLOR gold]Georgia vs United States[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 15:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 15:00][/COLOR] [COLOR gold]Georgia vs United States[/COLOR] - [COLOR lime]Sky Sport 3[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@10@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/5d/Sky_Sport_3_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143951",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 15:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
       "title": "[COLOR cyan][21/11 15:00][/COLOR] [COLOR gold]Lokomotiva Zagreb vs Hajduk Split[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@70@@HR",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
@@ -337,6 +169,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Nov 15:00 | Croatia 1. HNL | Football | Lang: HR"
+    },
+    {
+      "title": "[COLOR cyan][21/11 16:00][/COLOR] [COLOR gold]Portugal vs Uruguay[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 16:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 16:00][/COLOR] [COLOR gold]Portugal vs Uruguay[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 16:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 16:00][/COLOR] [COLOR gold]Portugal vs Uruguay[/COLOR] - [COLOR lime]Sky Sport 4[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@40@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/9/90/Sky_Sport_4_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143941",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 16:00 | WR Nations Cup | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][21/11 16:00][/COLOR] [COLOR gold]Sporting Charleroi vs Sint-Truiden[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -400,6 +253,27 @@
       "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
       "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
       "info": "21-Nov 16:30 | Netherlands Eredivisie | Football | Lang: NL"
+    },
+    {
+      "title": "[COLOR cyan][21/11 17:00][/COLOR] [COLOR gold]Spain vs Samoa[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@29@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 17:00][/COLOR] [COLOR gold]Spain vs Samoa[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@29@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 17:00][/COLOR] [COLOR gold]Spain vs Samoa[/COLOR] - [COLOR lime]Sky Sport 5[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@29@@NZ",
+      "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/2/23/Sky_Sport_5_NZ.svg/revision/latest/scale-to-width-down/512?cb=20230830143710",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nz-circle-01.png",
+      "info": "21-Nov 17:00 | WR Nations Cup | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][21/11 17:00][/COLOR] [COLOR gold]Kocaelispor vs Fenerbahce[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
@@ -484,6 +358,27 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "21-Nov 18:00 | UFC | MMA | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][21/11 18:15][/COLOR] [COLOR gold]Zimbabwe vs Chile[/COLOR] - [COLOR lime]Sky Sport Select[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@1@@NZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Nov 18:15 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 18:15][/COLOR] [COLOR gold]Zimbabwe vs Chile[/COLOR] - [COLOR lime]Sky Sport Select[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@1@@NZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Nov 18:15 | WR Nations Cup | Rugby | Lang: NZ"
+    },
+    {
+      "title": "[COLOR cyan][21/11 18:15][/COLOR] [COLOR gold]Zimbabwe vs Chile[/COLOR] - [COLOR lime]Sky Sport Select[/COLOR] [COLOR orange][nz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@1@@NZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "21-Nov 18:15 | WR Nations Cup | Rugby | Lang: NZ"
     },
     {
       "title": "[COLOR cyan][21/11 18:15][/COLOR] [COLOR gold]Genk vs RAAL La Louviere[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
