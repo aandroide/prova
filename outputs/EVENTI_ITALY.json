@@ -1,49 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-21 17:32:59",
+  "last_update": "2026-11-21 23:16:29",
   "items": [
-    {
-      "title": "[COLOR cyan][21/11 18:00][/COLOR] [COLOR gold]Parma vs Roma[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "21-Nov 18:00 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 18:00][/COLOR] [COLOR gold]Parma vs Roma[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "21-Nov 18:00 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 18:00][/COLOR] [COLOR gold]Parma vs Roma[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
-      "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
-      "info": "21-Nov 18:00 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 20:45][/COLOR] [COLOR gold]Napoli vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 20:45][/COLOR] [COLOR gold]Napoli vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 20:45 | Italy Serie A | Football | Lang: IT"
-    },
-    {
-      "title": "[COLOR cyan][21/11 20:45][/COLOR] [COLOR gold]Napoli vs Torino[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@47@@IT",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "21-Nov 20:45 | Italy Serie A | Football | Lang: IT"
-    },
     {
       "title": "[COLOR cyan][22/11 12:30][/COLOR] [COLOR gold]Juventus vs Venezia[/COLOR] - [COLOR lime]DAZN1[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@47@@IT",
@@ -169,6 +127,27 @@
       "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/512px-DAZN_1.svg.png",
       "fanart": "https://static.vecteezy.com/system/resources/previews/041/446/736/non_2x/italy-national-flag-free-png.png",
       "info": "22-Nov 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][23/11 20:45][/COLOR] [COLOR gold]Monza vs Fiorentina[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Nov 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][23/11 20:45][/COLOR] [COLOR gold]Monza vs Fiorentina[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Nov 20:45 | Italy Serie A | Football | Lang: IT"
+    },
+    {
+      "title": "[COLOR cyan][23/11 20:45][/COLOR] [COLOR gold]Monza vs Fiorentina[/COLOR] - [COLOR lime]Sky Sport Calcio[/COLOR] [COLOR orange][it][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@47@@IT",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "23-Nov 20:45 | Italy Serie A | Football | Lang: IT"
     }
   ]
 }
