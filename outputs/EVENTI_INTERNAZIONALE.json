@@ -1,490 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-22 11:35:37",
+  "last_update": "2026-11-22 19:40:56",
   "items": [
-    {
-      "title": "[COLOR cyan][22/11 10:40][/COLOR] [COLOR gold]Portuguese Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 10:40 | MotoGP | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][22/11 10:40][/COLOR] [COLOR gold]Portuguese Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 10:40 | MotoGP | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][22/11 10:40][/COLOR] [COLOR gold]Portuguese Grand Prix[/COLOR] - [COLOR lime]TNT Sports 2[/COLOR] [COLOR orange][gb][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@2@@GB",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 10:40 | MotoGP | Motorsport | Lang: GB"
-    },
-    {
-      "title": "[COLOR cyan][22/11 11:30][/COLOR] [COLOR gold]BB Erzurumspor vs Göztepe[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 11:30 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 11:30][/COLOR] [COLOR gold]BB Erzurumspor vs Göztepe[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 11:30 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 11:30][/COLOR] [COLOR gold]BB Erzurumspor vs Göztepe[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 11:30 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 12:00][/COLOR] [COLOR gold]Botev Vratsa vs CSKA 1948[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 12:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 12:00][/COLOR] [COLOR gold]Botev Vratsa vs CSKA 1948[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 12:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 12:00][/COLOR] [COLOR gold]Botev Vratsa vs CSKA 1948[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 12:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 12:15][/COLOR] [COLOR gold]Twente vs Willem II[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 12:15 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 12:15][/COLOR] [COLOR gold]Twente vs Willem II[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 12:15 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 12:15][/COLOR] [COLOR gold]Twente vs Willem II[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 12:15 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 13:30][/COLOR] [COLOR gold]SK Beveren vs Gent[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 13:30 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 13:30][/COLOR] [COLOR gold]SK Beveren vs Gent[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 13:30 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 13:30][/COLOR] [COLOR gold]SK Beveren vs Gent[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 13:30 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:00][/COLOR] [COLOR gold]Konyaspor vs Beşiktaş[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:00][/COLOR] [COLOR gold]Konyaspor vs Beşiktaş[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:00][/COLOR] [COLOR gold]Konyaspor vs Beşiktaş[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:00][/COLOR] [COLOR gold]Kasımpaşa vs Alanyaspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:00][/COLOR] [COLOR gold]Kasımpaşa vs Alanyaspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:00][/COLOR] [COLOR gold]Kasımpaşa vs Alanyaspor[/COLOR] - [COLOR lime]beIN Sports 2[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@92@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Levski Sofia vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:30 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Levski Sofia vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:30 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Levski Sofia vs Lokomotiv Sofia 1929[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 14:30 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Sparta Rotterdam vs AZ[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Nov 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Sparta Rotterdam vs AZ[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Nov 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Sparta Rotterdam vs AZ[/COLOR] - [COLOR lime]ESPN[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/nl-circle-01.png",
-      "info": "22-Nov 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Ajax vs ADO Den Haag[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Ajax vs ADO Den Haag[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 14:30][/COLOR] [COLOR gold]Ajax vs ADO Den Haag[/COLOR] - [COLOR lime]ESPN3[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@89@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/x8t6yd1660760523.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 14:30 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 15:00][/COLOR] [COLOR gold]Levadiakos vs Atromitos[/COLOR] - [COLOR lime]Nova Sports 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 15:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 15:00][/COLOR] [COLOR gold]Levadiakos vs Atromitos[/COLOR] - [COLOR lime]Nova Sports 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 15:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 15:00][/COLOR] [COLOR gold]Levadiakos vs Atromitos[/COLOR] - [COLOR lime]Nova Sports 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 15:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 15:00][/COLOR] [COLOR gold]Dinamo Zagreb vs Istra 1961[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 15:00][/COLOR] [COLOR gold]Dinamo Zagreb vs Istra 1961[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 15:00][/COLOR] [COLOR gold]Dinamo Zagreb vs Istra 1961[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 15:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:00][/COLOR] [COLOR gold]Panaitolikos vs Volos NFC[/COLOR] - [COLOR lime]MagentaSport 2 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:00][/COLOR] [COLOR gold]Panaitolikos vs Volos NFC[/COLOR] - [COLOR lime]MagentaSport 2 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:00][/COLOR] [COLOR gold]Panaitolikos vs Volos NFC[/COLOR] - [COLOR lime]MagentaSport 2 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:00][/COLOR] [COLOR gold]Kortrijk vs Union Saint-Gilloise[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:00 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:00][/COLOR] [COLOR gold]Kortrijk vs Union Saint-Gilloise[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:00 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:00][/COLOR] [COLOR gold]Kortrijk vs Union Saint-Gilloise[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:00 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:30][/COLOR] [COLOR gold]Basel vs Luzern[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:30][/COLOR] [COLOR gold]Basel vs Luzern[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:30][/COLOR] [COLOR gold]Basel vs Luzern[/COLOR] - [COLOR lime]Blue Sport D 1[/COLOR] [COLOR orange][ch][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@20@@CH",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:30 | Switzerland Super League | Football | Lang: CH"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:30][/COLOR] [COLOR gold]Panathinaikos vs OFI[/COLOR] - [COLOR lime]Skai TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:30][/COLOR] [COLOR gold]Panathinaikos vs OFI[/COLOR] - [COLOR lime]Skai TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:30][/COLOR] [COLOR gold]Panathinaikos vs OFI[/COLOR] - [COLOR lime]Skai TV[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@25@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 16:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:45][/COLOR] [COLOR gold]Go Ahead Eagles vs Fortuna Sittard[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:45][/COLOR] [COLOR gold]Go Ahead Eagles vs Fortuna Sittard[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 16:45][/COLOR] [COLOR gold]Go Ahead Eagles vs Fortuna Sittard[/COLOR] - [COLOR lime]ESPN2[/COLOR] [COLOR orange][nl][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@88@@NL",
-      "thumbnail": "https://www.thesportsdb.com/images/media/channel/logo/keezdj1660760512.png",
-      "fanart": "https://vectorflags.s3.amazonaws.com/flags/br-circle-01.png",
-      "info": "22-Nov 16:45 | Netherlands Eredivisie | Football | Lang: NL"
-    },
-    {
-      "title": "[COLOR cyan][22/11 17:00][/COLOR] [COLOR gold]Botev Plovdiv vs CSKA Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 17:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 17:00][/COLOR] [COLOR gold]Botev Plovdiv vs CSKA Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 17:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 17:00][/COLOR] [COLOR gold]Botev Plovdiv vs CSKA Sofia[/COLOR] - [COLOR lime]Diema Sport[/COLOR] [COLOR orange][bg][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@48@@BG",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 17:00 | Bulgaria Parva Liga | Football | Lang: BG"
-    },
-    {
-      "title": "[COLOR cyan][22/11 17:00][/COLOR] [COLOR gold]Trabzonspor vs Eyüpspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 17:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 17:00][/COLOR] [COLOR gold]Trabzonspor vs Eyüpspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 17:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 17:00][/COLOR] [COLOR gold]Trabzonspor vs Eyüpspor[/COLOR] - [COLOR lime]beIN Sports 1[/COLOR] [COLOR orange][tr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@91@@TR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 17:00 | Turkey Super Lig | Football | Lang: TR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Iraklis Saloniki[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Iraklis Saloniki[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Olympiakos Piraeus vs Iraklis Saloniki[/COLOR] - [COLOR lime]MagentaSport 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@24@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Rijeka vs Gorica[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Rijeka vs Gorica[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Rijeka vs Gorica[/COLOR] - [COLOR lime]MAX Sport 1[/COLOR] [COLOR orange][hr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@70@@HR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Croatia 1. HNL | Football | Lang: HR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:30][/COLOR] [COLOR gold]PAOK vs Kifisia[/COLOR] - [COLOR lime]Nova Sports 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:30][/COLOR] [COLOR gold]PAOK vs Kifisia[/COLOR] - [COLOR lime]Nova Sports 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:30][/COLOR] [COLOR gold]PAOK vs Kifisia[/COLOR] - [COLOR lime]Nova Sports 1 League[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@23@@GR",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:30 | Greece Super League | Football | Lang: GR"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:30][/COLOR] [COLOR gold]Anderlecht vs OH Leuven[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:30 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:30][/COLOR] [COLOR gold]Anderlecht vs OH Leuven[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:30 | Belgium Pro League | Football | Lang: BE"
-    },
-    {
-      "title": "[COLOR cyan][22/11 18:30][/COLOR] [COLOR gold]Anderlecht vs OH Leuven[/COLOR] - [COLOR lime]DAZN Pro League 1[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@49@@BE",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:30 | Belgium Pro League | Football | Lang: BE"
-    },
     {
       "title": "[COLOR cyan][22/11 19:15][/COLOR] [COLOR gold]Lommel United vs Standard Liège[/COLOR] - [COLOR lime]DAZN Pro League 2[/COLOR] [COLOR orange][be][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@50@@BE",
@@ -1072,6 +589,195 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "24-Nov 21:00 | Scotland Scottish Premiership | Football | Lang: GB"
+    },
+    {
+      "title": "[COLOR cyan][25/11 14:30][/COLOR] [COLOR gold]Uruguay U17 vs France U17[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "25-Nov 14:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 14:30][/COLOR] [COLOR gold]Uruguay U17 vs France U17[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "25-Nov 14:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 14:30][/COLOR] [COLOR gold]Uruguay U17 vs France U17[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "25-Nov 14:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 14:30][/COLOR] [COLOR gold]Haiti U17 vs Saudi Arabia U17[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 14:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 14:30][/COLOR] [COLOR gold]Haiti U17 vs Saudi Arabia U17[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 14:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 14:30][/COLOR] [COLOR gold]Haiti U17 vs Saudi Arabia U17[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 14:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 16:30][/COLOR] [COLOR gold]Denmark U17 vs Argentina U17[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "25-Nov 16:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 16:30][/COLOR] [COLOR gold]Denmark U17 vs Argentina U17[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "25-Nov 16:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 16:30][/COLOR] [COLOR gold]Denmark U17 vs Argentina U17[/COLOR] - [COLOR lime]Fox Sports 2[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@82@@US",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/512px-Fox_sports_2_logo.svg.png",
+      "fanart": "https://vectorflags.s3.amazonaws.com/flags/ar-circle-01.png",
+      "info": "25-Nov 16:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 16:30][/COLOR] [COLOR gold]Australia U17 vs Mozambique U17[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 16:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 16:30][/COLOR] [COLOR gold]Australia U17 vs Mozambique U17[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 16:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 16:30][/COLOR] [COLOR gold]Australia U17 vs Mozambique U17[/COLOR] - [COLOR lime]Fox Soccer Plus[/COLOR] [COLOR orange][us][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@83@@US",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 16:30 | FIFA U-17 World Cup | Football | Lang: US"
+    },
+    {
+      "title": "[COLOR cyan][25/11 17:00][/COLOR] [COLOR gold]Dubai vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 17:00 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 17:00][/COLOR] [COLOR gold]Dubai vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 17:00 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 17:00][/COLOR] [COLOR gold]Dubai vs Partizan Mozzart Belgrad[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 17:00 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Hapoel Tel-Aviv[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:15 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Hapoel Tel-Aviv[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:15 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Hapoel Tel-Aviv[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@13@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:15 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Hapoel Tel-Aviv[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:15 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Hapoel Tel-Aviv[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:15 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:15][/COLOR] [COLOR gold]Olympiakos Piräus vs Hapoel Tel-Aviv[/COLOR] - [COLOR lime]Nova Sports Prime[/COLOR] [COLOR orange][gr][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@24@@GR",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:15 | Euroleague | Basketball | Lang: GR"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Anadolu Efes[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Anadolu Efes[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:30][/COLOR] [COLOR gold]Saski Baskonia vs Anadolu Efes[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@12@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:30 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:45][/COLOR] [COLOR gold]Real Madrid vs Zalgiris Kaunas[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:45 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:45][/COLOR] [COLOR gold]Real Madrid vs Zalgiris Kaunas[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:45 | Euroleague | Basketball | Lang: DE"
+    },
+    {
+      "title": "[COLOR cyan][25/11 20:45][/COLOR] [COLOR gold]Real Madrid vs Zalgiris Kaunas[/COLOR] - [COLOR lime]Magenta Sport[/COLOR] [COLOR orange][de][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@14@@DE",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "25-Nov 20:45 | Euroleague | Basketball | Lang: DE"
     }
   ]
 }
