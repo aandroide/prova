@@ -1,27 +1,153 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-22 19:40:56",
+  "last_update": "2026-11-23 21:26:05",
   "items": [
     {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Sparta Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@59@@CZ",
+      "title": "[COLOR cyan][24/11 17:30][/COLOR] [COLOR gold]Ceske Budejovice vs Plzen[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+      "info": "24-Nov 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
     },
     {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Sparta Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@59@@CZ",
+      "title": "[COLOR cyan][24/11 17:30][/COLOR] [COLOR gold]Ceske Budejovice vs Plzen[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+      "info": "24-Nov 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
     },
     {
-      "title": "[COLOR cyan][22/11 18:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Sparta Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@59@@CZ",
+      "title": "[COLOR cyan][24/11 17:30][/COLOR] [COLOR gold]Ceske Budejovice vs Plzen[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@41@@CZ",
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "22-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+      "info": "24-Nov 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 17:30][/COLOR] [COLOR gold]Mlada vs Boleslav vs Rytiri Kladno[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 17:30][/COLOR] [COLOR gold]Mlada vs Boleslav vs Rytiri Kladno[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 17:30][/COLOR] [COLOR gold]Mlada vs Boleslav vs Rytiri Kladno[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@42@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 17:30 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Kometa Brno vs Sparta Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@40@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Kometa Brno vs Sparta Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@40@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Kometa Brno vs Sparta Praha[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@40@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Karlovy Vary vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Karlovy Vary vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Karlovy Vary vs Bili Tygri Liberec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@43@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@44@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@44@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Dynamo Pardubice vs Vitkovice[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@44@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Olomouc vs Litvinov[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@45@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Olomouc vs Litvinov[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@45@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Olomouc vs Litvinov[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@45@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Mountfield vs Ocelari Trinec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@46@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Mountfield vs Ocelari Trinec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@46@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
+    },
+    {
+      "title": "[COLOR cyan][24/11 18:00][/COLOR] [COLOR gold]Mountfield vs Ocelari Trinec[/COLOR] - [COLOR lime]Oneplay Sport[/COLOR] [COLOR orange][cz][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@46@@CZ",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "24-Nov 18:00 | Czech Republic Extraliga | Hockey | Lang: CZ"
     }
   ]
 }
