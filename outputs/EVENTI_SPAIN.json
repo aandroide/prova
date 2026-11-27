@@ -1,28 +1,7 @@
 {
   "SetViewMode": "55",
-  "last_update": "2026-11-26 15:17:33",
+  "last_update": "2026-11-27 00:35:01",
   "items": [
-    {
-      "title": "[COLOR cyan][27/11 20:30][/COLOR] [COLOR gold]Leganés vs Sabadell[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Nov 20:30 | Spain Segunda Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/11 20:30][/COLOR] [COLOR gold]Leganés vs Sabadell[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Nov 20:30 | Spain Segunda Division | Football | Lang: ES"
-    },
-    {
-      "title": "[COLOR cyan][27/11 20:30][/COLOR] [COLOR gold]Leganés vs Sabadell[/COLOR] - [COLOR lime]LALIGA TV Hypermotion[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
-      "myresolve": "sansat@@26@@ES",
-      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
-      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
-      "info": "27-Nov 20:30 | Spain Segunda Division | Football | Lang: ES"
-    },
     {
       "title": "[COLOR cyan][27/11 21:00][/COLOR] [COLOR gold]Levante vs Racing Santander[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
       "myresolve": "sansat@@86@@ES",
@@ -232,6 +211,90 @@
       "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
       "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
       "info": "28-Nov 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 14:00][/COLOR] [COLOR gold]Valencia vs Osasuna[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 14:00][/COLOR] [COLOR gold]Valencia vs Osasuna[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 14:00][/COLOR] [COLOR gold]Valencia vs Osasuna[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 14:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 16:15][/COLOR] [COLOR gold]Deportivo La Coruña vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 16:15][/COLOR] [COLOR gold]Deportivo La Coruña vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 16:15][/COLOR] [COLOR gold]Deportivo La Coruña vs Barcelona[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 16:15 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 18:30][/COLOR] [COLOR gold]Celta de Vigo vs Villarreal[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 18:30 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 18:30][/COLOR] [COLOR gold]Celta de Vigo vs Villarreal[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 18:30 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 18:30][/COLOR] [COLOR gold]Celta de Vigo vs Villarreal[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 18:30 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 21:00][/COLOR] [COLOR gold]Real Sociedad vs Sevilla[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 1[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 21:00][/COLOR] [COLOR gold]Real Sociedad vs Sevilla[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 2[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 21:00 | Spain La Liga | Football | Lang: ES"
+    },
+    {
+      "title": "[COLOR cyan][29/11 21:00][/COLOR] [COLOR gold]Real Sociedad vs Sevilla[/COLOR] - [COLOR lime]ESPN Deportes[/COLOR] [COLOR orange][es][/COLOR] [COLOR yellow]Link 3[/COLOR]",
+      "myresolve": "sansat@@86@@ES",
+      "thumbnail": "https://cdn-icons-png.flaticon.com/512/3524/3524659.png",
+      "fanart": "https://www.stadiotardini.it/wp-content/uploads/2016/12/mandrakata.jpg",
+      "info": "29-Nov 21:00 | Spain La Liga | Football | Lang: ES"
     }
   ]
 }
